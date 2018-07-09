@@ -6003,11 +6003,11 @@
             "cnumber": "1",
             "CAPTION": [
               {
-                "-vref": "1",
+                "vref": "1",
                 "#text": "Written to the Romans from Corinthus, and sent by Phebe servant of the church at Cenchrea."
               },
               {
-                "-vref": "1",
+                "vref": "1",
                 "#text": "The first epistle to the Corinthians was written from Philippi by Stephanas and Fortunatus and Achaicus and Timotheus."
               }
             ],
@@ -7848,7 +7848,7 @@
           {
             "cnumber": "1",
             "CAPTION": {
-              "-vref": "1",
+              "vref": "1",
               "#text": "The second epistle to the Corinthians was written from Philippi, a city of Macedonia, by Titus and Lucas."
             },
             "VERS": [
@@ -8952,7 +8952,7 @@
           {
             "cnumber": "1",
             "CAPTION": {
-              "-vref": "1",
+              "vref": "1",
               "#text": "To the Galatians written from Rome."
             },
             "VERS": [
@@ -9589,7 +9589,7 @@
           {
             "cnumber": "1",
             "CAPTION": {
-              "-vref": "1",
+              "vref": "1",
               "#text": "To the Ephesians written from Rome, by Tychicus."
             },
             "VERS": [
@@ -10250,7 +10250,7 @@
           {
             "cnumber": "1",
             "CAPTION": {
-              "-vref": "1",
+              "vref": "1",
               "#text": "To the Philippians written from Rome, by Epaphroditus."
             },
             "VERS": [
@@ -10697,7 +10697,7 @@
           {
             "cnumber": "1",
             "CAPTION": {
-              "-vref": "1",
+              "vref": "1",
               "#text": "Written from Rome to Colossians by Tychicus and Onesimus."
             },
             "VERS": [
@@ -11109,7 +11109,7 @@
           {
             "cnumber": "1",
             "CAPTION": {
-              "-vref": "1",
+              "vref": "1",
               "#text": "The first epistle to the Thessalonians was written from Athens."
             },
             "VERS": [
@@ -11501,7 +11501,7 @@
           {
             "cnumber": "1",
             "CAPTION": {
-              "-vref": "1",
+              "vref": "1",
               "#text": "The second epistle to the Thessalonians was written from Athens."
             },
             "VERS": [
@@ -11715,7 +11715,7 @@
           {
             "cnumber": "1",
             "CAPTION": {
-              "-vref": "1",
+              "vref": "1",
               "#text": "The first to Timothy was written from Laodicea, which is the chiefest city of Phrygia Pacatiana."
             },
             "VERS": [
@@ -12208,7 +12208,7 @@
           {
             "cnumber": "1",
             "CAPTION": {
-              "-vref": "1",
+              "vref": "1",
               "#text": "The second epistle unto Timotheus, ordained the first bishop of the church of the Ephesians, was written from Rome, when Paul was brought before Nero the second time."
             },
             "VERS": [
@@ -12571,7 +12571,7 @@
           {
             "cnumber": "1",
             "CAPTION": {
-              "-vref": "1",
+              "vref": "1",
               "#text": "It was written to Titus, ordained the first bishop of the church of the Cretians, from Nicopolis of Macedonia."
             },
             "VERS": [
@@ -12780,7 +12780,7 @@
         "CHAPTER": {
           "cnumber": "1",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "Written from Rome to Philemon, by Onesimus a servant."
           },
           "VERS": [
@@ -12895,7 +12895,7 @@
           {
             "cnumber": "1",
             "CAPTION": {
-              "-vref": "1",
+              "vref": "1",
               "#text": "Written to the Hebrews from Italy, by Timothy."
             },
             "VERS": [

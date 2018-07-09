@@ -26,3 +26,21 @@ for (i = 0; i < NewTestament.BOOKS.length; i++)
 {
 	$(".bible-menu").append("<option>" + NewTestament.BOOKS[i].bname + "</option>");
 }
+
+//pass book to bible page when selected.
+$(".bible-menu").change(function() {
+    var query = $(this).val();
+	if (query != "SELECT A BOOK")
+	{
+		window.location.href = "bible.html?" + query;
+	}
+});
+
+function displayChapters(biblebook){
+	$(".book-list").append("<h2>" + biblebook.bname + "</h2>");
+	for (j = 0; j < biblebook.CHAPTER.length; j++)
+	{
+		$(".book-list").append("<li>CHAPTER " + biblebook.CHAPTER[j].cnumber + "</li>");
+	}
+}
+

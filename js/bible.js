@@ -1,9 +1,9 @@
-var pageparam = window.location.search.substring(1);
-
+var pageparam = window.location.search.substring(1).replace("%20", " ");
+console.log(pageparam);
 var book = "";
 
 //Populate Bible menu with books, depending on what input parameter was passed to the page.
-if (pageparam == "all" || pageparam == null || pageparam == undefined)
+if (pageparam == "all" || pageparam == null || pageparam == undefined || pageparam == "")
 {
 	for (i = 0; i < Torah.BOOKS.length; i++)
 	{
@@ -78,11 +78,81 @@ else if (pageparam == "nt")
 	}		
 }
 
+else if (pageparam == "Psalms")
+{
+	displayChapters(Psalms.BOOKS);
+}
+
+else if (pageparam == "Jude" || pageparam == "Obadiah" || 
+	pageparam == "2 John" || pageparam == "3 John" || pageparam == "Philemon")
+	{
+		$(".book-list").append("One chapter books coming soon.");
+	}
+
 else
 {
 	var book = pageparam;
+	var trigger = false;
 	//find defined book
+	if (trigger == false)
+	{
+		for (i = 0; i < Torah.BOOKS.length; i++)
+		{
+			if (Torah.BOOKS[i].bname == book)
+			{
+				displayChapters(Torah.BOOKS[i]);
+				trigger = true;
+			}
+		}	
+	}
 	
+	if (trigger == false)
+	{
+		for (i = 0; i < Prophets.BOOKS.length; i++)
+		{
+			if (Prophets.BOOKS[i].bname == book)
+			{
+				displayChapters(Prophets.BOOKS[i]);
+				trigger = true;
+			}
+		}	
+	}
+	
+	if (trigger == false)
+	{
+		for (i = 0; i < Ketuvim.BOOKS.length; i++)
+		{
+			if (Ketuvim.BOOKS[i].bname == book)
+			{
+				displayChapters(Ketuvim.BOOKS[i]);
+				trigger = true;
+			}
+		}	
+	}
+	
+	if (trigger == false)
+	{
+		for (i = 0; i < Gospel.BOOKS.length; i++)
+		{
+			if (Gospel.BOOKS[i].bname == book)
+			{
+				displayChapters(Gospel.BOOKS[i]);
+				trigger = true;
+			}
+		}	
+	}
+	
+	if (trigger == false)
+	{
+		for (i = 0; i < NewTestament.BOOKS.length; i++)
+		{
+			if (NewTestament.BOOKS[i].bname == book)
+			{
+				displayChapters(NewTestament.BOOKS[i]);
+				trigger = true;
+			}
+		}	
+	}
 	
 }
 

@@ -89,7 +89,7 @@
         {
           "cnumber": "3",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm of David, when he fled from Absalom his son."
           },
           "VERS": [
@@ -130,7 +130,7 @@
         {
           "cnumber": "4",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician on Neginoth, A Psalm of David."
           },
           "VERS": [
@@ -171,7 +171,7 @@
         {
           "cnumber": "5",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician upon Nehiloth, A Psalm of David."
           },
           "VERS": [
@@ -228,7 +228,7 @@
         {
           "cnumber": "6",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician on Neginoth upon Sheminith, A Psalm of David."
           },
           "VERS": [
@@ -277,7 +277,7 @@
         {
           "cnumber": "7",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "Shiggaion of David, which he sang unto the LORD, concerning the words of Cush the Benjamite."
           },
           "VERS": [
@@ -397,7 +397,7 @@
         {
           "cnumber": "9",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician upon Muthlabben, A Psalm of David. "
           },
           "VERS": [
@@ -563,7 +563,7 @@
         {
           "cnumber": "11",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": " To the chief Musician, A Psalm of David."
           },
           "VERS": [
@@ -600,7 +600,7 @@
         {
           "cnumber": "12",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician upon Sheminith, A Psalm of David. "
           },
           "VERS": [
@@ -641,7 +641,7 @@
         {
           "cnumber": "13",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, A Psalm of David. "
           },
           "VERS": [
@@ -674,7 +674,7 @@
         {
           "cnumber": "14",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, A Psalm of David. "
           },
           "VERS": [
@@ -711,7 +711,7 @@
         {
           "cnumber": "15",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm of David."
           },
           "VERS": [
@@ -740,7 +740,7 @@
         {
           "cnumber": "16",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "Michtam of David. "
           },
           "VERS": [
@@ -793,7 +793,7 @@
         {
           "cnumber": "17",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Prayer of David."
           },
           "VERS": [
@@ -862,7 +862,7 @@
         {
           "cnumber": "18",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, A Psalm of David, the servant of the LORD, who spake unto the LORD the words of this song in the day that the LORD delivered him from the hand of all his enemies, and from the hand of Saul: And he said, "
           },
           "VERS": [
@@ -1071,7 +1071,7 @@
         {
           "cnumber": "19",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, A Psalm of David. "
           },
           "VERS": [
@@ -1136,7 +1136,7 @@
         {
           "cnumber": "20",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, A Psalm of David. "
           },
           "VERS": [
@@ -1181,7 +1181,7 @@
         {
           "cnumber": "21",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, A Psalm of David. "
           },
           "VERS": [
@@ -1242,7 +1242,7 @@
         {
           "cnumber": "22",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician upon Aijeleth Shahar, A Psalm of David. "
           },
           "VERS": [
@@ -1375,7 +1375,7 @@
         {
           "cnumber": "23",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm of David. "
           },
           "VERS": [
@@ -1408,7 +1408,7 @@
         {
           "cnumber": "24",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm of David."
           },
           "VERS": [
@@ -1457,7 +1457,7 @@
         {
           "cnumber": "25",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm of David. "
           },
           "VERS": [
@@ -1554,7 +1554,7 @@
         {
           "cnumber": "26",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm of David. "
           },
           "VERS": [
@@ -1611,7 +1611,7 @@
         {
           "cnumber": "27",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm of David. "
           },
           "VERS": [
@@ -1676,7 +1676,7 @@
         {
           "cnumber": "28",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm of David."
           },
           "VERS": [
@@ -1721,7 +1721,7 @@
         {
           "cnumber": "29",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm of David. "
           },
           "VERS": [
@@ -1774,7 +1774,7 @@
         {
           "cnumber": "30",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm and Song at the dedication of the house of David. "
           },
           "VERS": [
@@ -1831,7 +1831,7 @@
         {
           "cnumber": "31",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, A Psalm of David. "
           },
           "VERS": [
@@ -1936,7 +1936,7 @@
         {
           "cnumber": "32",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm of David, Maschil. "
           },
           "VERS": [
@@ -2082,7 +2082,7 @@
         {
           "cnumber": "34",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm of David, when he changed his behaviour before Abimelech; who drove him away, and he departed. "
           },
           "VERS": [
@@ -2179,7 +2179,7 @@
         {
           "cnumber": "35",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "Psalm of David."
           },
           "VERS": [
@@ -2300,7 +2300,7 @@
         {
           "cnumber": "36",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, A Psalm of David the servant of the LORD. "
           },
           "VERS": [
@@ -2357,7 +2357,7 @@
         {
           "cnumber": "37",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm of David. "
           },
           "VERS": [
@@ -2526,7 +2526,7 @@
         {
           "cnumber": "38",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm of David, to bring to remembrance. "
           },
           "VERS": [
@@ -2623,7 +2623,7 @@
         {
           "cnumber": "39",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, even to Jeduthun, A Psalm of David. "
           },
           "VERS": [
@@ -2684,7 +2684,7 @@
         {
           "cnumber": "40",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, A Psalm of David. "
           },
           "VERS": [
@@ -2761,7 +2761,7 @@
         {
           "cnumber": "41",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, A Psalm of David. "
           },
           "VERS": [
@@ -2822,7 +2822,7 @@
         {
           "cnumber": "42",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, Maschil, for the sons of Korah. "
           },
           "VERS": [
@@ -2900,7 +2900,7 @@
         {
           "cnumber": "44",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician for the sons of Korah, Maschil. "
           },
           "VERS": [
@@ -3013,7 +3013,7 @@
         {
           "cnumber": "45",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician upon Shoshannim, for the sons of Korah, Maschil, A Song of loves. "
           },
           "VERS": [
@@ -3090,7 +3090,7 @@
         {
           "cnumber": "46",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician for the sons of Korah, A Song upon Alamoth. "
           },
           "VERS": [
@@ -3143,7 +3143,7 @@
         {
           "cnumber": "47",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, A Psalm for the sons of Korah."
           },
           "VERS": [
@@ -3188,7 +3188,7 @@
         {
           "cnumber": "48",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Song and Psalm for the sons of Korah."
           },
           "VERS": [
@@ -3253,7 +3253,7 @@
         {
           "cnumber": "49",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, A Psalm for the sons of Korah. "
           },
           "VERS": [
@@ -3342,7 +3342,7 @@
         {
           "cnumber": "50",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm of Asaph. "
           },
           "VERS": [
@@ -3443,7 +3443,7 @@
         {
           "cnumber": "51",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, A Psalm of David, when Nathan the prophet came unto him, after he had gone in to Bathsheba. "
           },
           "VERS": [
@@ -3528,7 +3528,7 @@
         {
           "cnumber": "52",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, Maschil, A Psalm of David, when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Ahimelech. "
           },
           "VERS": [
@@ -3573,7 +3573,7 @@
         {
           "cnumber": "53",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician upon Mahalath, Maschil, A Psalm of David. "
           },
           "VERS": [
@@ -3606,7 +3606,7 @@
         {
           "cnumber": "54",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician on Neginoth, Maschil, A Psalm of David, when the Ziphims came and said to Saul, Doth not David hide himself with us? "
           },
           "VERS": [
@@ -3643,7 +3643,7 @@
         {
           "cnumber": "55",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician on Neginoth, Maschil, A Psalm of David. "
           },
           "VERS": [
@@ -3744,7 +3744,7 @@
         {
           "cnumber": "56",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician upon Jonathelemrechokim, Michtam of David, when the Philistines took him in Gath. "
           },
           "VERS": [
@@ -3805,7 +3805,7 @@
         {
           "cnumber": "57",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, Altaschith, Michtam of David, when he fled from Saul in the cave. "
           },
           "VERS": [
@@ -3858,7 +3858,7 @@
         {
           "cnumber": "58",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, Altaschith, Michtam of David. "
           },
           "VERS": [
@@ -3911,7 +3911,7 @@
         {
           "cnumber": "59",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, Altaschith, Michtam of David; when Saul sent, and they watched the house to kill him. "
           },
           "VERS": [
@@ -3988,7 +3988,7 @@
         {
           "cnumber": "60",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician upon Shushaneduth, Michtam of David, to teach; when he strove with Aramnaharaim and with Aramzobah, when Joab returned, and smote of Edom in the valley of salt twelve thousand. "
           },
           "VERS": [
@@ -4045,7 +4045,7 @@
         {
           "cnumber": "61",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician upon Neginah, A Psalm of David. "
           },
           "VERS": [
@@ -4086,7 +4086,7 @@
         {
           "cnumber": "62",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, to Jeduthun, A Psalm of David. "
           },
           "VERS": [
@@ -4143,7 +4143,7 @@
         {
           "cnumber": "63",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm of David, when he was in the wilderness of Judah. "
           },
           "VERS": [
@@ -4196,7 +4196,7 @@
         {
           "cnumber": "64",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, A Psalm of David. "
           },
           "VERS": [
@@ -4245,7 +4245,7 @@
         {
           "cnumber": "65",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, A Psalm and Song of David. "
           },
           "VERS": [
@@ -4306,7 +4306,7 @@
         {
           "cnumber": "66",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, A Song or Psalm. "
           },
           "VERS": [
@@ -4395,7 +4395,7 @@
         {
           "cnumber": "67",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician on Neginoth, A Psalm or Song. "
           },
           "VERS": [
@@ -4432,7 +4432,7 @@
         {
           "cnumber": "68",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, A Psalm or Song of David. "
           },
           "VERS": [
@@ -4582,7 +4582,7 @@
         {
           "cnumber": "69",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician upon Shoshannim, A Psalm of David. "
           },
           "VERS": [
@@ -4735,7 +4735,7 @@
         {
           "cnumber": "70",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, A Psalm of David, to bring to remembrance. "
           },
           "VERS": [
@@ -4865,7 +4865,7 @@
         {
           "cnumber": "72",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm for Solomon. "
           },
           "VERS": [
@@ -4954,7 +4954,7 @@
         {
           "cnumber": "73",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm of Asaph. "
           },
           "VERS": [
@@ -5075,7 +5075,7 @@
         {
           "cnumber": "74",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "Maschil of Asaph. "
           },
           "VERS": [
@@ -5176,7 +5176,7 @@
         {
           "cnumber": "75",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, Altaschith, A Psalm or Song of Asaph. "
           },
           "VERS": [
@@ -5225,7 +5225,7 @@
         {
           "cnumber": "76",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician on Neginoth, A Psalm or Song of Asaph. "
           },
           "VERS": [
@@ -5282,7 +5282,7 @@
         {
           "cnumber": "77",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, to Jeduthun, A Psalm of Asaph. "
           },
           "VERS": [
@@ -5371,7 +5371,7 @@
         {
           "cnumber": "78",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "Maschil of Asaph. "
           },
           "VERS": [
@@ -5668,7 +5668,7 @@
         {
           "cnumber": "79",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm of Asaph. "
           },
           "VERS": [
@@ -5729,7 +5729,7 @@
         {
           "cnumber": "80",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician upon Shoshannimeduth, A Psalm of Asaph. "
           },
           "VERS": [
@@ -5814,7 +5814,7 @@
         {
           "cnumber": "81",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician upon Gittith, A Psalm of Asaph. "
           },
           "VERS": [
@@ -5887,7 +5887,7 @@
         {
           "cnumber": "82",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm of Asaph. "
           },
           "VERS": [
@@ -5928,7 +5928,7 @@
         {
           "cnumber": "83",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Song or Psalm of Asaph. "
           },
           "VERS": [
@@ -6009,7 +6009,7 @@
         {
           "cnumber": "84",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician upon Gittith, A Psalm for the sons of Korah. "
           },
           "VERS": [
@@ -6067,7 +6067,7 @@
         {
           "cnumber": "85",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, A Psalm for the sons of Korah. "
           },
           "VERS": [
@@ -6128,7 +6128,7 @@
         {
           "cnumber": "86",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Prayer of David. "
           },
           "VERS": [
@@ -6205,7 +6205,7 @@
         {
           "cnumber": "87",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm or Song for the sons of Korah. "
           },
           "VERS": [
@@ -6242,7 +6242,7 @@
         {
           "cnumber": "88",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Song or Psalm for the sons of Korah, to the chief Musician upon Mahalath Leannoth, Maschil of Heman the Ezrahite. "
           },
           "VERS": [
@@ -6323,7 +6323,7 @@
         {
           "cnumber": "89",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "Maschil of Ethan the Ezrahite. "
           },
           "VERS": [
@@ -6542,7 +6542,7 @@
         {
           "cnumber": "90",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": " A Prayer of Moses the man of God."
           },
           "VERS": [
@@ -6688,7 +6688,7 @@
         {
           "cnumber": "92",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm or Song for the sabbath day. "
           },
           "VERS": [
@@ -7038,7 +7038,7 @@
         {
           "cnumber": "98",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm. "
           },
           "VERS": [
@@ -7124,7 +7124,7 @@
         {
           "cnumber": "100",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm of praise. "
           },
           "VERS": [
@@ -7153,7 +7153,7 @@
         {
           "cnumber": "101",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm of David. "
           },
           "VERS": [
@@ -7194,7 +7194,7 @@
         {
           "cnumber": "102",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Prayer of the afflicted, when he is overwhelmed, and poureth out his complaint before the LORD. "
           },
           "VERS": [
@@ -7315,7 +7315,7 @@
         {
           "cnumber": "103",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm of David. "
           },
           "VERS": [
@@ -8117,7 +8117,7 @@
         {
           "cnumber": "108",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Song or Psalm of David. "
           },
           "VERS": [
@@ -8178,7 +8178,7 @@
         {
           "cnumber": "109",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, A Psalm of David."
           },
           "VERS": [
@@ -8311,7 +8311,7 @@
         {
           "cnumber": "110",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm of David. "
           },
           "VERS": [
@@ -9520,7 +9520,7 @@
         {
           "cnumber": "120",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Song of degrees. "
           },
           "VERS": [
@@ -9557,7 +9557,7 @@
         {
           "cnumber": "121",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Song of degrees. "
           },
           "VERS": [
@@ -9598,7 +9598,7 @@
         {
           "cnumber": "122",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Song of degrees of David. "
           },
           "VERS": [
@@ -9643,7 +9643,7 @@
         {
           "cnumber": "123",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Song of degrees. "
           },
           "VERS": [
@@ -9668,7 +9668,7 @@
         {
           "cnumber": "124",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Song of degrees of David. "
           },
           "VERS": [
@@ -9709,7 +9709,7 @@
         {
           "cnumber": "125",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Song of degrees. "
           },
           "VERS": [
@@ -9738,7 +9738,7 @@
         {
           "cnumber": "126",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Song of Ascent. "
           },
           "VERS": [
@@ -9773,7 +9773,7 @@
         {
           "cnumber": "127",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Song of degrees for Solomon."
           },
           "VERS": [
@@ -9802,7 +9802,7 @@
         {
           "cnumber": "128",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Song of degrees. "
           },
           "VERS": [
@@ -9835,7 +9835,7 @@
         {
           "cnumber": "129",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Song of degrees. "
           },
           "VERS": [
@@ -9876,7 +9876,7 @@
         {
           "cnumber": "130",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Song of degrees. "
           },
           "VERS": [
@@ -9918,7 +9918,7 @@
         {
           "cnumber": "131",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Song of degrees of David. "
           },
           "VERS": [
@@ -10016,7 +10016,7 @@
         {
           "cnumber": "133",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Song of degrees of David. "
           },
           "VERS": [
@@ -10037,7 +10037,7 @@
         {
           "cnumber": "134",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Song of degrees. "
           },
           "VERS": [
@@ -10297,7 +10297,7 @@
         {
           "cnumber": "138",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm of David. "
           },
           "VERS": [
@@ -10338,7 +10338,7 @@
         {
           "cnumber": "139",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, A Psalm of David."
           },
           "VERS": [
@@ -10443,7 +10443,7 @@
         {
           "cnumber": "140",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "To the chief Musician, A Psalm of David. "
           },
           "VERS": [
@@ -10504,7 +10504,7 @@
         {
           "cnumber": "141",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "Psalm of David."
           },
           "VERS": [
@@ -10553,7 +10553,7 @@
         {
           "cnumber": "142",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "Maschil of David; A Prayer when he was in the cave. "
           },
           "VERS": [
@@ -10590,7 +10590,7 @@
         {
           "cnumber": "143",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm of David. "
           },
           "VERS": [
@@ -10647,7 +10647,7 @@
         {
           "cnumber": "144",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "A Psalm of David. "
           },
           "VERS": [
@@ -10716,7 +10716,7 @@
         {
           "cnumber": "145",
           "CAPTION": {
-            "-vref": "1",
+            "vref": "1",
             "#text": "David's Psalm of praise. "
           },
           "VERS": [
