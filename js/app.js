@@ -1,3 +1,5 @@
+var book = "";
+var bookChapter;
 
 //Populate Bible menu with books.
 for (i = 0; i < Torah.BOOKS.length; i++)
@@ -40,7 +42,7 @@ function displayChapters(biblebook){
 	$(".book-list").append("<h2>" + biblebook.bname + "</h2>");
 	for (j = 0; j < biblebook.CHAPTER.length; j++)
 	{
-		$(".book-list").append("<li>CHAPTER " + biblebook.CHAPTER[j].cnumber + "</li>");
+		$(".book-list").append("<li class='chapters'>CHAPTER " + biblebook.CHAPTER[j].cnumber + "</li>");
 	}
 }
 
@@ -51,3 +53,42 @@ function displayVerses(chapter){
 		$(".book-list").append("<li>" + chapter.VERS[k].vnumber + " " + chapter.VERS[k].text + "</li>");
 	}
 }
+
+$( ".books-class" ).on("click", function() {
+	window.location.href = "bible.html?" + $(this).text();
+});
+
+setTimeout(function(){
+	$(".books-class").off("click");
+	$( ".books-class" ).on("click", function() {
+		window.location.href = "bible.html?" + $(this).text();
+	});
+});
+
+setTimeout(function(){
+	$(".books-class").off("click");
+	$( ".books-class" ).on("click", function() {
+		window.location.href = "bible.html?" + $(this).text();
+	});
+});
+
+$( ".chapters" ).on("click", function() {
+  var chaptVal = parseInt($(this).text().replace("CHAPTER ", "")) - 1;
+  displayVerses(bookChapter.CHAPTER[chaptVal]);
+});
+
+setTimeout(function(){
+	$(".chapters").off("click");
+	$( ".chapters" ).on("click", function() {
+	var chaptVal = parseInt($(this).text().replace("CHAPTER ", "")) - 1;
+	displayVerses(bookChapter.CHAPTER[chaptVal]);
+	});
+}, 500);
+
+setTimeout(function(){
+	$(".chapters").off("click");
+	$( ".chapters" ).on("click", function() {
+	var chaptVal = parseInt($(this).text().replace("CHAPTER ", "")) - 1;
+  	displayVerses(bookChapter.CHAPTER[chaptVal]);
+	});
+}, 1300);
