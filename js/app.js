@@ -52,6 +52,7 @@ function displayVerses(chapter){
 	{
 		$(".book-list").append("<li>" + chapter.VERS[k].vnumber + " " + chapter.VERS[k].text + "</li>");
 	}
+	$(".chapters").remove();
 }
 
 $( ".books-class" ).on("click", function() {
