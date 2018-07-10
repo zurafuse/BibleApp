@@ -1,6 +1,7 @@
 var pageparam = window.location.search.substring(1).replace("%20", " ");
 console.log(pageparam);
 var book = "";
+var section = "";
 
 //Populate Bible menu with books, depending on what input parameter was passed to the page.
 if (pageparam == "all" || pageparam == null || pageparam == undefined || pageparam == "")
@@ -51,7 +52,7 @@ else if (pageparam == "prophets")
 
 else if (pageparam == "psalms")
 {
-	$(".book-list").append("<li>Psalms</li>");	
+	displayChapters(Psalms.BOOKS);	
 }
 
 else if (pageparam == "ketuvim")
@@ -86,7 +87,26 @@ else if (pageparam == "Psalms")
 else if (pageparam == "Jude" || pageparam == "Obadiah" || 
 	pageparam == "2 John" || pageparam == "3 John" || pageparam == "Philemon")
 	{
-		$(".book-list").append("One chapter books coming soon.");
+		if (pageparam != "Obadiah")
+		{
+			for (i = 0; i < NewTestament.BOOKS.length; i++)
+			{	
+				if (NewTestament.BOOKS[i].bname == pageparam)
+				{
+					displayVerses(NewTestament.BOOKS[i].CHAPTER);
+				}
+			}
+		}
+		if (pageparam == "Obadiah")
+		{
+			for (i = 0; i < Prophets.BOOKS.length; i++)
+			{	
+				if (Prophets.BOOKS[i].bname == pageparam)
+				{
+					displayVerses(Prophets.BOOKS[i].CHAPTER);
+				}
+			}
+		}	
 	}
 
 else

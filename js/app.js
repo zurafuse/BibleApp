@@ -44,3 +44,10 @@ function displayChapters(biblebook){
 	}
 }
 
+function displayVerses(chapter){
+	$(".book-list").append("<h2>CHAPTER " + chapter.cnumber + "</h2>");
+	for (k = 0; k < chapter.VERS.length; k++)
+	{
+		$(".book-list").append("<li>" + chapter.VERS[k].vnumber + " " + chapter.VERS[k].text + "</li>");
+	}
+}
