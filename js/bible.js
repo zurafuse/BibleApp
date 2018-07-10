@@ -48,7 +48,7 @@ else if (pageparam == "prophets")
 	}	
 }
 
-else if (pageparam == "psalms")
+else if (pageparam == "psalms" || pageparam == "Psalms")
 {
 	bookChapter = Psalms.BOOKS;
 	displayChapters(Psalms.BOOKS);	
@@ -78,8 +78,9 @@ else if (pageparam == "nt")
 	}		
 }
 
-else if (pageparam == "Psalms")
+else if (pageparam == "Psalms" || pageparam == "psalms")
 {
+	bookChapter = Psalms.BOOKS;
 	displayChapters(Psalms.BOOKS);
 }
 
