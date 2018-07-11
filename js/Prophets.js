@@ -1,4 +1,4 @@
-﻿var Prophets = {
+var Prophets = {
     "BOOKS": [
       {
         "bnumber": "6",
@@ -11232,7 +11232,7 @@
               },
               {
                 "vnumber": "14",
-                "text": "The LORD thundered from heaven, and the most High uttered his voice."
+                "text": "The LORD thundered from heaven, and Elyon uttered his voice."
               },
               {
                 "vnumber": "15",
@@ -19140,7 +19140,7 @@
               },
               {
                 "vnumber": "6",
-                "text": "Howl ye; for the day of the LORD is at hand; it shall come as a destruction from the Almighty."
+                "text": "Howl ye; for the day of the LORD is at hand; it shall come as a destruction from SHADDAI."
               },
               {
                 "vnumber": "7",
@@ -19265,7 +19265,7 @@
               },
               {
                 "vnumber": "14",
-                "text": "I will ascend above the heights of the clouds; I will be like the most High."
+                "text": "I will ascend above the heights of the clouds; I will be like Elyon."
               },
               {
                 "vnumber": "15",
@@ -22588,7 +22588,7 @@
               },
               {
                 "vnumber": "12",
-                "text": "Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors."
+                "text": "Therefore I will assign greatness to Him, and he will distribute his plunder to the powerful, because He has poured out His soul unto death: and he was numbered with the transgressors; and he carried the sin of many, and made intercession for the transgressors."
               }
             ]
           },
@@ -22613,7 +22613,7 @@
               },
               {
                 "vnumber": "5",
-                "text": "For thy Maker is thine husband; the LORD of hosts is his name; and thy Redeemer the Holy One of Israel; The God of the whole earth shall he be called."
+                "text": "For thy Maker is thine husband; His name is YAHWEH OF ARMIES; and thy Redeemer the Holy One of Israel; The God of the whole earth shall he be called."
               },
               {
                 "vnumber": "6",
@@ -29378,7 +29378,7 @@
               },
               {
                 "vnumber": "24",
-                "text": "And when they went, I heard the noise of their wings, like the noise of great waters, as the voice of the Almighty, the voice of speech, as the noise of an host: when they stood, they let down their wings."
+                "text": "And when they went, I heard the noise of their wings, like the noise of great waters, as the voice of SHADDAI, the voice of speech, like the sound of an army: when they stood, they let down their wings."
               },
               {
                 "vnumber": "25",
@@ -30023,7 +30023,7 @@
               },
               {
                 "vnumber": "5",
-                "text": "And the sound of the cherubims' wings was heard even to the outer court, as the voice of the Almighty God when he speaketh."
+                "text": "And the sound of the cherubims' wings was heard even to the outer court, as the voice of EL SHADDAI when he speaks."
               },
               {
                 "vnumber": "6",
@@ -35549,7 +35549,7 @@
               },
               {
                 "vnumber": "15",
-                "text": "Alas for the day! for the day of the LORD is at hand, and as a destruction from the Almighty shall it come."
+                "text": "Alas for the day! for the day of the LORD is at hand, and as a destruction from SHADDAI shall it come."
               },
               {
                 "vnumber": "16",

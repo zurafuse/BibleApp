@@ -1,4 +1,4 @@
- var pageparam = window.location.search.substring(1).replace("%20", " ");
+var pageparam = window.location.search.substring(1).replace("%20", " ");
 console.log(pageparam);
 
 //Populate Bible menu with books, depending on what input parameter was passed to the page.
@@ -48,7 +48,7 @@ else if (pageparam == "prophets")
 	}	
 }
 
-else if (pageparam == "psalms" || pageparam == "Psalms")
+else if (pageparam == "psalms" || pageparam == "Pslams")
 {
 	bookChapter = Psalms.BOOKS;
 	displayChapters(Psalms.BOOKS);	
@@ -181,4 +181,3 @@ else
 	}
 	
 }
-

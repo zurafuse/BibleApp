@@ -1,5 +1,6 @@
 var book = "";
 var bookChapter;
+var currentChapter = 0;
 
 //Populate Bible menu with books.
 for (i = 0; i < Torah.BOOKS.length; i++)
@@ -46,15 +47,82 @@ function displayChapters(biblebook){
 	}
 }
 
+//DISPLAY VERSES FUNCTION
 function displayVerses(chapter){
-	$(".book-list").append("<h2>CHAPTER " + chapter.cnumber + "</h2>");
+	$(".verses").remove();
+	$(".chapter-selection").remove();
+	window.scrollTo(0, 0);
+	$(".book-list").append("<h2 class='chapter-selection'>CHAPTER " + chapter.cnumber + "</h2>");
+	currentChapter = parseInt(chapter.cnumber) - 1;
+	//display chapter reference if it exists.
+	if (chapter.CAPTION != undefined)
+	{
+		$(".book-list").append("<li class='verses'>" + chapter.CAPTION.text + "</li>");
+	}
+	//display all verses for the chapter.
 	for (k = 0; k < chapter.VERS.length; k++)
 	{
-		$(".book-list").append("<li>" + chapter.VERS[k].vnumber + " " + chapter.VERS[k].text + "</li>");
+		$(".book-list").append("<li class='verses' >" + chapter.VERS[k].vnumber + " " + chapter.VERS[k].text + "</li>");
 	}
+	//only display "previous chapter" if it is not the first chapter.
+	if (currentChapter > 0 && bookChapter.CHAPTER.length > currentChapter + 1)
+	{
+		$(".book-list").append("<div class='row chapter-selection'><div class='col-sm-5'><li class='previous'>PREVIOUS CHAPTER</li></div><div class='col-sm-5'><li class='next'>NEXT CHAPTER</li></div></div>");
+	}
+	//only display "next chapter" if next chapter exists.
+	else if (currentChapter == 0 && bookChapter.CHAPTER.length > currentChapter + 1)
+	{
+		$(".book-list").append("<div class='row chapter-selection'><div class='col-sm-5'><li></li></div><div class='col-sm-5'><li class='next'>NEXT CHAPTER</li></div></div>");
+	}	
+	//last chapter.
+	else if (currentChapter > 0 && bookChapter.CHAPTER.length <= currentChapter + 1)
+	{
+		$(".book-list").append("<div class='row chapter-selection'><div class='col-sm-5'><li class='previous'>PREVIOUS CHAPTER</li></div><div class='col-sm-5'><li></li></div></div>");
+	}
+	
 	$(".chapters").remove();
+
+	//listen for someone to click the Previous chapter.
+	$( ".previous" ).on("click", function() {
+	displayVerses(bookChapter.CHAPTER[currentChapter - 1]);
+	});
+	
+	setTimeout(function(){
+		$(".previous").off("click");
+		$( ".previous" ).on("click", function() {
+		displayVerses(bookChapter.CHAPTER[currentChapter - 1]);
+		});
+	}, 500);
+	
+	setTimeout(function(){
+		$(".previous").off("click");
+		$( ".previous" ).on("click", function() {
+		displayVerses(bookChapter.CHAPTER[currentChapter - 1]);
+		});
+	}, 1300);
+	
+	//listen for someone to click the Next chapter.	
+	$( ".next" ).on("click", function() {
+	displayVerses(bookChapter.CHAPTER[currentChapter + 1]);
+	});
+	
+	setTimeout(function(){
+		$(".next").off("click");
+		$( ".next" ).on("click", function() {
+		displayVerses(bookChapter.CHAPTER[currentChapter + 1]);
+		});
+	}, 500);
+	
+	setTimeout(function(){
+		$(".next").off("click");
+		$( ".next" ).on("click", function() {
+		displayVerses(bookChapter.CHAPTER[currentChapter + 1]);
+		});
+	}, 1300);	
 }
 
+
+//listen for someone to click on a book of the Bible.
 $( ".books-class" ).on("click", function() {
 	window.location.href = "bible.html?" + $(this).text();
 });
@@ -73,6 +141,7 @@ setTimeout(function(){
 	});
 });
 
+//listen for someone to click on a chapter.
 $( ".chapters" ).on("click", function() {
   var chaptVal = parseInt($(this).text().replace("CHAPTER ", "")) - 1;
   displayVerses(bookChapter.CHAPTER[chaptVal]);

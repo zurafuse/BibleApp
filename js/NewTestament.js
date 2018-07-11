@@ -1,4 +1,4 @@
-﻿var NewTestament = {
+var NewTestament = {
     "BOOKS": [
       {
         "bnumber": "44",
@@ -10,7 +10,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach,"
+                "text": "The former treatise have I made, O Theophilus, of all that Yeshua began both to do and teach,"
               },
               {
                 "vnumber": "2",
@@ -50,7 +50,7 @@
               },
               {
                 "vnumber": "11",
-                "text": "Which also said, Ye men of Galilee, why stand ye gazing up into heaven? this same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven."
+                "text": "Which also said, Ye men of Galilee, why stand ye gazing up into heaven? this same Yeshua, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven."
               },
               {
                 "vnumber": "12",
@@ -62,7 +62,7 @@
               },
               {
                 "vnumber": "14",
-                "text": "These all continued with one accord in prayer and supplication, with the women, and Mary the mother of Jesus, and with his brethren."
+                "text": "These all continued with one accord in prayer and supplication, with the women, and Mary the mother of Yeshua, and with his brethren."
               },
               {
                 "vnumber": "15",
@@ -70,7 +70,7 @@
               },
               {
                 "vnumber": "16",
-                "text": "Men and brethren, this scripture must needs have been fulfilled, which the Holy Spirit by the mouth of David spake before concerning Judas, which was guide to them that took Jesus."
+                "text": "Men and brethren, this scripture must needs have been fulfilled, which the Holy Spirit by the mouth of David spake before concerning Judas, which was guide to them that took Yeshua."
               },
               {
                 "vnumber": "17",
@@ -90,7 +90,7 @@
               },
               {
                 "vnumber": "21",
-                "text": "Wherefore of these men which have companied with us all the time that the Lord Jesus went in and out among us,"
+                "text": "Wherefore of these men which have companied with us all the time that the Lord Yeshua went in and out among us,"
               },
               {
                 "vnumber": "22",
@@ -203,7 +203,7 @@
               },
               {
                 "vnumber": "22",
-                "text": "Ye men of Israel, hear these words; Jesus of Nazareth, a man approved of God among you by miracles and wonders and signs, which God did by him in the midst of you, as ye yourselves also know:"
+                "text": "Ye men of Israel, hear these words; Yeshua of Nazareth, a man approved of God among you by miracles and wonders and signs, which God did by him in the midst of you, as ye yourselves also know:"
               },
               {
                 "vnumber": "23",
@@ -235,15 +235,15 @@
               },
               {
                 "vnumber": "30",
-                "text": "Therefore being a prophet, and knowing that God had sworn with an oath to him, that of the fruit of his loins, according to the flesh, he would raise up Christ to sit on his throne;"
+                "text": "Therefore being a prophet, and knowing that God had sworn with an oath to him, that of the fruit of his loins, according to the flesh, he would raise up Messiah to sit on his throne;"
               },
               {
                 "vnumber": "31",
-                "text": "He seeing this before spake of the resurrection of Christ, that his soul was not left in hell, neither his flesh did see corruption."
+                "text": "He seeing this before spake of the resurrection of Messiah, that his soul was not left in hell, neither his flesh did see corruption."
               },
               {
                 "vnumber": "32",
-                "text": "This Jesus hath God raised up, whereof we all are witnesses."
+                "text": "This Yeshua hath God raised up, whereof we all are witnesses."
               },
               {
                 "vnumber": "33",
@@ -259,7 +259,7 @@
               },
               {
                 "vnumber": "36",
-                "text": "Therefore let all the house of Israel know assuredly, that God hath made that same Jesus, whom ye have crucified, both Lord and Christ."
+                "text": "Therefore let all the house of Israel know assuredly, that God hath made that same Yeshua, whom ye have crucified, both Lord and Messiah."
               },
               {
                 "vnumber": "37",
@@ -267,7 +267,7 @@
               },
               {
                 "vnumber": "38",
-                "text": "Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Spirit."
+                "text": "Then Peter said unto them, Repent, and be baptized every one of you in the name of Yeshua the Messiah for the remission of sins, and ye shall receive the gift of the Holy Spirit."
               },
               {
                 "vnumber": "39",
@@ -332,7 +332,7 @@
               },
               {
                 "vnumber": "6",
-                "text": "Then Peter said, Silver and gold have I none; but such as I have give I thee: In the name of Jesus Christ of Nazareth rise up and walk."
+                "text": "Then Peter said, Silver and gold have I none; but such as I have give I thee: In the name of Yeshua the Messiah of Nazareth rise up and walk."
               },
               {
                 "vnumber": "7",
@@ -360,7 +360,7 @@
               },
               {
                 "vnumber": "13",
-                "text": "The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, hath glorified his Son Jesus; whom ye delivered up, and denied him in the presence of Pilate, when he was determined to let him go."
+                "text": "The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, hath glorified his Son Yeshua; whom ye delivered up, and denied him in the presence of Pilate, when he was determined to let him go."
               },
               {
                 "vnumber": "14",
@@ -380,7 +380,7 @@
               },
               {
                 "vnumber": "18",
-                "text": "But those things, which God before had shewed by the mouth of all his prophets, that Christ should suffer, he hath so fulfilled."
+                "text": "But those things, which God before had shewed by the mouth of all his prophets, that Messiah should suffer, he hath so fulfilled."
               },
               {
                 "vnumber": "19",
@@ -388,7 +388,7 @@
               },
               {
                 "vnumber": "20",
-                "text": "And he shall send Jesus Christ, which before was preached unto you:"
+                "text": "And he shall send Yeshua the Messiah, which before was preached unto you:"
               },
               {
                 "vnumber": "21",
@@ -412,7 +412,7 @@
               },
               {
                 "vnumber": "26",
-                "text": "Unto you first God, having raised up his Son Jesus, sent him to bless you, in turning away every one of you from his iniquities."
+                "text": "Unto you first God, having raised up his Son Yeshua, sent him to bless you, in turning away every one of you from his iniquities."
               }
             ]
           },
@@ -425,7 +425,7 @@
               },
               {
                 "vnumber": "2",
-                "text": "Being grieved that they taught the people, and preached through Jesus the resurrection from the dead."
+                "text": "Being grieved that they taught the people, and preached through Yeshua the resurrection from the dead."
               },
               {
                 "vnumber": "3",
@@ -457,7 +457,7 @@
               },
               {
                 "vnumber": "10",
-                "text": "Be it known unto you all, and to all the people of Israel, that by the name of Jesus Christ of Nazareth, whom ye crucified, whom God raised from the dead, even by him doth this man stand here before you whole."
+                "text": "Be it known unto you all, and to all the people of Israel, that by the name of Yeshua the Messiah of Nazareth, whom ye crucified, whom God raised from the dead, even by him doth this man stand here before you whole."
               },
               {
                 "vnumber": "11",
@@ -469,7 +469,7 @@
               },
               {
                 "vnumber": "13",
-                "text": "Now when they saw the boldness of Peter and John, and perceived that they were unlearned and ignorant men, they marvelled; and they took knowledge of them, that they had been with Jesus."
+                "text": "Now when they saw the boldness of Peter and John, and perceived that they were unlearned and ignorant men, they marvelled; and they took knowledge of them, that they had been with Yeshua."
               },
               {
                 "vnumber": "14",
@@ -489,7 +489,7 @@
               },
               {
                 "vnumber": "18",
-                "text": "And they called them, and commanded them not to speak at all nor teach in the name of Jesus."
+                "text": "And they called them, and commanded them not to speak at all nor teach in the name of Yeshua."
               },
               {
                 "vnumber": "19",
@@ -521,11 +521,11 @@
               },
               {
                 "vnumber": "26",
-                "text": "The kings of the earth stood up, and the rulers were gathered together against the Lord, and against his Christ."
+                "text": "The kings of the earth stood up, and the rulers were gathered together against the Lord, and against his Messiah."
               },
               {
                 "vnumber": "27",
-                "text": "For of a truth against thy holy child Jesus, whom thou hast anointed, both Herod, and Pontius Pilate, with the Gentiles, and the people of Israel, were gathered together,"
+                "text": "For of a truth against thy holy child Yeshua, whom thou hast anointed, both Herod, and Pontius Pilate, with the Gentiles, and the people of Israel, were gathered together,"
               },
               {
                 "vnumber": "28",
@@ -537,7 +537,7 @@
               },
               {
                 "vnumber": "30",
-                "text": "By stretching forth thine hand to heal; and that signs and wonders may be done by the name of thy holy child Jesus."
+                "text": "By stretching forth thine hand to heal; and that signs and wonders may be done by the name of thy holy child Yeshua."
               },
               {
                 "vnumber": "31",
@@ -549,7 +549,7 @@
               },
               {
                 "vnumber": "33",
-                "text": "And with great power gave the apostles witness of the resurrection of the Lord Jesus: and great grace was upon them all."
+                "text": "And with great power gave the apostles witness of the resurrection of the Lord Yeshua: and great grace was upon them all."
               },
               {
                 "vnumber": "34",
@@ -690,7 +690,7 @@
               },
               {
                 "vnumber": "30",
-                "text": "The God of our fathers raised up Jesus, whom ye slew and hanged on a tree."
+                "text": "The God of our fathers raised up Yeshua, whom ye slew and hanged on a tree."
               },
               {
                 "vnumber": "31",
@@ -730,7 +730,7 @@
               },
               {
                 "vnumber": "40",
-                "text": "And to him they agreed: and when they had called the apostles, and beaten them, they commanded that they should not speak in the name of Jesus, and let them go."
+                "text": "And to him they agreed: and when they had called the apostles, and beaten them, they commanded that they should not speak in the name of Yeshua, and let them go."
               },
               {
                 "vnumber": "41",
@@ -738,7 +738,7 @@
               },
               {
                 "vnumber": "42",
-                "text": "And daily in the temple, and in every house, they ceased not to teach and preach Jesus Christ."
+                "text": "And daily in the temple, and in every house, they ceased not to teach and preach Yeshua the Messiah."
               }
             ]
           },
@@ -799,7 +799,7 @@
               },
               {
                 "vnumber": "14",
-                "text": "For we have heard him say, that this Jesus of Nazareth shall destroy this place, and shall change the customs which Moses delivered us."
+                "text": "For we have heard him say, that this Yeshua of Nazareth shall destroy this place, and shall change the customs which Moses delivered us."
               },
               {
                 "vnumber": "15",
@@ -988,11 +988,11 @@
               },
               {
                 "vnumber": "45",
-                "text": "Which also our fathers that came after brought in with Jesus into the possession of the Gentiles, whom God drave out before the face of our fathers, unto the days of David;"
+                "text": "Which also our fathers that came after brought in with Joshua into the possession of the nations, whom God drove out before the face of our fathers, unto the days of David;"
               },
               {
                 "vnumber": "46",
-                "text": "Who found favour before God, and desired to find a tabernacle for the God of Jacob."
+                "text": "Who found favor before God, and desired to find a tabernacle for the God of Jacob."
               },
               {
                 "vnumber": "47",
@@ -1028,7 +1028,7 @@
               },
               {
                 "vnumber": "55",
-                "text": "But he, being full of the Holy Spirit, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God,"
+                "text": "But he, being full of the Holy Spirit, looked up stedfastly into heaven, and saw the glory of God, and Yeshua standing on the right hand of God,"
               },
               {
                 "vnumber": "56",
@@ -1044,7 +1044,7 @@
               },
               {
                 "vnumber": "59",
-                "text": "And they stoned Stephen, calling upon God, and saying, Lord Jesus, receive my spirit."
+                "text": "And they stoned Stephen, calling upon God, and saying, Lord Yeshua, receive my spirit."
               },
               {
                 "vnumber": "60",
@@ -1073,7 +1073,7 @@
               },
               {
                 "vnumber": "5",
-                "text": "Then Philip went down to the city of Samaria, and preached Christ unto them."
+                "text": "Then Philip went down to the city of Samaria, and preached Messiah unto them."
               },
               {
                 "vnumber": "6",
@@ -1101,7 +1101,7 @@
               },
               {
                 "vnumber": "12",
-                "text": "But when they believed Philip preaching the things concerning the kingdom of God, and the name of Jesus Christ, they were baptized, both men and women."
+                "text": "But when they believed Philip preaching the things concerning the kingdom of God, and the name of Yeshua the Messiah, they were baptized, both men and women."
               },
               {
                 "vnumber": "13",
@@ -1117,7 +1117,7 @@
               },
               {
                 "vnumber": "16",
-                "text": "For as yet he was fallen upon none of them: only they were baptized in the name of the Lord Jesus.)"
+                "text": "For as yet he was fallen upon none of them: only they were baptized in the name of the Lord Yeshua.)"
               },
               {
                 "vnumber": "17",
@@ -1193,7 +1193,7 @@
               },
               {
                 "vnumber": "35",
-                "text": "Then Philip opened his mouth, and began at the same scripture, and preached unto him Jesus."
+                "text": "Then Philip opened his mouth, and began at the same scripture, and preached unto him Yeshua."
               },
               {
                 "vnumber": "36",
@@ -1201,7 +1201,7 @@
               },
               {
                 "vnumber": "37",
-                "text": "And Philip said, If thou believest with all thine heart, you may. And he answered and said, I believe that Jesus Christ is the Son of God."
+                "text": "And Philip said, If thou believest with all thine heart, you may. And he answered and said, I believe that Yeshua the Messiah is the Son of God."
               },
               {
                 "vnumber": "38",
@@ -1238,7 +1238,7 @@
               },
               {
                 "vnumber": "5",
-                "text": "And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks."
+                "text": "And he said, Who art thou, Lord? And the Lord said, I am Yeshua whom thou persecutest: it is hard for thee to kick against the pricks."
               },
               {
                 "vnumber": "6",
@@ -1286,7 +1286,7 @@
               },
               {
                 "vnumber": "17",
-                "text": "And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, even Jesus, that appeared unto thee in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Spirit."
+                "text": "And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, even Yeshua, that appeared unto thee in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Spirit."
               },
               {
                 "vnumber": "18",
@@ -1298,7 +1298,7 @@
               },
               {
                 "vnumber": "20",
-                "text": "And straightway he preached Christ in the synagogues, that he is the Son of God."
+                "text": "And straightway he preached Messiah in the synagogues, that he is the Son of God."
               },
               {
                 "vnumber": "21",
@@ -1306,7 +1306,7 @@
               },
               {
                 "vnumber": "22",
-                "text": "But Saul increased the more in strength, and confounded the Jews which dwelt at Damascus, proving that this is very Christ."
+                "text": "But Saul increased the more in strength, and confounded the Jews which dwelt at Damascus, proving that this is very Messiah."
               },
               {
                 "vnumber": "23",
@@ -1326,7 +1326,7 @@
               },
               {
                 "vnumber": "27",
-                "text": "But Barnabas took him, and brought him to the apostles, and declared unto them how he had seen the Lord in the way, and that he had spoken to him, and how he had preached boldly at Damascus in the name of Jesus."
+                "text": "But Barnabas took him, and brought him to the apostles, and declared unto them how he had seen the Lord in the way, and that he had spoken to him, and how he had preached boldly at Damascus in the name of Yeshua."
               },
               {
                 "vnumber": "28",
@@ -1334,7 +1334,7 @@
               },
               {
                 "vnumber": "29",
-                "text": "And he spake boldly in the name of the Lord Jesus, and disputed against the Grecians: but they went about to slay him."
+                "text": "And he spake boldly in the name of the Lord Yeshua, and disputed against the Grecians: but they went about to slay him."
               },
               {
                 "vnumber": "30",
@@ -1354,7 +1354,7 @@
               },
               {
                 "vnumber": "34",
-                "text": "And Peter said unto him, Aeneas, Jesus Christ maketh thee whole: arise, and make thy bed. And he arose immediately."
+                "text": "And Peter said unto him, Aeneas, Yeshua the Messiah maketh thee whole: arise, and make thy bed. And he arose immediately."
               },
               {
                 "vnumber": "35",
@@ -1539,7 +1539,7 @@
               },
               {
                 "vnumber": "36",
-                "text": "The word which God sent unto the children of Israel, preaching peace by Jesus Christ: (he is Lord of all:)"
+                "text": "The word which God sent unto the children of Israel, preaching peace by Yeshua the Messiah: (he is Lord of all:)"
               },
               {
                 "vnumber": "37",
@@ -1547,7 +1547,7 @@
               },
               {
                 "vnumber": "38",
-                "text": "How God anointed Jesus of Nazareth with the Holy Spirit and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him."
+                "text": "How God anointed Yeshua of Nazareth with the Holy Spirit and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him."
               },
               {
                 "vnumber": "39",
@@ -1660,7 +1660,7 @@
               },
               {
                 "vnumber": "17",
-                "text": "Forasmuch then as God gave them the like gift as he did unto us, who believed on the Lord Jesus Christ; what was I, that I could withstand God?"
+                "text": "Forasmuch then as God gave them the like gift as he did unto us, who believed on the Lord Yeshua the Messiah; what was I, that I could withstand God?"
               },
               {
                 "vnumber": "18",
@@ -1672,7 +1672,7 @@
               },
               {
                 "vnumber": "20",
-                "text": "And some of them were men of Cyprus and Cyrene, which, when they were come to Antioch, spake unto the Grecians, preaching the Lord Jesus."
+                "text": "And some of them were men of Cyprus and Cyrene, which, when they were come to Antioch, spake unto the Grecians, preaching the Lord Yeshua."
               },
               {
                 "vnumber": "21",
@@ -1846,7 +1846,7 @@
               },
               {
                 "vnumber": "6",
-                "text": "And when they had gone through the isle unto Paphos, they found a certain sorcerer, a false prophet, a Jew, whose name was Barjesus:"
+                "text": "And when they had gone through the isle unto Paphos, they found a certain sorcerer, a false prophet, a Jew, whose name was Baryesous:"
               },
               {
                 "vnumber": "7",
@@ -1914,7 +1914,7 @@
               },
               {
                 "vnumber": "23",
-                "text": "Of this man's seed hath God according to his promise raised unto Israel a Saviour, Jesus:"
+                "text": "Of this man's seed hath God according to his promise raised unto Israel a Saviour, Yeshua:"
               },
               {
                 "vnumber": "24",
@@ -1954,7 +1954,7 @@
               },
               {
                 "vnumber": "33",
-                "text": "God hath fulfilled the same unto us their children, in that he hath raised up Jesus again; as it is also written in the second psalm, Thou art my Son, this day have I begotten thee."
+                "text": "God hath fulfilled the same unto us their children, in that he hath raised up Yeshua again; as it is also written in the second psalm, Thou art my Son, this day have I begotten thee."
               },
               {
                 "vnumber": "34",
@@ -2196,7 +2196,7 @@
               },
               {
                 "vnumber": "11",
-                "text": "But we believe that through the grace of the Lord Jesus Christ we shall be saved, even as they."
+                "text": "But we believe that through the grace of the Lord Yeshua the Messiah we shall be saved, even as they."
               },
               {
                 "vnumber": "12",
@@ -2256,7 +2256,7 @@
               },
               {
                 "vnumber": "26",
-                "text": "Men that have hazarded their lives for the name of our Lord Jesus Christ."
+                "text": "Men that have hazarded their lives for the name of our Lord Yeshua the Messiah."
               },
               {
                 "vnumber": "27",
@@ -2393,7 +2393,7 @@
               },
               {
                 "vnumber": "18",
-                "text": "And this did she many days. But Paul, being grieved, turned and said to the spirit, I command thee in the name of Jesus Christ to come out of her. And he came out the same hour."
+                "text": "And this did she many days. But Paul, being grieved, turned and said to the spirit, I command thee in the name of Yeshua the Messiah to come out of her. And he came out the same hour."
               },
               {
                 "vnumber": "19",
@@ -2445,7 +2445,7 @@
               },
               {
                 "vnumber": "31",
-                "text": "And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house."
+                "text": "And they said, Believe on the Lord Yeshua the Messiah, and thou shalt be saved, and thy house."
               },
               {
                 "vnumber": "32",
@@ -2498,7 +2498,7 @@
               },
               {
                 "vnumber": "3",
-                "text": "Opening and alleging, that Christ must needs have suffered, and risen again from the dead; and that this Jesus, whom I preach unto you, is Christ."
+                "text": "Opening and alleging, that Messiah must needs have suffered, and risen again from the dead; and that this Yeshua, whom I preach unto you, is Messiah."
               },
               {
                 "vnumber": "4",
@@ -2514,7 +2514,7 @@
               },
               {
                 "vnumber": "7",
-                "text": "Whom Jason hath received: and these all do contrary to the decrees of Caesar, saying that there is another king, one Jesus."
+                "text": "Whom Jason hath received: and these all do contrary to the decrees of Caesar, saying that there is another king, one Yeshua."
               },
               {
                 "vnumber": "8",
@@ -2558,7 +2558,7 @@
               },
               {
                 "vnumber": "18",
-                "text": "Then certain philosophers of the Epicureans, and of the Stoicks, encountered him. And some said, What will this babbler say? other some, He seemeth to be a setter forth of strange gods: because he preached unto them Jesus, and the resurrection."
+                "text": "Then certain philosophers of the Epicureans, and of the Stoicks, encountered him. And some said, What will this babbler say? other some, He seemeth to be a setter forth of strange gods: because he preached unto them Yeshua, and the resurrection."
               },
               {
                 "vnumber": "19",
@@ -2647,7 +2647,7 @@
               },
               {
                 "vnumber": "5",
-                "text": "And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews that Jesus was Christ."
+                "text": "And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews that Yeshua was Messiah."
               },
               {
                 "vnumber": "6",
@@ -2739,7 +2739,7 @@
               },
               {
                 "vnumber": "28",
-                "text": "For he mightily convinced the Jews, and that publickly, shewing by the scriptures that Jesus was Christ."
+                "text": "For he mightily convinced the Jews, and that publickly, shewing by the scriptures that Yeshua was Messiah."
               }
             ]
           },
@@ -2760,11 +2760,11 @@
               },
               {
                 "vnumber": "4",
-                "text": "Then said Paul, John verily baptized with the baptism of repentance, saying unto the people, that they should believe on him which should come after him, that is, on Christ Jesus."
+                "text": "Then said Paul, John verily baptized with the baptism of repentance, saying unto the people, that they should believe on him which should come after him, that is, on Messiah Yeshua."
               },
               {
                 "vnumber": "5",
-                "text": "When they heard this, they were baptized in the name of the Lord Jesus."
+                "text": "When they heard this, they were baptized in the name of the Lord Yeshua."
               },
               {
                 "vnumber": "6",
@@ -2784,7 +2784,7 @@
               },
               {
                 "vnumber": "10",
-                "text": "And this continued by the space of two years; so that all they which dwelt in Asia heard the word of the Lord Jesus, both Jews and Greeks."
+                "text": "And this continued by the space of two years; so that all they which dwelt in Asia heard the word of the Lord Yeshua, both Jews and Greeks."
               },
               {
                 "vnumber": "11",
@@ -2796,7 +2796,7 @@
               },
               {
                 "vnumber": "13",
-                "text": "Then certain of the vagabond Jews, exorcists, took upon them to call over them which had evil spirits the name of the Lord Jesus, saying, We adjure you by Jesus whom Paul preacheth."
+                "text": "Then certain of the vagabond Jews, exorcists, took upon them to call over them which had evil spirits the name of the Lord Yeshua, saying, We adjure you by Yeshua whom Paul preacheth."
               },
               {
                 "vnumber": "14",
@@ -2804,7 +2804,7 @@
               },
               {
                 "vnumber": "15",
-                "text": "And the evil spirit answered and said, Jesus I know, and Paul I know; but who are ye?"
+                "text": "And the evil spirit answered and said, Yeshua I know, and Paul I know; but who are ye?"
               },
               {
                 "vnumber": "16",
@@ -2812,7 +2812,7 @@
               },
               {
                 "vnumber": "17",
-                "text": "And this was known to all the Jews and Greeks also dwelling at Ephesus; and fear fell on them all, and the name of the Lord Jesus was magnified."
+                "text": "And this was known to all the Jews and Greeks also dwelling at Ephesus; and fear fell on them all, and the name of the Lord Yeshua was magnified."
               },
               {
                 "vnumber": "18",
@@ -2997,7 +2997,7 @@
               },
               {
                 "vnumber": "21",
-                "text": "Testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ."
+                "text": "Testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Yeshua the Messiah."
               },
               {
                 "vnumber": "22",
@@ -3009,7 +3009,7 @@
               },
               {
                 "vnumber": "24",
-                "text": "But none of these things move me, neither count I my life dear unto myself, so that I might finish my course with joy, and the ministry, which I have received of the Lord Jesus, to testify the gospel of the grace of God."
+                "text": "But none of these things move me, neither count I my life dear unto myself, so that I might finish my course with joy, and the ministry, which I have received of the Lord Yeshua, to testify the gospel of the grace of God."
               },
               {
                 "vnumber": "25",
@@ -3053,7 +3053,7 @@
               },
               {
                 "vnumber": "35",
-                "text": "I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive."
+                "text": "I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Yeshua, how he said, It is more blessed to give than to receive."
               },
               {
                 "vnumber": "36",
@@ -3122,7 +3122,7 @@
               },
               {
                 "vnumber": "13",
-                "text": "Then Paul answered, What mean ye to weep and to break mine heart? for I am ready not to be bound only, but also to die at Jerusalem for the name of the Lord Jesus."
+                "text": "Then Paul answered, What mean ye to weep and to break mine heart? for I am ready not to be bound only, but also to die at Jerusalem for the name of the Lord Yeshua."
               },
               {
                 "vnumber": "14",
@@ -3267,7 +3267,7 @@
               },
               {
                 "vnumber": "8",
-                "text": "And I answered, Who art thou, Lord? And he said unto me, I am Jesus of Nazareth, whom thou persecutest."
+                "text": "And I answered, Who art thou, Lord? And he said unto me, I am Yeshua of Nazareth, whom thou persecutest."
               },
               {
                 "vnumber": "9",
@@ -3601,7 +3601,7 @@
               },
               {
                 "vnumber": "24",
-                "text": "And after certain days, when Felix came with his wife Drusilla, which was a Jewess, he sent for Paul, and heard him concerning the faith in Christ."
+                "text": "And after certain days, when Felix came with his wife Drusilla, which was a Jewess, he sent for Paul, and heard him concerning the faith in Messiah."
               },
               {
                 "vnumber": "25",
@@ -3694,7 +3694,7 @@
               },
               {
                 "vnumber": "19",
-                "text": "But had certain questions against him of their own superstition, and of one Jesus, which was dead, whom Paul affirmed to be alive."
+                "text": "But had certain questions against him of their own superstition, and of one Yeshua, which was dead, whom Paul affirmed to be alive."
               },
               {
                 "vnumber": "20",
@@ -3767,7 +3767,7 @@
               },
               {
                 "vnumber": "9",
-                "text": "I verily thought with myself, that I ought to do many things contrary to the name of Jesus of Nazareth."
+                "text": "I verily thought with myself, that I ought to do many things contrary to the name of Yeshua of Nazareth."
               },
               {
                 "vnumber": "10",
@@ -3791,7 +3791,7 @@
               },
               {
                 "vnumber": "15",
-                "text": "And I said, Who art thou, Lord? And he said, I am Jesus whom thou persecutest."
+                "text": "And I said, Who art thou, Lord? And he said, I am Yeshua whom thou persecutest."
               },
               {
                 "vnumber": "16",
@@ -3823,7 +3823,7 @@
               },
               {
                 "vnumber": "23",
-                "text": "That Christ should suffer, and that he should be the first that should rise from the dead, and should shew light unto the people, and to the Gentiles."
+                "text": "That Messiah should suffer, and that he should be the first that should rise from the dead, and should shew light unto the people, and to the Gentiles."
               },
               {
                 "vnumber": "24",
@@ -4137,7 +4137,7 @@
               },
               {
                 "vnumber": "23",
-                "text": "And when they had appointed him a day, there came many to him into his lodging; to whom he expounded and testified the kingdom of God, persuading them concerning Jesus, both out of the law of Moses, and out of the prophets, from morning till evening."
+                "text": "And when they had appointed him a day, there came many to him into his lodging; to whom he expounded and testified the kingdom of God, persuading them concerning Yeshua, both out of the law of Moses, and out of the prophets, from morning till evening."
               },
               {
                 "vnumber": "24",
@@ -4169,7 +4169,7 @@
               },
               {
                 "vnumber": "31",
-                "text": "Preaching the kingdom of God, and teaching those things which concern the Lord Jesus Christ, with all confidence, no man forbidding him."
+                "text": "Preaching the kingdom of God, and teaching those things which concern the Lord Yeshua the Messiah, with all confidence, no man forbidding him."
               }
             ]
           }
@@ -4185,7 +4185,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Paul, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God,"
+                "text": "Paul, a servant of Yeshua the Messiah, called to be an apostle, separated unto the gospel of God,"
               },
               {
                 "vnumber": "2",
@@ -4193,7 +4193,7 @@
               },
               {
                 "vnumber": "3",
-                "text": "Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh;"
+                "text": "Concerning his Son Yeshua the Messiah our Lord, which was made of the seed of David according to the flesh;"
               },
               {
                 "vnumber": "4",
@@ -4205,15 +4205,15 @@
               },
               {
                 "vnumber": "6",
-                "text": "Among whom are ye also the called of Jesus Christ:"
+                "text": "Among whom are ye also the called of Yeshua the Messiah:"
               },
               {
                 "vnumber": "7",
-                "text": "To all that be in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father, and the Lord Jesus Christ."
+                "text": "To all that be in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father, and the Lord Yeshua the Messiah."
               },
               {
                 "vnumber": "8",
-                "text": "First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world."
+                "text": "First, I thank my God through Yeshua the Messiah for you all, that your faith is spoken of throughout the whole world."
               },
               {
                 "vnumber": "9",
@@ -4245,7 +4245,7 @@
               },
               {
                 "vnumber": "16",
-                "text": "For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek."
+                "text": "For I am not ashamed of the gospel of Messiah: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek."
               },
               {
                 "vnumber": "17",
@@ -4378,7 +4378,7 @@
               },
               {
                 "vnumber": "16",
-                "text": "In the day when God shall judge the secrets of men by Jesus Christ according to my gospel."
+                "text": "In the day when God shall judge the secrets of men by Yeshua the Messiah according to my gospel."
               },
               {
                 "vnumber": "17",
@@ -4523,7 +4523,7 @@
               },
               {
                 "vnumber": "22",
-                "text": "Even the righteousness of God which is by faith of Jesus Christ unto all and upon all them that believe: for there is no difference:"
+                "text": "Even the righteousness of God which is by faith of Yeshua the Messiah unto all and upon all them that believe: for there is no difference:"
               },
               {
                 "vnumber": "23",
@@ -4531,7 +4531,7 @@
               },
               {
                 "vnumber": "24",
-                "text": "Being justified freely by his grace through the redemption that is in Christ Jesus:"
+                "text": "Being justified freely by his grace through the redemption that is in Messiah Yeshua:"
               },
               {
                 "vnumber": "25",
@@ -4539,7 +4539,7 @@
               },
               {
                 "vnumber": "26",
-                "text": "To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus."
+                "text": "To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believeth in Yeshua."
               },
               {
                 "vnumber": "27",
@@ -4660,7 +4660,7 @@
               },
               {
                 "vnumber": "24",
-                "text": "But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead;"
+                "text": "But for us also, to whom it shall be imputed, if we believe on him that raised up Yeshua our Lord from the dead;"
               },
               {
                 "vnumber": "25",
@@ -4673,7 +4673,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:"
+                "text": "Therefore being justified by faith, we have peace with God through our Lord Yeshua the Messiah:"
               },
               {
                 "vnumber": "2",
@@ -4693,7 +4693,7 @@
               },
               {
                 "vnumber": "6",
-                "text": "For when we were yet without strength, in due time Christ died for the ungodly."
+                "text": "For when we were yet without strength, in due time Messiah died for the ungodly."
               },
               {
                 "vnumber": "7",
@@ -4701,7 +4701,7 @@
               },
               {
                 "vnumber": "8",
-                "text": "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us."
+                "text": "But God commendeth his love toward us, in that, while we were yet sinners, Messiah died for us."
               },
               {
                 "vnumber": "9",
@@ -4713,7 +4713,7 @@
               },
               {
                 "vnumber": "11",
-                "text": "And not only so, but we also joy in God through our Lord Jesus Christ, by whom we have now received the atonement."
+                "text": "And not only so, but we also joy in God through our Lord Yeshua the Messiah, by whom we have now received the atonement."
               },
               {
                 "vnumber": "12",
@@ -4729,7 +4729,7 @@
               },
               {
                 "vnumber": "15",
-                "text": "But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, hath abounded unto many."
+                "text": "But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Yeshua the Messiah, hath abounded unto many."
               },
               {
                 "vnumber": "16",
@@ -4737,7 +4737,7 @@
               },
               {
                 "vnumber": "17",
-                "text": "For if by one man's offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)"
+                "text": "For if by one man's offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Yeshua the Messiah.)"
               },
               {
                 "vnumber": "18",
@@ -4753,7 +4753,7 @@
               },
               {
                 "vnumber": "21",
-                "text": "That as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord."
+                "text": "That as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life by Yeshua the Messiah our Lord."
               }
             ]
           },
@@ -4770,11 +4770,11 @@
               },
               {
                 "vnumber": "3",
-                "text": "Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death?"
+                "text": "Know ye not, that so many of us as were baptized into Yeshua the Messiah were baptized into his death?"
               },
               {
                 "vnumber": "4",
-                "text": "Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life."
+                "text": "Therefore we are buried with him by baptism into death: that like as Messiah was raised up from the dead by the glory of the Father, even so we also should walk in newness of life."
               },
               {
                 "vnumber": "5",
@@ -4790,11 +4790,11 @@
               },
               {
                 "vnumber": "8",
-                "text": "Now if we be dead with Christ, we believe that we shall also live with him:"
+                "text": "Now if we be dead with Messiah, we believe that we shall also live with him:"
               },
               {
                 "vnumber": "9",
-                "text": "Knowing that Christ being raised from the dead dieth no more; death hath no more dominion over him."
+                "text": "Knowing that Messiah being raised from the dead dieth no more; death hath no more dominion over him."
               },
               {
                 "vnumber": "10",
@@ -4802,7 +4802,7 @@
               },
               {
                 "vnumber": "11",
-                "text": "Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord."
+                "text": "Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Yeshua the Messiah our Lord."
               },
               {
                 "vnumber": "12",
@@ -4850,7 +4850,7 @@
               },
               {
                 "vnumber": "23",
-                "text": "For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord."
+                "text": "For the wages of sin is death; but the gift of God is eternal life through Yeshua the Messiah our Lord."
               }
             ]
           },
@@ -4871,7 +4871,7 @@
               },
               {
                 "vnumber": "4",
-                "text": "Wherefore, my brethren, ye also are become dead to the law by the body of Christ; that ye should be married to another, even to him who is raised from the dead, that we should bring forth fruit unto God."
+                "text": "Wherefore, my brethren, ye also are become dead to the law by the body of Messiah; that ye should be married to another, even to him who is raised from the dead, that we should bring forth fruit unto God."
               },
               {
                 "vnumber": "5",
@@ -4955,7 +4955,7 @@
               },
               {
                 "vnumber": "25",
-                "text": "I thank God through Jesus Christ our Lord. So then with the mind I myself serve the law of God; but with the flesh the law of sin."
+                "text": "I thank God through Yeshua the Messiah our Lord. So then with the mind I myself serve the law of God; but with the flesh the law of sin."
               }
             ]
           },
@@ -4964,11 +4964,11 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit."
+                "text": "There is therefore now no condemnation to them which are in Messiah Yeshua, who walk not after the flesh, but after the Spirit."
               },
               {
                 "vnumber": "2",
-                "text": "For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death."
+                "text": "For the law of the Spirit of life in Messiah Yeshua hath made me free from the law of sin and death."
               },
               {
                 "vnumber": "3",
@@ -4996,15 +4996,15 @@
               },
               {
                 "vnumber": "9",
-                "text": "But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his."
+                "text": "But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Messiah, he is none of his."
               },
               {
                 "vnumber": "10",
-                "text": "And if Christ be in you, the body is dead because of sin; but the Spirit is life because of righteousness."
+                "text": "And if Messiah be in you, the body is dead because of sin; but the Spirit is life because of righteousness."
               },
               {
                 "vnumber": "11",
-                "text": "But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you."
+                "text": "But if the Spirit of him that raised up Yeshua from the dead dwell in you, he that raised up Messiah from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you."
               },
               {
                 "vnumber": "12",
@@ -5028,7 +5028,7 @@
               },
               {
                 "vnumber": "17",
-                "text": "And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together."
+                "text": "And if children, then heirs; heirs of God, and joint-heirs with Messiah; if so be that we suffer with him, that we may be also glorified together."
               },
               {
                 "vnumber": "18",
@@ -5096,11 +5096,11 @@
               },
               {
                 "vnumber": "34",
-                "text": "Who is he that condemneth? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us."
+                "text": "Who is he that condemneth? It is Messiah that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us."
               },
               {
                 "vnumber": "35",
-                "text": "Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?"
+                "text": "Who shall separate us from the love of Messiah? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?"
               },
               {
                 "vnumber": "36",
@@ -5116,7 +5116,7 @@
               },
               {
                 "vnumber": "39",
-                "text": "Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord."
+                "text": "Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Messiah Yeshua our Lord."
               }
             ]
           },
@@ -5125,7 +5125,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Spirit,"
+                "text": "I say the truth in Messiah, I lie not, my conscience also bearing me witness in the Holy Spirit,"
               },
               {
                 "vnumber": "2",
@@ -5133,7 +5133,7 @@
               },
               {
                 "vnumber": "3",
-                "text": "For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh:"
+                "text": "For I could wish that myself were accursed from Messiah for my brethren, my kinsmen according to the flesh:"
               },
               {
                 "vnumber": "4",
@@ -5141,7 +5141,7 @@
               },
               {
                 "vnumber": "5",
-                "text": "Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen."
+                "text": "Whose are the fathers, and of whom as concerning the flesh Messiah came, who is over all, God blessed for ever. Amen."
               },
               {
                 "vnumber": "6",
@@ -5274,7 +5274,7 @@
               },
               {
                 "vnumber": "4",
-                "text": "For Christ is the end of the law for righteousness to every one that believeth."
+                "text": "For Messiah is the end of the law for righteousness to every one that believeth."
               },
               {
                 "vnumber": "5",
@@ -5282,11 +5282,11 @@
               },
               {
                 "vnumber": "6",
-                "text": "But the righteousness which is of faith speaketh on this wise, Say not in thine heart, Who shall ascend into heaven? (that is, to bring Christ down from above:)"
+                "text": "But the righteousness which is of faith speaketh on this wise, Say not in thine heart, Who shall ascend into heaven? (that is, to bring Messiah down from above:)"
               },
               {
                 "vnumber": "7",
-                "text": "Or, Who shall descend into the deep? (that is, to bring up Christ again from the dead.)"
+                "text": "Or, Who shall descend into the deep? (that is, to bring up Messiah again from the dead.)"
               },
               {
                 "vnumber": "8",
@@ -5294,7 +5294,7 @@
               },
               {
                 "vnumber": "9",
-                "text": "That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved."
+                "text": "That if thou shalt confess with thy mouth the Lord Yeshua, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved."
               },
               {
                 "vnumber": "10",
@@ -5516,7 +5516,7 @@
               },
               {
                 "vnumber": "5",
-                "text": "So we, being many, are one body in Christ, and every one members one of another."
+                "text": "So we, being many, are one body in Messiah, and every one members one of another."
               },
               {
                 "vnumber": "6",
@@ -5641,7 +5641,7 @@
               },
               {
                 "vnumber": "14",
-                "text": "But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof."
+                "text": "But put ye on the Lord Yeshua the Messiah, and make not provision for the flesh, to fulfil the lusts thereof."
               }
             ]
           },
@@ -5682,11 +5682,11 @@
               },
               {
                 "vnumber": "9",
-                "text": "For to this end Christ both died, and rose, and revived, that he might be Lord both of the dead and living."
+                "text": "For to this end Messiah both died, and rose, and revived, that he might be Lord both of the dead and living."
               },
               {
                 "vnumber": "10",
-                "text": "But why dost thou judge thy brother? or why dost thou set at nought thy brother? for we shall all stand before the judgment seat of Christ."
+                "text": "But why dost thou judge thy brother? or why dost thou set at nought thy brother? for we shall all stand before the judgment seat of Messiah."
               },
               {
                 "vnumber": "11",
@@ -5702,11 +5702,11 @@
               },
               {
                 "vnumber": "14",
-                "text": "I know, and am persuaded by the Lord Jesus, that there is nothing unclean of itself: but to him that esteemeth any thing to be unclean, to him it is unclean."
+                "text": "I know, and am persuaded by the Lord Yeshua, that there is nothing unclean of itself: but to him that esteemeth any thing to be unclean, to him it is unclean."
               },
               {
                 "vnumber": "15",
-                "text": "But if thy brother be grieved with thy meat, now walkest thou not charitably. Destroy not him with thy meat, for whom Christ died."
+                "text": "But if thy brother be grieved with thy meat, now walkest thou not charitably. Destroy not him with thy meat, for whom Messiah died."
               },
               {
                 "vnumber": "16",
@@ -5718,7 +5718,7 @@
               },
               {
                 "vnumber": "18",
-                "text": "For he that in these things serveth Christ is acceptable to God, and approved of men."
+                "text": "For he that in these things serveth Messiah is acceptable to God, and approved of men."
               },
               {
                 "vnumber": "19",
@@ -5755,7 +5755,7 @@
               },
               {
                 "vnumber": "3",
-                "text": "For even Christ pleased not himself; but, as it is written, The reproaches of them that reproached thee fell on me."
+                "text": "For even Messiah pleased not himself; but, as it is written, The reproaches of them that reproached thee fell on me."
               },
               {
                 "vnumber": "4",
@@ -5763,19 +5763,19 @@
               },
               {
                 "vnumber": "5",
-                "text": "Now the God of patience and consolation grant you to be likeminded one toward another according to Christ Jesus:"
+                "text": "Now the God of patience and consolation grant you to be likeminded one toward another according to Messiah Yeshua:"
               },
               {
                 "vnumber": "6",
-                "text": "That ye may with one mind and one mouth glorify God, even the Father of our Lord Jesus Christ."
+                "text": "That ye may with one mind and one mouth glorify God, even the Father of our Lord Yeshua the Messiah."
               },
               {
                 "vnumber": "7",
-                "text": "Wherefore receive ye one another, as Christ also received us to the glory of God."
+                "text": "Wherefore receive ye one another, as Messiah also received us to the glory of God."
               },
               {
                 "vnumber": "8",
-                "text": "Now I say that Jesus Christ was a minister of the circumcision for the truth of God, to confirm the promises made unto the fathers:"
+                "text": "Now I say that Yeshua the Messiah was a minister of the circumcision for the truth of God, to confirm the promises made unto the fathers:"
               },
               {
                 "vnumber": "9",
@@ -5807,23 +5807,23 @@
               },
               {
                 "vnumber": "16",
-                "text": "That I should be the minister of Jesus Christ to the Gentiles, ministering the gospel of God, that the offering up of the Gentiles might be acceptable, being sanctified by the Holy Spirit."
+                "text": "That I should be the minister of Yeshua the Messiah to the Gentiles, ministering the gospel of God, that the offering up of the Gentiles might be acceptable, being sanctified by the Holy Spirit."
               },
               {
                 "vnumber": "17",
-                "text": "I have therefore whereof I may glory through Jesus Christ in those things which pertain to God."
+                "text": "I have therefore whereof I may glory through Yeshua the Messiah in those things which pertain to God."
               },
               {
                 "vnumber": "18",
-                "text": "For I will not dare to speak of any of those things which Christ hath not wrought by me, to make the Gentiles obedient, by word and deed,"
+                "text": "For I will not dare to speak of any of those things which Messiah hath not wrought by me, to make the Gentiles obedient, by word and deed,"
               },
               {
                 "vnumber": "19",
-                "text": "Through mighty signs and wonders, by the power of the Spirit of God; so that from Jerusalem, and round about unto Illyricum, I have fully preached the gospel of Christ."
+                "text": "Through mighty signs and wonders, by the power of the Spirit of God; so that from Jerusalem, and round about unto Illyricum, I have fully preached the gospel of Messiah."
               },
               {
                 "vnumber": "20",
-                "text": "Yea, so have I strived to preach the gospel, not where Christ was named, lest I should build upon another man's foundation:"
+                "text": "Yea, so have I strived to preach the gospel, not where Messiah was named, lest I should build upon another man's foundation:"
               },
               {
                 "vnumber": "21",
@@ -5859,11 +5859,11 @@
               },
               {
                 "vnumber": "29",
-                "text": "And I am sure that, when I come unto you, I shall come in the fulness of the blessing of the gospel of Christ."
+                "text": "And I am sure that, when I come unto you, I shall come in the fulness of the blessing of the gospel of Messiah."
               },
               {
                 "vnumber": "30",
-                "text": "Now I beseech you, brethren, for the Lord Jesus Christ's sake, and for the love of the Spirit, that ye strive together with me in your prayers to God for me;"
+                "text": "Now I beseech you, brethren, for the Lord Yeshua the Messiah's sake, and for the love of the Spirit, that ye strive together with me in your prayers to God for me;"
               },
               {
                 "vnumber": "31",
@@ -5892,7 +5892,7 @@
               },
               {
                 "vnumber": "3",
-                "text": "Greet Priscilla and Aquila my helpers in Christ Jesus:"
+                "text": "Greet Priscilla and Aquila my helpers in Messiah Yeshua:"
               },
               {
                 "vnumber": "4",
@@ -5900,7 +5900,7 @@
               },
               {
                 "vnumber": "5",
-                "text": "Likewise greet the church that is in their house. Salute my wellbeloved Epaenetus, who is the firstfruits of Achaia unto Christ."
+                "text": "Likewise greet the church that is in their house. Salute my wellbeloved Epaenetus, who is the firstfruits of Achaia unto Messiah."
               },
               {
                 "vnumber": "6",
@@ -5908,7 +5908,7 @@
               },
               {
                 "vnumber": "7",
-                "text": "Salute Andronicus and Junia, my kinsmen, and my fellowprisoners, who are of note among the apostles, who also were in Christ before me."
+                "text": "Salute Andronicus and Junia, my kinsmen, and my fellowprisoners, who are of note among the apostles, who also were in Messiah before me."
               },
               {
                 "vnumber": "8",
@@ -5916,11 +5916,11 @@
               },
               {
                 "vnumber": "9",
-                "text": "Salute Urbane, our helper in Christ, and Stachys my beloved."
+                "text": "Salute Urbane, our helper in Messiah, and Stachys my beloved."
               },
               {
                 "vnumber": "10",
-                "text": "Salute Apelles approved in Christ. Salute them which are of Aristobulus' household."
+                "text": "Salute Apelles approved in Messiah. Salute them which are of Aristobulus' household."
               },
               {
                 "vnumber": "11",
@@ -5944,7 +5944,7 @@
               },
               {
                 "vnumber": "16",
-                "text": "Salute one another with an holy kiss. The churches of Christ salute you."
+                "text": "Salute one another with an holy kiss. The churches of Messiah salute you."
               },
               {
                 "vnumber": "17",
@@ -5952,7 +5952,7 @@
               },
               {
                 "vnumber": "18",
-                "text": "For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple."
+                "text": "For they that are such serve not our Lord Yeshua the Messiah, but their own belly; and by good words and fair speeches deceive the hearts of the simple."
               },
               {
                 "vnumber": "19",
@@ -5960,7 +5960,7 @@
               },
               {
                 "vnumber": "20",
-                "text": "And the God of peace shall bruise Satan under your feet shortly. The grace of our Lord Jesus Christ be with you. Amen."
+                "text": "And the God of peace shall bruise Satan under your feet shortly. The grace of our Lord Yeshua the Messiah be with you. Amen."
               },
               {
                 "vnumber": "21",
@@ -5976,11 +5976,11 @@
               },
               {
                 "vnumber": "24",
-                "text": "The grace of our Lord Jesus Christ be with you all. Amen."
+                "text": "The grace of our Lord Yeshua the Messiah be with you all. Amen."
               },
               {
                 "vnumber": "25",
-                "text": "Now to him that is of power to stablish you according to my gospel, and the preaching of Jesus Christ, according to the revelation of the mystery, which was kept secret since the world began,"
+                "text": "Now to him that is of power to stablish you according to my gospel, and the preaching of Yeshua the Messiah, according to the revelation of the mystery, which was kept secret since the world began,"
               },
               {
                 "vnumber": "26",
@@ -5988,7 +5988,7 @@
               },
               {
                 "vnumber": "27",
-                "text": "To God only wise, be glory through Jesus Christ for ever. Amen."
+                "text": "To God only wise, be glory through Yeshua the Messiah for ever. Amen."
               }
             ]
           }
@@ -6014,19 +6014,19 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,"
+                "text": "Paul, called to be an apostle of Yeshua the Messiah through the will of God, and Sosthenes our brother,"
               },
               {
                 "vnumber": "2",
-                "text": "Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:"
+                "text": "Unto the church of God which is at Corinth, to them that are sanctified in Messiah Yeshua, called to be saints, with all that in every place call upon the name of Yeshua the Messiah our Lord, both theirs and ours:"
               },
               {
                 "vnumber": "3",
-                "text": "Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ."
+                "text": "Grace be unto you, and peace, from God our Father, and from the Lord Yeshua the Messiah."
               },
               {
                 "vnumber": "4",
-                "text": "I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;"
+                "text": "I thank my God always on your behalf, for the grace of God which is given you by Yeshua the Messiah;"
               },
               {
                 "vnumber": "5",
@@ -6034,23 +6034,23 @@
               },
               {
                 "vnumber": "6",
-                "text": "Even as the testimony of Christ was confirmed in you:"
+                "text": "Even as the testimony of Messiah was confirmed in you:"
               },
               {
                 "vnumber": "7",
-                "text": "So that ye come behind in no gift; waiting for the coming of our Lord Jesus Christ:"
+                "text": "So that ye come behind in no gift; waiting for the coming of our Lord Yeshua the Messiah:"
               },
               {
                 "vnumber": "8",
-                "text": "Who shall also confirm you unto the end, that ye may be blameless in the day of our Lord Jesus Christ."
+                "text": "Who shall also confirm you unto the end, that ye may be blameless in the day of our Lord Yeshua the Messiah."
               },
               {
                 "vnumber": "9",
-                "text": "God is faithful, by whom ye were called unto the fellowship of his Son Jesus Christ our Lord."
+                "text": "God is faithful, by whom ye were called unto the fellowship of his Son Yeshua the Messiah our Lord."
               },
               {
                 "vnumber": "10",
-                "text": "Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment."
+                "text": "Now I beseech you, brethren, by the name of our Lord Yeshua the Messiah, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment."
               },
               {
                 "vnumber": "11",
@@ -6058,11 +6058,11 @@
               },
               {
                 "vnumber": "12",
-                "text": "Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ."
+                "text": "Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Messiah."
               },
               {
                 "vnumber": "13",
-                "text": "Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?"
+                "text": "Is Messiah divided? was Paul crucified for you? or were ye baptized in the name of Paul?"
               },
               {
                 "vnumber": "14",
@@ -6078,7 +6078,7 @@
               },
               {
                 "vnumber": "17",
-                "text": "For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of none effect."
+                "text": "For Messiah sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Messiah should be made of none effect."
               },
               {
                 "vnumber": "18",
@@ -6102,11 +6102,11 @@
               },
               {
                 "vnumber": "23",
-                "text": "But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness;"
+                "text": "But we preach Messiah crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness;"
               },
               {
                 "vnumber": "24",
-                "text": "But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God."
+                "text": "But unto them which are called, both Jews and Greeks, Messiah the power of God, and the wisdom of God."
               },
               {
                 "vnumber": "25",
@@ -6130,7 +6130,7 @@
               },
               {
                 "vnumber": "30",
-                "text": "But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:"
+                "text": "But of him are ye in Messiah Yeshua, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:"
               },
               {
                 "vnumber": "31",
@@ -6147,7 +6147,7 @@
               },
               {
                 "vnumber": "2",
-                "text": "For I determined not to know any thing among you, save Jesus Christ, and him crucified."
+                "text": "For I determined not to know any thing among you, save Yeshua the Messiah, and him crucified."
               },
               {
                 "vnumber": "3",
@@ -6203,7 +6203,7 @@
               },
               {
                 "vnumber": "16",
-                "text": "For who hath known the mind of the Lord, that he may instruct him? But we have the mind of Christ."
+                "text": "For who hath known the mind of the Lord, that he may instruct him? But we have the mind of Messiah."
               }
             ]
           },
@@ -6212,7 +6212,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ."
+                "text": "And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Messiah."
               },
               {
                 "vnumber": "2",
@@ -6252,7 +6252,7 @@
               },
               {
                 "vnumber": "11",
-                "text": "For other foundation can no man lay than that is laid, which is Jesus Christ."
+                "text": "For other foundation can no man lay than that is laid, which is Yeshua the Messiah."
               },
               {
                 "vnumber": "12",
@@ -6300,7 +6300,7 @@
               },
               {
                 "vnumber": "23",
-                "text": "And ye are Christ's; and Christ is God's."
+                "text": "And ye are Messiah's; and Messiah is God's."
               }
             ]
           },
@@ -6309,7 +6309,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God."
+                "text": "Let a man so account of us, as of the ministers of Messiah, and stewards of the mysteries of God."
               },
               {
                 "vnumber": "2",
@@ -6345,7 +6345,7 @@
               },
               {
                 "vnumber": "10",
-                "text": "We are fools for Christ's sake, but ye are wise in Christ; we are weak, but ye are strong; ye are honourable, but we are despised."
+                "text": "We are fools for Messiah's sake, but ye are wise in Messiah; we are weak, but ye are strong; ye are honourable, but we are despised."
               },
               {
                 "vnumber": "11",
@@ -6365,7 +6365,7 @@
               },
               {
                 "vnumber": "15",
-                "text": "For though ye have ten thousand instructors in Christ, yet have ye not many fathers: for in Christ Jesus I have begotten you through the gospel."
+                "text": "For though ye have ten thousand instructors in Messiah, yet have ye not many fathers: for in Messiah Yeshua I have begotten you through the gospel."
               },
               {
                 "vnumber": "16",
@@ -6373,7 +6373,7 @@
               },
               {
                 "vnumber": "17",
-                "text": "For this cause have I sent unto you Timotheus, who is my beloved son, and faithful in the Lord, who shall bring you into remembrance of my ways which be in Christ, as I teach every where in every church."
+                "text": "For this cause have I sent unto you Timotheus, who is my beloved son, and faithful in the Lord, who shall bring you into remembrance of my ways which be in Messiah, as I teach every where in every church."
               },
               {
                 "vnumber": "18",
@@ -6410,11 +6410,11 @@
               },
               {
                 "vnumber": "4",
-                "text": "In the name of our Lord Jesus Christ, when ye are gathered together, and my spirit, with the power of our Lord Jesus Christ,"
+                "text": "In the name of our Lord Yeshua the Messiah, when ye are gathered together, and my spirit, with the power of our Lord Yeshua the Messiah,"
               },
               {
                 "vnumber": "5",
-                "text": "To deliver such an one unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus."
+                "text": "To deliver such an one unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Yeshua."
               },
               {
                 "vnumber": "6",
@@ -6422,7 +6422,7 @@
               },
               {
                 "vnumber": "7",
-                "text": "Purge out therefore the old leaven, that ye may be a new lump, as ye are unleavened. For even Christ our passover is sacrificed for us:"
+                "text": "Purge out therefore the old leaven, that ye may be a new lump, as ye are unleavened. For even Messiah our passover is sacrificed for us:"
               },
               {
                 "vnumber": "8",
@@ -6495,7 +6495,7 @@
               },
               {
                 "vnumber": "11",
-                "text": "And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God."
+                "text": "And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Yeshua, and by the Spirit of our God."
               },
               {
                 "vnumber": "12",
@@ -6511,7 +6511,7 @@
               },
               {
                 "vnumber": "15",
-                "text": "Know ye not that your bodies are the members of Christ? shall I then take the members of Christ, and make them the members of an harlot? God forbid."
+                "text": "Know ye not that your bodies are the members of Messiah? shall I then take the members of Messiah, and make them the members of an harlot? God forbid."
               },
               {
                 "vnumber": "16",
@@ -6624,7 +6624,7 @@
               },
               {
                 "vnumber": "22",
-                "text": "For he that is called in the Lord, being a servant, is the Lord's freeman: likewise also he that is called, being free, is Christ's servant."
+                "text": "For he that is called in the Lord, being a servant, is the Lord's freeman: likewise also he that is called, being free, is Messiah's servant."
               },
               {
                 "vnumber": "23",
@@ -6725,7 +6725,7 @@
               },
               {
                 "vnumber": "6",
-                "text": "But to us there is but one God, the Father, of whom are all things, and we in him; and one Lord Jesus Christ, by whom are all things, and we by him."
+                "text": "But to us there is but one God, the Father, of whom are all things, and we in him; and one Lord Yeshua the Messiah, by whom are all things, and we by him."
               },
               {
                 "vnumber": "7",
@@ -6745,11 +6745,11 @@
               },
               {
                 "vnumber": "11",
-                "text": "And through thy knowledge shall the weak brother perish, for whom Christ died?"
+                "text": "And through thy knowledge shall the weak brother perish, for whom Messiah died?"
               },
               {
                 "vnumber": "12",
-                "text": "But when ye sin so against the brethren, and wound their weak conscience, ye sin against Christ."
+                "text": "But when ye sin so against the brethren, and wound their weak conscience, ye sin against Messiah."
               },
               {
                 "vnumber": "13",
@@ -6763,7 +6763,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Am I not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord?"
+                "text": "Am I not an apostle? am I not free? have I not seen Yeshua the Messiah our Lord? are not ye my work in the Lord?"
               },
               {
                 "vnumber": "2",
@@ -6807,7 +6807,7 @@
               },
               {
                 "vnumber": "12",
-                "text": "If others be partakers of this power over you, are not we rather? Nevertheless we have not used this power; but suffer all things, lest we should hinder the gospel of Christ."
+                "text": "If others be partakers of this power over you, are not we rather? Nevertheless we have not used this power; but suffer all things, lest we should hinder the gospel of Messiah."
               },
               {
                 "vnumber": "13",
@@ -6831,7 +6831,7 @@
               },
               {
                 "vnumber": "18",
-                "text": "What is my reward then? Verily that, when I preach the gospel, I may make the gospel of Christ without charge, that I abuse not my power in the gospel."
+                "text": "What is my reward then? Verily that, when I preach the gospel, I may make the gospel of Messiah without charge, that I abuse not my power in the gospel."
               },
               {
                 "vnumber": "19",
@@ -6843,7 +6843,7 @@
               },
               {
                 "vnumber": "21",
-                "text": "To them that are without law, as without law, (being not without law to God, but under the law to Christ,) that I might gain them that are without law."
+                "text": "To them that are without law, as without law, (being not without law to God, but under the law to Messiah,) that I might gain them that are without law."
               },
               {
                 "vnumber": "22",
@@ -6888,7 +6888,7 @@
               },
               {
                 "vnumber": "4",
-                "text": "And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ."
+                "text": "And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Messiah."
               },
               {
                 "vnumber": "5",
@@ -6908,7 +6908,7 @@
               },
               {
                 "vnumber": "9",
-                "text": "Neither let us tempt Christ, as some of them also tempted, and were destroyed of serpents."
+                "text": "Neither let us tempt Messiah, as some of them also tempted, and were destroyed of serpents."
               },
               {
                 "vnumber": "10",
@@ -6936,7 +6936,7 @@
               },
               {
                 "vnumber": "16",
-                "text": "The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?"
+                "text": "The cup of blessing which we bless, is it not the communion of the blood of Messiah? The bread which we break, is it not the communion of the body of Messiah?"
               },
               {
                 "vnumber": "17",
@@ -7013,7 +7013,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Be ye followers of me, even as I also am of Christ."
+                "text": "Be ye followers of me, even as I also am of Messiah."
               },
               {
                 "vnumber": "2",
@@ -7021,7 +7021,7 @@
               },
               {
                 "vnumber": "3",
-                "text": "But I would have you know, that the head of every man is Christ; and the head of the woman is the man; and the head of Christ is God."
+                "text": "But I would have you know, that the head of every man is Messiah; and the head of the woman is the man; and the head of Messiah is God."
               },
               {
                 "vnumber": "4",
@@ -7101,7 +7101,7 @@
               },
               {
                 "vnumber": "23",
-                "text": "For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the same night in which he was betrayed took bread:"
+                "text": "For I have received of the Lord that which also I delivered unto you, That the Lord Yeshua the same night in which he was betrayed took bread:"
               },
               {
                 "vnumber": "24",
@@ -7162,7 +7162,7 @@
               },
               {
                 "vnumber": "3",
-                "text": "Wherefore I give you to understand, that no man speaking by the Spirit of God calleth Jesus accursed: and that no man can say that Jesus is the Lord, but by the Holy Spirit."
+                "text": "Wherefore I give you to understand, that no man speaking by the Spirit of God calleth Yeshua accursed: and that no man can say that Yeshua is the Lord, but by the Holy Spirit."
               },
               {
                 "vnumber": "4",
@@ -7198,7 +7198,7 @@
               },
               {
                 "vnumber": "12",
-                "text": "For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ."
+                "text": "For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Messiah."
               },
               {
                 "vnumber": "13",
@@ -7258,7 +7258,7 @@
               },
               {
                 "vnumber": "27",
-                "text": "Now ye are the body of Christ, and members in particular."
+                "text": "Now ye are the body of Messiah, and members in particular."
               },
               {
                 "vnumber": "28",
@@ -7513,7 +7513,7 @@
               },
               {
                 "vnumber": "3",
-                "text": "For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures;"
+                "text": "For I delivered unto you first of all that which I also received, how that Messiah died for our sins according to the scriptures;"
               },
               {
                 "vnumber": "4",
@@ -7549,39 +7549,39 @@
               },
               {
                 "vnumber": "12",
-                "text": "Now if Christ be preached that he rose from the dead, how say some among you that there is no resurrection of the dead?"
+                "text": "Now if Messiah be preached that he rose from the dead, how say some among you that there is no resurrection of the dead?"
               },
               {
                 "vnumber": "13",
-                "text": "But if there be no resurrection of the dead, then is Christ not risen:"
+                "text": "But if there be no resurrection of the dead, then is Messiah not risen:"
               },
               {
                 "vnumber": "14",
-                "text": "And if Christ be not risen, then is our preaching vain, and your faith is also vain."
+                "text": "And if Messiah be not risen, then is our preaching vain, and your faith is also vain."
               },
               {
                 "vnumber": "15",
-                "text": "Yea, and we are found false witnesses of God; because we have testified of God that he raised up Christ: whom he raised not up, if so be that the dead rise not."
+                "text": "Yea, and we are found false witnesses of God; because we have testified of God that he raised up Messiah: whom he raised not up, if so be that the dead rise not."
               },
               {
                 "vnumber": "16",
-                "text": "For if the dead rise not, then is not Christ raised:"
+                "text": "For if the dead rise not, then is not Messiah raised:"
               },
               {
                 "vnumber": "17",
-                "text": "And if Christ be not raised, your faith is vain; ye are yet in your sins."
+                "text": "And if Messiah be not raised, your faith is vain; ye are yet in your sins."
               },
               {
                 "vnumber": "18",
-                "text": "Then they also which are fallen asleep in Christ are perished."
+                "text": "Then they also which are fallen asleep in Messiah are perished."
               },
               {
                 "vnumber": "19",
-                "text": "If in this life only we have hope in Christ, we are of all men most miserable."
+                "text": "If in this life only we have hope in Messiah, we are of all men most miserable."
               },
               {
                 "vnumber": "20",
-                "text": "But now is Christ risen from the dead, and become the firstfruits of them that slept."
+                "text": "But now is Messiah risen from the dead, and become the firstfruits of them that slept."
               },
               {
                 "vnumber": "21",
@@ -7589,11 +7589,11 @@
               },
               {
                 "vnumber": "22",
-                "text": "For as in Adam all die, even so in Christ shall all be made alive."
+                "text": "For as in Adam all die, even so in Messiah shall all be made alive."
               },
               {
                 "vnumber": "23",
-                "text": "But every man in his own order: Christ the firstfruits; afterward they that are Christ's at his coming."
+                "text": "But every man in his own order: Messiah the firstfruits; afterward they that are Messiah's at his coming."
               },
               {
                 "vnumber": "24",
@@ -7625,7 +7625,7 @@
               },
               {
                 "vnumber": "31",
-                "text": "I protest by your rejoicing which I have in Christ Jesus our Lord, I die daily."
+                "text": "I protest by your rejoicing which I have in Messiah Yeshua our Lord, I die daily."
               },
               {
                 "vnumber": "32",
@@ -7729,7 +7729,7 @@
               },
               {
                 "vnumber": "57",
-                "text": "But thanks be to God, which giveth us the victory through our Lord Jesus Christ."
+                "text": "But thanks be to God, which giveth us the victory through our Lord Yeshua the Messiah."
               },
               {
                 "vnumber": "58",
@@ -7826,15 +7826,15 @@
               },
               {
                 "vnumber": "22",
-                "text": "If any man love not the Lord Jesus Christ, let him be Anathema Maranatha."
+                "text": "If any man love not the Lord Yeshua the Messiah, let him be Anathema Maranatha."
               },
               {
                 "vnumber": "23",
-                "text": "The grace of our Lord Jesus Christ be with you."
+                "text": "The grace of our Lord Yeshua the Messiah be with you."
               },
               {
                 "vnumber": "24",
-                "text": "My love be with you all in Christ Jesus. Amen. "
+                "text": "My love be with you all in Messiah Yeshua. Amen. "
               }
             ]
           }
@@ -7854,15 +7854,15 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia:"
+                "text": "Paul, an apostle of Yeshua the Messiah by the will of God, and Timothy our brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia:"
               },
               {
                 "vnumber": "2",
-                "text": "Grace be to you and peace from God our Father, and from the Lord Jesus Christ."
+                "text": "Grace be to you and peace from God our Father, and from the Lord Yeshua the Messiah."
               },
               {
                 "vnumber": "3",
-                "text": "Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort;"
+                "text": "Blessed be God, even the Father of our Lord Yeshua the Messiah, the Father of mercies, and the God of all comfort;"
               },
               {
                 "vnumber": "4",
@@ -7870,7 +7870,7 @@
               },
               {
                 "vnumber": "5",
-                "text": "For as the sufferings of Christ abound in us, so our consolation also aboundeth by Christ."
+                "text": "For as the sufferings of Messiah abound in us, so our consolation also aboundeth by Messiah."
               },
               {
                 "vnumber": "6",
@@ -7906,7 +7906,7 @@
               },
               {
                 "vnumber": "14",
-                "text": "As also ye have acknowledged us in part, that we are your rejoicing, even as ye also are ours in the day of the Lord Jesus."
+                "text": "As also ye have acknowledged us in part, that we are your rejoicing, even as ye also are ours in the day of the Lord Yeshua."
               },
               {
                 "vnumber": "15",
@@ -7926,7 +7926,7 @@
               },
               {
                 "vnumber": "19",
-                "text": "For the Son of God, Jesus Christ, who was preached among you by us, even by me and Silvanus and Timotheus, was not yea and nay, but in him was yea."
+                "text": "For the Son of God, Yeshua the Messiah, who was preached among you by us, even by me and Silvanus and Timotheus, was not yea and nay, but in him was yea."
               },
               {
                 "vnumber": "20",
@@ -7934,7 +7934,7 @@
               },
               {
                 "vnumber": "21",
-                "text": "Now he which stablisheth us with you in Christ, and hath anointed us, is God;"
+                "text": "Now he which stablisheth us with you in Messiah, and hath anointed us, is God;"
               },
               {
                 "vnumber": "22",
@@ -7991,7 +7991,7 @@
               },
               {
                 "vnumber": "10",
-                "text": "To whom ye forgive any thing, I forgive also: for if I forgave any thing, to whom I forgave it, for your sakes forgave I it in the person of Christ;"
+                "text": "To whom ye forgive any thing, I forgive also: for if I forgave any thing, to whom I forgave it, for your sakes forgave I it in the person of Messiah;"
               },
               {
                 "vnumber": "11",
@@ -7999,7 +7999,7 @@
               },
               {
                 "vnumber": "12",
-                "text": "Furthermore, when I came to Troas to preach Christ's gospel, and a door was opened unto me of the Lord,"
+                "text": "Furthermore, when I came to Troas to preach Messiah's gospel, and a door was opened unto me of the Lord,"
               },
               {
                 "vnumber": "13",
@@ -8007,11 +8007,11 @@
               },
               {
                 "vnumber": "14",
-                "text": "Now thanks be unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place."
+                "text": "Now thanks be unto God, which always causeth us to triumph in Messiah, and maketh manifest the savour of his knowledge by us in every place."
               },
               {
                 "vnumber": "15",
-                "text": "For we are unto God a sweet savour of Christ, in them that are saved, and in them that perish:"
+                "text": "For we are unto God a sweet savour of Messiah, in them that are saved, and in them that perish:"
               },
               {
                 "vnumber": "16",
@@ -8019,7 +8019,7 @@
               },
               {
                 "vnumber": "17",
-                "text": "For we are not as many, which corrupt the word of God: but as of sincerity, but as of God, in the sight of God speak we in Christ."
+                "text": "For we are not as many, which corrupt the word of God: but as of sincerity, but as of God, in the sight of God speak we in Messiah."
               }
             ]
           },
@@ -8036,11 +8036,11 @@
               },
               {
                 "vnumber": "3",
-                "text": "Forasmuch as ye are manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart."
+                "text": "Forasmuch as ye are manifestly declared to be the epistle of Messiah ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart."
               },
               {
                 "vnumber": "4",
-                "text": "And such trust have we through Christ to God-ward:"
+                "text": "And such trust have we through Messiah to God-ward:"
               },
               {
                 "vnumber": "5",
@@ -8080,7 +8080,7 @@
               },
               {
                 "vnumber": "14",
-                "text": "But their minds were blinded: for until this day remaineth the same vail untaken away in the reading of the old testament; which vail is done away in Christ."
+                "text": "But their minds were blinded: for until this day remaineth the same vail untaken away in the reading of the old testament; which vail is done away in Messiah."
               },
               {
                 "vnumber": "15",
@@ -8117,15 +8117,15 @@
               },
               {
                 "vnumber": "4",
-                "text": "In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them."
+                "text": "In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Messiah, who is the image of God, should shine unto them."
               },
               {
                 "vnumber": "5",
-                "text": "For we preach not ourselves, but Christ Jesus the Lord; and ourselves your servants for Jesus' sake."
+                "text": "For we preach not ourselves, but Messiah Yeshua the Lord; and ourselves your servants for Yeshua' sake."
               },
               {
                 "vnumber": "6",
-                "text": "For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ."
+                "text": "For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Yeshua the Messiah."
               },
               {
                 "vnumber": "7",
@@ -8141,11 +8141,11 @@
               },
               {
                 "vnumber": "10",
-                "text": "Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body."
+                "text": "Always bearing about in the body the dying of the Lord Yeshua, that the life also of Yeshua might be made manifest in our body."
               },
               {
                 "vnumber": "11",
-                "text": "For we which live are alway delivered unto death for Jesus' sake, that the life also of Jesus might be made manifest in our mortal flesh."
+                "text": "For we which live are alway delivered unto death for Yeshua' sake, that the life also of Yeshua might be made manifest in our mortal flesh."
               },
               {
                 "vnumber": "12",
@@ -8157,7 +8157,7 @@
               },
               {
                 "vnumber": "14",
-                "text": "Knowing that he which raised up the Lord Jesus shall raise up us also by Jesus, and shall present us with you."
+                "text": "Knowing that he which raised up the Lord Yeshua shall raise up us also by Yeshua, and shall present us with you."
               },
               {
                 "vnumber": "15",
@@ -8218,7 +8218,7 @@
               },
               {
                 "vnumber": "10",
-                "text": "For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad."
+                "text": "For we must all appear before the judgment seat of Messiah; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad."
               },
               {
                 "vnumber": "11",
@@ -8234,7 +8234,7 @@
               },
               {
                 "vnumber": "14",
-                "text": "For the love of Christ constraineth us; because we thus judge, that if one died for all, then were all dead:"
+                "text": "For the love of Messiah constraineth us; because we thus judge, that if one died for all, then were all dead:"
               },
               {
                 "vnumber": "15",
@@ -8242,23 +8242,23 @@
               },
               {
                 "vnumber": "16",
-                "text": "Wherefore henceforth know we no man after the flesh: yea, though we have known Christ after the flesh, yet now henceforth know we him no more."
+                "text": "Wherefore henceforth know we no man after the flesh: yea, though we have known Messiah after the flesh, yet now henceforth know we him no more."
               },
               {
                 "vnumber": "17",
-                "text": "Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new."
+                "text": "Therefore if any man be in Messiah, he is a new creature: old things are passed away; behold, all things are become new."
               },
               {
                 "vnumber": "18",
-                "text": "And all things are of God, who hath reconciled us to himself by Jesus Christ, and hath given to us the ministry of reconciliation;"
+                "text": "And all things are of God, who hath reconciled us to himself by Yeshua the Messiah, and hath given to us the ministry of reconciliation;"
               },
               {
                 "vnumber": "19",
-                "text": "To wit, that God was in Christ, reconciling the world unto himself, not imputing their trespasses unto them; and hath committed unto us the word of reconciliation."
+                "text": "To wit, that God was in Messiah, reconciling the world unto himself, not imputing their trespasses unto them; and hath committed unto us the word of reconciliation."
               },
               {
                 "vnumber": "20",
-                "text": "Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ's stead, be ye reconciled to God."
+                "text": "Now then we are ambassadors for Messiah, as though God did beseech you by us: we pray you in Messiah's stead, be ye reconciled to God."
               },
               {
                 "vnumber": "21",
@@ -8327,7 +8327,7 @@
               },
               {
                 "vnumber": "15",
-                "text": "And what concord hath Christ with Belial? or what part hath he that believeth with an infidel?"
+                "text": "And what concord hath Messiah with Belial? or what part hath he that believeth with an infidel?"
               },
               {
                 "vnumber": "16",
@@ -8449,7 +8449,7 @@
               },
               {
                 "vnumber": "9",
-                "text": "For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich."
+                "text": "For ye know the grace of our Lord Yeshua the Messiah, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich."
               },
               {
                 "vnumber": "10",
@@ -8505,7 +8505,7 @@
               },
               {
                 "vnumber": "23",
-                "text": "Whether any do enquire of Titus, he is my partner and fellowhelper concerning you: or our brethren be enquired of, they are the messengers of the churches, and the glory of Christ."
+                "text": "Whether any do enquire of Titus, he is my partner and fellowhelper concerning you: or our brethren be enquired of, they are the messengers of the churches, and the glory of Messiah."
               },
               {
                 "vnumber": "24",
@@ -8566,7 +8566,7 @@
               },
               {
                 "vnumber": "13",
-                "text": "Whiles by the experiment of this ministration they glorify God for your professed subjection unto the gospel of Christ, and for your liberal distribution unto them, and unto all men;"
+                "text": "Whiles by the experiment of this ministration they glorify God for your professed subjection unto the gospel of Messiah, and for your liberal distribution unto them, and unto all men;"
               },
               {
                 "vnumber": "14",
@@ -8583,7 +8583,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence am base among you, but being absent am bold toward you:"
+                "text": "Now I Paul myself beseech you by the meekness and gentleness of Messiah, who in presence am base among you, but being absent am bold toward you:"
               },
               {
                 "vnumber": "2",
@@ -8599,7 +8599,7 @@
               },
               {
                 "vnumber": "5",
-                "text": "Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;"
+                "text": "Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Messiah;"
               },
               {
                 "vnumber": "6",
@@ -8607,7 +8607,7 @@
               },
               {
                 "vnumber": "7",
-                "text": "Do ye look on things after the outward appearance? If any man trust to himself that he is Christ's, let him of himself think this again, that, as he is Christ's, even so are we Christ's."
+                "text": "Do ye look on things after the outward appearance? If any man trust to himself that he is Messiah's, let him of himself think this again, that, as he is Messiah's, even so are we Messiah's."
               },
               {
                 "vnumber": "8",
@@ -8635,7 +8635,7 @@
               },
               {
                 "vnumber": "14",
-                "text": "For we stretch not ourselves beyond our measure, as though we reached not unto you: for we are come as far as to you also in preaching the gospel of Christ:"
+                "text": "For we stretch not ourselves beyond our measure, as though we reached not unto you: for we are come as far as to you also in preaching the gospel of Messiah:"
               },
               {
                 "vnumber": "15",
@@ -8664,15 +8664,15 @@
               },
               {
                 "vnumber": "2",
-                "text": "For I am jealous over you with godly jealousy: for I have espoused you to one husband, that I may present you as a chaste virgin to Christ."
+                "text": "For I am jealous over you with godly jealousy: for I have espoused you to one husband, that I may present you as a chaste virgin to Messiah."
               },
               {
                 "vnumber": "3",
-                "text": "But I fear, lest by any means, as the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity that is in Christ."
+                "text": "But I fear, lest by any means, as the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity that is in Messiah."
               },
               {
                 "vnumber": "4",
-                "text": "For if he that cometh preacheth another Jesus, whom we have not preached, or if ye receive another spirit, which ye have not received, or another gospel, which ye have not accepted, ye might well bear with him."
+                "text": "For if he that cometh preacheth another Yeshua, whom we have not preached, or if ye receive another spirit, which ye have not received, or another gospel, which ye have not accepted, ye might well bear with him."
               },
               {
                 "vnumber": "5",
@@ -8696,7 +8696,7 @@
               },
               {
                 "vnumber": "10",
-                "text": "As the truth of Christ is in me, no man shall stop me of this boasting in the regions of Achaia."
+                "text": "As the truth of Messiah is in me, no man shall stop me of this boasting in the regions of Achaia."
               },
               {
                 "vnumber": "11",
@@ -8708,7 +8708,7 @@
               },
               {
                 "vnumber": "13",
-                "text": "For such are false apostles, deceitful workers, transforming themselves into the apostles of Christ."
+                "text": "For such are false apostles, deceitful workers, transforming themselves into the apostles of Messiah."
               },
               {
                 "vnumber": "14",
@@ -8748,7 +8748,7 @@
               },
               {
                 "vnumber": "23",
-                "text": "Are they ministers of Christ? (I speak as a fool) I am more; in labours more abundant, in stripes above measure, in prisons more frequent, in deaths oft."
+                "text": "Are they ministers of Messiah? (I speak as a fool) I am more; in labours more abundant, in stripes above measure, in prisons more frequent, in deaths oft."
               },
               {
                 "vnumber": "24",
@@ -8780,7 +8780,7 @@
               },
               {
                 "vnumber": "31",
-                "text": "The God and Father of our Lord Jesus Christ, which is blessed for evermore, knoweth that I lie not."
+                "text": "The God and Father of our Lord Yeshua the Messiah, which is blessed for evermore, knoweth that I lie not."
               },
               {
                 "vnumber": "32",
@@ -8801,7 +8801,7 @@
               },
               {
                 "vnumber": "2",
-                "text": "I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knoweth;) such an one caught up to the third heaven."
+                "text": "I knew a man in Messiah above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knoweth;) such an one caught up to the third heaven."
               },
               {
                 "vnumber": "3",
@@ -8829,11 +8829,11 @@
               },
               {
                 "vnumber": "9",
-                "text": "And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me."
+                "text": "And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Messiah may rest upon me."
               },
               {
                 "vnumber": "10",
-                "text": "Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ's sake: for when I am weak, then am I strong."
+                "text": "Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Messiah's sake: for when I am weak, then am I strong."
               },
               {
                 "vnumber": "11",
@@ -8869,7 +8869,7 @@
               },
               {
                 "vnumber": "19",
-                "text": "Again, think ye that we excuse ourselves unto you? we speak before God in Christ: but we do all things, dearly beloved, for your edifying."
+                "text": "Again, think ye that we excuse ourselves unto you? we speak before God in Messiah: but we do all things, dearly beloved, for your edifying."
               },
               {
                 "vnumber": "20",
@@ -8894,7 +8894,7 @@
               },
               {
                 "vnumber": "3",
-                "text": "Since ye seek a proof of Christ speaking in me, which to you-ward is not weak, but is mighty in you."
+                "text": "Since ye seek a proof of Messiah speaking in me, which to you-ward is not weak, but is mighty in you."
               },
               {
                 "vnumber": "4",
@@ -8902,7 +8902,7 @@
               },
               {
                 "vnumber": "5",
-                "text": "Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?"
+                "text": "Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Yeshua the Messiah is in you, except ye be reprobates?"
               },
               {
                 "vnumber": "6",
@@ -8938,7 +8938,7 @@
               },
               {
                 "vnumber": "14",
-                "text": "The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit, be with you all. Amen."
+                "text": "The grace of the Lord Yeshua the Messiah, and the love of God, and the communion of the Holy Spirit, be with you all. Amen."
               }
             ]
           }
@@ -8958,7 +8958,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)"
+                "text": "Paul, an apostle, (not of men, neither by man, but by Yeshua the Messiah, and God the Father, who raised him from the dead;)"
               },
               {
                 "vnumber": "2",
@@ -8966,7 +8966,7 @@
               },
               {
                 "vnumber": "3",
-                "text": "Grace be to you and peace from God the Father, and from our Lord Jesus Christ,"
+                "text": "Grace be to you and peace from God the Father, and from our Lord Yeshua the Messiah,"
               },
               {
                 "vnumber": "4",
@@ -8978,11 +8978,11 @@
               },
               {
                 "vnumber": "6",
-                "text": "I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:"
+                "text": "I marvel that ye are so soon removed from him that called you into the grace of Messiah unto another gospel:"
               },
               {
                 "vnumber": "7",
-                "text": "Which is not another; but there be some that trouble you, and would pervert the gospel of Christ."
+                "text": "Which is not another; but there be some that trouble you, and would pervert the gospel of Messiah."
               },
               {
                 "vnumber": "8",
@@ -8994,7 +8994,7 @@
               },
               {
                 "vnumber": "10",
-                "text": "For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ."
+                "text": "For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Messiah."
               },
               {
                 "vnumber": "11",
@@ -9002,7 +9002,7 @@
               },
               {
                 "vnumber": "12",
-                "text": "For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ."
+                "text": "For I neither received it of man, neither was I taught it, but by the revelation of Yeshua the Messiah."
               },
               {
                 "vnumber": "13",
@@ -9042,7 +9042,7 @@
               },
               {
                 "vnumber": "22",
-                "text": "And was unknown by face unto the churches of Judaea which were in Christ:"
+                "text": "And was unknown by face unto the churches of Judaea which were in Messiah:"
               },
               {
                 "vnumber": "23",
@@ -9071,7 +9071,7 @@
               },
               {
                 "vnumber": "4",
-                "text": "And that because of false brethren unawares brought in, who came in privily to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:"
+                "text": "And that because of false brethren unawares brought in, who came in privily to spy out our liberty which we have in Messiah Yeshua, that they might bring us into bondage:"
               },
               {
                 "vnumber": "5",
@@ -9119,11 +9119,11 @@
               },
               {
                 "vnumber": "16",
-                "text": "Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified."
+                "text": "Knowing that a man is not justified by the works of the law, but by the faith of Yeshua the Messiah, even we have believed in Yeshua the Messiah, that we might be justified by the faith of Messiah, and not by the works of the law: for by the works of the law shall no flesh be justified."
               },
               {
                 "vnumber": "17",
-                "text": "But if, while we seek to be justified by Christ, we ourselves also are found sinners, is therefore Christ the minister of sin? God forbid."
+                "text": "But if, while we seek to be justified by Messiah, we ourselves also are found sinners, is therefore Messiah the minister of sin? God forbid."
               },
               {
                 "vnumber": "18",
@@ -9135,11 +9135,11 @@
               },
               {
                 "vnumber": "20",
-                "text": "I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me."
+                "text": "I am crucified with Messiah: nevertheless I live; yet not I, but Messiah liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me."
               },
               {
                 "vnumber": "21",
-                "text": "I do not frustrate the grace of God: for if righteousness come by the law, then Christ is dead in vain."
+                "text": "I do not frustrate the grace of God: for if righteousness come by the law, then Messiah is dead in vain."
               }
             ]
           },
@@ -9148,7 +9148,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?"
+                "text": "O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Yeshua the Messiah hath been evidently set forth, crucified among you?"
               },
               {
                 "vnumber": "2",
@@ -9196,11 +9196,11 @@
               },
               {
                 "vnumber": "13",
-                "text": "Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree:"
+                "text": "Messiah hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree:"
               },
               {
                 "vnumber": "14",
-                "text": "That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith."
+                "text": "That the blessing of Abraham might come on the Gentiles through Yeshua the Messiah; that we might receive the promise of the Spirit through faith."
               },
               {
                 "vnumber": "15",
@@ -9208,11 +9208,11 @@
               },
               {
                 "vnumber": "16",
-                "text": "Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ."
+                "text": "Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Messiah."
               },
               {
                 "vnumber": "17",
-                "text": "And this I say, that the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect."
+                "text": "And this I say, that the covenant, that was confirmed before of God in Messiah, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect."
               },
               {
                 "vnumber": "18",
@@ -9232,7 +9232,7 @@
               },
               {
                 "vnumber": "22",
-                "text": "But the scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe."
+                "text": "But the scripture hath concluded all under sin, that the promise by faith of Yeshua the Messiah might be given to them that believe."
               },
               {
                 "vnumber": "23",
@@ -9240,7 +9240,7 @@
               },
               {
                 "vnumber": "24",
-                "text": "Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith."
+                "text": "Wherefore the law was our schoolmaster to bring us unto Messiah, that we might be justified by faith."
               },
               {
                 "vnumber": "25",
@@ -9248,19 +9248,19 @@
               },
               {
                 "vnumber": "26",
-                "text": "For ye are all the children of God by faith in Christ Jesus."
+                "text": "For ye are all the children of God by faith in Messiah Yeshua."
               },
               {
                 "vnumber": "27",
-                "text": "For as many of you as have been baptized into Christ have put on Christ."
+                "text": "For as many of you as have been baptized into Messiah have put on Messiah."
               },
               {
                 "vnumber": "28",
-                "text": "There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus."
+                "text": "There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Messiah Yeshua."
               },
               {
                 "vnumber": "29",
-                "text": "And if ye be Christ's, then are ye Abraham's seed, and heirs according to the promise."
+                "text": "And if ye be Messiah's, then are ye Abraham's seed, and heirs according to the promise."
               }
             ]
           },
@@ -9293,7 +9293,7 @@
               },
               {
                 "vnumber": "7",
-                "text": "Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ."
+                "text": "Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Messiah."
               },
               {
                 "vnumber": "8",
@@ -9321,7 +9321,7 @@
               },
               {
                 "vnumber": "14",
-                "text": "And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, even as Christ Jesus."
+                "text": "And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, even as Messiah Yeshua."
               },
               {
                 "vnumber": "15",
@@ -9341,7 +9341,7 @@
               },
               {
                 "vnumber": "19",
-                "text": "My little children, of whom I travail in birth again until Christ be formed in you,"
+                "text": "My little children, of whom I travail in birth again until Messiah be formed in you,"
               },
               {
                 "vnumber": "20",
@@ -9398,11 +9398,11 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage."
+                "text": "Stand fast therefore in the liberty wherewith Messiah hath made us free, and be not entangled again with the yoke of bondage."
               },
               {
                 "vnumber": "2",
-                "text": "Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing."
+                "text": "Behold, I Paul say unto you, that if ye be circumcised, Messiah shall profit you nothing."
               },
               {
                 "vnumber": "3",
@@ -9410,7 +9410,7 @@
               },
               {
                 "vnumber": "4",
-                "text": "Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace."
+                "text": "Messiah is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace."
               },
               {
                 "vnumber": "5",
@@ -9418,7 +9418,7 @@
               },
               {
                 "vnumber": "6",
-                "text": "For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love."
+                "text": "For in Yeshua the Messiah neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love."
               },
               {
                 "vnumber": "7",
@@ -9490,7 +9490,7 @@
               },
               {
                 "vnumber": "24",
-                "text": "And they that are Christ's have crucified the flesh with the affections and lusts."
+                "text": "And they that are Messiah's have crucified the flesh with the affections and lusts."
               },
               {
                 "vnumber": "25",
@@ -9511,7 +9511,7 @@
               },
               {
                 "vnumber": "2",
-                "text": "Bear ye one another's burdens, and so fulfil the law of Christ."
+                "text": "Bear ye one another's burdens, and so fulfil the law of Messiah."
               },
               {
                 "vnumber": "3",
@@ -9551,7 +9551,7 @@
               },
               {
                 "vnumber": "12",
-                "text": "As many as desire to make a fair shew in the flesh, they constrain you to be circumcised; only lest they should suffer persecution for the cross of Christ."
+                "text": "As many as desire to make a fair shew in the flesh, they constrain you to be circumcised; only lest they should suffer persecution for the cross of Messiah."
               },
               {
                 "vnumber": "13",
@@ -9559,11 +9559,11 @@
               },
               {
                 "vnumber": "14",
-                "text": "But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world."
+                "text": "But God forbid that I should glory, save in the cross of our Lord Yeshua the Messiah, by whom the world is crucified unto me, and I unto the world."
               },
               {
                 "vnumber": "15",
-                "text": "For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature."
+                "text": "For in Messiah Yeshua neither circumcision availeth any thing, nor uncircumcision, but a new creature."
               },
               {
                 "vnumber": "16",
@@ -9571,11 +9571,11 @@
               },
               {
                 "vnumber": "17",
-                "text": "From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus."
+                "text": "From henceforth let no man trouble me: for I bear in my body the marks of the Lord Yeshua."
               },
               {
                 "vnumber": "18",
-                "text": "Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen. "
+                "text": "Brethren, the grace of our Lord Yeshua the Messiah be with your spirit. Amen. "
               }
             ]
           }
@@ -9595,15 +9595,15 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:"
+                "text": "Paul, an apostle of Yeshua the Messiah by the will of God, to the saints which are at Ephesus, and to the faithful in Messiah Yeshua:"
               },
               {
                 "vnumber": "2",
-                "text": "Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ."
+                "text": "Grace be to you, and peace, from God our Father, and from the Lord Yeshua the Messiah."
               },
               {
                 "vnumber": "3",
-                "text": "Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ:"
+                "text": "Blessed be the God and Father of our Lord Yeshua the Messiah, who hath blessed us with all spiritual blessings in heavenly places in Messiah:"
               },
               {
                 "vnumber": "4",
@@ -9611,7 +9611,7 @@
               },
               {
                 "vnumber": "5",
-                "text": "Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,"
+                "text": "Having predestinated us unto the adoption of children by Yeshua the Messiah to himself, according to the good pleasure of his will,"
               },
               {
                 "vnumber": "6",
@@ -9631,7 +9631,7 @@
               },
               {
                 "vnumber": "10",
-                "text": "That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:"
+                "text": "That in the dispensation of the fulness of times he might gather together in one all things in Messiah, both which are in heaven, and which are on earth; even in him:"
               },
               {
                 "vnumber": "11",
@@ -9639,7 +9639,7 @@
               },
               {
                 "vnumber": "12",
-                "text": "That we should be to the praise of his glory, who first trusted in Christ."
+                "text": "That we should be to the praise of his glory, who first trusted in Messiah."
               },
               {
                 "vnumber": "13",
@@ -9651,7 +9651,7 @@
               },
               {
                 "vnumber": "15",
-                "text": "Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,"
+                "text": "Wherefore I also, after I heard of your faith in the Lord Yeshua, and love unto all the saints,"
               },
               {
                 "vnumber": "16",
@@ -9659,7 +9659,7 @@
               },
               {
                 "vnumber": "17",
-                "text": "That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:"
+                "text": "That the God of our Lord Yeshua the Messiah, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:"
               },
               {
                 "vnumber": "18",
@@ -9671,7 +9671,7 @@
               },
               {
                 "vnumber": "20",
-                "text": "Which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,"
+                "text": "Which he wrought in Messiah, when he raised him from the dead, and set him at his own right hand in the heavenly places,"
               },
               {
                 "vnumber": "21",
@@ -9708,15 +9708,15 @@
               },
               {
                 "vnumber": "5",
-                "text": "Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)"
+                "text": "Even when we were dead in sins, hath quickened us together with Messiah, (by grace ye are saved;)"
               },
               {
                 "vnumber": "6",
-                "text": "And hath raised us up together, and made us sit together in heavenly places in Christ Jesus:"
+                "text": "And hath raised us up together, and made us sit together in heavenly places in Messiah Yeshua:"
               },
               {
                 "vnumber": "7",
-                "text": "That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus."
+                "text": "That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Messiah Yeshua."
               },
               {
                 "vnumber": "8",
@@ -9728,7 +9728,7 @@
               },
               {
                 "vnumber": "10",
-                "text": "For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them."
+                "text": "For we are his workmanship, created in Messiah Yeshua unto good works, which God hath before ordained that we should walk in them."
               },
               {
                 "vnumber": "11",
@@ -9736,11 +9736,11 @@
               },
               {
                 "vnumber": "12",
-                "text": "That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:"
+                "text": "That at that time ye were without Messiah, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:"
               },
               {
                 "vnumber": "13",
-                "text": "But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ."
+                "text": "But now in Messiah Yeshua ye who sometimes were far off are made nigh by the blood of Messiah."
               },
               {
                 "vnumber": "14",
@@ -9768,7 +9768,7 @@
               },
               {
                 "vnumber": "20",
-                "text": "And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone;"
+                "text": "And are built upon the foundation of the apostles and prophets, Yeshua the Messiah himself being the chief corner stone;"
               },
               {
                 "vnumber": "21",
@@ -9785,7 +9785,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "For this cause I Paul, the prisoner of Jesus Christ for you Gentiles,"
+                "text": "For this cause I Paul, the prisoner of Yeshua the Messiah for you Gentiles,"
               },
               {
                 "vnumber": "2",
@@ -9797,7 +9797,7 @@
               },
               {
                 "vnumber": "4",
-                "text": "Whereby, when ye read, ye may understand my knowledge in the mystery of Christ)"
+                "text": "Whereby, when ye read, ye may understand my knowledge in the mystery of Messiah)"
               },
               {
                 "vnumber": "5",
@@ -9805,7 +9805,7 @@
               },
               {
                 "vnumber": "6",
-                "text": "That the Gentiles should be fellowheirs, and of the same body, and partakers of his promise in Christ by the gospel:"
+                "text": "That the Gentiles should be fellowheirs, and of the same body, and partakers of his promise in Messiah by the gospel:"
               },
               {
                 "vnumber": "7",
@@ -9813,11 +9813,11 @@
               },
               {
                 "vnumber": "8",
-                "text": "Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ;"
+                "text": "Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Messiah;"
               },
               {
                 "vnumber": "9",
-                "text": "And to make all men see what is the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ:"
+                "text": "And to make all men see what is the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Yeshua the Messiah:"
               },
               {
                 "vnumber": "10",
@@ -9825,7 +9825,7 @@
               },
               {
                 "vnumber": "11",
-                "text": "According to the eternal purpose which he purposed in Christ Jesus our Lord:"
+                "text": "According to the eternal purpose which he purposed in Messiah Yeshua our Lord:"
               },
               {
                 "vnumber": "12",
@@ -9837,7 +9837,7 @@
               },
               {
                 "vnumber": "14",
-                "text": "For this cause I bow my knees unto the Father of our Lord Jesus Christ,"
+                "text": "For this cause I bow my knees unto the Father of our Lord Yeshua the Messiah,"
               },
               {
                 "vnumber": "15",
@@ -9849,7 +9849,7 @@
               },
               {
                 "vnumber": "17",
-                "text": "That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love,"
+                "text": "That Messiah may dwell in your hearts by faith; that ye, being rooted and grounded in love,"
               },
               {
                 "vnumber": "18",
@@ -9857,7 +9857,7 @@
               },
               {
                 "vnumber": "19",
-                "text": "And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God."
+                "text": "And to know the love of Messiah, which passeth knowledge, that ye might be filled with all the fulness of God."
               },
               {
                 "vnumber": "20",
@@ -9865,7 +9865,7 @@
               },
               {
                 "vnumber": "21",
-                "text": "Unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen."
+                "text": "Unto him be glory in the church by Messiah Yeshua throughout all ages, world without end. Amen."
               }
             ]
           },
@@ -9898,7 +9898,7 @@
               },
               {
                 "vnumber": "7",
-                "text": "But unto every one of us is given grace according to the measure of the gift of Christ."
+                "text": "But unto every one of us is given grace according to the measure of the gift of Messiah."
               },
               {
                 "vnumber": "8",
@@ -9918,11 +9918,11 @@
               },
               {
                 "vnumber": "12",
-                "text": "For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:"
+                "text": "For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Messiah:"
               },
               {
                 "vnumber": "13",
-                "text": "Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:"
+                "text": "Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Messiah:"
               },
               {
                 "vnumber": "14",
@@ -9930,7 +9930,7 @@
               },
               {
                 "vnumber": "15",
-                "text": "But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:"
+                "text": "But speaking the truth in love, may grow up into him in all things, which is the head, even Messiah:"
               },
               {
                 "vnumber": "16",
@@ -9950,11 +9950,11 @@
               },
               {
                 "vnumber": "20",
-                "text": "But ye have not so learned Christ;"
+                "text": "But ye have not so learned Messiah;"
               },
               {
                 "vnumber": "21",
-                "text": "If so be that ye have heard him, and have been taught by him, as the truth is in Jesus:"
+                "text": "If so be that ye have heard him, and have been taught by him, as the truth is in Yeshua:"
               },
               {
                 "vnumber": "22",
@@ -9998,7 +9998,7 @@
               },
               {
                 "vnumber": "32",
-                "text": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you."
+                "text": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Messiah's sake hath forgiven you."
               }
             ]
           },
@@ -10011,7 +10011,7 @@
               },
               {
                 "vnumber": "2",
-                "text": "And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour."
+                "text": "And walk in love, as Messiah also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour."
               },
               {
                 "vnumber": "3",
@@ -10023,7 +10023,7 @@
               },
               {
                 "vnumber": "5",
-                "text": "For this ye know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and of God."
+                "text": "For this ye know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Messiah and of God."
               },
               {
                 "vnumber": "6",
@@ -10059,7 +10059,7 @@
               },
               {
                 "vnumber": "14",
-                "text": "Wherefore he saith, Awake thou that sleepest, and arise from the dead, and Christ shall give thee light."
+                "text": "Wherefore he saith, Awake thou that sleepest, and arise from the dead, and Messiah shall give thee light."
               },
               {
                 "vnumber": "15",
@@ -10083,7 +10083,7 @@
               },
               {
                 "vnumber": "20",
-                "text": "Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ;"
+                "text": "Giving thanks always for all things unto God and the Father in the name of our Lord Yeshua the Messiah;"
               },
               {
                 "vnumber": "21",
@@ -10095,15 +10095,15 @@
               },
               {
                 "vnumber": "23",
-                "text": "For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body."
+                "text": "For the husband is the head of the wife, even as Messiah is the head of the church: and he is the saviour of the body."
               },
               {
                 "vnumber": "24",
-                "text": "Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing."
+                "text": "Therefore as the church is subject unto Messiah, so let the wives be to their own husbands in every thing."
               },
               {
                 "vnumber": "25",
-                "text": "Husbands, love your wives, even as Christ also loved the church, and gave himself for it;"
+                "text": "Husbands, love your wives, even as Messiah also loved the church, and gave himself for it;"
               },
               {
                 "vnumber": "26",
@@ -10131,7 +10131,7 @@
               },
               {
                 "vnumber": "32",
-                "text": "This is a great mystery: but I speak concerning Christ and the church."
+                "text": "This is a great mystery: but I speak concerning Messiah and the church."
               },
               {
                 "vnumber": "33",
@@ -10160,11 +10160,11 @@
               },
               {
                 "vnumber": "5",
-                "text": "Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ;"
+                "text": "Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Messiah;"
               },
               {
                 "vnumber": "6",
-                "text": "Not with eyeservice, as menpleasers; but as the servants of Christ, doing the will of God from the heart;"
+                "text": "Not with eyeservice, as menpleasers; but as the servants of Messiah, doing the will of God from the heart;"
               },
               {
                 "vnumber": "7",
@@ -10232,11 +10232,11 @@
               },
               {
                 "vnumber": "23",
-                "text": "Peace be to the brethren, and love with faith, from God the Father and the Lord Jesus Christ."
+                "text": "Peace be to the brethren, and love with faith, from God the Father and the Lord Yeshua the Messiah."
               },
               {
                 "vnumber": "24",
-                "text": "Grace be with all them that love our Lord Jesus Christ in sincerity. Amen. "
+                "text": "Grace be with all them that love our Lord Yeshua the Messiah in sincerity. Amen. "
               }
             ]
           }
@@ -10256,11 +10256,11 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:"
+                "text": "Paul and Timotheus, the servants of Yeshua the Messiah, to all the saints in Messiah Yeshua which are at Philippi, with the bishops and deacons:"
               },
               {
                 "vnumber": "2",
-                "text": "Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ."
+                "text": "Grace be unto you, and peace, from God our Father, and from the Lord Yeshua the Messiah."
               },
               {
                 "vnumber": "3",
@@ -10276,7 +10276,7 @@
               },
               {
                 "vnumber": "6",
-                "text": "Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ:"
+                "text": "Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Yeshua the Messiah:"
               },
               {
                 "vnumber": "7",
@@ -10284,7 +10284,7 @@
               },
               {
                 "vnumber": "8",
-                "text": "For God is my record, how greatly I long after you all in the bowels of Jesus Christ."
+                "text": "For God is my record, how greatly I long after you all in the bowels of Yeshua the Messiah."
               },
               {
                 "vnumber": "9",
@@ -10292,11 +10292,11 @@
               },
               {
                 "vnumber": "10",
-                "text": "That ye may approve things that are excellent; that ye may be sincere and without offence till the day of Christ;"
+                "text": "That ye may approve things that are excellent; that ye may be sincere and without offence till the day of Messiah;"
               },
               {
                 "vnumber": "11",
-                "text": "Being filled with the fruits of righteousness, which are by Jesus Christ, unto the glory and praise of God."
+                "text": "Being filled with the fruits of righteousness, which are by Yeshua the Messiah, unto the glory and praise of God."
               },
               {
                 "vnumber": "12",
@@ -10304,7 +10304,7 @@
               },
               {
                 "vnumber": "13",
-                "text": "So that my bonds in Christ are manifest in all the palace, and in all other places;"
+                "text": "So that my bonds in Messiah are manifest in all the palace, and in all other places;"
               },
               {
                 "vnumber": "14",
@@ -10312,11 +10312,11 @@
               },
               {
                 "vnumber": "15",
-                "text": "Some indeed preach Christ even of envy and strife; and some also of good will:"
+                "text": "Some indeed preach Messiah even of envy and strife; and some also of good will:"
               },
               {
                 "vnumber": "16",
-                "text": "The one preach Christ of contention, not sincerely, supposing to add affliction to my bonds:"
+                "text": "The one preach Messiah of contention, not sincerely, supposing to add affliction to my bonds:"
               },
               {
                 "vnumber": "17",
@@ -10324,19 +10324,19 @@
               },
               {
                 "vnumber": "18",
-                "text": "What then? notwithstanding, every way, whether in pretence, or in truth, Christ is preached; and I therein do rejoice, yea, and will rejoice."
+                "text": "What then? notwithstanding, every way, whether in pretence, or in truth, Messiah is preached; and I therein do rejoice, yea, and will rejoice."
               },
               {
                 "vnumber": "19",
-                "text": "For I know that this shall turn to my salvation through your prayer, and the supply of the Spirit of Jesus Christ,"
+                "text": "For I know that this shall turn to my salvation through your prayer, and the supply of the Spirit of Yeshua the Messiah,"
               },
               {
                 "vnumber": "20",
-                "text": "According to my earnest expectation and my hope, that in nothing I shall be ashamed, but that with all boldness, as always, so now also Christ shall be magnified in my body, whether it be by life, or by death."
+                "text": "According to my earnest expectation and my hope, that in nothing I shall be ashamed, but that with all boldness, as always, so now also Messiah shall be magnified in my body, whether it be by life, or by death."
               },
               {
                 "vnumber": "21",
-                "text": "For to me to live is Christ, and to die is gain."
+                "text": "For to me to live is Messiah, and to die is gain."
               },
               {
                 "vnumber": "22",
@@ -10344,7 +10344,7 @@
               },
               {
                 "vnumber": "23",
-                "text": "For I am in a strait betwixt two, having a desire to depart, and to be with Christ; which is far better:"
+                "text": "For I am in a strait betwixt two, having a desire to depart, and to be with Messiah; which is far better:"
               },
               {
                 "vnumber": "24",
@@ -10356,11 +10356,11 @@
               },
               {
                 "vnumber": "26",
-                "text": "That your rejoicing may be more abundant in Jesus Christ for me by my coming to you again."
+                "text": "That your rejoicing may be more abundant in Yeshua the Messiah for me by my coming to you again."
               },
               {
                 "vnumber": "27",
-                "text": "Only let your conversation be as it becometh the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that ye stand fast in one spirit, with one mind striving together for the faith of the gospel;"
+                "text": "Only let your conversation be as it becometh the gospel of Messiah: that whether I come and see you, or else be absent, I may hear of your affairs, that ye stand fast in one spirit, with one mind striving together for the faith of the gospel;"
               },
               {
                 "vnumber": "28",
@@ -10368,7 +10368,7 @@
               },
               {
                 "vnumber": "29",
-                "text": "For unto you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake;"
+                "text": "For unto you it is given in the behalf of Messiah, not only to believe on him, but also to suffer for his sake;"
               },
               {
                 "vnumber": "30",
@@ -10381,7 +10381,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,"
+                "text": "If there be therefore any consolation in Messiah, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,"
               },
               {
                 "vnumber": "2",
@@ -10397,7 +10397,7 @@
               },
               {
                 "vnumber": "5",
-                "text": "Let this mind be in you, which was also in the Messiah Jesus:"
+                "text": "Let this mind be in you, which was also in the Messiah Yeshua:"
               },
               {
                 "vnumber": "6",
@@ -10417,11 +10417,11 @@
               },
               {
                 "vnumber": "10",
-                "text": "That at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth;"
+                "text": "That at the name of Yeshua every knee should bow, of things in heaven, and things in earth, and things under the earth;"
               },
               {
                 "vnumber": "11",
-                "text": "And that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father."
+                "text": "And that every tongue should confess that Yeshua the Messiah is Lord, to the glory of God the Father."
               },
               {
                 "vnumber": "12",
@@ -10441,7 +10441,7 @@
               },
               {
                 "vnumber": "16",
-                "text": "Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain."
+                "text": "Holding forth the word of life; that I may rejoice in the day of Messiah, that I have not run in vain, neither laboured in vain."
               },
               {
                 "vnumber": "17",
@@ -10453,7 +10453,7 @@
               },
               {
                 "vnumber": "19",
-                "text": "But I trust in the Lord Jesus to send Timotheus shortly unto you, that I also may be of good comfort, when I know your state."
+                "text": "But I trust in the Lord Yeshua to send Timotheus shortly unto you, that I also may be of good comfort, when I know your state."
               },
               {
                 "vnumber": "20",
@@ -10461,7 +10461,7 @@
               },
               {
                 "vnumber": "21",
-                "text": "For all seek their own, not the things which are Jesus Christ's."
+                "text": "For all seek their own, not the things which are Yeshua the Messiah's."
               },
               {
                 "vnumber": "22",
@@ -10497,7 +10497,7 @@
               },
               {
                 "vnumber": "30",
-                "text": "Because for the work of Christ he was nigh unto death, not regarding his life, to supply your lack of service toward me."
+                "text": "Because for the work of Messiah he was nigh unto death, not regarding his life, to supply your lack of service toward me."
               }
             ]
           },
@@ -10514,7 +10514,7 @@
               },
               {
                 "vnumber": "3",
-                "text": "For we are the circumcision, which worship God in the spirit, and rejoice in Christ Jesus, and have no confidence in the flesh."
+                "text": "For we are the circumcision, which worship God in the spirit, and rejoice in Messiah Yeshua, and have no confidence in the flesh."
               },
               {
                 "vnumber": "4",
@@ -10530,15 +10530,15 @@
               },
               {
                 "vnumber": "7",
-                "text": "But what things were gain to me, those I counted loss for Christ."
+                "text": "But what things were gain to me, those I counted loss for Messiah."
               },
               {
                 "vnumber": "8",
-                "text": "Yea doubtless, and I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the loss of all things, and do count them but dung, that I may win Christ,"
+                "text": "Yea doubtless, and I count all things but loss for the excellency of the knowledge of Messiah Yeshua my Lord: for whom I have suffered the loss of all things, and do count them but dung, that I may win Messiah,"
               },
               {
                 "vnumber": "9",
-                "text": "And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith:"
+                "text": "And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Messiah, the righteousness which is of God by faith:"
               },
               {
                 "vnumber": "10",
@@ -10550,7 +10550,7 @@
               },
               {
                 "vnumber": "12",
-                "text": "Not as though I had already attained, either were already perfect: but I follow after, if that I may apprehend that for which also I am apprehended of Christ Jesus."
+                "text": "Not as though I had already attained, either were already perfect: but I follow after, if that I may apprehend that for which also I am apprehended of Messiah Yeshua."
               },
               {
                 "vnumber": "13",
@@ -10558,7 +10558,7 @@
               },
               {
                 "vnumber": "14",
-                "text": "I press toward the mark for the prize of the high calling of God in Christ Jesus."
+                "text": "I press toward the mark for the prize of the high calling of God in Messiah Yeshua."
               },
               {
                 "vnumber": "15",
@@ -10574,7 +10574,7 @@
               },
               {
                 "vnumber": "18",
-                "text": "For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:"
+                "text": "For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Messiah:"
               },
               {
                 "vnumber": "19",
@@ -10582,7 +10582,7 @@
               },
               {
                 "vnumber": "20",
-                "text": "For our conversation is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ:"
+                "text": "For our conversation is in heaven; from whence also we look for the Saviour, the Lord Yeshua the Messiah:"
               },
               {
                 "vnumber": "21",
@@ -10619,7 +10619,7 @@
               },
               {
                 "vnumber": "7",
-                "text": "And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus."
+                "text": "And the peace of God, which passeth all understanding, shall keep your hearts and minds through Messiah Yeshua."
               },
               {
                 "vnumber": "8",
@@ -10643,7 +10643,7 @@
               },
               {
                 "vnumber": "13",
-                "text": "I can do all things through Christ which strengtheneth me."
+                "text": "I can do all things through Messiah which strengtheneth me."
               },
               {
                 "vnumber": "14",
@@ -10667,7 +10667,7 @@
               },
               {
                 "vnumber": "19",
-                "text": "But my God shall supply all your need according to his riches in glory by Christ Jesus."
+                "text": "But my God shall supply all your need according to his riches in glory by Messiah Yeshua."
               },
               {
                 "vnumber": "20",
@@ -10675,7 +10675,7 @@
               },
               {
                 "vnumber": "21",
-                "text": "Salute every saint in Christ Jesus. The brethren which are with me greet you."
+                "text": "Salute every saint in Messiah Yeshua. The brethren which are with me greet you."
               },
               {
                 "vnumber": "22",
@@ -10683,7 +10683,7 @@
               },
               {
                 "vnumber": "23",
-                "text": "The grace of our Lord Jesus Christ be with you all. Amen. "
+                "text": "The grace of our Lord Yeshua the Messiah be with you all. Amen. "
               }
             ]
           }
@@ -10703,19 +10703,19 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Paul, an apostle of Jesus Christ by the will of God, and Timotheus our brother,"
+                "text": "Paul, an apostle of Yeshua the Messiah by the will of God, and Timotheus our brother,"
               },
               {
                 "vnumber": "2",
-                "text": "To the saints and faithful brethren in Christ which are at Colosse: Grace be unto you, and peace, from God our Father and the Lord Jesus Christ."
+                "text": "To the saints and faithful brethren in Messiah which are at Colosse: Grace be unto you, and peace, from God our Father and the Lord Yeshua the Messiah."
               },
               {
                 "vnumber": "3",
-                "text": "We give thanks to God and the Father of our Lord Jesus Christ, praying always for you,"
+                "text": "We give thanks to God and the Father of our Lord Yeshua the Messiah, praying always for you,"
               },
               {
                 "vnumber": "4",
-                "text": "Since we heard of your faith in Christ Jesus, and of the love which ye have to all the saints,"
+                "text": "Since we heard of your faith in Messiah Yeshua, and of the love which ye have to all the saints,"
               },
               {
                 "vnumber": "5",
@@ -10727,7 +10727,7 @@
               },
               {
                 "vnumber": "7",
-                "text": "As ye also learned of Epaphras our dear fellowservant, who is for you a faithful minister of Christ;"
+                "text": "As ye also learned of Epaphras our dear fellowservant, who is for you a faithful minister of Messiah;"
               },
               {
                 "vnumber": "8",
@@ -10795,7 +10795,7 @@
               },
               {
                 "vnumber": "24",
-                "text": "Who now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body's sake, which is the church:"
+                "text": "Who now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Messiah in my flesh for his body's sake, which is the church:"
               },
               {
                 "vnumber": "25",
@@ -10807,11 +10807,11 @@
               },
               {
                 "vnumber": "27",
-                "text": "To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:"
+                "text": "To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Messiah in you, the hope of glory:"
               },
               {
                 "vnumber": "28",
-                "text": "Whom we preach, warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus:"
+                "text": "Whom we preach, warning every man, and teaching every man in all wisdom; that we may present every man perfect in Messiah Yeshua:"
               },
               {
                 "vnumber": "29",
@@ -10828,7 +10828,7 @@
               },
               {
                 "vnumber": "2",
-                "text": "That their hearts might be comforted, being knit together in love, and unto all riches of the full assurance of understanding, to the acknowledgement of the mystery of God, and of the Father, and of Christ;"
+                "text": "That their hearts might be comforted, being knit together in love, and unto all riches of the full assurance of understanding, to the acknowledgement of the mystery of God, and of the Father, and of Messiah;"
               },
               {
                 "vnumber": "3",
@@ -10840,11 +10840,11 @@
               },
               {
                 "vnumber": "5",
-                "text": "For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ."
+                "text": "For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Messiah."
               },
               {
                 "vnumber": "6",
-                "text": "As ye have therefore received Christ Jesus the Lord, so walk ye in him:"
+                "text": "As ye have therefore received Messiah Yeshua the Lord, so walk ye in him:"
               },
               {
                 "vnumber": "7",
@@ -10852,7 +10852,7 @@
               },
               {
                 "vnumber": "8",
-                "text": "Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ."
+                "text": "Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Messiah."
               },
               {
                 "vnumber": "9",
@@ -10864,7 +10864,7 @@
               },
               {
                 "vnumber": "11",
-                "text": "In whom also ye are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ:"
+                "text": "In whom also ye are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Messiah:"
               },
               {
                 "vnumber": "12",
@@ -10888,7 +10888,7 @@
               },
               {
                 "vnumber": "17",
-                "text": "Which are a shadow of things to come; but the body is of Christ."
+                "text": "Which are a shadow of things to come; but the body is of Messiah."
               },
               {
                 "vnumber": "18",
@@ -10900,7 +10900,7 @@
               },
               {
                 "vnumber": "20",
-                "text": "Wherefore if ye be dead with Christ from the rudiments of the world, why, as though living in the world, are ye subject to ordinances,"
+                "text": "Wherefore if ye be dead with Messiah from the rudiments of the world, why, as though living in the world, are ye subject to ordinances,"
               },
               {
                 "vnumber": "21",
@@ -10922,7 +10922,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God."
+                "text": "If ye then be risen with Messiah, seek those things which are above, where Messiah sitteth on the right hand of God."
               },
               {
                 "vnumber": "2",
@@ -10930,11 +10930,11 @@
               },
               {
                 "vnumber": "3",
-                "text": "For ye are dead, and your life is hid with Christ in God."
+                "text": "For ye are dead, and your life is hid with Messiah in God."
               },
               {
                 "vnumber": "4",
-                "text": "When Christ, who is our life, shall appear, then shall ye also appear with him in glory."
+                "text": "When Messiah, who is our life, shall appear, then shall ye also appear with him in glory."
               },
               {
                 "vnumber": "5",
@@ -10962,7 +10962,7 @@
               },
               {
                 "vnumber": "11",
-                "text": "Where there is neither Greek nor Jew, circumcision nor uncircumcision, Barbarian, Scythian, bond nor free: but Christ is all, and in all."
+                "text": "Where there is neither Greek nor Jew, circumcision nor uncircumcision, Barbarian, Scythian, bond nor free: but Messiah is all, and in all."
               },
               {
                 "vnumber": "12",
@@ -10970,7 +10970,7 @@
               },
               {
                 "vnumber": "13",
-                "text": "Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye."
+                "text": "Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Messiah forgave you, so also do ye."
               },
               {
                 "vnumber": "14",
@@ -10982,11 +10982,11 @@
               },
               {
                 "vnumber": "16",
-                "text": "Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord."
+                "text": "Let the word of Messiah dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord."
               },
               {
                 "vnumber": "17",
-                "text": "And whatsoever ye do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him."
+                "text": "And whatsoever ye do in word or deed, do all in the name of the Lord Yeshua, giving thanks to God and the Father by him."
               },
               {
                 "vnumber": "18",
@@ -11014,7 +11014,7 @@
               },
               {
                 "vnumber": "24",
-                "text": "Knowing that of the Lord ye shall receive the reward of the inheritance: for ye serve the Lord Christ."
+                "text": "Knowing that of the Lord ye shall receive the reward of the inheritance: for ye serve the Lord Messiah."
               },
               {
                 "vnumber": "25",
@@ -11035,7 +11035,7 @@
               },
               {
                 "vnumber": "3",
-                "text": "Withal praying also for us, that God would open unto us a door of utterance, to speak the mystery of Christ, for which I am also in bonds:"
+                "text": "Withal praying also for us, that God would open unto us a door of utterance, to speak the mystery of Messiah, for which I am also in bonds:"
               },
               {
                 "vnumber": "4",
@@ -11067,11 +11067,11 @@
               },
               {
                 "vnumber": "11",
-                "text": "And Jesus, which is called Justus, who are of the circumcision. These only are my fellowworkers unto the kingdom of God, which have been a comfort unto me."
+                "text": "And Joshua, who is called Justus, who are of the circumcision. These only are my fellowworkers unto the kingdom of God, which have been a comfort unto me."
               },
               {
                 "vnumber": "12",
-                "text": "Epaphras, who is one of you, a servant of Christ, saluteth you, always labouring fervently for you in prayers, that ye may stand perfect and complete in all the will of God."
+                "text": "Epaphras, who is one of you, a servant of Messiah, saluteth you, always labouring fervently for you in prayers, that ye may stand perfect and complete in all the will of God."
               },
               {
                 "vnumber": "13",
@@ -11115,7 +11115,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be unto you, and peace, from God our Father, and the Lord Jesus Christ."
+                "text": "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians which is in God the Father and in the Lord Yeshua the Messiah: Grace be unto you, and peace, from God our Father, and the Lord Yeshua the Messiah."
               },
               {
                 "vnumber": "2",
@@ -11123,7 +11123,7 @@
               },
               {
                 "vnumber": "3",
-                "text": "Remembering without ceasing your work of faith, and labour of love, and patience of hope in our Lord Jesus Christ, in the sight of God and our Father;"
+                "text": "Remembering without ceasing your work of faith, and labour of love, and patience of hope in our Lord Yeshua the Messiah, in the sight of God and our Father;"
               },
               {
                 "vnumber": "4",
@@ -11151,7 +11151,7 @@
               },
               {
                 "vnumber": "10",
-                "text": "And to wait for his Son from heaven, whom he raised from the dead, even Jesus, which delivered us from the wrath to come."
+                "text": "And to wait for his Son from heaven, whom he raised from the dead, even Yeshua, which delivered us from the wrath to come."
               }
             ]
           },
@@ -11180,7 +11180,7 @@
               },
               {
                 "vnumber": "6",
-                "text": "Nor of men sought we glory, neither of you, nor yet of others, when we might have been burdensome, as the apostles of Christ."
+                "text": "Nor of men sought we glory, neither of you, nor yet of others, when we might have been burdensome, as the apostles of Messiah."
               },
               {
                 "vnumber": "7",
@@ -11212,11 +11212,11 @@
               },
               {
                 "vnumber": "14",
-                "text": "For ye, brethren, became followers of the churches of God which in Judaea are in Christ Jesus: for ye also have suffered like things of your own countrymen, even as they have of the Jews:"
+                "text": "For ye, brethren, became followers of the churches of God which in Judaea are in Messiah Yeshua: for ye also have suffered like things of your own countrymen, even as they have of the Jews:"
               },
               {
                 "vnumber": "15",
-                "text": "Who both killed the Lord Jesus, and their own prophets, and have persecuted us; and they please not God, and are contrary to all men:"
+                "text": "Who both killed the Lord Yeshua, and their own prophets, and have persecuted us; and they please not God, and are contrary to all men:"
               },
               {
                 "vnumber": "16",
@@ -11232,7 +11232,7 @@
               },
               {
                 "vnumber": "19",
-                "text": "For what is our hope, or joy, or crown of rejoicing? Are not even ye in the presence of our Lord Jesus Christ at his coming?"
+                "text": "For what is our hope, or joy, or crown of rejoicing? Are not even ye in the presence of our Lord Yeshua the Messiah at his coming?"
               },
               {
                 "vnumber": "20",
@@ -11249,7 +11249,7 @@
               },
               {
                 "vnumber": "2",
-                "text": "And sent Timotheus, our brother, and minister of God, and our fellowlabourer in the gospel of Christ, to establish you, and to comfort you concerning your faith:"
+                "text": "And sent Timotheus, our brother, and minister of God, and our fellowlabourer in the gospel of Messiah, to establish you, and to comfort you concerning your faith:"
               },
               {
                 "vnumber": "3",
@@ -11285,7 +11285,7 @@
               },
               {
                 "vnumber": "11",
-                "text": "Now God himself and our Father, and our Lord Jesus Christ, direct our way unto you."
+                "text": "Now God himself and our Father, and our Lord Yeshua the Messiah, direct our way unto you."
               },
               {
                 "vnumber": "12",
@@ -11293,7 +11293,7 @@
               },
               {
                 "vnumber": "13",
-                "text": "To the end he may stablish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his saints."
+                "text": "To the end he may stablish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Yeshua the Messiah with all his saints."
               }
             ]
           },
@@ -11302,11 +11302,11 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Furthermore then we beseech you, brethren, and exhort you by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, so ye would abound more and more."
+                "text": "Furthermore then we beseech you, brethren, and exhort you by the Lord Yeshua, that as ye have received of us how ye ought to walk and to please God, so ye would abound more and more."
               },
               {
                 "vnumber": "2",
-                "text": "For ye know what commandments we gave you by the Lord Jesus."
+                "text": "For ye know what commandments we gave you by the Lord Yeshua."
               },
               {
                 "vnumber": "3",
@@ -11354,7 +11354,7 @@
               },
               {
                 "vnumber": "14",
-                "text": "For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him."
+                "text": "For if we believe that Yeshua died and rose again, even so them also which sleep in Yeshua will God bring with him."
               },
               {
                 "vnumber": "15",
@@ -11362,7 +11362,7 @@
               },
               {
                 "vnumber": "16",
-                "text": "For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:"
+                "text": "For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Messiah shall rise first:"
               },
               {
                 "vnumber": "17",
@@ -11411,7 +11411,7 @@
               },
               {
                 "vnumber": "9",
-                "text": "For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,"
+                "text": "For God hath not appointed us to wrath, but to obtain salvation by our Lord Yeshua the Messiah,"
               },
               {
                 "vnumber": "10",
@@ -11447,7 +11447,7 @@
               },
               {
                 "vnumber": "18",
-                "text": "In every thing give thanks: for this is the will of God in Christ Jesus concerning you."
+                "text": "In every thing give thanks: for this is the will of God in Messiah Yeshua concerning you."
               },
               {
                 "vnumber": "19",
@@ -11467,7 +11467,7 @@
               },
               {
                 "vnumber": "23",
-                "text": "And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ."
+                "text": "And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Yeshua the Messiah."
               },
               {
                 "vnumber": "24",
@@ -11487,7 +11487,7 @@
               },
               {
                 "vnumber": "28",
-                "text": "The grace of our Lord Jesus Christ be with you. Amen. "
+                "text": "The grace of our Lord Yeshua the Messiah be with you. Amen. "
               }
             ]
           }
@@ -11507,11 +11507,11 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:"
+                "text": "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Yeshua the Messiah:"
               },
               {
                 "vnumber": "2",
-                "text": "Grace unto you, and peace, from God our Father and the Lord Jesus Christ."
+                "text": "Grace unto you, and peace, from God our Father and the Lord Yeshua the Messiah."
               },
               {
                 "vnumber": "3",
@@ -11531,11 +11531,11 @@
               },
               {
                 "vnumber": "7",
-                "text": "And to you who are troubled rest with us, when the Lord Jesus shall be revealed from heaven with his mighty angels,"
+                "text": "And to you who are troubled rest with us, when the Lord Yeshua shall be revealed from heaven with his mighty angels,"
               },
               {
                 "vnumber": "8",
-                "text": "In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ:"
+                "text": "In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Yeshua the Messiah:"
               },
               {
                 "vnumber": "9",
@@ -11551,7 +11551,7 @@
               },
               {
                 "vnumber": "12",
-                "text": "That the name of our Lord Jesus Christ may be glorified in you, and ye in him, according to the grace of our God and the Lord Jesus Christ."
+                "text": "That the name of our Lord Yeshua the Messiah may be glorified in you, and ye in him, according to the grace of our God and the Lord Yeshua the Messiah."
               }
             ]
           },
@@ -11560,11 +11560,11 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto him,"
+                "text": "Now we beseech you, brethren, by the coming of our Lord Yeshua the Messiah, and by our gathering together unto him,"
               },
               {
                 "vnumber": "2",
-                "text": "That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand."
+                "text": "That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Messiah is at hand."
               },
               {
                 "vnumber": "3",
@@ -11612,7 +11612,7 @@
               },
               {
                 "vnumber": "14",
-                "text": "Whereunto he called you by our gospel, to the obtaining of the glory of our Lord Jesus Christ."
+                "text": "Whereunto he called you by our gospel, to the obtaining of the glory of our Lord Yeshua the Messiah."
               },
               {
                 "vnumber": "15",
@@ -11620,7 +11620,7 @@
               },
               {
                 "vnumber": "16",
-                "text": "Now our Lord Jesus Christ himself, and God, even our Father, which hath loved us, and hath given us everlasting consolation and good hope through grace,"
+                "text": "Now our Lord Yeshua the Messiah himself, and God, even our Father, which hath loved us, and hath given us everlasting consolation and good hope through grace,"
               },
               {
                 "vnumber": "17",
@@ -11649,11 +11649,11 @@
               },
               {
                 "vnumber": "5",
-                "text": "And the Lord direct your hearts into the love of God, and into the patient waiting for Christ."
+                "text": "And the Lord direct your hearts into the love of God, and into the patient waiting for Messiah."
               },
               {
                 "vnumber": "6",
-                "text": "Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us."
+                "text": "Now we command you, brethren, in the name of our Lord Yeshua the Messiah, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us."
               },
               {
                 "vnumber": "7",
@@ -11677,7 +11677,7 @@
               },
               {
                 "vnumber": "12",
-                "text": "Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread."
+                "text": "Now them that are such we command and exhort by our Lord Yeshua the Messiah, that with quietness they work, and eat their own bread."
               },
               {
                 "vnumber": "13",
@@ -11701,7 +11701,7 @@
               },
               {
                 "vnumber": "18",
-                "text": "The grace of our Lord Jesus Christ be with you all. Amen. "
+                "text": "The grace of our Lord Yeshua the Messiah be with you all. Amen. "
               }
             ]
           }
@@ -11721,11 +11721,11 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, which is our hope;"
+                "text": "Paul, an apostle of Yeshua the Messiah by the commandment of God our Saviour, and Lord Yeshua the Messiah, which is our hope;"
               },
               {
                 "vnumber": "2",
-                "text": "Unto Timothy, my own son in the faith: Grace, mercy, and peace, from God our Father and Jesus Christ our Lord."
+                "text": "Unto Timothy, my own son in the faith: Grace, mercy, and peace, from God our Father and Yeshua the Messiah our Lord."
               },
               {
                 "vnumber": "3",
@@ -11765,7 +11765,7 @@
               },
               {
                 "vnumber": "12",
-                "text": "And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry;"
+                "text": "And I thank Messiah Yeshua our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry;"
               },
               {
                 "vnumber": "13",
@@ -11773,15 +11773,15 @@
               },
               {
                 "vnumber": "14",
-                "text": "And the grace of our Lord was exceeding abundant with faith and love which is in Christ Jesus."
+                "text": "And the grace of our Lord was exceeding abundant with faith and love which is in Messiah Yeshua."
               },
               {
                 "vnumber": "15",
-                "text": "This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief."
+                "text": "This is a faithful saying, and worthy of all acceptation, that Messiah Yeshua came into the world to save sinners; of whom I am chief."
               },
               {
                 "vnumber": "16",
-                "text": "Howbeit for this cause I obtained mercy, that in me first Jesus Christ might shew forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting."
+                "text": "Howbeit for this cause I obtained mercy, that in me first Yeshua the Messiah might shew forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting."
               },
               {
                 "vnumber": "17",
@@ -11822,7 +11822,7 @@
               },
               {
                 "vnumber": "5",
-                "text": "For there is one God, and one mediator between God and men, the man Christ Jesus;"
+                "text": "For there is one God, and one mediator between God and men, the man Messiah Yeshua;"
               },
               {
                 "vnumber": "6",
@@ -11830,7 +11830,7 @@
               },
               {
                 "vnumber": "7",
-                "text": "Whereunto I am ordained a preacher, and an apostle, (I speak the truth in Christ, and lie not;) a teacher of the Gentiles in faith and verity."
+                "text": "Whereunto I am ordained a preacher, and an apostle, (I speak the truth in Messiah, and lie not;) a teacher of the Gentiles in faith and verity."
               },
               {
                 "vnumber": "8",
@@ -11919,7 +11919,7 @@
               },
               {
                 "vnumber": "13",
-                "text": "For they that have used the office of a deacon well purchase to themselves a good degree, and great boldness in the faith which is in Christ Jesus."
+                "text": "For they that have used the office of a deacon well purchase to themselves a good degree, and great boldness in the faith which is in Messiah Yeshua."
               },
               {
                 "vnumber": "14",
@@ -11960,7 +11960,7 @@
               },
               {
                 "vnumber": "6",
-                "text": "If thou put the brethren in remembrance of these things, thou shalt be a good minister of Jesus Christ, nourished up in the words of faith and of good doctrine, whereunto thou hast attained."
+                "text": "If thou put the brethren in remembrance of these things, thou shalt be a good minister of Yeshua the Messiah, nourished up in the words of faith and of good doctrine, whereunto thou hast attained."
               },
               {
                 "vnumber": "7",
@@ -12049,7 +12049,7 @@
               },
               {
                 "vnumber": "11",
-                "text": "But the younger widows refuse: for when they have begun to wax wanton against Christ, they will marry;"
+                "text": "But the younger widows refuse: for when they have begun to wax wanton against Messiah, they will marry;"
               },
               {
                 "vnumber": "12",
@@ -12089,7 +12089,7 @@
               },
               {
                 "vnumber": "21",
-                "text": "I charge thee before God, and the Lord Jesus Christ, and the elect angels, that thou observe these things without preferring one before another, doing nothing by partiality."
+                "text": "I charge thee before God, and the Lord Yeshua the Messiah, and the elect angels, that thou observe these things without preferring one before another, doing nothing by partiality."
               },
               {
                 "vnumber": "22",
@@ -12122,7 +12122,7 @@
               },
               {
                 "vnumber": "3",
-                "text": "If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness;"
+                "text": "If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Yeshua the Messiah, and to the doctrine which is according to godliness;"
               },
               {
                 "vnumber": "4",
@@ -12162,11 +12162,11 @@
               },
               {
                 "vnumber": "13",
-                "text": "I give thee charge in the sight of God, who quickeneth all things, and before Christ Jesus, who before Pontius Pilate witnessed a good confession;"
+                "text": "I give thee charge in the sight of God, who quickeneth all things, and before Messiah Yeshua, who before Pontius Pilate witnessed a good confession;"
               },
               {
                 "vnumber": "14",
-                "text": "That thou keep this commandment without spot, unrebukeable, until the appearing of our Lord Jesus Christ:"
+                "text": "That thou keep this commandment without spot, unrebukeable, until the appearing of our Lord Yeshua the Messiah:"
               },
               {
                 "vnumber": "15",
@@ -12214,11 +12214,11 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,"
+                "text": "Paul, an apostle of Yeshua the Messiah by the will of God, according to the promise of life which is in Messiah Yeshua,"
               },
               {
                 "vnumber": "2",
-                "text": "To Timothy, my dearly beloved son: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord."
+                "text": "To Timothy, my dearly beloved son: Grace, mercy, and peace, from God the Father and Messiah Yeshua our Lord."
               },
               {
                 "vnumber": "3",
@@ -12246,11 +12246,11 @@
               },
               {
                 "vnumber": "9",
-                "text": "Who hath saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began,"
+                "text": "Who hath saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Messiah Yeshua before the world began,"
               },
               {
                 "vnumber": "10",
-                "text": "But is now made manifest by the appearing of our Saviour Jesus Christ, who hath abolished death, and hath brought life and immortality to light through the gospel:"
+                "text": "But is now made manifest by the appearing of our Saviour Yeshua the Messiah, who hath abolished death, and hath brought life and immortality to light through the gospel:"
               },
               {
                 "vnumber": "11",
@@ -12262,7 +12262,7 @@
               },
               {
                 "vnumber": "13",
-                "text": "Hold fast the form of sound words, which thou hast heard of me, in faith and love which is in Christ Jesus."
+                "text": "Hold fast the form of sound words, which thou hast heard of me, in faith and love which is in Messiah Yeshua."
               },
               {
                 "vnumber": "14",
@@ -12291,7 +12291,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Thou therefore, my son, be strong in the grace that is in Christ Jesus."
+                "text": "Thou therefore, my son, be strong in the grace that is in Messiah Yeshua."
               },
               {
                 "vnumber": "2",
@@ -12299,7 +12299,7 @@
               },
               {
                 "vnumber": "3",
-                "text": "Thou therefore endure hardness, as a good soldier of Jesus Christ."
+                "text": "Thou therefore endure hardness, as a good soldier of Yeshua the Messiah."
               },
               {
                 "vnumber": "4",
@@ -12319,7 +12319,7 @@
               },
               {
                 "vnumber": "8",
-                "text": "Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel:"
+                "text": "Remember that Yeshua the Messiah of the seed of David was raised from the dead according to my gospel:"
               },
               {
                 "vnumber": "9",
@@ -12327,7 +12327,7 @@
               },
               {
                 "vnumber": "10",
-                "text": "Therefore I endure all things for the elect's sakes, that they may also obtain the salvation which is in Christ Jesus with eternal glory."
+                "text": "Therefore I endure all things for the elect's sakes, that they may also obtain the salvation which is in Messiah Yeshua with eternal glory."
               },
               {
                 "vnumber": "11",
@@ -12363,7 +12363,7 @@
               },
               {
                 "vnumber": "19",
-                "text": "Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity."
+                "text": "Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Messiah depart from iniquity."
               },
               {
                 "vnumber": "20",
@@ -12444,7 +12444,7 @@
               },
               {
                 "vnumber": "12",
-                "text": "Yea, and all that will live godly in Christ Jesus shall suffer persecution."
+                "text": "Yea, and all that will live godly in Messiah Yeshua shall suffer persecution."
               },
               {
                 "vnumber": "13",
@@ -12456,7 +12456,7 @@
               },
               {
                 "vnumber": "15",
-                "text": "And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus."
+                "text": "And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Messiah Yeshua."
               },
               {
                 "vnumber": "16",
@@ -12473,7 +12473,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "I charge thee therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom;"
+                "text": "I charge thee therefore before God, and the Lord Yeshua the Messiah, who shall judge the quick and the dead at his appearing and his kingdom;"
               },
               {
                 "vnumber": "2",
@@ -12557,7 +12557,7 @@
               },
               {
                 "vnumber": "22",
-                "text": "The Lord Jesus Christ be with thy spirit. Grace be with you. Amen. "
+                "text": "The Lord Yeshua the Messiah be with thy spirit. Grace be with you. Amen. "
               }
             ]
           }
@@ -12577,7 +12577,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God's elect, and the acknowledging of the truth which is after godliness;"
+                "text": "Paul, a servant of God, and an apostle of Yeshua the Messiah, according to the faith of God's elect, and the acknowledging of the truth which is after godliness;"
               },
               {
                 "vnumber": "2",
@@ -12589,7 +12589,7 @@
               },
               {
                 "vnumber": "4",
-                "text": "To Titus, mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour."
+                "text": "To Titus, mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Yeshua the Messiah our Saviour."
               },
               {
                 "vnumber": "5",
@@ -12694,7 +12694,7 @@
               },
               {
                 "vnumber": "13",
-                "text": "Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;"
+                "text": "Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Yeshua the Messiah;"
               },
               {
                 "vnumber": "14",
@@ -12731,7 +12731,7 @@
               },
               {
                 "vnumber": "6",
-                "text": "Which he shed on us abundantly through Jesus Christ our Saviour;"
+                "text": "Which he shed on us abundantly through Yeshua the Messiah our Saviour;"
               },
               {
                 "vnumber": "7",
@@ -12786,7 +12786,7 @@
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Paul, a prisoner of Jesus Christ, and Timothy our brother, unto Philemon our dearly beloved, and fellowlabourer,"
+              "text": "Paul, a prisoner of Yeshua the Messiah, and Timothy our brother, unto Philemon our dearly beloved, and fellowlabourer,"
             },
             {
               "vnumber": "2",
@@ -12794,7 +12794,7 @@
             },
             {
               "vnumber": "3",
-              "text": "Grace to you, and peace, from God our Father and the Lord Jesus Christ."
+              "text": "Grace to you, and peace, from God our Father and the Lord Yeshua the Messiah."
             },
             {
               "vnumber": "4",
@@ -12802,11 +12802,11 @@
             },
             {
               "vnumber": "5",
-              "text": "Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints;"
+              "text": "Hearing of thy love and faith, which thou hast toward the Lord Yeshua, and toward all saints;"
             },
             {
               "vnumber": "6",
-              "text": "That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus."
+              "text": "That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Messiah Yeshua."
             },
             {
               "vnumber": "7",
@@ -12814,11 +12814,11 @@
             },
             {
               "vnumber": "8",
-              "text": "Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,"
+              "text": "Wherefore, though I might be much bold in Messiah to enjoin thee that which is convenient,"
             },
             {
               "vnumber": "9",
-              "text": "Yet for love's sake I rather beseech thee, being such an one as Paul the aged, and now also a prisoner of Jesus Christ."
+              "text": "Yet for love's sake I rather beseech thee, being such an one as Paul the aged, and now also a prisoner of Yeshua the Messiah."
             },
             {
               "vnumber": "10",
@@ -12874,7 +12874,7 @@
             },
             {
               "vnumber": "23",
-              "text": "There salute thee Epaphras, my fellowprisoner in Christ Jesus;"
+              "text": "There salute thee Epaphras, my fellowprisoner in Messiah Yeshua;"
             },
             {
               "vnumber": "24",
@@ -12882,7 +12882,7 @@
             },
             {
               "vnumber": "25",
-              "text": "The grace of our Lord Jesus Christ be with your spirit. Amen. "
+              "text": "The grace of our Lord Yeshua the Messiah be with your spirit. Amen. "
             }
           ]
         }
@@ -12994,7 +12994,7 @@
               },
               {
                 "vnumber": "9",
-                "text": "But we see Jesus, who was made a little lower than the angels for the suffering of death, crowned with glory and honour; that he by the grace of God should taste death for every man."
+                "text": "But we see Yeshua, who was made a little lower than the angels for the suffering of death, crowned with glory and honour; that he by the grace of God should taste death for every man."
               },
               {
                 "vnumber": "10",
@@ -13039,7 +13039,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;"
+                "text": "Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Messiah Yeshua;"
               },
               {
                 "vnumber": "2",
@@ -13059,7 +13059,7 @@
               },
               {
                 "vnumber": "6",
-                "text": "But Christ as a son over his own house; whose house are we, if we hold fast the confidence and the rejoicing of the hope firm unto the end."
+                "text": "But Messiah as a son over his own house; whose house are we, if we hold fast the confidence and the rejoicing of the hope firm unto the end."
               },
               {
                 "vnumber": "7",
@@ -13091,7 +13091,7 @@
               },
               {
                 "vnumber": "14",
-                "text": "For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end;"
+                "text": "For we are made partakers of Messiah, if we hold the beginning of our confidence stedfast unto the end;"
               },
               {
                 "vnumber": "15",
@@ -13148,7 +13148,7 @@
               },
               {
                 "vnumber": "8",
-                "text": "For if Jesus had given them rest, then would he not afterward have spoken of another day."
+                "text": "For if Joshua had given them rest, then would he not afterward have spoken of another day."
               },
               {
                 "vnumber": "9",
@@ -13172,7 +13172,7 @@
               },
               {
                 "vnumber": "14",
-                "text": "Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God, let us hold fast our profession."
+                "text": "Seeing then that we have a great high priest, that is passed into the heavens, Yeshua the Son of God, let us hold fast our profession."
               },
               {
                 "vnumber": "15",
@@ -13180,7 +13180,7 @@
               },
               {
                 "vnumber": "16",
-                "text": "Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need."
+                "text": "Therefore let us come to the Mercy Seat with confidence, that we may obtain mercy, and find grace to help in time of need."
               }
             ]
           },
@@ -13205,7 +13205,7 @@
               },
               {
                 "vnumber": "5",
-                "text": "So also Christ glorified not himself to be made an high priest; but he that said unto him, Thou art my Son, to day have I begotten thee."
+                "text": "So also Messiah glorified not himself to be made an high priest; but he that said unto him, Thou art my Son, to day have I begotten thee."
               },
               {
                 "vnumber": "6",
@@ -13250,7 +13250,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,"
+                "text": "Therefore leaving the principles of the doctrine of Messiah, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,"
               },
               {
                 "vnumber": "2",
@@ -13326,7 +13326,7 @@
               },
               {
                 "vnumber": "20",
-                "text": "Whither the forerunner is for us entered, even Jesus, made an high priest for ever after the order of Melchisedec."
+                "text": "Whither the forerunner is for us entered, even Yeshua, made an high priest for ever after the order of Melchisedec."
               }
             ]
           },
@@ -13419,7 +13419,7 @@
               },
               {
                 "vnumber": "22",
-                "text": "By so much was Jesus made a surety of a better testament."
+                "text": "By so much was Yeshua made a surety of a better testament."
               },
               {
                 "vnumber": "23",
@@ -13549,7 +13549,7 @@
               },
               {
                 "vnumber": "11",
-                "text": "But Christ being come an high priest of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of this building;"
+                "text": "But Messiah being come an high priest of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of this building;"
               },
               {
                 "vnumber": "12",
@@ -13561,7 +13561,7 @@
               },
               {
                 "vnumber": "14",
-                "text": "How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?"
+                "text": "How much more shall the blood of Messiah, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?"
               },
               {
                 "vnumber": "15",
@@ -13601,7 +13601,7 @@
               },
               {
                 "vnumber": "24",
-                "text": "For Christ is not entered into the holy places made with hands, which are the figures of the true; but into heaven itself, now to appear in the presence of God for us:"
+                "text": "For Messiah is not entered into the holy places made with hands, which are the figures of the true; but into heaven itself, now to appear in the presence of God for us:"
               },
               {
                 "vnumber": "25",
@@ -13617,7 +13617,7 @@
               },
               {
                 "vnumber": "28",
-                "text": "So Christ was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation."
+                "text": "So Messiah was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation."
               }
             ]
           },
@@ -13662,7 +13662,7 @@
               },
               {
                 "vnumber": "10",
-                "text": "By the which will we are sanctified through the offering of the body of Jesus Christ once for all."
+                "text": "By the which will we are sanctified through the offering of the body of Yeshua the Messiah once for all."
               },
               {
                 "vnumber": "11",
@@ -13698,7 +13698,7 @@
               },
               {
                 "vnumber": "19",
-                "text": "Having therefore, brethren, boldness to enter into the holiest by the blood of Jesus,"
+                "text": "Having therefore, brethren, boldness to enter into the holiest by the blood of Yeshua,"
               },
               {
                 "vnumber": "20",
@@ -13887,7 +13887,7 @@
               },
               {
                 "vnumber": "26",
-                "text": "Esteeming the reproach of Christ greater riches than the treasures in Egypt: for he had respect unto the recompence of the reward."
+                "text": "Esteeming the reproach of Messiah greater riches than the treasures in Egypt: for he had respect unto the recompence of the reward."
               },
               {
                 "vnumber": "27",
@@ -13956,7 +13956,7 @@
               },
               {
                 "vnumber": "2",
-                "text": "Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God."
+                "text": "Looking unto Yeshua the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God."
               },
               {
                 "vnumber": "3",
@@ -14044,7 +14044,7 @@
               },
               {
                 "vnumber": "24",
-                "text": "And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaketh better things than that of Abel."
+                "text": "And to Yeshua the mediator of the new covenant, and to the blood of sprinkling, that speaketh better things than that of Abel."
               },
               {
                 "vnumber": "25",
@@ -14101,7 +14101,7 @@
               },
               {
                 "vnumber": "8",
-                "text": "Jesus Christ the same yesterday, and to day, and for ever."
+                "text": "Yeshua the Messiah the same yesterday, and to day, and for ever."
               },
               {
                 "vnumber": "9",
@@ -14117,7 +14117,7 @@
               },
               {
                 "vnumber": "12",
-                "text": "Wherefore Jesus also, that he might sanctify the people with his own blood, suffered without the gate."
+                "text": "Wherefore Yeshua also, that he might sanctify the people with his own blood, suffered without the gate."
               },
               {
                 "vnumber": "13",
@@ -14149,11 +14149,11 @@
               },
               {
                 "vnumber": "20",
-                "text": "Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant,"
+                "text": "Now the God of peace, that brought again from the dead our Lord Yeshua, that great shepherd of the sheep, through the blood of the everlasting covenant,"
               },
               {
                 "vnumber": "21",
-                "text": "Make you perfect in every good work to do his will, working in you that which is wellpleasing in his sight, through Jesus Christ; to whom be glory for ever and ever. Amen."
+                "text": "Make you perfect in every good work to do his will, working in you that which is wellpleasing in his sight, through Yeshua the Messiah; to whom be glory for ever and ever. Amen."
               },
               {
                 "vnumber": "22",
@@ -14185,7 +14185,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting."
+                "text": "James, a servant of God and of the Lord Yeshua the Messiah, to the twelve tribes which are scattered abroad, greeting."
               },
               {
                 "vnumber": "2",
@@ -14298,7 +14298,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "My brethren, have not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons."
+                "text": "My brethren, have not the faith of our Lord Yeshua the Messiah, the Lord of glory, with respect of persons."
               },
               {
                 "vnumber": "2",
@@ -14649,15 +14649,15 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,"
+                "text": "Peter, an apostle of Yeshua the Messiah, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,"
               },
               {
                 "vnumber": "2",
-                "text": "Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied."
+                "text": "Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Yeshua the Messiah: Grace unto you, and peace, be multiplied."
               },
               {
                 "vnumber": "3",
-                "text": "Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,"
+                "text": "Blessed be the God and Father of our Lord Yeshua the Messiah, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Yeshua the Messiah from the dead,"
               },
               {
                 "vnumber": "4",
@@ -14673,7 +14673,7 @@
               },
               {
                 "vnumber": "7",
-                "text": "That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ:"
+                "text": "That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Yeshua the Messiah:"
               },
               {
                 "vnumber": "8",
@@ -14689,7 +14689,7 @@
               },
               {
                 "vnumber": "11",
-                "text": "Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow."
+                "text": "Searching what, or what manner of time the Spirit of Messiah which was in them did signify, when it testified beforehand the sufferings of Messiah, and the glory that should follow."
               },
               {
                 "vnumber": "12",
@@ -14697,7 +14697,7 @@
               },
               {
                 "vnumber": "13",
-                "text": "Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ;"
+                "text": "Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Yeshua the Messiah;"
               },
               {
                 "vnumber": "14",
@@ -14721,7 +14721,7 @@
               },
               {
                 "vnumber": "19",
-                "text": "But with the precious blood of Christ, as of a lamb without blemish and without spot:"
+                "text": "But with the precious blood of Messiah, as of a lamb without blemish and without spot:"
               },
               {
                 "vnumber": "20",
@@ -14770,7 +14770,7 @@
               },
               {
                 "vnumber": "5",
-                "text": "Ye also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ."
+                "text": "Ye also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Yeshua the Messiah."
               },
               {
                 "vnumber": "6",
@@ -14834,7 +14834,7 @@
               },
               {
                 "vnumber": "21",
-                "text": "For even hereunto were ye called: because Christ also suffered for us, leaving us an example, that ye should follow his steps:"
+                "text": "For even hereunto were ye called: because Messiah also suffered for us, leaving us an example, that ye should follow his steps:"
               },
               {
                 "vnumber": "22",
@@ -14919,7 +14919,7 @@
               },
               {
                 "vnumber": "16",
-                "text": "Having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conversation in Christ."
+                "text": "Having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conversation in Messiah."
               },
               {
                 "vnumber": "17",
@@ -14927,7 +14927,7 @@
               },
               {
                 "vnumber": "18",
-                "text": "For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:"
+                "text": "For Messiah also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:"
               },
               {
                 "vnumber": "19",
@@ -14939,7 +14939,7 @@
               },
               {
                 "vnumber": "21",
-                "text": "The like figure whereunto even baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ:"
+                "text": "The like figure whereunto even baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Yeshua the Messiah:"
               },
               {
                 "vnumber": "22",
@@ -14952,7 +14952,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;"
+                "text": "Forasmuch then as Messiah hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;"
               },
               {
                 "vnumber": "2",
@@ -14992,7 +14992,7 @@
               },
               {
                 "vnumber": "11",
-                "text": "If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God giveth: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen."
+                "text": "If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God giveth: that God in all things may be glorified through Yeshua the Messiah, to whom be praise and dominion for ever and ever. Amen."
               },
               {
                 "vnumber": "12",
@@ -15000,11 +15000,11 @@
               },
               {
                 "vnumber": "13",
-                "text": "But rejoice, inasmuch as ye are partakers of Christ's sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy."
+                "text": "But rejoice, inasmuch as ye are partakers of Messiah's sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy."
               },
               {
                 "vnumber": "14",
-                "text": "If ye be reproached for the name of Christ, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified."
+                "text": "If ye be reproached for the name of Messiah, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified."
               },
               {
                 "vnumber": "15",
@@ -15033,7 +15033,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed:"
+                "text": "The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Messiah, and also a partaker of the glory that shall be revealed:"
               },
               {
                 "vnumber": "2",
@@ -15069,7 +15069,7 @@
               },
               {
                 "vnumber": "10",
-                "text": "But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you."
+                "text": "But the God of all grace, who hath called us unto his eternal glory by Messiah Yeshua, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you."
               },
               {
                 "vnumber": "11",
@@ -15085,7 +15085,7 @@
               },
               {
                 "vnumber": "14",
-                "text": "Greet ye one another with a kiss of charity. Peace be with you all that are in Christ Jesus. Amen."
+                "text": "Greet ye one another with a kiss of charity. Peace be with you all that are in Messiah Yeshua. Amen."
               }
             ]
           }
@@ -15101,11 +15101,11 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:"
+                "text": "Simon Peter, a servant and an apostle of Yeshua the Messiah, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Yeshua the Messiah:"
               },
               {
                 "vnumber": "2",
-                "text": "Grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord,"
+                "text": "Grace and peace be multiplied unto you through the knowledge of God, and of Yeshua our Lord,"
               },
               {
                 "vnumber": "3",
@@ -15130,7 +15130,7 @@
               },
               {
                 "vnumber": "8",
-                "text": "For if these things be in you, and abound, they make you that ye shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ."
+                "text": "For if these things be in you, and abound, they make you that ye shall neither be barren nor unfruitful in the knowledge of our Lord Yeshua the Messiah."
               },
               {
                 "vnumber": "9",
@@ -15142,7 +15142,7 @@
               },
               {
                 "vnumber": "11",
-                "text": "For so an entrance shall be ministered unto you abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ."
+                "text": "For so an entrance shall be ministered unto you abundantly into the everlasting kingdom of our Lord and Saviour Yeshua the Messiah."
               },
               {
                 "vnumber": "12",
@@ -15154,7 +15154,7 @@
               },
               {
                 "vnumber": "14",
-                "text": "Knowing that shortly I must put off this my tabernacle, even as our Lord Jesus Christ hath shewed me."
+                "text": "Knowing that shortly I must put off this my tabernacle, even as our Lord Yeshua the Messiah hath shewed me."
               },
               {
                 "vnumber": "15",
@@ -15162,7 +15162,7 @@
               },
               {
                 "vnumber": "16",
-                "text": "For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty."
+                "text": "For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Yeshua the Messiah, but were eyewitnesses of his majesty."
               },
               {
                 "vnumber": "17",
@@ -15267,7 +15267,7 @@
               },
               {
                 "vnumber": "20",
-                "text": "For if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled therein, and overcome, the latter end is worse with them than the beginning."
+                "text": "For if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Yeshua the Messiah, they are again entangled therein, and overcome, the latter end is worse with them than the beginning."
               },
               {
                 "vnumber": "21",
@@ -15352,7 +15352,7 @@
               },
               {
                 "vnumber": "18",
-                "text": "But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and for ever. Amen."
+                "text": "But grow in grace, and in the knowledge of our Lord and Saviour Yeshua the Messiah. To him be glory both now and for ever. Amen."
               }
             ]
           }
@@ -15376,7 +15376,7 @@
               },
               {
                 "vnumber": "3",
-                "text": "That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Jesus Christ."
+                "text": "That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Yeshua the Messiah."
               },
               {
                 "vnumber": "4",
@@ -15392,7 +15392,7 @@
               },
               {
                 "vnumber": "7",
-                "text": "But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin."
+                "text": "But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Yeshua the Messiah his Son cleanseth us from all sin."
               },
               {
                 "vnumber": "8",
@@ -15413,7 +15413,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:"
+                "text": "My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Yeshua the Messiah the righteous:"
               },
               {
                 "vnumber": "2",
@@ -15481,7 +15481,7 @@
               },
               {
                 "vnumber": "18",
-                "text": "Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time."
+                "text": "Little children, it is the last time: and as ye have heard that the false messiah shall come, even now are there many false messiahs; whereby we know that it is the last time."
               },
               {
                 "vnumber": "19",
@@ -15497,7 +15497,7 @@
               },
               {
                 "vnumber": "22",
-                "text": "Who is a liar but he that denieth that Jesus is the Christ? He is antichrist, that denieth the Father and the Son."
+                "text": "Who is a liar but he that denieth that Yeshua is the Messiah? He is false messiah, that denieth the Father and the Son."
               },
               {
                 "vnumber": "23",
@@ -15622,7 +15622,7 @@
               },
               {
                 "vnumber": "23",
-                "text": "And this is his commandment, That we should believe on the name of his Son Jesus Christ, and love one another, as he gave us commandment."
+                "text": "And this is his commandment, That we should believe on the name of his Son Yeshua the Messiah, and love one another, as he gave us commandment."
               },
               {
                 "vnumber": "24",
@@ -15639,11 +15639,11 @@
               },
               {
                 "vnumber": "2",
-                "text": "Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God:"
+                "text": "Hereby know ye the Spirit of God: Every spirit that confesseth that Yeshua the Messiah is come in the flesh is of God:"
               },
               {
                 "vnumber": "3",
-                "text": "And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof ye have heard that it should come; and even now already is it in the world."
+                "text": "And every spirit that confesseth not that Yeshua the Messiah is come in the flesh is not of God: and this is that spirit of false messiah, whereof ye have heard that it should come; and even now already is it in the world."
               },
               {
                 "vnumber": "4",
@@ -15691,7 +15691,7 @@
               },
               {
                 "vnumber": "15",
-                "text": "Whosoever shall confess that Jesus is the Son of God, God dwelleth in him, and he in God."
+                "text": "Whosoever shall confess that Yeshua is the Son of God, God dwelleth in him, and he in God."
               },
               {
                 "vnumber": "16",
@@ -15724,7 +15724,7 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Whosoever believeth that Jesus is the Christ is born of God: and every one that loveth him that begat loveth him also that is begotten of him."
+                "text": "Whosoever believeth that Yeshua is the Messiah is born of God: and every one that loveth him that begat loveth him also that is begotten of him."
               },
               {
                 "vnumber": "2",
@@ -15740,19 +15740,19 @@
               },
               {
                 "vnumber": "5",
-                "text": "Who is he that overcometh the world, but he that believeth that Jesus is the Son of God?"
+                "text": "Who is he that overcometh the world, but he that believeth that Yeshua is the Son of God?"
               },
               {
                 "vnumber": "6",
-                "text": "This is he that came by water and blood, even Jesus Christ; not by water only, but by water and blood. And it is the Spirit that beareth witness, because the Spirit is truth."
+                "text": "This is he that came by water and blood, even Yeshua the Messiah; not by water only, but by water and blood. And it is the Spirit that beareth witness, because the Spirit is truth."
               },
               {
                 "vnumber": "7",
-                "text": "For there are three that bear record in heaven, the Father, the Word, and the Holy Spirit: and these three are one."
+                "text": "For there are three that bear witness:"
               },
               {
                 "vnumber": "8",
-                "text": "And there are three that bear witness in earth, the Spirit, and the water, and the blood: and these three agree in one."
+                "text": "The Spirit, and the water, and the blood: and these three agree in one."
               },
               {
                 "vnumber": "9",
@@ -15800,7 +15800,7 @@
               },
               {
                 "vnumber": "20",
-                "text": "And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life."
+                "text": "And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Yeshua the Messiah. This is the true God, and eternal life."
               },
               {
                 "vnumber": "21",
@@ -15827,7 +15827,7 @@
             },
             {
               "vnumber": "3",
-              "text": "Grace be with you, mercy, and peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love."
+              "text": "Grace be with you, mercy, and peace, from God the Father, and from the Lord Yeshua the Messiah, the Son of the Father, in truth and love."
             },
             {
               "vnumber": "4",
@@ -15843,7 +15843,7 @@
             },
             {
               "vnumber": "7",
-              "text": "For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist."
+              "text": "For many deceivers are entered into the world, who confess not that Yeshua the Messiah is come in the flesh. This is a deceiver and a false messiah."
             },
             {
               "vnumber": "8",
@@ -15851,7 +15851,7 @@
             },
             {
               "vnumber": "9",
-              "text": "Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son."
+              "text": "Whosoever transgresseth, and abideth not in the doctrine of Messiah, hath not God. He that abideth in the doctrine of Messiah, he hath both the Father and the Son."
             },
             {
               "vnumber": "10",
@@ -15947,7 +15947,7 @@
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, and called:"
+              "text": "Jude, the servant of Yeshua the Messiah, and brother of James, to them that are sanctified by God the Father, and preserved in Yeshua the Messiah, and called:"
             },
             {
               "vnumber": "2",
@@ -15959,7 +15959,7 @@
             },
             {
               "vnumber": "4",
-              "text": "For there are certain men crept in unawares, who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ."
+              "text": "For there are certain men crept in unawares, who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Yeshua the Messiah."
             },
             {
               "vnumber": "5",
@@ -16011,7 +16011,7 @@
             },
             {
               "vnumber": "17",
-              "text": "But, beloved, remember ye the words which were spoken before of the apostles of our Lord Jesus Christ;"
+              "text": "But, beloved, remember ye the words which were spoken before of the apostles of our Lord Yeshua the Messiah;"
             },
             {
               "vnumber": "18",
@@ -16027,7 +16027,7 @@
             },
             {
               "vnumber": "21",
-              "text": "Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life."
+              "text": "Keep yourselves in the love of God, looking for the mercy of our Lord Yeshua the Messiah unto eternal life."
             },
             {
               "vnumber": "22",
@@ -16058,11 +16058,11 @@
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John:"
+                "text": "The Revelation of Yeshua the Messiah, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John:"
               },
               {
                 "vnumber": "2",
-                "text": "Who bare record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw."
+                "text": "Who bare record of the word of God, and of the testimony of Yeshua the Messiah, and of all things that he saw."
               },
               {
                 "vnumber": "3",
@@ -16074,7 +16074,7 @@
               },
               {
                 "vnumber": "5",
-                "text": "And from Jesus Christ, who is the faithful witness, and the first begotten of the dead, and the prince of the kings of the earth. Unto him that loved us, and washed us from our sins in his own blood,"
+                "text": "And from Yeshua the Messiah, who is the faithful witness, and the first begotten of the dead, and the prince of the kings of the earth. Unto him that loved us, and washed us from our sins in his own blood,"
               },
               {
                 "vnumber": "6",
@@ -16090,7 +16090,7 @@
               },
               {
                 "vnumber": "9",
-                "text": "I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ."
+                "text": "I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Yeshua the Messiah, was in the isle that is called Patmos, for the word of God, and for the testimony of Yeshua the Messiah."
               },
               {
                 "vnumber": "10",
@@ -16159,7 +16159,7 @@
               },
               {
                 "vnumber": "5",
-                "text": "Remember therefore where you fell from, and repent, and do the works you did before; or else I will come to you suddenly and will remove your lamp stand from its place - unless you repent."
+                "text": "Therefore remember where you fell from, and repent, and do the works you did before; or else I will come to you suddenly and will remove your lamp stand from its place - unless you repent."
               },
               {
                 "vnumber": "6",
@@ -16864,7 +16864,7 @@
               },
               {
                 "vnumber": "15",
-                "text": "And the seventh angel sounded; and there were great voices in heaven, saying, The kingdoms of this world are become the kingdoms of our Lord, and of his Christ; and he shall reign for ever and ever."
+                "text": "And the seventh angel sounded; and there were great voices in heaven, saying, The kingdoms of this world are become the kingdoms of our Lord, and of his Messiah; and he shall reign for ever and ever."
               },
               {
                 "vnumber": "16",
@@ -16925,7 +16925,7 @@
               },
               {
                 "vnumber": "10",
-                "text": "And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night."
+                "text": "And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Messiah: for the accuser of our brethren is cast down, which accused them before our God day and night."
               },
               {
                 "vnumber": "11",
@@ -16953,7 +16953,7 @@
               },
               {
                 "vnumber": "17",
-                "text": "And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ."
+                "text": "And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Yeshua the Messiah."
               }
             ]
           },
@@ -17083,7 +17083,7 @@
               },
               {
                 "vnumber": "12",
-                "text": "Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus."
+                "text": "Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Yeshua."
               },
               {
                 "vnumber": "13",
@@ -17270,7 +17270,7 @@
               },
               {
                 "vnumber": "6",
-                "text": "And I saw the woman drunken with the blood of the saints, and with the blood of the martyrs of Jesus: and when I saw her, I wondered with great admiration."
+                "text": "And I saw the woman drunken with the blood of the saints, and with the blood of the martyrs of Yeshua: and when I saw her, I wondered with great admiration."
               },
               {
                 "vnumber": "7",
@@ -17464,7 +17464,7 @@
               },
               {
                 "vnumber": "10",
-                "text": "And I fell at his feet to worship him. And he said unto me, See thou do it not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy."
+                "text": "And I fell at his feet to worship him. And he said unto me, See thou do it not: I am thy fellowservant, and of thy brethren that have the testimony of Yeshua: worship God: for the testimony of Yeshua is the spirit of prophecy."
               },
               {
                 "vnumber": "11",
@@ -17529,7 +17529,7 @@
               },
               {
                 "vnumber": "4",
-                "text": "And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years."
+                "text": "And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Yeshua, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Messiah a thousand years."
               },
               {
                 "vnumber": "5",
@@ -17537,7 +17537,7 @@
               },
               {
                 "vnumber": "6",
-                "text": "Blessed and holy is he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years."
+                "text": "Blessed and holy is he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Messiah, and shall reign with him a thousand years."
               },
               {
                 "vnumber": "7",
@@ -17755,7 +17755,7 @@
               },
               {
                 "vnumber": "16",
-                "text": "I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, and the bright and morning star."
+                "text": "I Yeshua have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, and the bright and morning star."
               },
               {
                 "vnumber": "17",
@@ -17771,11 +17771,11 @@
               },
               {
                 "vnumber": "20",
-                "text": "He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus."
+                "text": "He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Yeshua."
               },
               {
                 "vnumber": "21",
-                "text": "The grace of our Lord Jesus Christ be with you all. Amen."
+                "text": "The grace of our Lord Yeshua the Messiah be with you all. Amen."
               }
             ]
           }
