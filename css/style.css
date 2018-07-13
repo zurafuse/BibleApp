@@ -17,7 +17,7 @@ ul {
 	list-style-type:none;	
 }
 
-.books-class, .chapters, .verses {
+.books-class, .chapters, .verses, .previous, .next {
 	font-size: 16pt;
 }
 
@@ -25,7 +25,22 @@ ul {
 	padding-top: 8pt;	
 }
 
+.previous {
+	padding-top: 12pt;	
+	background-color: #b8edb6;
+}
+
+.next {
+	padding-top: 12pt;
+	background-color: #c1c9f2;
+}
+
 .books-class:hover, .chapters:hover, .verses:hover {
+	font-size: 16pt;
+	background-color: #ddd;
+}
+
+.previous:hover, .next:hover {
 	font-size: 16pt;
 	background-color: #ddd;
 }
