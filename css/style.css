@@ -27,12 +27,22 @@ ul {
 
 .previous {
 	padding-top: 12pt;	
-	background-color: #b8edb6;
+	padding-bottom: 12pt;
+	font-weight: bold;
+	color: white;
+	background-color: #17591e;
+	text-align: center;
+	box-shadow: 5px 10px 18px #17591e;
 }
 
 .next {
 	padding-top: 12pt;
-	background-color: #c1c9f2;
+	padding-bottom: 12pt;
+	font-weight: bold;
+	color: white;
+	background-color: #2c518c;
+	text-align: center;
+	box-shadow: 5px 10px 18px #2c518c;
 }
 
 .books-class:hover, .chapters:hover, .verses:hover {
@@ -42,6 +52,7 @@ ul {
 
 .previous:hover, .next:hover {
 	font-size: 16pt;
+	color: black;
 	background-color: #ddd;
 }
 
