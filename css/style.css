@@ -25,6 +25,10 @@ ul {
 	padding-top: 8pt;	
 }
 
+.about-text {
+	font-size: 16pt;
+}
+
 .previous {
 	padding-top: 12pt;	
 	padding-bottom: 12pt;
@@ -33,6 +37,8 @@ ul {
 	background-color: #17591e;
 	text-align: center;
 	box-shadow: 5px 10px 18px #17591e;
+	margin-bottom: 8pt;
+	margin-top: 9pt;
 }
 
 .next {
@@ -43,11 +49,18 @@ ul {
 	background-color: #2c518c;
 	text-align: center;
 	box-shadow: 5px 10px 18px #2c518c;
+	margin-bottom: 8pt;
+	margin-top: 9pt;
 }
 
-.books-class:hover, .chapters:hover, .verses:hover {
+.books-class:hover, .chapters:hover, .untranslated:hover {
 	font-size: 16pt;
 	background-color: #ddd;
+}
+
+.translated:hover {
+	font-size: 16pt;
+	background-color: #accaf9;
 }
 
 .previous:hover, .next:hover {
