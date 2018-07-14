@@ -34,6 +34,7 @@ if (pageparam == "all" || pageparam == null || pageparam == undefined || pagepar
 
 else if (pageparam == "torah")
 {
+	$(".book-list").append("<h3 class='lightGrey'>THE TORAH, THE BOOKS OF MOSES</h3>");
 	for (i = 0; i < Torah.BOOKS.length; i++)
 	{
 		$(".book-list").append("<li class='books-class'>" + Torah.BOOKS[i].bname + "</li>");
@@ -42,6 +43,7 @@ else if (pageparam == "torah")
 
 else if (pageparam == "prophets")
 {
+	$(".book-list").append("<h3 class='lightGrey'>THE BOOKS OF THE PROPHETS</h3>");
 	for (i = 0; i < Prophets.BOOKS.length; i++)
 	{
 		$(".book-list").append("<li class='books-class'>" + Prophets.BOOKS[i].bname + "</li>");
@@ -56,6 +58,7 @@ else if (pageparam == "psalms" || pageparam == "Pslams")
 
 else if (pageparam == "ketuvim")
 {
+	$(".book-list").append("<h3 class='lightGrey'>THE KETUVIM, THE HOLY WRITINGS</h3>");
 	for (i = 0; i < Ketuvim.BOOKS.length; i++)
 	{
 		$(".book-list").append("<li class='books-class'>" + Ketuvim.BOOKS[i].bname + "</li>");
@@ -64,6 +67,7 @@ else if (pageparam == "ketuvim")
 
 else if (pageparam == "gospels")
 {
+	$(".book-list").append("<h3 class='lightGrey'>THE BOOKS OF THE GOSPEL, THE GLAD TIDINGS OF JESUS THE MESSIAH</h3>");
 	for (i = 0; i < Gospel.BOOKS.length; i++)
 	{
 		$(".book-list").append("<li class='books-class'>" + Gospel.BOOKS[i].bname + "</li>");
@@ -72,6 +76,7 @@ else if (pageparam == "gospels")
 
 else if (pageparam == "nt")
 {
+	$(".book-list").append("<h3 class='lightGrey'>THE NEW TESTAMENT EPISTLES AND THE REVELATION</h3>");
 	for (i = 0; i < NewTestament.BOOKS.length; i++)
 	{
 		$(".book-list").append("<li class='books-class'>" + NewTestament.BOOKS[i].bname + "</li>");
@@ -94,6 +99,7 @@ else if (pageparam == "Jude" || pageparam == "Obadiah" ||
 			{	
 				if (NewTestament.BOOKS[i].bname == pageparam)
 				{
+					bookChapter = NewTestament.BOOKS[i];
 					displayVerses(NewTestament.BOOKS[i].CHAPTER);
 				}
 			}
@@ -104,6 +110,7 @@ else if (pageparam == "Jude" || pageparam == "Obadiah" ||
 			{	
 				if (Prophets.BOOKS[i].bname == pageparam)
 				{
+					bookChapter = Prophets.BOOKS[i];
 					displayVerses(Prophets.BOOKS[i].CHAPTER);
 				}
 			}

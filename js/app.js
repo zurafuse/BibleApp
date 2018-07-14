@@ -40,7 +40,14 @@ $(".bible-menu").change(function() {
 });
 
 function displayChapters(biblebook){
-	$(".book-list").append("<h2>" + biblebook.bname + "</h2>");
+	if (biblebook.bname == "Psalm")
+	{
+		$(".book-list").append("<h2>Psalms</h2>");
+	}
+	else
+	{
+		$(".book-list").append("<h2>" + biblebook.bname + "</h2>");
+	}
 	for (j = 0; j < biblebook.CHAPTER.length; j++)
 	{
 		$(".book-list").append("<li class='chapters'>CHAPTER " + biblebook.CHAPTER[j].cnumber + "</li>");
@@ -52,18 +59,9 @@ function displayVerses(chapter){
 	$(".verses").remove();
 	$(".chapter-selection").remove();
 	window.scrollTo(0, 0);
-	$(".book-list").append("<h2 class='chapter-selection'>CHAPTER " + chapter.cnumber + "</h2>");
 	currentChapter = parseInt(chapter.cnumber) - 1;
-	//display chapter reference if it exists.
-	if (chapter.CAPTION != undefined)
-	{
-		$(".book-list").append("<li class='verses'>" + chapter.CAPTION.text + "</li>");
-	}
-	//display all verses for the chapter.
-	for (k = 0; k < chapter.VERS.length; k++)
-	{
-		$(".book-list").append("<li class='verses' >" + chapter.VERS[k].vnumber + " " + chapter.VERS[k].text + "</li>");
-	}
+	
+	//display "previous" and "next" buttons at bottom of page.
 	//only display "previous chapter" if it is not the first chapter.
 	if (currentChapter > 0 && bookChapter.CHAPTER.length > currentChapter + 1)
 	{
@@ -79,6 +77,55 @@ function displayVerses(chapter){
 	{
 		$(".book-list").append("<div class='row chapter-selection'><div class='col-sm-5'><li class='previous'>PREVIOUS CHAPTER</li></div><div class='col-sm-5'><li></li></div></div>");
 	}
+	//end of previous and next buttons	
+	
+	//Display Chapter number if there is more than one chapter. Otherwise, display book.
+	if (bookChapter.bname == "Obadiah" || bookChapter.bname == "3 John" ||
+		bookChapter.bname == "Philemon" || bookChapter.bname == "2 John" || 
+		bookChapter.bname == "Jude")
+	{
+		$(".book-list").append("<h2 class='chapter-selection'>" + bookChapter.bname + "</h2>");
+	}
+	else
+	{
+		$(".book-list").append("<h2 class='chapter-selection'>CHAPTER " + chapter.cnumber + "</h2>");
+	}
+	
+	//display chapter reference if it exists.
+	if (chapter.CAPTION != undefined)
+	{
+		$(".book-list").append("<li class='verses'>" + chapter.CAPTION.text + "</li>");
+	}
+	//display all verses for the chapter.
+	for (k = 0; k < chapter.VERS.length; k++)
+	{
+		if (chapter.VERS[k].trans == "true")
+		{
+			$(".book-list").append("<li class='verses translated' >" + chapter.VERS[k].vnumber + "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" + chapter.VERS[k].text + "</li>");
+		}
+		else
+		{
+			$(".book-list").append("<li class='verses untranslated' >" + chapter.VERS[k].vnumber + "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" + chapter.VERS[k].text + "</li>");
+		}
+	}
+	
+	//display "previous" and "next" buttons at bottom of page.
+	//only display "previous chapter" if it is not the first chapter.
+	if (currentChapter > 0 && bookChapter.CHAPTER.length > currentChapter + 1)
+	{
+		$(".book-list").append("<div class='row chapter-selection'><div class='col-sm-5'><li class='previous'>PREVIOUS CHAPTER</li></div><div class='col-sm-5'><li class='next'>NEXT CHAPTER</li></div></div>");
+	}
+	//only display "next chapter" if next chapter exists.
+	else if (currentChapter == 0 && bookChapter.CHAPTER.length > currentChapter + 1)
+	{
+		$(".book-list").append("<div class='row chapter-selection'><div class='col-sm-5'><li></li></div><div class='col-sm-5'><li class='next'>NEXT CHAPTER</li></div></div>");
+	}	
+	//last chapter.
+	else if (currentChapter > 0 && bookChapter.CHAPTER.length <= currentChapter + 1)
+	{
+		$(".book-list").append("<div class='row chapter-selection'><div class='col-sm-5'><li class='previous'>PREVIOUS CHAPTER</li></div><div class='col-sm-5'><li></li></div></div>");
+	}
+	//end of previous and next buttons
 	
 	$(".chapters").remove();
 
