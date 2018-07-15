@@ -13,7 +13,7 @@ var Psalms = {
             },
             {
               "vnumber": "2",
-              "text": "But his delight is in the law of the LORD; and in his law doth he meditate day and night."
+              "text": "But his delight is in the Law of Yahweh; and in his law doth he meditate day and night."
             },
             {
               "vnumber": "3",
@@ -29,7 +29,7 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "For the LORD knoweth the way of the righteous: but the way of the ungodly shall perish."
+              "text": "For Yahweh knoweth the way of the righteous: but the way of the ungodly shall perish."
             }
           ]
         },
@@ -42,7 +42,7 @@ var Psalms = {
             },
             {
               "vnumber": "2",
-              "text": "The kings of the earth set themselves, and the rulers take counsel together, against the LORD, and against his anointed, saying,"
+              "text": "The kings of the earth set themselves, and the rulers take counsel together, against Yahweh, and against his anointed, saying,"
             },
             {
               "vnumber": "3",
@@ -62,7 +62,7 @@ var Psalms = {
             },
             {
               "vnumber": "7",
-              "text": "I will declare the decree: the LORD hath said unto me, Thou art my Son; this day have I begotten thee."
+              "text": "I will declare the decree: Yahweh hath said unto me, Thou art my Son; this day have I begotten thee."
             },
             {
               "vnumber": "8",
@@ -78,7 +78,7 @@ var Psalms = {
             },
             {
               "vnumber": "11",
-              "text": "Serve the LORD with fear, and rejoice with trembling."
+              "text": "Serve Yahweh with fear, and rejoice with trembling."
             },
             {
               "vnumber": "12",
@@ -95,7 +95,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "LORD, how are they increased that trouble me! many are they that rise up against me."
+              "text": "Oh Yahweh, how are they increased that trouble me! many are they that rise up against me."
             },
             {
               "vnumber": "2",
@@ -103,15 +103,15 @@ var Psalms = {
             },
             {
               "vnumber": "3",
-              "text": "But thou, O LORD, art a shield for me; my glory, and the lifter up of mine head."
+              "text": "But thou, Oh Yahweh, art a shield for me; my glory, and the lifter up of mine head."
             },
             {
               "vnumber": "4",
-              "text": "I cried unto the LORD with my voice, and he heard me out of his holy hill. Selah."
+              "text": "I cried unto Yahweh with my voice, and he heard me out of his holy hill. Selah."
             },
             {
               "vnumber": "5",
-              "text": "I laid me down and slept; I awaked; for the LORD sustained me."
+              "text": "I laid me down and slept; I awaked; for Yahweh sustained me."
             },
             {
               "vnumber": "6",
@@ -119,11 +119,11 @@ var Psalms = {
             },
             {
               "vnumber": "7",
-              "text": "Arise, O LORD; save me, O my God: for thou hast smitten all mine enemies upon the cheek bone; thou hast broken the teeth of the ungodly."
+              "text": "Arise, Oh Yahweh; save me, my God: for thou hast smitten all mine enemies upon the cheek bone; thou hast broken the teeth of the ungodly."
             },
             {
               "vnumber": "8",
-              "text": "Salvation belongeth unto the LORD: thy blessing is upon thy people. Selah."
+              "text": "Salvation belongeth unto Yahweh: thy blessing is upon thy people. Selah."
             }
           ]
         },
@@ -136,7 +136,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Hear me when I call, O God of my righteousness: thou hast enlarged me when I was in distress; have mercy upon me, and hear my prayer."
+              "text": "Hear me when I call, Oh God of my righteousness: thou hast enlarged me when I was in distress; have mercy upon me, and hear my prayer."
             },
             {
               "vnumber": "2",
@@ -144,7 +144,7 @@ var Psalms = {
             },
             {
               "vnumber": "3",
-              "text": "But know that the LORD hath set apart him that is godly for himself: the LORD will hear when I call unto him."
+              "text": "But know that Yahweh hath set apart him that is godly for himself: Yahweh will hear when I call unto him."
             },
             {
               "vnumber": "4",
@@ -152,11 +152,11 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "Offer the sacrifices of righteousness, and put your trust in the LORD."
+              "text": "Offer the sacrifices of righteousness, and put your trust in Yahweh."
             },
             {
               "vnumber": "6",
-              "text": "There be many that say, Who will shew us any good? LORD, lift thou up the light of thy countenance upon us."
+              "text": "There be many that say, Who will shew us any good? Yahweh, lift thou up the light of thy countenance upon us."
             },
             {
               "vnumber": "7",
@@ -164,7 +164,7 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "I will both lay me down in peace, and sleep: for thou, LORD, only makest me dwell in safety."
+              "text": "I will both lay me down in peace, and sleep: for thou, Yahweh, only makest me dwell in safety."
             }
           ]
         },
@@ -177,7 +177,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Give ear to my words, O LORD, consider my meditation."
+              "text": "Give ear to my words, Oh Yahweh, consider my meditation."
             },
             {
               "vnumber": "2",
@@ -185,7 +185,7 @@ var Psalms = {
             },
             {
               "vnumber": "3",
-              "text": "My voice shalt thou hear in the morning, O LORD; in the morning will I direct my prayer unto thee, and will look up."
+              "text": "My voice shalt thou hear in the morning, Oh Yahweh; in the morning will I direct my prayer unto thee, and will look up."
             },
             {
               "vnumber": "4",
@@ -197,7 +197,7 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "Thou shalt destroy them that speak leasing: the LORD will abhor the bloody and deceitful man."
+              "text": "Thou shalt destroy them that speak leasing: Yahweh will abhor the bloody and deceitful man."
             },
             {
               "vnumber": "7",
@@ -205,7 +205,7 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "Lead me, O LORD, in thy righteousness because of mine enemies; make thy way straight before my face."
+              "text": "Lead me, Oh Yahweh, in thy righteousness because of mine enemies; make thy way straight before my face."
             },
             {
               "vnumber": "9",
@@ -221,7 +221,7 @@ var Psalms = {
             },
             {
               "vnumber": "12",
-              "text": "For thou, LORD, wilt bless the righteous; with favour wilt thou compass him as with a shield."
+              "text": "For thou, Yahweh, wilt bless the righteous; with favour wilt thou compass him as with a shield."
             }
           ]
         },
@@ -234,19 +234,19 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure."
+              "text": "Oh Yahweh, rebuke me not in thine anger, neither chasten me in thy hot displeasure."
             },
             {
               "vnumber": "2",
-              "text": "Have mercy upon me, O LORD; for I am weak: O LORD, heal me; for my bones are vexed."
+              "text": "Have mercy upon me, Oh Yahweh; for I am weak: Oh Yahweh, heal me; for my bones are vexed."
             },
             {
               "vnumber": "3",
-              "text": "My soul is also sore vexed: but thou, O LORD, how long?"
+              "text": "My soul is also sore vexed: but thou, Oh Yahweh, how long?"
             },
             {
               "vnumber": "4",
-              "text": "Return, O LORD, deliver my soul: oh save me for thy mercies' sake."
+              "text": "Return, Oh Yahweh, deliver my soul: oh save me for thy mercies' sake."
             },
             {
               "vnumber": "5",
@@ -262,11 +262,11 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "Depart from me, all ye workers of iniquity; for the LORD hath heard the voice of my weeping."
+              "text": "Depart from me, all ye workers of iniquity; for Yahweh hath heard the voice of my weeping."
             },
             {
               "vnumber": "9",
-              "text": "The LORD hath heard my supplication; the LORD will receive my prayer."
+              "text": "Yahweh hath heard my supplication; Yahweh will receive my prayer."
             },
             {
               "vnumber": "10",
@@ -278,12 +278,12 @@ var Psalms = {
           "cnumber": "7",
           "CAPTION": {
             "vref": "1",
-            "text": "Shiggaion of David, which he sang unto the LORD, concerning the words of Cush the Benjamite."
+            "text": "Shiggaion of David, which he sang unto Yahweh, concerning the words of Cush the Benjamite."
           },
           "VERS": [
             {
               "vnumber": "1",
-              "text": "O LORD my God, in thee do I put my trust: save me from all them that persecute me, and deliver me:"
+              "text": "Oh Yahweh my God, in thee do I put my trust: save me from all them that persecute me, and deliver me:"
             },
             {
               "vnumber": "2",
@@ -291,7 +291,7 @@ var Psalms = {
             },
             {
               "vnumber": "3",
-              "text": "O LORD my God, if I have done this; if there be iniquity in my hands;"
+              "text": "Oh Yahweh my God, if I have done this; if there be iniquity in my hands;"
             },
             {
               "vnumber": "4",
@@ -303,7 +303,7 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "Arise, O LORD, in thine anger, lift up thyself because of the rage of mine enemies: and awake for me to the judgment that thou hast commanded."
+              "text": "Arise, Oh Yahweh, in thine anger, lift up thyself because of the rage of mine enemies: and awake for me to the judgment that thou hast commanded."
             },
             {
               "vnumber": "7",
@@ -311,7 +311,7 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "The LORD shall judge the people: judge me, O LORD, according to my righteousness, and according to mine integrity that is in me."
+              "text": "Yahweh shall judge the people: judge me, Oh Yahweh, according to my righteousness, and according to mine integrity that is in me."
             },
             {
               "vnumber": "9",
@@ -347,7 +347,7 @@ var Psalms = {
             },
             {
               "vnumber": "17",
-              "text": "I will praise the LORD according to his righteousness: and will sing praise to the name of Yahweh Elyon."
+              "text": "I will praise Yahweh according to his righteousness: and will sing praise to the name of Yahweh Elyon."
             }
           ]
         },
@@ -403,7 +403,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "I will praise thee, O LORD, with my whole heart; I will shew forth all thy marvellous works."
+              "text": "I will praise thee, Oh Yahweh, with my whole heart; I will shew forth all thy marvellous works."
             },
             {
               "vnumber": "2",
@@ -427,7 +427,7 @@ var Psalms = {
             },
             {
               "vnumber": "7",
-              "text": "But the LORD shall endure for ever: he hath prepared his throne for judgment."
+              "text": "But Yahweh shall endure for ever: he hath prepared his throne for judgment."
             },
             {
               "vnumber": "8",
@@ -435,15 +435,15 @@ var Psalms = {
             },
             {
               "vnumber": "9",
-              "text": "The LORD also will be a refuge for the oppressed, a refuge in times of trouble."
+              "text": "Yahweh also will be a refuge for the oppressed, a refuge in times of trouble."
             },
             {
               "vnumber": "10",
-              "text": "And they that know thy name will put their trust in thee: for thou, LORD, hast not forsaken them that seek thee."
+              "text": "And they that know thy name will put their trust in thee: for thou, Yahweh, hast not forsaken them that seek thee."
             },
             {
               "vnumber": "11",
-              "text": "Sing praises to the LORD, which dwelleth in Zion: declare among the people his doings."
+              "text": "Sing praises to Yahweh, which dwelleth in Zion: declare among the people his doings."
             },
             {
               "vnumber": "12",
@@ -451,7 +451,7 @@ var Psalms = {
             },
             {
               "vnumber": "13",
-              "text": "Have mercy upon me, O LORD; consider my trouble which I suffer of them that hate me, thou that liftest me up from the gates of death:"
+              "text": "Have mercy upon me, Oh Yahweh; consider my trouble which I suffer of them that hate me, thou that liftest me up from the gates of death:"
             },
             {
               "vnumber": "14",
@@ -463,7 +463,7 @@ var Psalms = {
             },
             {
               "vnumber": "16",
-              "text": "The LORD is known by the judgment which he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah."
+              "text": "Yahweh is known by the judgment which he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah."
             },
             {
               "vnumber": "17",
@@ -475,11 +475,11 @@ var Psalms = {
             },
             {
               "vnumber": "19",
-              "text": "Arise, O LORD; let not man prevail: let the heathen be judged in thy sight."
+              "text": "Arise, Oh Yahweh; let not man prevail: let the heathen be judged in thy sight."
             },
             {
               "vnumber": "20",
-              "text": "Put them in fear, O LORD: that the nations may know themselves to be but men. Selah."
+              "text": "Put them in fear, Oh Yahweh: that the nations may know themselves to be but men. Selah."
             }
           ]
         },
@@ -488,7 +488,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Why standest thou afar off, O LORD? why hidest thou thyself in times of trouble?"
+              "text": "Why standest thou afar off, Oh Yahweh? why hidest thou thyself in times of trouble?"
             },
             {
               "vnumber": "2",
@@ -496,7 +496,7 @@ var Psalms = {
             },
             {
               "vnumber": "3",
-              "text": "For the wicked boasteth of his heart's desire, and blesseth the covetous, whom the LORD abhorreth."
+              "text": "For the wicked boasteth of his heart's desire, and blesseth the covetous, whom Yahweh abhorreth."
             },
             {
               "vnumber": "4",
@@ -532,7 +532,7 @@ var Psalms = {
             },
             {
               "vnumber": "12",
-              "text": "Arise, O LORD; O God, lift up thine hand: forget not the humble."
+              "text": "Arise, Oh Yahweh; O God, lift up thine hand: forget not the humble."
             },
             {
               "vnumber": "13",
@@ -548,11 +548,11 @@ var Psalms = {
             },
             {
               "vnumber": "16",
-              "text": "The LORD is King for ever and ever: the heathen are perished out of his land."
+              "text": "Yahweh is King for ever and ever: the heathen are perished out of his land."
             },
             {
               "vnumber": "17",
-              "text": "LORD, thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear:"
+              "text": "Yahweh, thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear:"
             },
             {
               "vnumber": "18",
@@ -569,7 +569,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "In the LORD put I my trust: how say ye to my soul, Flee as a bird to your mountain?"
+              "text": "In Yahweh put I my trust: how say ye to my soul, Flee as a bird to your mountain?"
             },
             {
               "vnumber": "2",
@@ -581,11 +581,11 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "The LORD is in his holy temple, the LORD'S throne is in heaven: his eyes behold, his eyelids try, the children of men."
+              "text": "Yahweh is in his holy temple, Yahweh'S throne is in heaven: his eyes behold, his eyelids try, the children of men."
             },
             {
               "vnumber": "5",
-              "text": "The LORD trieth the righteous: but the wicked and him that loveth violence his soul hateth."
+              "text": "Yahweh trieth the righteous: but the wicked and him that loveth violence his soul hateth."
             },
             {
               "vnumber": "6",
@@ -593,7 +593,7 @@ var Psalms = {
             },
             {
               "vnumber": "7",
-              "text": "For the righteous LORD loveth righteousness; his countenance doth behold the upright."
+              "text": "For the righteous Yahweh loveth righteousness; his countenance doth behold the upright."
             }
           ]
         },
@@ -606,7 +606,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men."
+              "text": "Help, Yahweh; for the godly man ceaseth; for the faithful fail from among the children of men."
             },
             {
               "vnumber": "2",
@@ -614,7 +614,7 @@ var Psalms = {
             },
             {
               "vnumber": "3",
-              "text": "The LORD shall cut off all flattering lips, and the tongue that speaketh proud things:"
+              "text": "Yahweh shall cut off all flattering lips, and the tongue that speaketh proud things:"
             },
             {
               "vnumber": "4",
@@ -622,15 +622,15 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "For the oppression of the poor, for the sighing of the needy, now will I arise, saith the LORD; I will set him in safety from him that puffeth at him."
+              "text": "For the oppression of the poor, for the sighing of the needy, now will I arise, saith Yahweh; I will set him in safety from him that puffeth at him."
             },
             {
               "vnumber": "6",
-              "text": "The words of the LORD are pure words: as silver tried in a furnace of earth, purified seven times."
+              "text": "The words of Yahweh are pure words: as silver tried in a furnace of earth, purified seven times."
             },
             {
               "vnumber": "7",
-              "text": "Thou shalt keep them, O LORD, thou shalt preserve them from this generation for ever."
+              "text": "Thou shalt keep them, Oh Yahweh, thou shalt preserve them from this generation for ever."
             },
             {
               "vnumber": "8",
@@ -647,7 +647,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me?"
+              "text": "How long wilt thou forget me, Oh Yahweh? for ever? how long wilt thou hide thy face from me?"
             },
             {
               "vnumber": "2",
@@ -655,7 +655,7 @@ var Psalms = {
             },
             {
               "vnumber": "3",
-              "text": "Consider and hear me, O LORD my God: lighten mine eyes, lest I sleep the sleep of death;"
+              "text": "Consider and hear me, Oh Yahweh my God: lighten mine eyes, lest I sleep the sleep of death;"
             },
             {
               "vnumber": "4",
@@ -667,7 +667,7 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "I will sing unto the LORD, because he hath dealt bountifully with me."
+              "text": "I will sing unto Yahweh, because he hath dealt bountifully with me."
             }
           ]
         },
@@ -684,7 +684,7 @@ var Psalms = {
             },
             {
               "vnumber": "2",
-              "text": "The LORD looked down from heaven upon the children of men, to see if there were any that did understand, and seek God."
+              "text": "Yahweh looked down from heaven upon the children of men, to see if there were any that did understand, and seek God."
             },
             {
               "vnumber": "3",
@@ -692,7 +692,7 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "Have all the workers of iniquity no knowledge? who eat up my people as they eat bread, and call not upon the LORD."
+              "text": "Have all the workers of iniquity no knowledge? who eat up my people as they eat bread, and call not upon Yahweh."
             },
             {
               "vnumber": "5",
@@ -700,11 +700,11 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "Ye have shamed the counsel of the poor, because the LORD is his refuge."
+              "text": "Ye have shamed the counsel of the poor, because Yahweh is his refuge."
             },
             {
               "vnumber": "7",
-              "text": "Oh that the salvation of Israel were come out of Zion! when the LORD bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad."
+              "text": "Oh that the salvation of Israel were come out of Zion! when Yahweh bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad."
             }
           ]
         },
@@ -717,7 +717,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "LORD, who shall abide in thy tabernacle? who shall dwell in thy holy hill?"
+              "text": "Yahweh, who shall abide in thy tabernacle? who shall dwell in thy holy hill?"
             },
             {
               "vnumber": "2",
@@ -729,7 +729,7 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "In whose eyes a vile person is contemned; but he honoureth them that fear the LORD. He that sweareth to his own hurt, and changeth not."
+              "text": "In whose eyes a vile person is contemned; but he honoureth them that fear Yahweh. He that sweareth to his own hurt, and changeth not."
             },
             {
               "vnumber": "5",
@@ -750,7 +750,8 @@ var Psalms = {
             },
             {
               "vnumber": "2",
-              "text": "O my soul, thou hast said unto the LORD, Thou art my Lord: my goodness extendeth not to thee;"
+              "trans": "true",
+              "text": "You have said unto Yahweh, You are my Lord. My goodness is nothing without you."
             },
             {
               "vnumber": "3",
@@ -762,7 +763,7 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "The LORD is the portion of mine inheritance and of my cup: thou maintainest my lot."
+              "text": "Yahweh is the portion of mine inheritance and of my cup: thou maintainest my lot."
             },
             {
               "vnumber": "6",
@@ -770,11 +771,11 @@ var Psalms = {
             },
             {
               "vnumber": "7",
-              "text": "I will bless the LORD, who hath given me counsel: my reins also instruct me in the night seasons."
+              "text": "I will bless Yahweh, who hath given me counsel: my reins also instruct me in the night seasons."
             },
             {
               "vnumber": "8",
-              "text": "I have set the LORD always before me: because he is at my right hand, I shall not be moved."
+              "text": "I have set Yahweh always before me: because he is at my right hand, I shall not be moved."
             },
             {
               "vnumber": "9",
@@ -799,7 +800,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Hear the right, O LORD, attend unto my cry, give ear unto my prayer, that goeth not out of feigned lips."
+              "text": "Hear the right, Oh Yahweh, attend unto my cry, give ear unto my prayer, that goeth not out of feigned lips."
             },
             {
               "vnumber": "2",
@@ -847,11 +848,11 @@ var Psalms = {
             },
             {
               "vnumber": "13",
-              "text": "Arise, O LORD, disappoint him, cast him down: deliver my soul from the wicked, which is thy sword:"
+              "text": "Arise, Oh Yahweh, disappoint him, cast him down: deliver my soul from the wicked, which is thy sword:"
             },
             {
               "vnumber": "14",
-              "text": "From men which are thy hand, O LORD, from men of the world, which have their portion in this life, and whose belly thou fillest with thy hid treasure: they are full of children, and leave the rest of their substance to their babes."
+              "text": "From men which are thy hand, Oh Yahweh, from men of the world, which have their portion in this life, and whose belly thou fillest with thy hid treasure: they are full of children, and leave the rest of their substance to their babes."
             },
             {
               "vnumber": "15",
@@ -863,20 +864,21 @@ var Psalms = {
           "cnumber": "18",
           "CAPTION": {
             "vref": "1",
-            "text": "To the chief Musician, A Psalm of David, the servant of the LORD, who spake unto the LORD the words of this song in the day that the LORD delivered him from the hand of all his enemies, and from the hand of Saul: And he said, "
+            "text": "To the chief Musician, A Psalm of David, the servant of Yahweh, who spake unto Yahweh the words of this song in the day that Yahweh delivered him from the hand of all his enemies, and from the hand of Saul: And he said, "
           },
           "VERS": [
             {
               "vnumber": "1",
-              "text": "I will love thee, O LORD, my strength."
+              "text": "I will love thee, Oh Yahweh, my strength."
             },
             {
               "vnumber": "2",
-              "text": "The LORD is my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, and my high tower."
+              "trans": "true",
+              "text": "Yahweh is my Rock of refuge, and my Fortress, and my Deliverer. My God is my Rock in whom I take refuge. He is my shield, and the horn of my salvation, and my stronghold."
             },
             {
               "vnumber": "3",
-              "text": "I will call upon the LORD, who is worthy to be praised: so shall I be saved from mine enemies."
+              "text": "I will call upon Yahweh, who is worthy to be praised: so shall I be saved from mine enemies."
             },
             {
               "vnumber": "4",
@@ -888,7 +890,7 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "In my distress I called upon the LORD, and cried unto my God: he heard my voice out of his temple, and my cry came before him, even into his ears."
+              "text": "In my distress I called upon Yahweh, and cried unto my God: he heard my voice out of his temple, and my cry came before him, even into his ears."
             },
             {
               "vnumber": "7",
@@ -924,7 +926,7 @@ var Psalms = {
             },
             {
               "vnumber": "15",
-              "text": "Then the channels of waters were seen, and the foundations of the world were discovered at thy rebuke, O LORD, at the blast of the breath of thy nostrils."
+              "text": "Then the channels of waters were seen, and the foundations of the world were discovered at thy rebuke, Oh Yahweh, at the blast of the breath of thy nostrils."
             },
             {
               "vnumber": "16",
@@ -936,7 +938,7 @@ var Psalms = {
             },
             {
               "vnumber": "18",
-              "text": "They prevented me in the day of my calamity: but the LORD was my stay."
+              "text": "They prevented me in the day of my calamity: but Yahweh was my stay."
             },
             {
               "vnumber": "19",
@@ -944,11 +946,11 @@ var Psalms = {
             },
             {
               "vnumber": "20",
-              "text": "The LORD rewarded me according to my righteousness; according to the cleanness of my hands hath he recompensed me."
+              "text": "Yahweh rewarded me according to my righteousness; according to the cleanness of my hands hath he recompensed me."
             },
             {
               "vnumber": "21",
-              "text": "For I have kept the ways of the LORD, and have not wickedly departed from my God."
+              "text": "For I have kept the ways of Yahweh, and have not wickedly departed from my God."
             },
             {
               "vnumber": "22",
@@ -960,7 +962,7 @@ var Psalms = {
             },
             {
               "vnumber": "24",
-              "text": "Therefore hath the LORD recompensed me according to my righteousness, according to the cleanness of my hands in his eyesight."
+              "text": "Therefore hath Yahweh recompensed me according to my righteousness, according to the cleanness of my hands in his eyesight."
             },
             {
               "vnumber": "25",
@@ -976,7 +978,7 @@ var Psalms = {
             },
             {
               "vnumber": "28",
-              "text": "For thou wilt light my candle: the LORD my God will enlighten my darkness."
+              "text": "For thou wilt light my candle: Yahweh my God will enlighten my darkness."
             },
             {
               "vnumber": "29",
@@ -984,11 +986,11 @@ var Psalms = {
             },
             {
               "vnumber": "30",
-              "text": "As for God, his way is perfect: the word of the LORD is tried: he is a buckler to all those that trust in him."
+              "text": "As for God, his way is perfect: the word of Yahweh is tried: he is a buckler to all those that trust in him."
             },
             {
               "vnumber": "31",
-              "text": "For who is God save the LORD? or who is a rock save our God?"
+              "text": "For who is God save Yahweh? or who is a rock save our God?"
             },
             {
               "vnumber": "32",
@@ -1028,7 +1030,7 @@ var Psalms = {
             },
             {
               "vnumber": "41",
-              "text": "They cried, but there was none to save them: even unto the LORD, but he answered them not."
+              "text": "They cried, but there was none to save them: even unto Yahweh, but he answered them not."
             },
             {
               "vnumber": "42",
@@ -1048,7 +1050,7 @@ var Psalms = {
             },
             {
               "vnumber": "46",
-              "text": "The LORD liveth; and blessed be my rock; and let the God of my salvation be exalted."
+              "text": "Yahweh liveth; and blessed be my rock; and let the God of my salvation be exalted."
             },
             {
               "vnumber": "47",
@@ -1060,7 +1062,7 @@ var Psalms = {
             },
             {
               "vnumber": "49",
-              "text": "Therefore will I give thanks unto thee, O LORD, among the heathen, and sing praises unto thy name."
+              "text": "Therefore will I give thanks unto thee, Oh Yahweh, among the heathen, and sing praises unto thy name."
             },
             {
               "vnumber": "50",
@@ -1101,15 +1103,15 @@ var Psalms = {
             },
             {
               "vnumber": "7",
-              "text": "The law of the LORD is perfect, converting the soul: the testimony of the LORD is sure, making wise the simple."
+              "text": "The law of Yahweh is perfect, converting the soul: the testimony of Yahweh is sure, making wise the simple."
             },
             {
               "vnumber": "8",
-              "text": "The statutes of the LORD are right, rejoicing the heart: the commandment of the LORD is pure, enlightening the eyes."
+              "text": "The statutes of Yahweh are right, rejoicing the heart: the commandment of Yahweh is pure, enlightening the eyes."
             },
             {
               "vnumber": "9",
-              "text": "The fear of the LORD is clean, enduring for ever: the judgments of the LORD are true and righteous altogether."
+              "text": "The fear of Yahweh is clean, enduring for ever: the judgments of Yahweh are true and righteous altogether."
             },
             {
               "vnumber": "10",
@@ -1129,7 +1131,7 @@ var Psalms = {
             },
             {
               "vnumber": "14",
-              "text": "Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer."
+              "text": "Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, Oh Yahweh, my strength, and my redeemer."
             }
           ]
         },
@@ -1142,7 +1144,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee;"
+              "text": "Yahweh hear thee in the day of trouble; the name of the God of Jacob defend thee;"
             },
             {
               "vnumber": "2",
@@ -1158,15 +1160,15 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "We will rejoice in thy salvation, and in the name of our God we will set up our banners: the LORD fulfil all thy petitions."
+              "text": "We will rejoice in thy salvation, and in the name of our God we will set up our banners: Yahweh fulfil all thy petitions."
             },
             {
               "vnumber": "6",
-              "text": "Now know I that the LORD saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand."
+              "text": "Now know I that Yahweh saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand."
             },
             {
               "vnumber": "7",
-              "text": "Some trust in chariots, and some in horses: but we will remember the name of the LORD our God."
+              "text": "Some trust in chariots, and some in horses: but we will remember the name of Yahweh our God."
             },
             {
               "vnumber": "8",
@@ -1174,7 +1176,7 @@ var Psalms = {
             },
             {
               "vnumber": "9",
-              "text": "Save, LORD: let the king hear us when we call."
+              "text": "Save, Yahweh: let the king hear us when we call."
             }
           ]
         },
@@ -1187,7 +1189,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "The king shall joy in thy strength, O LORD; and in thy salvation how greatly shall he rejoice!"
+              "text": "The king shall joy in thy strength, Oh Yahweh; and in thy salvation how greatly shall he rejoice!"
             },
             {
               "vnumber": "2",
@@ -1219,7 +1221,7 @@ var Psalms = {
             },
             {
               "vnumber": "9",
-              "text": "Thou shalt make them as a fiery oven in the time of thine anger: the LORD shall swallow them up in his wrath, and the fire shall devour them."
+              "text": "Thou shalt make them as a fiery oven in the time of thine anger: Yahweh shall swallow them up in his wrath, and the fire shall devour them."
             },
             {
               "vnumber": "10",
@@ -1235,7 +1237,7 @@ var Psalms = {
             },
             {
               "vnumber": "13",
-              "text": "Be thou exalted, LORD, in thine own strength: so will we sing and praise thy power."
+              "text": "Be thou exalted, Yahweh, in thine own strength: so will we sing and praise thy power."
             }
           ]
         },
@@ -1276,7 +1278,7 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "He trusted on the LORD that he would deliver him: let him deliver him, seeing he delighted in him."
+              "text": "He trusted on Yahweh that he would deliver him: let him deliver him, seeing he delighted in him."
             },
             {
               "vnumber": "9",
@@ -1320,7 +1322,7 @@ var Psalms = {
             },
             {
               "vnumber": "19",
-              "text": "But be not thou far from me, O LORD: O my strength, haste thee to help me."
+              "text": "But be not thou far from me, Oh Yahweh: O my strength, haste thee to help me."
             },
             {
               "vnumber": "20",
@@ -1336,7 +1338,7 @@ var Psalms = {
             },
             {
               "vnumber": "23",
-              "text": "Ye that fear the LORD, praise him; all ye the seed of Jacob, glorify him; and fear him, all ye the seed of Israel."
+              "text": "Ye that fear Yahweh, praise him; all ye the seed of Jacob, glorify him; and fear him, all ye the seed of Israel."
             },
             {
               "vnumber": "24",
@@ -1348,15 +1350,15 @@ var Psalms = {
             },
             {
               "vnumber": "26",
-              "text": "The meek shall eat and be satisfied: they shall praise the LORD that seek him: your heart shall live for ever."
+              "text": "The meek shall eat and be satisfied: they shall praise Yahweh that seek him: your heart shall live for ever."
             },
             {
               "vnumber": "27",
-              "text": "All the ends of the world shall remember and turn unto the LORD: and all the kindreds of the nations shall worship before thee."
+              "text": "All the ends of the world shall remember and turn unto Yahweh: and all the kindreds of the nations shall worship before thee."
             },
             {
               "vnumber": "28",
-              "text": "For the kingdom is the LORD'S: and he is the governor among the nations."
+              "text": "For the kingdom is Yahweh'S: and he is the governor among the nations."
             },
             {
               "vnumber": "29",
@@ -1381,7 +1383,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "The LORD is my shepherd; I shall not want."
+              "text": "Yahweh is my shepherd; I shall not want."
             },
             {
               "vnumber": "2",
@@ -1401,7 +1403,7 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever."
+              "text": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of Yahweh for ever."
             }
           ]
         },
@@ -1414,7 +1416,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "The earth is the LORD'S, and the fulness thereof; the world, and they that dwell therein."
+              "text": "The earth is Yahweh'S, and the fulness thereof; the world, and they that dwell therein."
             },
             {
               "vnumber": "2",
@@ -1422,7 +1424,7 @@ var Psalms = {
             },
             {
               "vnumber": "3",
-              "text": "Who shall ascend into the hill of the LORD? or who shall stand in his holy place?"
+              "text": "Who shall ascend into the hill of Yahweh? or who shall stand in his holy place?"
             },
             {
               "vnumber": "4",
@@ -1430,7 +1432,7 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "He shall receive the blessing from the LORD, and righteousness from the God of his salvation."
+              "text": "He shall receive the blessing from Yahweh, and righteousness from the God of his salvation."
             },
             {
               "vnumber": "6",
@@ -1442,7 +1444,7 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "Who is this King of glory? The LORD strong and mighty, the LORD mighty in battle."
+              "text": "Who is this King of glory? Yahweh strong and mighty, Yahweh mighty in battle."
             },
             {
               "vnumber": "9",
@@ -1450,7 +1452,7 @@ var Psalms = {
             },
             {
               "vnumber": "10",
-              "text": "Who is this King of glory? The LORD of hosts, he is the King of glory. Selah."
+              "text": "Who is this King of glory? Yahweh of armies, he is the King of glory. Selah."
             }
           ]
         },
@@ -1463,7 +1465,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Unto thee, O LORD, do I lift up my soul."
+              "text": "Unto thee, Oh Yahweh, do I lift up my soul."
             },
             {
               "vnumber": "2",
@@ -1475,7 +1477,7 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "Shew me thy ways, O LORD; teach me thy paths."
+              "text": "Shew me thy ways, Oh Yahweh; teach me thy paths."
             },
             {
               "vnumber": "5",
@@ -1483,15 +1485,15 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "Remember, O LORD, thy tender mercies and thy lovingkindnesses; for they have been ever of old."
+              "text": "Remember, Oh Yahweh, thy tender mercies and thy lovingkindnesses; for they have been ever of old."
             },
             {
               "vnumber": "7",
-              "text": "Remember not the sins of my youth, nor my transgressions: according to thy mercy remember thou me for thy goodness' sake, O LORD."
+              "text": "Remember not the sins of my youth, nor my transgressions: according to thy mercy remember thou me for thy goodness' sake, Oh Yahweh."
             },
             {
               "vnumber": "8",
-              "text": "Good and upright is the LORD: therefore will he teach sinners in the way."
+              "text": "Good and upright is Yahweh: therefore will he teach sinners in the way."
             },
             {
               "vnumber": "9",
@@ -1499,15 +1501,15 @@ var Psalms = {
             },
             {
               "vnumber": "10",
-              "text": "All the paths of the LORD are mercy and truth unto such as keep his covenant and his testimonies."
+              "text": "All the paths of Yahweh are mercy and truth unto such as keep his covenant and his testimonies."
             },
             {
               "vnumber": "11",
-              "text": "For thy name's sake, O LORD, pardon mine iniquity; for it is great."
+              "text": "For thy name's sake, Oh Yahweh, pardon mine iniquity; for it is great."
             },
             {
               "vnumber": "12",
-              "text": "What man is he that feareth the LORD? him shall he teach in the way that he shall choose."
+              "text": "What man is he that feareth Yahweh? him shall he teach in the way that he shall choose."
             },
             {
               "vnumber": "13",
@@ -1515,11 +1517,11 @@ var Psalms = {
             },
             {
               "vnumber": "14",
-              "text": "The secret of the LORD is with them that fear him; and he will shew them his covenant."
+              "text": "The secret of Yahweh is with them that fear him; and he will shew them his covenant."
             },
             {
               "vnumber": "15",
-              "text": "Mine eyes are ever toward the LORD; for he shall pluck my feet out of the net."
+              "text": "Mine eyes are ever toward Yahweh; for he shall pluck my feet out of the net."
             },
             {
               "vnumber": "16",
@@ -1560,11 +1562,11 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Judge me, O LORD; for I have walked in mine integrity: I have trusted also in the LORD; therefore I shall not slide."
+              "text": "Judge me, Oh Yahweh; for I have walked in mine integrity: I have trusted also in Yahweh; therefore I shall not slide."
             },
             {
               "vnumber": "2",
-              "text": "Examine me, O LORD, and prove me; try my reins and my heart."
+              "text": "Examine me, Oh Yahweh, and prove me; try my reins and my heart."
             },
             {
               "vnumber": "3",
@@ -1580,7 +1582,7 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "I will wash mine hands in innocency: so will I compass thine altar, O LORD:"
+              "text": "I will wash mine hands in innocency: so will I compass thine altar, Oh Yahweh:"
             },
             {
               "vnumber": "7",
@@ -1588,7 +1590,7 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "LORD, I have loved the habitation of thy house, and the place where thine honour dwelleth."
+              "text": "Yahweh, I have loved the habitation of thy house, and the place where thine honour dwelleth."
             },
             {
               "vnumber": "9",
@@ -1604,7 +1606,7 @@ var Psalms = {
             },
             {
               "vnumber": "12",
-              "text": "My foot standeth in an even place: in the congregations will I bless the LORD."
+              "text": "My foot standeth in an even place: in the congregations will I bless Yahweh."
             }
           ]
         },
@@ -1617,7 +1619,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?"
+              "text": "Yahweh is my light and my salvation; whom shall I fear? Yahweh is the strength of my life; of whom shall I be afraid?"
             },
             {
               "vnumber": "2",
@@ -1629,7 +1631,7 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "One thing have I desired of the LORD, that will I seek after; that I may dwell in the house of the LORD all the days of my life, to behold the beauty of the LORD, and to enquire in his temple."
+              "text": "One thing have I desired of Yahweh, that will I seek after; that I may dwell in the house of Yahweh all the days of my life, to behold the beauty of Yahweh, and to enquire in his temple."
             },
             {
               "vnumber": "5",
@@ -1637,15 +1639,15 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "And now shall mine head be lifted up above mine enemies round about me: therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises unto the LORD."
+              "text": "And now shall mine head be lifted up above mine enemies round about me: therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises unto Yahweh."
             },
             {
               "vnumber": "7",
-              "text": "Hear, O LORD, when I cry with my voice: have mercy also upon me, and answer me."
+              "text": "Hear, Oh Yahweh, when I cry with my voice: have mercy also upon me, and answer me."
             },
             {
               "vnumber": "8",
-              "text": "When thou saidst, Seek ye my face; my heart said unto thee, Thy face, LORD, will I seek."
+              "text": "When thou saidst, Seek ye my face; my heart said unto thee, Thy face, Yahweh, will I seek."
             },
             {
               "vnumber": "9",
@@ -1653,11 +1655,11 @@ var Psalms = {
             },
             {
               "vnumber": "10",
-              "text": "When my father and my mother forsake me, then the LORD will take me up."
+              "text": "When my father and my mother forsake me, then Yahweh will take me up."
             },
             {
               "vnumber": "11",
-              "text": "Teach me thy way, O LORD, and lead me in a plain path, because of mine enemies."
+              "text": "Teach me thy way, Oh Yahweh, and lead me in a plain path, because of mine enemies."
             },
             {
               "vnumber": "12",
@@ -1665,11 +1667,11 @@ var Psalms = {
             },
             {
               "vnumber": "13",
-              "text": "I had fainted, unless I had believed to see the goodness of the LORD in the land of the living."
+              "text": "I had fainted, unless I had believed to see the goodness of Yahweh in the land of the living."
             },
             {
               "vnumber": "14",
-              "text": "Wait on the LORD: be of good courage, and he shall strengthen thine heart: wait, I say, on the LORD."
+              "text": "Wait on Yahweh: be of good courage, and he shall strengthen thine heart: wait, I say, on Yahweh."
             }
           ]
         },
@@ -1682,7 +1684,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Unto thee will I cry, O LORD my rock; be not silent to me: lest, if thou be silent to me, I become like them that go down into the pit."
+              "text": "Unto thee will I cry, Oh Yahweh my rock; be not silent to me: lest, if thou be silent to me, I become like them that go down into the pit."
             },
             {
               "vnumber": "2",
@@ -1698,19 +1700,19 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "Because they regard not the works of the LORD, nor the operation of his hands, he shall destroy them, and not build them up."
+              "text": "Because they regard not the works of Yahweh, nor the operation of his hands, he shall destroy them, and not build them up."
             },
             {
               "vnumber": "6",
-              "text": "Blessed be the LORD, because he hath heard the voice of my supplications."
+              "text": "Blessed be Yahweh, because he hath heard the voice of my supplications."
             },
             {
               "vnumber": "7",
-              "text": "The LORD is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him."
+              "text": "Yahweh is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him."
             },
             {
               "vnumber": "8",
-              "text": "The LORD is their strength, and he is the saving strength of his anointed."
+              "text": "Yahweh is their strength, and he is the saving strength of his anointed."
             },
             {
               "vnumber": "9",
@@ -1727,23 +1729,23 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Give unto the LORD, O ye mighty, give unto the LORD glory and strength."
+              "text": "Give unto Yahweh, O ye mighty, give unto Yahweh glory and strength."
             },
             {
               "vnumber": "2",
-              "text": "Give unto the LORD the glory due unto his name; worship the LORD in the beauty of holiness."
+              "text": "Give unto Yahweh the glory due unto his name; worship Yahweh in the beauty of holiness."
             },
             {
               "vnumber": "3",
-              "text": "The voice of the LORD is upon the waters: the God of glory thundereth: the LORD is upon many waters."
+              "text": "The voice of Yahweh is upon the waters: the God of glory thundereth: Yahweh is upon many waters."
             },
             {
               "vnumber": "4",
-              "text": "The voice of the LORD is powerful; the voice of the LORD is full of majesty."
+              "text": "The voice of Yahweh is powerful; the voice of Yahweh is full of majesty."
             },
             {
               "vnumber": "5",
-              "text": "The voice of the LORD breaketh the cedars; yea, the LORD breaketh the cedars of Lebanon."
+              "text": "The voice of Yahweh breaketh the cedars; yea, Yahweh breaketh the cedars of Lebanon."
             },
             {
               "vnumber": "6",
@@ -1751,23 +1753,23 @@ var Psalms = {
             },
             {
               "vnumber": "7",
-              "text": "The voice of the LORD divideth the flames of fire."
+              "text": "The voice of Yahweh divideth the flames of fire."
             },
             {
               "vnumber": "8",
-              "text": "The voice of the LORD shaketh the wilderness; the LORD shaketh the wilderness of Kadesh."
+              "text": "The voice of Yahweh shaketh the wilderness; Yahweh shaketh the wilderness of Kadesh."
             },
             {
               "vnumber": "9",
-              "text": "The voice of the LORD maketh the hinds to calve, and discovereth the forests: and in his temple doth every one speak of his glory."
+              "text": "The voice of Yahweh maketh the hinds to calve, and discovereth the forests: and in his temple doth every one speak of his glory."
             },
             {
               "vnumber": "10",
-              "text": "The LORD sitteth upon the flood; yea, the LORD sitteth King for ever."
+              "text": "Yahweh sitteth upon the flood; yea, Yahweh sitteth King for ever."
             },
             {
               "vnumber": "11",
-              "text": "The LORD will give strength unto his people; the LORD will bless his people with peace."
+              "text": "Yahweh will give strength unto his people; Yahweh will bless his people with peace."
             }
           ]
         },
@@ -1780,19 +1782,19 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "I will extol thee, O LORD; for thou hast lifted me up, and hast not made my foes to rejoice over me."
+              "text": "I will extol thee, Oh Yahweh; for thou hast lifted me up, and hast not made my foes to rejoice over me."
             },
             {
               "vnumber": "2",
-              "text": "O LORD my God, I cried unto thee, and thou hast healed me."
+              "text": "Oh Yahweh my God, I cried unto thee, and thou hast healed me."
             },
             {
               "vnumber": "3",
-              "text": "O LORD, thou hast brought up my soul from the grave: thou hast kept me alive, that I should not go down to the pit."
+              "text": "Oh Yahweh, thou hast brought up my soul from the grave: thou hast kept me alive, that I should not go down to the pit."
             },
             {
               "vnumber": "4",
-              "text": "Sing unto the LORD, O ye saints of his, and give thanks at the remembrance of his holiness."
+              "text": "Sing unto Yahweh, O ye saints of his, and give thanks at the remembrance of his holiness."
             },
             {
               "vnumber": "5",
@@ -1804,11 +1806,11 @@ var Psalms = {
             },
             {
               "vnumber": "7",
-              "text": "LORD, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, and I was troubled."
+              "text": "Yahweh, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, and I was troubled."
             },
             {
               "vnumber": "8",
-              "text": "I cried to thee, O LORD; and unto the LORD I made supplication."
+              "text": "I cried to thee, Oh Yahweh; and unto Yahweh I made supplication."
             },
             {
               "vnumber": "9",
@@ -1816,7 +1818,7 @@ var Psalms = {
             },
             {
               "vnumber": "10",
-              "text": "Hear, O LORD, and have mercy upon me: LORD, be thou my helper."
+              "text": "Hear, Oh Yahweh, and have mercy upon me: Yahweh, be thou my helper."
             },
             {
               "vnumber": "11",
@@ -1824,7 +1826,7 @@ var Psalms = {
             },
             {
               "vnumber": "12",
-              "text": "To the end that my glory may sing praise to thee, and not be silent. O LORD my God, I will give thanks unto thee for ever."
+              "text": "To the end that my glory may sing praise to thee, and not be silent. Oh Yahweh my God, I will give thanks unto thee for ever."
             }
           ]
         },
@@ -1837,7 +1839,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "In thee, O LORD, do I put my trust; let me never be ashamed: deliver me in thy righteousness."
+              "text": "In thee, Oh Yahweh, do I put my trust; let me never be ashamed: deliver me in thy righteousness."
             },
             {
               "vnumber": "2",
@@ -1853,11 +1855,11 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "Into thine hand I commit my spirit: thou hast redeemed me, O LORD God of truth."
+              "text": "Into thine hand I commit my spirit: thou hast redeemed me, Oh Yahweh God of truth."
             },
             {
               "vnumber": "6",
-              "text": "I have hated them that regard lying vanities: but I trust in the LORD."
+              "text": "I have hated them that regard lying vanities: but I trust in Yahweh."
             },
             {
               "vnumber": "7",
@@ -1869,7 +1871,7 @@ var Psalms = {
             },
             {
               "vnumber": "9",
-              "text": "Have mercy upon me, O LORD, for I am in trouble: mine eye is consumed with grief, yea, my soul and my belly."
+              "text": "Have mercy upon me, Oh Yahweh, for I am in trouble: mine eye is consumed with grief, yea, my soul and my belly."
             },
             {
               "vnumber": "10",
@@ -1889,7 +1891,7 @@ var Psalms = {
             },
             {
               "vnumber": "14",
-              "text": "But I trusted in thee, O LORD: I said, Thou art my God."
+              "text": "But I trusted in thee, Oh Yahweh: I said, Thou art my God."
             },
             {
               "vnumber": "15",
@@ -1901,7 +1903,7 @@ var Psalms = {
             },
             {
               "vnumber": "17",
-              "text": "Let me not be ashamed, O LORD; for I have called upon thee: let the wicked be ashamed, and let them be silent in the grave."
+              "text": "Let me not be ashamed, Oh Yahweh; for I have called upon thee: let the wicked be ashamed, and let them be silent in the grave."
             },
             {
               "vnumber": "18",
@@ -1917,7 +1919,7 @@ var Psalms = {
             },
             {
               "vnumber": "21",
-              "text": "Blessed be the LORD: for he hath shewed me his marvellous kindness in a strong city."
+              "text": "Blessed be Yahweh: for he hath shewed me his marvellous kindness in a strong city."
             },
             {
               "vnumber": "22",
@@ -1925,11 +1927,11 @@ var Psalms = {
             },
             {
               "vnumber": "23",
-              "text": "O love the LORD, all ye his saints: for the LORD preserveth the faithful, and plentifully rewardeth the proud doer."
+              "text": "O love Yahweh, all ye his saints: for Yahweh preserveth the faithful, and plentifully rewardeth the proud doer."
             },
             {
               "vnumber": "24",
-              "text": "Be of good courage, and he shall strengthen your heart, all ye that hope in the LORD."
+              "text": "Be of good courage, and he shall strengthen your heart, all ye that hope in Yahweh."
             }
           ]
         },
@@ -1946,7 +1948,7 @@ var Psalms = {
             },
             {
               "vnumber": "2",
-              "text": "Blessed is the man unto whom the LORD imputeth not iniquity, and in whose spirit there is no guile."
+              "text": "Blessed is the man unto whom Yahweh imputeth not iniquity, and in whose spirit there is no guile."
             },
             {
               "vnumber": "3",
@@ -1958,7 +1960,7 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the LORD; and thou forgavest the iniquity of my sin. Selah."
+              "text": "I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto Yahweh; and thou forgavest the iniquity of my sin. Selah."
             },
             {
               "vnumber": "6",
@@ -1978,11 +1980,11 @@ var Psalms = {
             },
             {
               "vnumber": "10",
-              "text": "Many sorrows shall be to the wicked: but he that trusteth in the LORD, mercy shall compass him about."
+              "text": "Many sorrows shall be to the wicked: but he that trusteth in Yahweh, mercy shall compass him about."
             },
             {
               "vnumber": "11",
-              "text": "Be glad in the LORD, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart."
+              "text": "Be glad in Yahweh, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart."
             }
           ]
         },
@@ -1991,11 +1993,11 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Rejoice in the LORD, O ye righteous: for praise is comely for the upright."
+              "text": "Rejoice in Yahweh, O ye righteous: for praise is comely for the upright."
             },
             {
               "vnumber": "2",
-              "text": "Praise the LORD with harp: sing unto him with the psaltery and an instrument of ten strings."
+              "text": "Praise Yahweh with harp: sing unto him with the psaltery and an instrument of ten strings."
             },
             {
               "vnumber": "3",
@@ -2003,15 +2005,15 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "For the word of the LORD is right; and all his works are done in truth."
+              "text": "For the word of Yahweh is right; and all his works are done in truth."
             },
             {
               "vnumber": "5",
-              "text": "He loveth righteousness and judgment: the earth is full of the goodness of the LORD."
+              "text": "He loveth righteousness and judgment: the earth is full of the goodness of Yahweh."
             },
             {
               "vnumber": "6",
-              "text": "By the word of the LORD were the heavens made; and all the host of them by the breath of his mouth."
+              "text": "By the word of Yahweh were the heavens made; and all the host of them by the breath of his mouth."
             },
             {
               "vnumber": "7",
@@ -2019,7 +2021,7 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "Let all the earth fear the LORD: let all the inhabitants of the world stand in awe of him."
+              "text": "Let all the earth fear Yahweh: let all the inhabitants of the world stand in awe of him."
             },
             {
               "vnumber": "9",
@@ -2027,19 +2029,19 @@ var Psalms = {
             },
             {
               "vnumber": "10",
-              "text": "The LORD bringeth the counsel of the heathen to nought: he maketh the devices of the people of none effect."
+              "text": "Yahweh bringeth the counsel of the heathen to nought: he maketh the devices of the people of none effect."
             },
             {
               "vnumber": "11",
-              "text": "The counsel of the LORD standeth for ever, the thoughts of his heart to all generations."
+              "text": "The counsel of Yahweh standeth for ever, the thoughts of his heart to all generations."
             },
             {
               "vnumber": "12",
-              "text": "Blessed is the nation whose God is the LORD; and the people whom he hath chosen for his own inheritance."
+              "text": "Blessed is the nation whose God is Yahweh; and the people whom he hath chosen for his own inheritance."
             },
             {
               "vnumber": "13",
-              "text": "The LORD looketh from heaven; he beholdeth all the sons of men."
+              "text": "Yahweh looketh from heaven; he beholdeth all the sons of men."
             },
             {
               "vnumber": "14",
@@ -2059,7 +2061,7 @@ var Psalms = {
             },
             {
               "vnumber": "18",
-              "text": "Behold, the eye of the LORD is upon them that fear him, upon them that hope in his mercy;"
+              "text": "Behold, the eye of Yahweh is upon them that fear him, upon them that hope in his mercy;"
             },
             {
               "vnumber": "19",
@@ -2067,7 +2069,7 @@ var Psalms = {
             },
             {
               "vnumber": "20",
-              "text": "Our soul waiteth for the LORD: he is our help and our shield."
+              "text": "Our soul waiteth for Yahweh: he is our help and our shield."
             },
             {
               "vnumber": "21",
@@ -2075,7 +2077,7 @@ var Psalms = {
             },
             {
               "vnumber": "22",
-              "text": "Let thy mercy, O LORD, be upon us, according as we hope in thee."
+              "text": "Let thy mercy, Oh Yahweh, be upon us, according as we hope in thee."
             }
           ]
         },
@@ -2088,19 +2090,19 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "I will bless the LORD at all times: his praise shall continually be in my mouth."
+              "text": "I will bless Yahweh at all times: his praise shall continually be in my mouth."
             },
             {
               "vnumber": "2",
-              "text": "My soul shall make her boast in the LORD: the humble shall hear thereof, and be glad."
+              "text": "My soul shall make her boast in Yahweh: the humble shall hear thereof, and be glad."
             },
             {
               "vnumber": "3",
-              "text": "O magnify the LORD with me, and let us exalt his name together."
+              "text": "O magnify Yahweh with me, and let us exalt his name together."
             },
             {
               "vnumber": "4",
-              "text": "I sought the LORD, and he heard me, and delivered me from all my fears."
+              "text": "I sought Yahweh, and he heard me, and delivered me from all my fears."
             },
             {
               "vnumber": "5",
@@ -2108,27 +2110,27 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "This poor man cried, and the LORD heard him, and saved him out of all his troubles."
+              "text": "This poor man cried, and Yahweh heard him, and saved him out of all his troubles."
             },
             {
               "vnumber": "7",
-              "text": "The angel of the LORD encampeth round about them that fear him, and delivereth them."
+              "text": "The angel of Yahweh encampeth round about them that fear him, and delivereth them."
             },
             {
               "vnumber": "8",
-              "text": "O taste and see that the LORD is good: blessed is the man that trusteth in him."
+              "text": "O taste and see that Yahweh is good: blessed is the man that trusteth in him."
             },
             {
               "vnumber": "9",
-              "text": "O fear the LORD, ye his saints: for there is no want to them that fear him."
+              "text": "O fear Yahweh, ye his saints: for there is no want to them that fear him."
             },
             {
               "vnumber": "10",
-              "text": "The young lions do lack, and suffer hunger: but they that seek the LORD shall not want any good thing."
+              "text": "The young lions do lack, and suffer hunger: but they that seek Yahweh shall not want any good thing."
             },
             {
               "vnumber": "11",
-              "text": "Come, ye children, hearken unto me: I will teach you the fear of the LORD."
+              "text": "Come, ye children, hearken unto me: I will teach you the fear of Yahweh."
             },
             {
               "vnumber": "12",
@@ -2144,23 +2146,23 @@ var Psalms = {
             },
             {
               "vnumber": "15",
-              "text": "The eyes of the LORD are upon the righteous, and his ears are open unto their cry."
+              "text": "The eyes of Yahweh are upon the righteous, and his ears are open unto their cry."
             },
             {
               "vnumber": "16",
-              "text": "The face of the LORD is against them that do evil, to cut off the remembrance of them from the earth."
+              "text": "The face of Yahweh is against them that do evil, to cut off the remembrance of them from the earth."
             },
             {
               "vnumber": "17",
-              "text": "The righteous cry, and the LORD heareth, and delivereth them out of all their troubles."
+              "text": "The righteous cry, and Yahweh heareth, and delivereth them out of all their troubles."
             },
             {
               "vnumber": "18",
-              "text": "The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit."
+              "text": "Yahweh is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit."
             },
             {
               "vnumber": "19",
-              "text": "Many are the afflictions of the righteous: but the LORD delivereth him out of them all."
+              "text": "Many are the afflictions of the righteous: but Yahweh delivereth him out of them all."
             },
             {
               "vnumber": "20",
@@ -2172,7 +2174,7 @@ var Psalms = {
             },
             {
               "vnumber": "22",
-              "text": "The LORD redeemeth the soul of his servants: and none of them that trust in him shall be desolate."
+              "text": "Yahweh redeemeth the soul of his servants: and none of them that trust in him shall be desolate."
             }
           ]
         },
@@ -2185,7 +2187,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Plead my cause, O LORD, with them that strive with me: fight against them that fight against me."
+              "text": "Plead my cause, Oh Yahweh, with them that strive with me: fight against them that fight against me."
             },
             {
               "vnumber": "2",
@@ -2201,11 +2203,11 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "Let them be as chaff before the wind: and let the angel of the LORD chase them."
+              "text": "Let them be as chaff before the wind: and let the angel of Yahweh chase them."
             },
             {
               "vnumber": "6",
-              "text": "Let their way be dark and slippery: and let the angel of the LORD persecute them."
+              "text": "Let their way be dark and slippery: and let the angel of Yahweh persecute them."
             },
             {
               "vnumber": "7",
@@ -2217,11 +2219,11 @@ var Psalms = {
             },
             {
               "vnumber": "9",
-              "text": "And my soul shall be joyful in the LORD: it shall rejoice in his salvation."
+              "text": "And my soul shall be joyful in Yahweh: it shall rejoice in his salvation."
             },
             {
               "vnumber": "10",
-              "text": "All my bones shall say, LORD, who is like unto thee, which deliverest the poor from him that is too strong for him, yea, the poor and the needy from him that spoileth him?"
+              "text": "All my bones shall say, Yahweh, who is like unto thee, which deliverest the poor from him that is too strong for him, yea, the poor and the needy from him that spoileth him?"
             },
             {
               "vnumber": "11",
@@ -2269,7 +2271,7 @@ var Psalms = {
             },
             {
               "vnumber": "22",
-              "text": "This thou hast seen, O LORD: keep not silence: O Lord, be not far from me."
+              "text": "This thou hast seen, Oh Yahweh: keep not silence: O Lord, be not far from me."
             },
             {
               "vnumber": "23",
@@ -2277,7 +2279,7 @@ var Psalms = {
             },
             {
               "vnumber": "24",
-              "text": "Judge me, O LORD my God, according to thy righteousness; and let them not rejoice over me."
+              "text": "Judge me, Oh Yahweh my God, according to thy righteousness; and let them not rejoice over me."
             },
             {
               "vnumber": "25",
@@ -2289,7 +2291,7 @@ var Psalms = {
             },
             {
               "vnumber": "27",
-              "text": "Let them shout for joy, and be glad, that favour my righteous cause: yea, let them say continually, Let the LORD be magnified, which hath pleasure in the prosperity of his servant."
+              "text": "Let them shout for joy, and be glad, that favour my righteous cause: yea, let them say continually, Let Yahweh be magnified, which hath pleasure in the prosperity of his servant."
             },
             {
               "vnumber": "28",
@@ -2301,7 +2303,7 @@ var Psalms = {
           "cnumber": "36",
           "CAPTION": {
             "vref": "1",
-            "text": "To the chief Musician, A Psalm of David the servant of the LORD. "
+            "text": "To the chief Musician, A Psalm of David the servant of Yahweh. "
           },
           "VERS": [
             {
@@ -2322,11 +2324,11 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "Thy mercy, O LORD, is in the heavens; and thy faithfulness reacheth unto the clouds."
+              "text": "Thy mercy, Oh Yahweh, is in the heavens; and thy faithfulness reacheth unto the clouds."
             },
             {
               "vnumber": "6",
-              "text": "Thy righteousness is like the great mountains; thy judgments are a great deep: O LORD, thou preservest man and beast."
+              "text": "Thy righteousness is like the great mountains; thy judgments are a great deep: Oh Yahweh, thou preservest man and beast."
             },
             {
               "vnumber": "7",
@@ -2371,15 +2373,15 @@ var Psalms = {
             },
             {
               "vnumber": "3",
-              "text": "Trust in the LORD, and do good; so shalt thou dwell in the land, and verily thou shalt be fed."
+              "text": "Trust in Yahweh, and do good; so shalt thou dwell in the land, and verily thou shalt be fed."
             },
             {
               "vnumber": "4",
-              "text": "Delight thyself also in the LORD; and he shall give thee the desires of thine heart."
+              "text": "Delight thyself also in Yahweh; and he shall give thee the desires of thine heart."
             },
             {
               "vnumber": "5",
-              "text": "Commit thy way unto the LORD; trust also in him; and he shall bring it to pass."
+              "text": "Commit thy way unto Yahweh; trust also in him; and he shall bring it to pass."
             },
             {
               "vnumber": "6",
@@ -2387,7 +2389,7 @@ var Psalms = {
             },
             {
               "vnumber": "7",
-              "text": "Rest in the LORD, and wait patiently for him: fret not thyself because of him who prospereth in his way, because of the man who bringeth wicked devices to pass."
+              "text": "Rest in Yahweh, and wait patiently for him: fret not thyself because of him who prospereth in his way, because of the man who bringeth wicked devices to pass."
             },
             {
               "vnumber": "8",
@@ -2395,7 +2397,7 @@ var Psalms = {
             },
             {
               "vnumber": "9",
-              "text": "For evildoers shall be cut off: but those that wait upon the LORD, they shall inherit the earth."
+              "text": "For evildoers shall be cut off: but those that wait upon Yahweh, they shall inherit the earth."
             },
             {
               "vnumber": "10",
@@ -2427,11 +2429,11 @@ var Psalms = {
             },
             {
               "vnumber": "17",
-              "text": "For the arms of the wicked shall be broken: but the LORD upholdeth the righteous."
+              "text": "For the arms of the wicked shall be broken: but Yahweh upholdeth the righteous."
             },
             {
               "vnumber": "18",
-              "text": "The LORD knoweth the days of the upright: and their inheritance shall be for ever."
+              "text": "Yahweh knoweth the days of the upright: and their inheritance shall be for ever."
             },
             {
               "vnumber": "19",
@@ -2439,7 +2441,7 @@ var Psalms = {
             },
             {
               "vnumber": "20",
-              "text": "But the wicked shall perish, and the enemies of the LORD shall be as the fat of lambs: they shall consume; into smoke shall they consume away."
+              "text": "But the wicked shall perish, and the enemies of Yahweh shall be as the fat of lambs: they shall consume; into smoke shall they consume away."
             },
             {
               "vnumber": "21",
@@ -2451,11 +2453,11 @@ var Psalms = {
             },
             {
               "vnumber": "23",
-              "text": "The steps of a good man are ordered by the LORD: and he delighteth in his way."
+              "text": "The steps of a good man are ordered by Yahweh: and he delighteth in his way."
             },
             {
               "vnumber": "24",
-              "text": "Though he fall, he shall not be utterly cast down: for the LORD upholdeth him with his hand."
+              "text": "Though he fall, he shall not be utterly cast down: for Yahweh upholdeth him with his hand."
             },
             {
               "vnumber": "25",
@@ -2471,7 +2473,7 @@ var Psalms = {
             },
             {
               "vnumber": "28",
-              "text": "For the LORD loveth judgment, and forsaketh not his saints; they are preserved for ever: but the seed of the wicked shall be cut off."
+              "text": "For Yahweh loveth judgment, and forsaketh not his saints; they are preserved for ever: but the seed of the wicked shall be cut off."
             },
             {
               "vnumber": "29",
@@ -2491,11 +2493,11 @@ var Psalms = {
             },
             {
               "vnumber": "33",
-              "text": "The LORD will not leave him in his hand, nor condemn him when he is judged."
+              "text": "Yahweh will not leave him in his hand, nor condemn him when he is judged."
             },
             {
               "vnumber": "34",
-              "text": "Wait on the LORD, and keep his way, and he shall exalt thee to inherit the land: when the wicked are cut off, thou shalt see it."
+              "text": "Wait on Yahweh, and keep his way, and he shall exalt thee to inherit the land: when the wicked are cut off, thou shalt see it."
             },
             {
               "vnumber": "35",
@@ -2515,11 +2517,11 @@ var Psalms = {
             },
             {
               "vnumber": "39",
-              "text": "But the salvation of the righteous is of the LORD: he is their strength in the time of trouble."
+              "text": "But the salvation of the righteous is of Yahweh: he is their strength in the time of trouble."
             },
             {
               "vnumber": "40",
-              "text": "And the LORD shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him."
+              "text": "And Yahweh shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him."
             }
           ]
         },
@@ -2532,7 +2534,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "O LORD, rebuke me not in thy wrath: neither chasten me in thy hot displeasure."
+              "text": "Oh Yahweh, rebuke me not in thy wrath: neither chasten me in thy hot displeasure."
             },
             {
               "vnumber": "2",
@@ -2588,7 +2590,7 @@ var Psalms = {
             },
             {
               "vnumber": "15",
-              "text": "For in thee, O LORD, do I hope: thou wilt hear, O Lord my God."
+              "text": "For in thee, Oh Yahweh, do I hope: thou wilt hear, O Lord my God."
             },
             {
               "vnumber": "16",
@@ -2612,7 +2614,7 @@ var Psalms = {
             },
             {
               "vnumber": "21",
-              "text": "Forsake me not, O LORD: O my God, be not far from me."
+              "text": "Forsake me not, Oh Yahweh: O my God, be not far from me."
             },
             {
               "vnumber": "22",
@@ -2641,7 +2643,7 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "LORD, make me to know mine end, and the measure of my days, what it is; that I may know how frail I am."
+              "text": "Yahweh, make me to know mine end, and the measure of my days, what it is; that I may know how frail I am."
             },
             {
               "vnumber": "5",
@@ -2673,7 +2675,7 @@ var Psalms = {
             },
             {
               "vnumber": "12",
-              "text": "Hear my prayer, O LORD, and give ear unto my cry; hold not thy peace at my tears: for I am a stranger with thee, and a sojourner, as all my fathers were."
+              "text": "Hear my prayer, Oh Yahweh, and give ear unto my cry; hold not thy peace at my tears: for I am a stranger with thee, and a sojourner, as all my fathers were."
             },
             {
               "vnumber": "13",
@@ -2690,7 +2692,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "I waited patiently for the LORD; and he inclined unto me, and heard my cry."
+              "text": "I waited patiently for Yahweh; and he inclined unto me, and heard my cry."
             },
             {
               "vnumber": "2",
@@ -2698,15 +2700,15 @@ var Psalms = {
             },
             {
               "vnumber": "3",
-              "text": "And he hath put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in the LORD."
+              "text": "And he hath put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in Yahweh."
             },
             {
               "vnumber": "4",
-              "text": "Blessed is that man that maketh the LORD his trust, and respecteth not the proud, nor such as turn aside to lies."
+              "text": "Blessed is that man that maketh Yahweh his trust, and respecteth not the proud, nor such as turn aside to lies."
             },
             {
               "vnumber": "5",
-              "text": "Many, O LORD my God, are thy wonderful works which thou hast done, and thy thoughts which are to us-ward: they cannot be reckoned up in order unto thee: if I would declare and speak of them, they are more than can be numbered."
+              "text": "Many, Oh Yahweh my God, are thy wonderful works which thou hast done, and thy thoughts which are to us-ward: they cannot be reckoned up in order unto thee: if I would declare and speak of them, they are more than can be numbered."
             },
             {
               "vnumber": "6",
@@ -2722,7 +2724,7 @@ var Psalms = {
             },
             {
               "vnumber": "9",
-              "text": "I have preached righteousness in the great congregation: lo, I have not refrained my lips, O LORD, thou knowest."
+              "text": "I have preached righteousness in the great congregation: lo, I have not refrained my lips, Oh Yahweh, thou knowest."
             },
             {
               "vnumber": "10",
@@ -2730,7 +2732,7 @@ var Psalms = {
             },
             {
               "vnumber": "11",
-              "text": "Withhold not thou thy tender mercies from me, O LORD: let thy lovingkindness and thy truth continually preserve me."
+              "text": "Withhold not thou thy tender mercies from me, Oh Yahweh: let thy lovingkindness and thy truth continually preserve me."
             },
             {
               "vnumber": "12",
@@ -2738,7 +2740,7 @@ var Psalms = {
             },
             {
               "vnumber": "13",
-              "text": "Be pleased, O LORD, to deliver me: O LORD, make haste to help me."
+              "text": "Be pleased, Oh Yahweh, to deliver me: Oh Yahweh, make haste to help me."
             },
             {
               "vnumber": "14",
@@ -2750,7 +2752,7 @@ var Psalms = {
             },
             {
               "vnumber": "16",
-              "text": "Let all those that seek thee rejoice and be glad in thee: let such as love thy salvation say continually, The LORD be magnified."
+              "text": "Let all those that seek thee rejoice and be glad in thee: let such as love thy salvation say continually, Yahweh be magnified."
             },
             {
               "vnumber": "17",
@@ -2767,19 +2769,19 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Blessed is he that considereth the poor: the LORD will deliver him in time of trouble."
+              "text": "Blessed is he that considereth the poor: Yahweh will deliver him in time of trouble."
             },
             {
               "vnumber": "2",
-              "text": "The LORD will preserve him, and keep him alive; and he shall be blessed upon the earth: and thou wilt not deliver him unto the will of his enemies."
+              "text": "Yahweh will preserve him, and keep him alive; and he shall be blessed upon the earth: and thou wilt not deliver him unto the will of his enemies."
             },
             {
               "vnumber": "3",
-              "text": "The LORD will strengthen him upon the bed of languishing: thou wilt make all his bed in his sickness."
+              "text": "Yahweh will strengthen him upon the bed of languishing: thou wilt make all his bed in his sickness."
             },
             {
               "vnumber": "4",
-              "text": "I said, LORD, be merciful unto me: heal my soul; for I have sinned against thee."
+              "text": "I said, Yahweh, be merciful unto me: heal my soul; for I have sinned against thee."
             },
             {
               "vnumber": "5",
@@ -2803,7 +2805,7 @@ var Psalms = {
             },
             {
               "vnumber": "10",
-              "text": "But thou, O LORD, be merciful unto me, and raise me up, that I may requite them."
+              "text": "But thou, Oh Yahweh, be merciful unto me, and raise me up, that I may requite them."
             },
             {
               "vnumber": "11",
@@ -2815,7 +2817,7 @@ var Psalms = {
             },
             {
               "vnumber": "13",
-              "text": "Blessed be the LORD God of Israel from everlasting, and to everlasting. Amen, and Amen."
+              "text": "Blessed be Yahweh God of Israel from everlasting, and to everlasting. Amen, and Amen."
             }
           ]
         },
@@ -2856,7 +2858,7 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "Yet the LORD will command his lovingkindness in the daytime, and in the night his song shall be with me, and my prayer unto the God of my life."
+              "text": "Yet Yahweh will command his lovingkindness in the daytime, and in the night his song shall be with me, and my prayer unto the God of my life."
             },
             {
               "vnumber": "9",
@@ -3120,11 +3122,11 @@ var Psalms = {
             },
             {
               "vnumber": "7",
-              "text": "The LORD of hosts is with us; the God of Jacob is our refuge. Selah."
+              "text": "Yahweh of Armies is with us; the God of Jacob is our refuge. Selah."
             },
             {
               "vnumber": "8",
-              "text": "Come, behold the works of the LORD, what desolations he hath made in the earth."
+              "text": "Come, behold the works of Yahweh, what desolations he hath made in the earth."
             },
             {
               "vnumber": "9",
@@ -3136,7 +3138,7 @@ var Psalms = {
             },
             {
               "vnumber": "11",
-              "text": "The LORD of hosts is with us; the God of Jacob is our refuge. Selah."
+              "text": "Yahweh of Armies is with us; the God of Jacob is our refuge. Selah."
             }
           ]
         },
@@ -3166,7 +3168,7 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "God is gone up with a shout, the LORD with the sound of a trumpet."
+              "text": "God is gone up with a shout, Yahweh with the sound of a trumpet."
             },
             {
               "vnumber": "6",
@@ -3195,7 +3197,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Great is the LORD, and greatly to be praised in the city of our God, in the mountain of his holiness."
+              "text": "Great is Yahweh, and greatly to be praised in the city of our God, in the mountain of his holiness."
             },
             {
               "vnumber": "2",
@@ -3223,7 +3225,7 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "As we have heard, so have we seen in the city of the LORD of hosts, in the city of our God: God will establish it for ever. Selah."
+              "text": "As we have heard, so have we seen in the city of Yahweh of armies, in the city of our God: God will establish it for ever. Selah."
             },
             {
               "vnumber": "9",
@@ -3349,7 +3351,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "The mighty God, even the LORD, hath spoken, and called the earth from the rising of the sun unto the going down thereof."
+              "text": "The mighty God, even Yahweh, hath spoken, and called the earth from the rising of the sun unto the going down thereof."
             },
             {
               "vnumber": "2",
@@ -3633,7 +3635,7 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "I will freely sacrifice unto thee: I will praise thy name, O LORD; for it is good."
+              "text": "I will freely sacrifice unto thee: I will praise thy name, Oh Yahweh; for it is good."
             },
             {
               "vnumber": "7",
@@ -3710,7 +3712,7 @@ var Psalms = {
             },
             {
               "vnumber": "16",
-              "text": "As for me, I will call upon God; and the LORD shall save me."
+              "text": "As for me, I will call upon God; and Yahweh shall save me."
             },
             {
               "vnumber": "17",
@@ -3734,7 +3736,7 @@ var Psalms = {
             },
             {
               "vnumber": "22",
-              "text": "Cast thy burden upon the LORD, and he shall sustain thee: he shall never suffer the righteous to be moved."
+              "text": "Cast thy burden upon Yahweh, and he shall sustain thee: he shall never suffer the righteous to be moved."
             },
             {
               "vnumber": "23",
@@ -3787,7 +3789,7 @@ var Psalms = {
             },
             {
               "vnumber": "10",
-              "text": "In God will I praise his word: in the LORD will I praise his word."
+              "text": "In God will I praise his word: in Yahweh will I praise his word."
             },
             {
               "vnumber": "11",
@@ -3885,7 +3887,7 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "Break their teeth, O God, in their mouth: break out the great teeth of the young lions, O LORD."
+              "text": "Break their teeth, O God, in their mouth: break out the great teeth of the young lions, Oh Yahweh."
             },
             {
               "vnumber": "7",
@@ -3926,7 +3928,7 @@ var Psalms = {
             },
             {
               "vnumber": "3",
-              "text": "For, lo, they lie in wait for my soul: the mighty are gathered against me; not for my transgression, nor for my sin, O LORD."
+              "text": "For, lo, they lie in wait for my soul: the mighty are gathered against me; not for my transgression, nor for my sin, Oh Yahweh."
             },
             {
               "vnumber": "4",
@@ -3934,7 +3936,7 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "Thou therefore, O LORD God of hosts, the God of Israel, awake to visit all the heathen: be not merciful to any wicked transgressors. Selah."
+              "text": "Thou therefore, Oh Yahweh God of Armies, the God of Israel, awake to visit all the heathen: be not merciful to any wicked transgressors. Selah."
             },
             {
               "vnumber": "6",
@@ -3946,7 +3948,7 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "But thou, O LORD, shalt laugh at them; thou shalt have all the heathen in derision."
+              "text": "But thou, Oh Yahweh, shalt laugh at them; thou shalt have all the heathen in derision."
             },
             {
               "vnumber": "9",
@@ -4239,7 +4241,7 @@ var Psalms = {
             },
             {
               "vnumber": "10",
-              "text": "The righteous shall be glad in the LORD, and shall trust in him; and all the upright in heart shall glory."
+              "text": "The righteous shall be glad in Yahweh, and shall trust in him; and all the upright in heart shall glory."
             }
           ]
         },
@@ -4499,7 +4501,7 @@ var Psalms = {
             },
             {
               "vnumber": "16",
-              "text": "Why leap ye, ye high hills? this is the hill which God desireth to dwell in; yea, the LORD will dwell in it for ever."
+              "text": "Why leap ye, ye high hills? this is the hill which God desireth to dwell in; yea, Yahweh will dwell in it for ever."
             },
             {
               "vnumber": "17",
@@ -4609,7 +4611,7 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "Let not them that wait on thee, O Lord GOD of hosts, be ashamed for my sake: let not those that seek thee be confounded for my sake, O God of Israel."
+              "text": "Let not them that wait on thee, Oh Lord, Yahweh of Armies, be ashamed for my sake: let not those that seek thee be confounded for my sake, O God of Israel."
             },
             {
               "vnumber": "7",
@@ -4637,7 +4639,7 @@ var Psalms = {
             },
             {
               "vnumber": "13",
-              "text": "But as for me, my prayer is unto thee, O LORD, in an acceptable time: O God, in the multitude of thy mercy hear me, in the truth of thy salvation."
+              "text": "But as for me, my prayer is unto thee, Oh Yahweh, in an acceptable time: O God, in the multitude of thy mercy hear me, in the truth of thy salvation."
             },
             {
               "vnumber": "14",
@@ -4649,7 +4651,7 @@ var Psalms = {
             },
             {
               "vnumber": "16",
-              "text": "Hear me, O LORD; for thy lovingkindness is good: turn unto me according to the multitude of thy tender mercies."
+              "text": "Hear me, Oh Yahweh; for thy lovingkindness is good: turn unto me according to the multitude of thy tender mercies."
             },
             {
               "vnumber": "17",
@@ -4709,7 +4711,7 @@ var Psalms = {
             },
             {
               "vnumber": "31",
-              "text": "This also shall please the LORD better than an ox or bullock that hath horns and hoofs."
+              "text": "This also shall please Yahweh better than an ox or bullock that hath horns and hoofs."
             },
             {
               "vnumber": "32",
@@ -4717,7 +4719,7 @@ var Psalms = {
             },
             {
               "vnumber": "33",
-              "text": "For the LORD heareth the poor, and despiseth not his prisoners."
+              "text": "For Yahweh heareth the poor, and despiseth not his prisoners."
             },
             {
               "vnumber": "34",
@@ -4742,7 +4744,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Make haste, O God, to deliver me; make haste to help me, O LORD."
+              "text": "Make haste, O God, to deliver me; make haste to help me, Oh Yahweh."
             },
             {
               "vnumber": "2",
@@ -4758,7 +4760,7 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "But I am poor and needy: make haste unto me, O God: thou art my help and my deliverer; O LORD, make no tarrying."
+              "text": "But I am poor and needy: make haste unto me, O God: thou art my help and my deliverer; Oh Yahweh, make no tarrying."
             }
           ]
         },
@@ -4767,7 +4769,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "In thee, O LORD, do I put my trust: let me never be put to confusion."
+              "text": "In thee, Oh Yahweh, do I put my trust: let me never be put to confusion."
             },
             {
               "vnumber": "2",
@@ -4783,7 +4785,7 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "For thou art my hope, O Lord GOD: thou art my trust from my youth."
+              "text": "For thou art my hope, Oh Lord Yahweh: thou art my trust from my youth."
             },
             {
               "vnumber": "6",
@@ -4827,7 +4829,7 @@ var Psalms = {
             },
             {
               "vnumber": "16",
-              "text": "I will go in the strength of the Lord GOD: I will make mention of thy righteousness, even of thine only."
+              "text": "I will go in the strength of the Lord Yahweh: I will make mention of thy righteousness, even of thine only."
             },
             {
               "vnumber": "17",
@@ -4940,7 +4942,7 @@ var Psalms = {
             },
             {
               "vnumber": "18",
-              "text": "Blessed be the LORD God, the God of Israel, who only doeth wondrous things."
+              "text": "Blessed be Yahweh God, the God of Israel, who only doeth wondrous things."
             },
             {
               "vnumber": "19",
@@ -5069,7 +5071,7 @@ var Psalms = {
             },
             {
               "vnumber": "28",
-              "text": "But it is good for me to draw near to God: I have put my trust in the Lord GOD, that I may declare all thy works."
+              "text": "But it is good for me to draw near to God: I have put my trust in the Lord Yahweh, that I may declare all thy works."
             }
           ]
         },
@@ -5150,7 +5152,7 @@ var Psalms = {
             },
             {
               "vnumber": "18",
-              "text": "Remember this, that the enemy hath reproached, O LORD, and that the foolish people have blasphemed thy name."
+              "text": "Remember this, that the enemy hath reproached, Oh Yahweh, and that the foolish people have blasphemed thy name."
             },
             {
               "vnumber": "19",
@@ -5211,7 +5213,7 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "For in the hand of the LORD there is a cup, and the wine is red; it is full of mixture; and he poureth out of the same: but the dregs thereof, all the wicked of the earth shall wring them out, and drink them."
+              "text": "For in the hand of Yahweh there is a cup, and the wine is red; it is full of mixture; and he poureth out of the same: but the dregs thereof, all the wicked of the earth shall wring them out, and drink them."
             },
             {
               "vnumber": "9",
@@ -5272,7 +5274,7 @@ var Psalms = {
             },
             {
               "vnumber": "11",
-              "text": "Vow, and pay unto the LORD your God: let all that be round about him bring presents unto him that ought to be feared."
+              "text": "Vow, and pay unto Yahweh your God: let all that be round about him bring presents unto him that ought to be feared."
             },
             {
               "vnumber": "12",
@@ -5390,7 +5392,7 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "We will not hide them from their children, shewing to the generation to come the praises of the LORD, and his strength, and his wonderful works that he hath done."
+              "text": "We will not hide them from their children, shewing to the generation to come the praises of Yahweh, and his strength, and his wonderful works that he hath done."
             },
             {
               "vnumber": "5",
@@ -5458,7 +5460,7 @@ var Psalms = {
             },
             {
               "vnumber": "21",
-              "text": "Therefore the LORD heard this, and was wroth: so a fire was kindled against Jacob, and anger also came up against Israel;"
+              "text": "Therefore Yahweh heard this, and was wroth: so a fire was kindled against Jacob, and anger also came up against Israel;"
             },
             {
               "vnumber": "22",
@@ -5691,7 +5693,7 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "How long, LORD? wilt thou be angry for ever? shall thy jealousy burn like fire?"
+              "text": "How long, Yahweh? wilt thou be angry for ever? shall thy jealousy burn like fire?"
             },
             {
               "vnumber": "6",
@@ -5748,7 +5750,7 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "O LORD God of hosts, how long wilt thou be angry against the prayer of thy people?"
+              "text": "Oh Yahweh God of armies, how long wilt thou be angry against the prayer of thy people?"
             },
             {
               "vnumber": "5",
@@ -5760,7 +5762,7 @@ var Psalms = {
             },
             {
               "vnumber": "7",
-              "text": "Turn us again, O God of hosts, and cause thy face to shine; and we shall be saved."
+              "text": "Turn us again, Oh God of armies, and cause thy face to shine; and we shall be saved."
             },
             {
               "vnumber": "8",
@@ -5788,7 +5790,7 @@ var Psalms = {
             },
             {
               "vnumber": "14",
-              "text": "Return, we beseech thee, O God of hosts: look down from heaven, and behold, and visit this vine;"
+              "text": "Return, we beseech thee, Oh God of armies: look down from heaven, and behold, and visit this vine;"
             },
             {
               "vnumber": "15",
@@ -5808,7 +5810,7 @@ var Psalms = {
             },
             {
               "vnumber": "19",
-              "text": "Turn us again, O LORD God of hosts, cause thy face to shine; and we shall be saved."
+              "text": "Turn us again, Oh Yahweh God of armies, cause thy face to shine; and we shall be saved."
             }
           ]
         },
@@ -5877,7 +5879,7 @@ var Psalms = {
             },
             {
               "vnumber": "15",
-              "text": "The haters of the LORD should have submitted themselves unto him: but their time should have endured for ever."
+              "text": "The haters of Yahweh should have submitted themselves unto him: but their time should have endured for ever."
             },
             {
               "vnumber": "16",
@@ -5997,7 +5999,7 @@ var Psalms = {
             },
             {
               "vnumber": "16",
-              "text": "Fill their faces with shame; that they may seek thy name, O LORD."
+              "text": "Fill their faces with shame; that they may seek thy name, Oh Yahweh."
             },
             {
               "vnumber": "17",
@@ -6019,15 +6021,15 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "How amiable are thy tabernacles, O LORD of hosts!"
+              "text": "How amiable are thy tabernacles, Oh Yahweh of armies!"
             },
             {
               "vnumber": "2",
-              "text": "My soul longeth, yea, even fainteth for the courts of the LORD: my heart and my flesh crieth out for the living God."
+              "text": "My soul longeth, yea, even fainteth for the courts of Yahweh: my heart and my flesh crieth out for the living God."
             },
             {
               "vnumber": "3",
-              "text": "Yea, the sparrow hath found an house, and the swallow a nest for herself, where she may lay her young, even thine altars, O LORD of hosts, my King, and my God."
+              "text": "Yea, the sparrow hath found an house, and the swallow a nest for herself, where she may lay her young, even thine altars, Oh Yahweh of armies, my King, and my God."
             },
             {
               "vnumber": "4",
@@ -6047,7 +6049,7 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "O LORD God of hosts, hear my prayer: give ear, O God of Jacob. Selah."
+              "text": "Oh Yahweh God of Armies, hear my prayer: give ear, O God of Jacob. Selah."
             },
             {
               "vnumber": "9",
@@ -6064,7 +6066,7 @@ var Psalms = {
             },
             {
               "vnumber": "12",
-              "text": "O LORD of hosts, blessed is the man that trusteth in thee."
+              "text": "Oh Yahweh of armies, blessed is the man that trusteth in thee."
             }
           ]
         },
@@ -6077,7 +6079,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "LORD, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob."
+              "text": "Yahweh, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob."
             },
             {
               "vnumber": "2",
@@ -6101,11 +6103,11 @@ var Psalms = {
             },
             {
               "vnumber": "7",
-              "text": "Shew us thy mercy, O LORD, and grant us thy salvation."
+              "text": "Shew us thy mercy, Oh Yahweh, and grant us thy salvation."
             },
             {
               "vnumber": "8",
-              "text": "I will hear what God the LORD will speak: for he will speak peace unto his people, and to his saints: but let them not turn again to folly."
+              "text": "I will hear what God Yahweh will speak: for he will speak peace unto his people, and to his saints: but let them not turn again to folly."
             },
             {
               "vnumber": "9",
@@ -6121,7 +6123,7 @@ var Psalms = {
             },
             {
               "vnumber": "12",
-              "text": "Yea, the LORD shall give that which is good; and our land shall yield her increase."
+              "text": "Yea, Yahweh shall give that which is good; and our land shall yield her increase."
             },
             {
               "vnumber": "13",
@@ -6138,7 +6140,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Bow down thine ear, O LORD, hear me: for I am poor and needy."
+              "text": "Bow down thine ear, Oh Yahweh, hear me: for I am poor and needy."
             },
             {
               "vnumber": "2",
@@ -6158,7 +6160,7 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "Give ear, O LORD, unto my prayer; and attend to the voice of my supplications."
+              "text": "Give ear, Oh Yahweh, unto my prayer; and attend to the voice of my supplications."
             },
             {
               "vnumber": "7",
@@ -6178,7 +6180,7 @@ var Psalms = {
             },
             {
               "vnumber": "11",
-              "text": "Teach me thy way, O LORD; I will walk in thy truth: unite my heart to fear thy name."
+              "text": "Teach me thy way, Oh Yahweh; I will walk in thy truth: unite my heart to fear thy name."
             },
             {
               "vnumber": "12",
@@ -6202,7 +6204,7 @@ var Psalms = {
             },
             {
               "vnumber": "17",
-              "text": "Shew me a token for good; that they which hate me may see it, and be ashamed: because thou, LORD, hast holpen me, and comforted me."
+              "text": "Shew me a token for good; that they which hate me may see it, and be ashamed: because thou, Yahweh, hast holpen me, and comforted me."
             }
           ]
         },
@@ -6219,7 +6221,7 @@ var Psalms = {
             },
             {
               "vnumber": "2",
-              "text": "The LORD loveth the gates of Zion more than all the dwellings of Jacob."
+              "text": "Yahweh loveth the gates of Zion more than all the dwellings of Jacob."
             },
             {
               "vnumber": "3",
@@ -6235,7 +6237,7 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "The LORD shall count, when he writeth up the people, that this man was born there. Selah."
+              "text": "Yahweh shall count, when he writeth up the people, that this man was born there. Selah."
             },
             {
               "vnumber": "7",
@@ -6252,7 +6254,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "O LORD God of my salvation, I have cried day and night before thee:"
+              "text": "Oh Yahweh God of my salvation, I have cried day and night before thee:"
             },
             {
               "vnumber": "2",
@@ -6284,7 +6286,7 @@ var Psalms = {
             },
             {
               "vnumber": "9",
-              "text": "Mine eye mourneth by reason of affliction: LORD, I have called daily upon thee, I have stretched out my hands unto thee."
+              "text": "Mine eye mourneth by reason of affliction: Yahweh, I have called daily upon thee, I have stretched out my hands unto thee."
             },
             {
               "vnumber": "10",
@@ -6300,11 +6302,11 @@ var Psalms = {
             },
             {
               "vnumber": "13",
-              "text": "But unto thee have I cried, O LORD; and in the morning shall my prayer prevent thee."
+              "text": "But unto thee have I cried, Oh Yahweh; and in the morning shall my prayer prevent thee."
             },
             {
               "vnumber": "14",
-              "text": "LORD, why castest thou off my soul? why hidest thou thy face from me?"
+              "text": "Yahweh, why castest thou off my soul? why hidest thou thy face from me?"
             },
             {
               "vnumber": "15",
@@ -6333,7 +6335,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "I will sing of the mercies of the LORD for ever: with my mouth will I make known thy faithfulness to all generations."
+              "text": "I will sing of the mercies of Yahweh for ever: with my mouth will I make known thy faithfulness to all generations."
             },
             {
               "vnumber": "2",
@@ -6349,11 +6351,11 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "And the heavens shall praise thy wonders, O LORD: thy faithfulness also in the congregation of the saints."
+              "text": "And the heavens shall praise thy wonders, Oh Yahweh: thy faithfulness also in the congregation of the saints."
             },
             {
               "vnumber": "6",
-              "text": "For who in the heaven can be compared unto the LORD? who among the sons of the mighty can be likened unto the LORD?"
+              "text": "For who in the heaven can be compared unto Yahweh? who among the sons of the mighty can be likened unto Yahweh?"
             },
             {
               "vnumber": "7",
@@ -6391,7 +6393,7 @@ var Psalms = {
             },
             {
               "vnumber": "15",
-              "text": "Blessed is the people that know the joyful sound: they shall walk, O LORD, in the light of thy countenance."
+              "text": "Blessed is the people that know the joyful sound: they shall walk, Oh Yahweh, in the light of thy countenance."
             },
             {
               "vnumber": "16",
@@ -6403,7 +6405,7 @@ var Psalms = {
             },
             {
               "vnumber": "18",
-              "text": "For the LORD is our defence; and the Holy One of Israel is our king."
+              "text": "For Yahweh is our defence; and the Holy One of Israel is our king."
             },
             {
               "vnumber": "19",
@@ -6517,7 +6519,7 @@ var Psalms = {
             },
             {
               "vnumber": "46",
-              "text": "How long, LORD? wilt thou hide thyself for ever? shall thy wrath burn like fire?"
+              "text": "How long, Yahweh? wilt thou hide thyself for ever? shall thy wrath burn like fire?"
             },
             {
               "vnumber": "47",
@@ -6537,11 +6539,11 @@ var Psalms = {
             },
             {
               "vnumber": "51",
-              "text": "Wherewith thine enemies have reproached, O LORD; wherewith they have reproached the footsteps of your Messiah."
+              "text": "Wherewith thine enemies have reproached, Oh Yahweh; wherewith they have reproached the footsteps of your Messiah."
             },
             {
               "vnumber": "52",
-              "text": "Blessed be the LORD for evermore. Amen, and Amen."
+              "text": "Blessed be Yahweh for evermore. Amen, and Amen."
             }
           ]
         },
@@ -6602,7 +6604,7 @@ var Psalms = {
             },
             {
               "vnumber": "13",
-              "text": "Return, O LORD, how long? and let it repent thee concerning thy servants."
+              "text": "Return, Oh Yahweh, how long? and let it repent thee concerning thy servants."
             },
             {
               "vnumber": "14",
@@ -6618,7 +6620,7 @@ var Psalms = {
             },
             {
               "vnumber": "17",
-              "text": "And let the beauty of the LORD our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it."
+              "text": "And let the beauty of Yahweh our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it."
             }
           ]
         },
@@ -6700,7 +6702,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "It is a good thing to give thanks unto the LORD, and to sing praises unto thy name, Oh Elyon:"
+              "text": "It is a good thing to give thanks unto Yahweh, and to sing praises unto thy name, Oh Elyon:"
             },
             {
               "vnumber": "2",
@@ -6712,11 +6714,11 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "For thou, LORD, hast made me glad through thy work: I will triumph in the works of thy hands."
+              "text": "For thou, Yahweh, hast made me glad through thy work: I will triumph in the works of thy hands."
             },
             {
               "vnumber": "5",
-              "text": "O LORD, how great are thy works! and thy thoughts are very deep."
+              "text": "Oh Yahweh, how great are thy works! and thy thoughts are very deep."
             },
             {
               "vnumber": "6",
@@ -6728,11 +6730,11 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "But thou, LORD, art most high for evermore."
+              "text": "But thou, Yahweh, art most high for evermore."
             },
             {
               "vnumber": "9",
-              "text": "For, lo, thine enemies, O LORD, for, lo, thine enemies shall perish; all the workers of iniquity shall be scattered."
+              "text": "For, lo, thine enemies, Oh Yahweh, for, lo, thine enemies shall perish; all the workers of iniquity shall be scattered."
             },
             {
               "vnumber": "10",
@@ -6748,7 +6750,7 @@ var Psalms = {
             },
             {
               "vnumber": "13",
-              "text": "Those that be planted in the house of the LORD shall flourish in the courts of our God."
+              "text": "Those that be planted in the house of Yahweh shall flourish in the courts of our God."
             },
             {
               "vnumber": "14",
@@ -6756,7 +6758,7 @@ var Psalms = {
             },
             {
               "vnumber": "15",
-              "text": "To shew that the LORD is upright: he is my rock, and there is no unrighteousness in him."
+              "text": "To shew that Yahweh is upright: he is my rock, and there is no unrighteousness in him."
             }
           ]
         },
@@ -6765,7 +6767,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved."
+              "text": "Yahweh reigneth, he is clothed with majesty; Yahweh is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved."
             },
             {
               "vnumber": "2",
@@ -6773,15 +6775,15 @@ var Psalms = {
             },
             {
               "vnumber": "3",
-              "text": "The floods have lifted up, O LORD, the floods have lifted up their voice; the floods lift up their waves."
+              "text": "The floods have lifted up, Oh Yahweh, the floods have lifted up their voice; the floods lift up their waves."
             },
             {
               "vnumber": "4",
-              "text": "The LORD on high is mightier than the noise of many waters, yea, than the mighty waves of the sea."
+              "text": "Yahweh on high is mightier than the noise of many waters, yea, than the mighty waves of the sea."
             },
             {
               "vnumber": "5",
-              "text": "Thy testimonies are very sure: holiness becometh thine house, O LORD, for ever."
+              "text": "Thy testimonies are very sure: holiness becometh thine house, Oh Yahweh, for ever."
             }
           ]
         },
@@ -6790,7 +6792,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "O LORD God, to whom vengeance belongeth; O God, to whom vengeance belongeth, shew thyself."
+              "text": "Oh Yahweh God, to whom vengeance belongeth; O God, to whom vengeance belongeth, shew thyself."
             },
             {
               "vnumber": "2",
@@ -6798,7 +6800,7 @@ var Psalms = {
             },
             {
               "vnumber": "3",
-              "text": "LORD, how long shall the wicked, how long shall the wicked triumph?"
+              "text": "Yahweh, how long shall the wicked, how long shall the wicked triumph?"
             },
             {
               "vnumber": "4",
@@ -6806,7 +6808,7 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "They break in pieces thy people, O LORD, and afflict thine heritage."
+              "text": "They break in pieces thy people, Oh Yahweh, and afflict thine heritage."
             },
             {
               "vnumber": "6",
@@ -6830,7 +6832,7 @@ var Psalms = {
             },
             {
               "vnumber": "11",
-              "text": "The LORD knoweth the thoughts of man, that they are vanity."
+              "text": "Yahweh knoweth the thoughts of man, that they are vanity."
             },
             {
               "vnumber": "12",
@@ -6842,7 +6844,7 @@ var Psalms = {
             },
             {
               "vnumber": "14",
-              "text": "For the LORD will not cast off his people, neither will he forsake his inheritance."
+              "text": "For Yahweh will not cast off his people, neither will he forsake his inheritance."
             },
             {
               "vnumber": "15",
@@ -6854,11 +6856,11 @@ var Psalms = {
             },
             {
               "vnumber": "17",
-              "text": "Unless the LORD had been my help, my soul had almost dwelt in silence."
+              "text": "Unless Yahweh had been my help, my soul had almost dwelt in silence."
             },
             {
               "vnumber": "18",
-              "text": "When I said, My foot slippeth; thy mercy, O LORD, held me up."
+              "text": "When I said, My foot slippeth; thy mercy, Oh Yahweh, held me up."
             },
             {
               "vnumber": "19",
@@ -6874,11 +6876,11 @@ var Psalms = {
             },
             {
               "vnumber": "22",
-              "text": "But the LORD is my defence; and my God is the rock of my refuge."
+              "text": "But Yahweh is my defence; and my God is the rock of my refuge."
             },
             {
               "vnumber": "23",
-              "text": "And he shall bring upon them their own iniquity, and shall cut them off in their own wickedness; yea, the LORD our God shall cut them off."
+              "text": "And he shall bring upon them their own iniquity, and shall cut them off in their own wickedness; yea, Yahweh our God shall cut them off."
             }
           ]
         },
@@ -6887,7 +6889,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "O come, let us sing unto the LORD: let us make a joyful noise to the rock of our salvation."
+              "text": "O come, let us sing unto Yahweh: let us make a joyful noise to the rock of our salvation."
             },
             {
               "vnumber": "2",
@@ -6895,7 +6897,7 @@ var Psalms = {
             },
             {
               "vnumber": "3",
-              "text": "For the LORD is a great God, and a great King above all gods."
+              "text": "For Yahweh is a great God, and a great King above all gods."
             },
             {
               "vnumber": "4",
@@ -6907,7 +6909,7 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "O come, let us worship and bow down: let us kneel before the LORD our maker."
+              "text": "O come, let us worship and bow down: let us kneel before Yahweh our maker."
             },
             {
               "vnumber": "7",
@@ -6936,11 +6938,11 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "O sing unto the LORD a new song: sing unto the LORD, all the earth."
+              "text": "O sing unto Yahweh a new song: sing unto Yahweh, all the earth."
             },
             {
               "vnumber": "2",
-              "text": "Sing unto the LORD, bless his name; shew forth his salvation from day to day."
+              "text": "Sing unto Yahweh, bless his name; shew forth his salvation from day to day."
             },
             {
               "vnumber": "3",
@@ -6948,11 +6950,11 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "For the LORD is great, and greatly to be praised: he is to be feared above all gods."
+              "text": "For Yahweh is great, and greatly to be praised: he is to be feared above all gods."
             },
             {
               "vnumber": "5",
-              "text": "For all the gods of the nations are idols: but the LORD made the heavens."
+              "text": "For all the gods of the nations are idols: but Yahweh made the heavens."
             },
             {
               "vnumber": "6",
@@ -6960,19 +6962,19 @@ var Psalms = {
             },
             {
               "vnumber": "7",
-              "text": "Give unto the LORD, O ye kindreds of the people, give unto the LORD glory and strength."
+              "text": "Give unto Yahweh, O ye kindreds of the people, give unto Yahweh glory and strength."
             },
             {
               "vnumber": "8",
-              "text": "Give unto the LORD the glory due unto his name: bring an offering, and come into his courts."
+              "text": "Give unto Yahweh the glory due unto his name: bring an offering, and come into his courts."
             },
             {
               "vnumber": "9",
-              "text": "O worship the LORD in the beauty of holiness: fear before him, all the earth."
+              "text": "O worship Yahweh in the beauty of holiness: fear before him, all the earth."
             },
             {
               "vnumber": "10",
-              "text": "Say among the heathen that the LORD reigneth: the world also shall be established that it shall not be moved: he shall judge the people righteously."
+              "text": "Say among the heathen that Yahweh reigneth: the world also shall be established that it shall not be moved: he shall judge the people righteously."
             },
             {
               "vnumber": "11",
@@ -6984,7 +6986,7 @@ var Psalms = {
             },
             {
               "vnumber": "13",
-              "text": "Before the LORD: for he cometh, for he cometh to judge the earth: he shall judge the world with righteousness, and the people with his truth."
+              "text": "Before Yahweh: for he cometh, for he cometh to judge the earth: he shall judge the world with righteousness, and the people with his truth."
             }
           ]
         },
@@ -6993,7 +6995,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "The LORD reigneth; let the earth rejoice; let the multitude of isles be glad thereof."
+              "text": "Yahweh reigneth; let the earth rejoice; let the multitude of isles be glad thereof."
             },
             {
               "vnumber": "2",
@@ -7009,7 +7011,7 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "The hills melted like wax at the presence of the LORD, at the presence of the Lord of the whole earth."
+              "text": "The hills melted like wax at the presence of Yahweh, at the presence of the Lord of the whole earth."
             },
             {
               "vnumber": "6",
@@ -7021,7 +7023,7 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "Zion heard, and was glad; and the daughters of Judah rejoiced because of thy judgments, O LORD."
+              "text": "Zion heard, and was glad; and the daughters of Judah rejoiced because of thy judgments, Oh Yahweh."
             },
             {
               "vnumber": "9",
@@ -7029,7 +7031,7 @@ var Psalms = {
             },
             {
               "vnumber": "10",
-              "text": "Ye that love the LORD, hate evil: he preserveth the souls of his saints; he delivereth them out of the hand of the wicked."
+              "text": "Ye that love Yahweh, hate evil: he preserveth the souls of his saints; he delivereth them out of the hand of the wicked."
             },
             {
               "vnumber": "11",
@@ -7037,7 +7039,7 @@ var Psalms = {
             },
             {
               "vnumber": "12",
-              "text": "Rejoice in the LORD, ye righteous; and give thanks at the remembrance of his holiness."
+              "text": "Rejoice in Yahweh, ye righteous; and give thanks at the remembrance of his holiness."
             }
           ]
         },
@@ -7050,11 +7052,11 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "O sing unto the LORD a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory."
+              "text": "O sing unto Yahweh a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory."
             },
             {
               "vnumber": "2",
-              "text": "The LORD hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen."
+              "text": "Yahweh hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen."
             },
             {
               "vnumber": "3",
@@ -7062,15 +7064,15 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "Make a joyful noise unto the LORD, all the earth: make a loud noise, and rejoice, and sing praise."
+              "text": "Make a joyful noise unto Yahweh, all the earth: make a loud noise, and rejoice, and sing praise."
             },
             {
               "vnumber": "5",
-              "text": "Sing unto the LORD with the harp; with the harp, and the voice of a psalm."
+              "text": "Sing unto Yahweh with the harp; with the harp, and the voice of a psalm."
             },
             {
               "vnumber": "6",
-              "text": "With trumpets and sound of cornet make a joyful noise before the LORD, the King."
+              "text": "With trumpets and sound of cornet make a joyful noise before Yahweh, the King."
             },
             {
               "vnumber": "7",
@@ -7082,7 +7084,7 @@ var Psalms = {
             },
             {
               "vnumber": "9",
-              "text": "Before the LORD; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity."
+              "text": "Before Yahweh; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity."
             }
           ]
         },
@@ -7091,11 +7093,11 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "The LORD reigneth; let the people tremble: he sitteth between the cherubims; let the earth be moved."
+              "text": "Yahweh reigneth; let the people tremble: he sitteth between the cherubims; let the earth be moved."
             },
             {
               "vnumber": "2",
-              "text": "The LORD is great in Zion; and he is high above all the people."
+              "text": "Yahweh is great in Zion; and he is high above all the people."
             },
             {
               "vnumber": "3",
@@ -7107,11 +7109,11 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "Exalt ye the LORD our God, and worship at his footstool; for he is holy."
+              "text": "Exalt ye Yahweh our God, and worship at his footstool; for he is holy."
             },
             {
               "vnumber": "6",
-              "text": "Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the LORD, and he answered them."
+              "text": "Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon Yahweh, and he answered them."
             },
             {
               "vnumber": "7",
@@ -7119,11 +7121,11 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "Thou answeredst them, O LORD our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions."
+              "text": "Thou answeredst them, Oh Yahweh our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions."
             },
             {
               "vnumber": "9",
-              "text": "Exalt the LORD our God, and worship at his holy hill; for the LORD our God is holy."
+              "text": "Exalt Yahweh our God, and worship at his holy hill; for Yahweh our God is holy."
             }
           ]
         },
@@ -7136,15 +7138,15 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Make a joyful noise unto the LORD, all ye lands."
+              "text": "Make a joyful noise unto Yahweh, all ye lands."
             },
             {
               "vnumber": "2",
-              "text": "Serve the LORD with gladness: come before his presence with singing."
+              "text": "Serve Yahweh with gladness: come before his presence with singing."
             },
             {
               "vnumber": "3",
-              "text": "Know ye that the LORD he is God: it is he that hath made us, and not we ourselves; we are his people, and the sheep of his pasture."
+              "text": "Know ye that Yahweh he is God: it is he that hath made us, and not we ourselves; we are his people, and the sheep of his pasture."
             },
             {
               "vnumber": "4",
@@ -7152,7 +7154,7 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "For the LORD is good; his mercy is everlasting; and his truth endureth to all generations."
+              "text": "For Yahweh is good; his mercy is everlasting; and his truth endureth to all generations."
             }
           ]
         },
@@ -7165,7 +7167,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "I will sing of mercy and judgment: unto thee, O LORD, will I sing."
+              "text": "I will sing of mercy and judgment: unto thee, Oh Yahweh, will I sing."
             },
             {
               "vnumber": "2",
@@ -7193,7 +7195,7 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the LORD."
+              "text": "I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of Yahweh."
             }
           ]
         },
@@ -7201,12 +7203,12 @@ var Psalms = {
           "cnumber": "102",
           "CAPTION": {
             "vref": "1",
-            "text": "A Prayer of the afflicted, when he is overwhelmed, and poureth out his complaint before the LORD. "
+            "text": "A Prayer of the afflicted, when he is overwhelmed, and poureth out his complaint before Yahweh. "
           },
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Hear my prayer, O LORD, and let my cry come unto thee."
+              "text": "Hear my prayer, Oh Yahweh, and let my cry come unto thee."
             },
             {
               "vnumber": "2",
@@ -7250,7 +7252,7 @@ var Psalms = {
             },
             {
               "vnumber": "12",
-              "text": "But thou, O LORD, shalt endure for ever; and thy remembrance unto all generations."
+              "text": "But thou, Oh Yahweh, shalt endure for ever; and thy remembrance unto all generations."
             },
             {
               "vnumber": "13",
@@ -7262,11 +7264,11 @@ var Psalms = {
             },
             {
               "vnumber": "15",
-              "text": "So the heathen shall fear the name of the LORD, and all the kings of the earth thy glory."
+              "text": "So the heathen shall fear the name of Yahweh, and all the kings of the earth thy glory."
             },
             {
               "vnumber": "16",
-              "text": "When the LORD shall build up Zion, he shall appear in his glory."
+              "text": "When Yahweh shall build up Zion, he shall appear in his glory."
             },
             {
               "vnumber": "17",
@@ -7278,7 +7280,7 @@ var Psalms = {
             },
             {
               "vnumber": "19",
-              "text": "For he hath looked down from the height of his sanctuary; from heaven did the LORD behold the earth;"
+              "text": "For he hath looked down from the height of his sanctuary; from heaven did Yahweh behold the earth;"
             },
             {
               "vnumber": "20",
@@ -7286,11 +7288,11 @@ var Psalms = {
             },
             {
               "vnumber": "21",
-              "text": "To declare the name of the LORD in Zion, and his praise in Jerusalem;"
+              "text": "To declare the name of Yahweh in Zion, and his praise in Jerusalem;"
             },
             {
               "vnumber": "22",
-              "text": "When the people are gathered together, and the kingdoms, to serve the LORD."
+              "text": "When the people are gathered together, and the kingdoms, to serve Yahweh."
             },
             {
               "vnumber": "23",
@@ -7327,11 +7329,11 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Bless the LORD, O my soul: and all that is within me, bless his holy name."
+              "text": "Bless Yahweh, O my soul: and all that is within me, bless his holy name."
             },
             {
               "vnumber": "2",
-              "text": "Bless the LORD, O my soul, and forget not all his benefits:"
+              "text": "Bless Yahweh, O my soul, and forget not all his benefits:"
             },
             {
               "vnumber": "3",
@@ -7347,7 +7349,7 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "The LORD executeth righteousness and judgment for all that are oppressed."
+              "text": "Yahweh executeth righteousness and judgment for all that are oppressed."
             },
             {
               "vnumber": "7",
@@ -7355,7 +7357,7 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "The LORD is merciful and gracious, slow to anger, and plenteous in mercy."
+              "text": "Yahweh is merciful and gracious, slow to anger, and plenteous in mercy."
             },
             {
               "vnumber": "9",
@@ -7375,7 +7377,7 @@ var Psalms = {
             },
             {
               "vnumber": "13",
-              "text": "Like as a father pitieth his children, so the LORD pitieth them that fear him."
+              "text": "Like as a father pitieth his children, so Yahweh pitieth them that fear him."
             },
             {
               "vnumber": "14",
@@ -7391,7 +7393,7 @@ var Psalms = {
             },
             {
               "vnumber": "17",
-              "text": "But the mercy of the LORD is from everlasting to everlasting upon them that fear him, and his righteousness unto children's children;"
+              "text": "But the mercy of Yahweh is from everlasting to everlasting upon them that fear him, and his righteousness unto children's children;"
             },
             {
               "vnumber": "18",
@@ -7399,19 +7401,19 @@ var Psalms = {
             },
             {
               "vnumber": "19",
-              "text": "The LORD hath prepared his throne in the heavens; and his kingdom ruleth over all."
+              "text": "Yahweh hath prepared his throne in the heavens; and his kingdom ruleth over all."
             },
             {
               "vnumber": "20",
-              "text": "Bless the LORD, ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word."
+              "text": "Bless Yahweh, ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word."
             },
             {
               "vnumber": "21",
-              "text": "Bless ye the LORD, all ye his hosts; ye ministers of his, that do his pleasure."
+              "text": "Bless ye Yahweh, all ye his armies; ye ministers of his, that do his pleasure."
             },
             {
               "vnumber": "22",
-              "text": "Bless the LORD, all his works in all places of his dominion: bless the LORD, O my soul."
+              "text": "Bless Yahweh, all his works in all places of his dominion: bless Yahweh, O my soul."
             }
           ]
         },
@@ -7420,7 +7422,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Bless the LORD, O my soul. O LORD my God, thou art very great; thou art clothed with honour and majesty."
+              "text": "Bless Yahweh, O my soul. Oh Yahweh my God, thou art very great; thou art clothed with honour and majesty."
             },
             {
               "vnumber": "2",
@@ -7480,7 +7482,7 @@ var Psalms = {
             },
             {
               "vnumber": "16",
-              "text": "The trees of the LORD are full of sap; the cedars of Lebanon, which he hath planted;"
+              "text": "The trees of Yahweh are full of sap; the cedars of Lebanon, which he hath planted;"
             },
             {
               "vnumber": "17",
@@ -7512,7 +7514,7 @@ var Psalms = {
             },
             {
               "vnumber": "24",
-              "text": "O LORD, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches."
+              "text": "Oh Yahweh, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches."
             },
             {
               "vnumber": "25",
@@ -7540,7 +7542,7 @@ var Psalms = {
             },
             {
               "vnumber": "31",
-              "text": "The glory of the LORD shall endure for ever: the LORD shall rejoice in his works."
+              "text": "The glory of Yahweh shall endure for ever: Yahweh shall rejoice in his works."
             },
             {
               "vnumber": "32",
@@ -7548,11 +7550,11 @@ var Psalms = {
             },
             {
               "vnumber": "33",
-              "text": "I will sing unto the LORD as long as I live: I will sing praise to my God while I have my being."
+              "text": "I will sing unto Yahweh as long as I live: I will sing praise to my God while I have my being."
             },
             {
               "vnumber": "34",
-              "text": "My meditation of him shall be sweet: I will be glad in the LORD."
+              "text": "My meditation of him shall be sweet: I will be glad in Yahweh."
             },
             {
               "vnumber": "35",
@@ -7565,7 +7567,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "O give thanks unto the LORD; call upon his name: make known his deeds among the people."
+              "text": "O give thanks unto Yahweh; call upon his name: make known his deeds among the people."
             },
             {
               "vnumber": "2",
@@ -7573,11 +7575,11 @@ var Psalms = {
             },
             {
               "vnumber": "3",
-              "text": "Glory ye in his holy name: let the heart of them rejoice that seek the LORD."
+              "text": "Glory ye in his holy name: let the heart of them rejoice that seek Yahweh."
             },
             {
               "vnumber": "4",
-              "text": "Seek the LORD, and his strength: seek his face evermore."
+              "text": "Seek Yahweh, and his strength: seek his face evermore."
             },
             {
               "vnumber": "5",
@@ -7589,7 +7591,7 @@ var Psalms = {
             },
             {
               "vnumber": "7",
-              "text": "He is the LORD our God: his judgments are in all the earth."
+              "text": "He is Yahweh our God: his judgments are in all the earth."
             },
             {
               "vnumber": "8",
@@ -7637,7 +7639,7 @@ var Psalms = {
             },
             {
               "vnumber": "19",
-              "text": "Until the time that his word came: the word of the LORD tried him."
+              "text": "Until the time that his word came: the word of Yahweh tried him."
             },
             {
               "vnumber": "20",
@@ -7755,7 +7757,7 @@ var Psalms = {
             },
             {
               "vnumber": "2",
-              "text": "Who can utter the mighty acts of the LORD? who can shew forth all his praise?"
+              "text": "Who can utter the mighty acts of Yahweh? who can shew forth all his praise?"
             },
             {
               "vnumber": "3",
@@ -7763,7 +7765,7 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "Remember me, O LORD, with the favour that thou bearest unto thy people: O visit me with thy salvation;"
+              "text": "Remember me, Oh Yahweh, with the favour that thou bearest unto thy people: O visit me with thy salvation;"
             },
             {
               "vnumber": "5",
@@ -7811,7 +7813,7 @@ var Psalms = {
             },
             {
               "vnumber": "16",
-              "text": "They envied Moses also in the camp, and Aaron the saint of the LORD."
+              "text": "They envied Moses also in the camp, and Aaron the saint of Yahweh."
             },
             {
               "vnumber": "17",
@@ -7847,7 +7849,7 @@ var Psalms = {
             },
             {
               "vnumber": "25",
-              "text": "But murmured in their tents, and hearkened not unto the voice of the LORD."
+              "text": "But murmured in their tents, and hearkened not unto the voice of Yahweh."
             },
             {
               "vnumber": "26",
@@ -7883,7 +7885,7 @@ var Psalms = {
             },
             {
               "vnumber": "34",
-              "text": "They did not destroy the nations, concerning whom the LORD commanded them:"
+              "text": "They did not destroy the nations, concerning whom Yahweh commanded them:"
             },
             {
               "vnumber": "35",
@@ -7907,7 +7909,7 @@ var Psalms = {
             },
             {
               "vnumber": "40",
-              "text": "Therefore was the wrath of the LORD kindled against his people, insomuch that he abhorred his own inheritance."
+              "text": "Therefore was the wrath of Yahweh kindled against his people, insomuch that he abhorred his own inheritance."
             },
             {
               "vnumber": "41",
@@ -7935,11 +7937,11 @@ var Psalms = {
             },
             {
               "vnumber": "47",
-              "text": "Save us, O LORD our God, and gather us from among the heathen, to give thanks unto thy holy name, and to triumph in thy praise."
+              "text": "Save us, Oh Yahweh our God, and gather us from among the heathen, to give thanks unto thy holy name, and to triumph in thy praise."
             },
             {
               "vnumber": "48",
-              "text": "Blessed be the LORD God of Israel from everlasting to everlasting: and let all the people say, Amen. HalleluYah!"
+              "text": "Blessed be Yahweh God of Israel from everlasting to everlasting: and let all the people say, Amen. HalleluYah!"
             }
           ]
         },
@@ -7948,11 +7950,11 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "O give thanks unto the LORD, for he is good: for his mercy endureth for ever."
+              "text": "O give thanks unto Yahweh, for he is good: for his mercy endureth for ever."
             },
             {
               "vnumber": "2",
-              "text": "Let the redeemed of the LORD say so, whom he hath redeemed from the hand of the enemy;"
+              "text": "Let the redeemed of Yahweh say so, whom he hath redeemed from the hand of the enemy;"
             },
             {
               "vnumber": "3",
@@ -7968,7 +7970,7 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "Then they cried unto the LORD in their trouble, and he delivered them out of their distresses."
+              "text": "Then they cried unto Yahweh in their trouble, and he delivered them out of their distresses."
             },
             {
               "vnumber": "7",
@@ -7976,7 +7978,7 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "Oh that men would praise the LORD for his goodness, and for his wonderful works to the children of men!"
+              "text": "Oh that men would praise Yahweh for his goodness, and for his wonderful works to the children of men!"
             },
             {
               "vnumber": "9",
@@ -7996,7 +7998,7 @@ var Psalms = {
             },
             {
               "vnumber": "13",
-              "text": "Then they cried unto the LORD in their trouble, and he saved them out of their distresses."
+              "text": "Then they cried unto Yahweh in their trouble, and he saved them out of their distresses."
             },
             {
               "vnumber": "14",
@@ -8004,7 +8006,7 @@ var Psalms = {
             },
             {
               "vnumber": "15",
-              "text": "Oh that men would praise the LORD for his goodness, and for his wonderful works to the children of men!"
+              "text": "Oh that men would praise Yahweh for his goodness, and for his wonderful works to the children of men!"
             },
             {
               "vnumber": "16",
@@ -8020,7 +8022,7 @@ var Psalms = {
             },
             {
               "vnumber": "19",
-              "text": "Then they cry unto the LORD in their trouble, and he saveth them out of their distresses."
+              "text": "Then they cry unto Yahweh in their trouble, and he saveth them out of their distresses."
             },
             {
               "vnumber": "20",
@@ -8028,7 +8030,7 @@ var Psalms = {
             },
             {
               "vnumber": "21",
-              "text": "Oh that men would praise the LORD for his goodness, and for his wonderful works to the children of men!"
+              "text": "Oh that men would praise Yahweh for his goodness, and for his wonderful works to the children of men!"
             },
             {
               "vnumber": "22",
@@ -8040,7 +8042,7 @@ var Psalms = {
             },
             {
               "vnumber": "24",
-              "text": "These see the works of the LORD, and his wonders in the deep."
+              "text": "These see the works of Yahweh, and his wonders in the deep."
             },
             {
               "vnumber": "25",
@@ -8056,7 +8058,7 @@ var Psalms = {
             },
             {
               "vnumber": "28",
-              "text": "Then they cry unto the LORD in their trouble, and he bringeth them out of their distresses."
+              "text": "Then they cry unto Yahweh in their trouble, and he bringeth them out of their distresses."
             },
             {
               "vnumber": "29",
@@ -8068,7 +8070,7 @@ var Psalms = {
             },
             {
               "vnumber": "31",
-              "text": "Oh that men would praise the LORD for his goodness, and for his wonderful works to the children of men!"
+              "text": "Oh that men would praise Yahweh for his goodness, and for his wonderful works to the children of men!"
             },
             {
               "vnumber": "32",
@@ -8116,7 +8118,7 @@ var Psalms = {
             },
             {
               "vnumber": "43",
-              "text": "Whoso is wise, and will observe these things, even they shall understand the lovingkindness of the LORD."
+              "text": "Whoso is wise, and will observe these things, even they shall understand the lovingkindness of Yahweh."
             }
           ]
         },
@@ -8137,7 +8139,7 @@ var Psalms = {
             },
             {
               "vnumber": "3",
-              "text": "I will praise thee, O LORD, among the people: and I will sing praises unto thee among the nations."
+              "text": "I will praise thee, Oh Yahweh, among the people: and I will sing praises unto thee among the nations."
             },
             {
               "vnumber": "4",
@@ -8169,7 +8171,7 @@ var Psalms = {
             },
             {
               "vnumber": "11",
-              "text": "Wilt not thou, O God, who hast cast us off? and wilt not thou, O God, go forth with our hosts?"
+              "text": "Wilt not thou, O God, who hast cast us off? and wilt not thou, O God, go forth with our armies?"
             },
             {
               "vnumber": "12",
@@ -8242,11 +8244,11 @@ var Psalms = {
             },
             {
               "vnumber": "14",
-              "text": "Let the iniquity of his fathers be remembered with the LORD; and let not the sin of his mother be blotted out."
+              "text": "Let the iniquity of his fathers be remembered with Yahweh; and let not the sin of his mother be blotted out."
             },
             {
               "vnumber": "15",
-              "text": "Let them be before the LORD continually, that he may cut off the memory of them from the earth."
+              "text": "Let them be before Yahweh continually, that he may cut off the memory of them from the earth."
             },
             {
               "vnumber": "16",
@@ -8266,11 +8268,11 @@ var Psalms = {
             },
             {
               "vnumber": "20",
-              "text": "Let this be the reward of mine adversaries from the LORD, and of them that speak evil against my soul."
+              "text": "Let this be the reward of mine adversaries from Yahweh, and of them that speak evil against my soul."
             },
             {
               "vnumber": "21",
-              "text": "But do thou for me, O GOD the Lord, for thy name's sake: because thy mercy is good, deliver thou me."
+              "text": "But do thou for me, Oh Yahweh the Lord, for thy name's sake: because thy mercy is good, deliver thou me."
             },
             {
               "vnumber": "22",
@@ -8290,11 +8292,11 @@ var Psalms = {
             },
             {
               "vnumber": "26",
-              "text": "Help me, O LORD my God: O save me according to thy mercy:"
+              "text": "Help me, Oh Yahweh my God: O save me according to thy mercy:"
             },
             {
               "vnumber": "27",
-              "text": "That they may know that this is thy hand; that thou, LORD, hast done it."
+              "text": "That they may know that this is thy hand; that thou, Yahweh, hast done it."
             },
             {
               "vnumber": "28",
@@ -8306,7 +8308,7 @@ var Psalms = {
             },
             {
               "vnumber": "30",
-              "text": "I will greatly praise the LORD with my mouth; yea, I will praise him among the multitude."
+              "text": "I will greatly praise Yahweh with my mouth; yea, I will praise him among the multitude."
             },
             {
               "vnumber": "31",
@@ -8323,11 +8325,11 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool."
+              "text": "Yahweh said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool."
             },
             {
               "vnumber": "2",
-              "text": "The LORD shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies."
+              "text": "Yahweh shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies."
             },
             {
               "vnumber": "3",
@@ -8335,7 +8337,7 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "The LORD hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek."
+              "text": "Yahweh hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek."
             },
             {
               "vnumber": "5",
@@ -8356,11 +8358,11 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "HalleluYah! I will praise the LORD with my whole heart, in the assembly of the upright, and in the congregation."
+              "text": "HalleluYah! I will praise Yahweh with my whole heart, in the assembly of the upright, and in the congregation."
             },
             {
               "vnumber": "2",
-              "text": "The works of the LORD are great, sought out of all them that have pleasure therein."
+              "text": "The works of Yahweh are great, sought out of all them that have pleasure therein."
             },
             {
               "vnumber": "3",
@@ -8368,7 +8370,7 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "He hath made his wonderful works to be remembered: the LORD is gracious and full of compassion."
+              "text": "He hath made his wonderful works to be remembered: Yahweh is gracious and full of compassion."
             },
             {
               "vnumber": "5",
@@ -8392,7 +8394,7 @@ var Psalms = {
             },
             {
               "vnumber": "10",
-              "text": "The fear of the LORD is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever."
+              "text": "The fear of Yahweh is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever."
             }
           ]
         },
@@ -8401,7 +8403,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "HalleluYah! Blessed is the man that feareth the LORD, that delighteth greatly in his commandments."
+              "text": "HalleluYah! Blessed is the man that feareth Yahweh, that delighteth greatly in his commandments."
             },
             {
               "vnumber": "2",
@@ -8425,7 +8427,7 @@ var Psalms = {
             },
             {
               "vnumber": "7",
-              "text": "He shall not be afraid of evil tidings: his heart is fixed, trusting in the LORD."
+              "text": "He shall not be afraid of evil tidings: his heart is fixed, trusting in Yahweh."
             },
             {
               "vnumber": "8",
@@ -8446,23 +8448,23 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "HalleluYah! Praise, O ye servants of the LORD, praise the name of the LORD."
+              "text": "HalleluYah! Praise, O ye servants of Yahweh, praise the name of Yahweh."
             },
             {
               "vnumber": "2",
-              "text": "Blessed be the name of the LORD from this time forth and for evermore."
+              "text": "Blessed be the name of Yahweh from this time forth and for evermore."
             },
             {
               "vnumber": "3",
-              "text": "From the rising of the sun unto the going down of the same the LORD'S name is to be praised."
+              "text": "From the rising of the sun unto the going down of the same Yahweh'S name is to be praised."
             },
             {
               "vnumber": "4",
-              "text": "The LORD is high above all nations, and his glory above the heavens."
+              "text": "Yahweh is high above all nations, and his glory above the heavens."
             },
             {
               "vnumber": "5",
-              "text": "Who is like unto the LORD our God, who dwelleth on high,"
+              "text": "Who is like unto Yahweh our God, who dwelleth on high,"
             },
             {
               "vnumber": "6",
@@ -8524,7 +8526,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Not unto us, O LORD, not unto us, but unto thy name give glory, for thy mercy, and for thy truth's sake."
+              "text": "Not unto us, Oh Yahweh, not unto us, but unto thy name give glory, for thy mercy, and for thy truth's sake."
             },
             {
               "vnumber": "2",
@@ -8556,35 +8558,35 @@ var Psalms = {
             },
             {
               "vnumber": "9",
-              "text": "O Israel, trust thou in the LORD: he is their help and their shield."
+              "text": "O Israel, trust thou in Yahweh: he is their help and their shield."
             },
             {
               "vnumber": "10",
-              "text": "O house of Aaron, trust in the LORD: he is their help and their shield."
+              "text": "O house of Aaron, trust in Yahweh: he is their help and their shield."
             },
             {
               "vnumber": "11",
-              "text": "Ye that fear the LORD, trust in the LORD: he is their help and their shield."
+              "text": "Ye that fear Yahweh, trust in Yahweh: he is their help and their shield."
             },
             {
               "vnumber": "12",
-              "text": "The LORD hath been mindful of us: he will bless us; he will bless the house of Israel; he will bless the house of Aaron."
+              "text": "Yahweh hath been mindful of us: he will bless us; he will bless the house of Israel; he will bless the house of Aaron."
             },
             {
               "vnumber": "13",
-              "text": "He will bless them that fear the LORD, both small and great."
+              "text": "He will bless them that fear Yahweh, both small and great."
             },
             {
               "vnumber": "14",
-              "text": "The LORD shall increase you more and more, you and your children."
+              "text": "Yahweh shall increase you more and more, you and your children."
             },
             {
               "vnumber": "15",
-              "text": "Ye are blessed of the LORD which made heaven and earth."
+              "text": "Ye are blessed of Yahweh which made heaven and earth."
             },
             {
               "vnumber": "16",
-              "text": "The heaven, even the heavens, are the LORD'S: but the earth hath he given to the children of men."
+              "text": "The heaven, even the heavens, are Yahweh'S: but the earth hath he given to the children of men."
             },
             {
               "vnumber": "17",
@@ -8601,7 +8603,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "I love the LORD, because he hath heard my voice and my supplications."
+              "text": "I love Yahweh, because he hath heard my voice and my supplications."
             },
             {
               "vnumber": "2",
@@ -8613,19 +8615,19 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "Then called I upon the name of the LORD; O LORD, I beseech thee, deliver my soul."
+              "text": "Then called I upon the name of Yahweh; Oh Yahweh, I beseech thee, deliver my soul."
             },
             {
               "vnumber": "5",
-              "text": "Gracious is the LORD, and righteous; yea, our God is merciful."
+              "text": "Gracious is Yahweh, and righteous; yea, our God is merciful."
             },
             {
               "vnumber": "6",
-              "text": "The LORD preserveth the simple: I was brought low, and he helped me."
+              "text": "Yahweh preserveth the simple: I was brought low, and he helped me."
             },
             {
               "vnumber": "7",
-              "text": "Return unto thy rest, O my soul; for the LORD hath dealt bountifully with thee."
+              "text": "Return unto thy rest, O my soul; for Yahweh hath dealt bountifully with thee."
             },
             {
               "vnumber": "8",
@@ -8633,7 +8635,7 @@ var Psalms = {
             },
             {
               "vnumber": "9",
-              "text": "I will walk before the LORD in the land of the living."
+              "text": "I will walk before Yahweh in the land of the living."
             },
             {
               "vnumber": "10",
@@ -8645,35 +8647,35 @@ var Psalms = {
             },
             {
               "vnumber": "12",
-              "text": "What shall I render unto the LORD for all his benefits toward me?"
+              "text": "What shall I render unto Yahweh for all his benefits toward me?"
             },
             {
               "vnumber": "13",
-              "text": "I will take the cup of salvation, and call upon the name of the LORD."
+              "text": "I will take the cup of salvation, and call upon the name of Yahweh."
             },
             {
               "vnumber": "14",
-              "text": "I will pay my vows unto the LORD now in the presence of all his people."
+              "text": "I will pay my vows unto Yahweh now in the presence of all his people."
             },
             {
               "vnumber": "15",
-              "text": "Precious in the sight of the LORD is the death of his saints."
+              "text": "Precious in the sight of Yahweh is the death of his saints."
             },
             {
               "vnumber": "16",
-              "text": "O LORD, truly I am thy servant; I am thy servant, and the son of thine handmaid: thou hast loosed my bonds."
+              "text": "Oh Yahweh, truly I am thy servant; I am thy servant, and the son of thine handmaid: thou hast loosed my bonds."
             },
             {
               "vnumber": "17",
-              "text": "I will offer to thee the sacrifice of thanksgiving, and will call upon the name of the LORD."
+              "text": "I will offer to thee the sacrifice of thanksgiving, and will call upon the name of Yahweh."
             },
             {
               "vnumber": "18",
-              "text": "I will pay my vows unto the LORD now in the presence of all his people,"
+              "text": "I will pay my vows unto Yahweh now in the presence of all his people,"
             },
             {
               "vnumber": "19",
-              "text": "In the courts of the LORD'S house, in the midst of thee, O Jerusalem. HalleluYah!"
+              "text": "In the courts of Yahweh'S house, in the midst of thee, O Jerusalem. HalleluYah!"
             }
           ]
         },
@@ -8682,7 +8684,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "O praise the LORD, all ye nations: praise him, all ye people."
+              "text": "O praise Yahweh, all ye nations: praise him, all ye people."
             },
             {
               "vnumber": "2",
@@ -8696,7 +8698,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "O give thanks unto the LORD; for he is good: because his mercy endureth for ever."
+              "text": "O give thanks unto Yahweh; for he is good: because his mercy endureth for ever."
             },
             {
               "vnumber": "2",
@@ -8708,7 +8710,7 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "Let them now that fear the LORD say, that his mercy endureth for ever."
+              "text": "Let them now that fear Yahweh say, that his mercy endureth for ever."
             },
             {
               "vnumber": "5",
@@ -8716,35 +8718,35 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "The LORD is on my side; I will not fear: what can man do unto me?"
+              "text": "Yahweh is on my side; I will not fear: what can man do unto me?"
             },
             {
               "vnumber": "7",
-              "text": "The LORD taketh my part with them that help me: therefore shall I see my desire upon them that hate me."
+              "text": "Yahweh taketh my part with them that help me: therefore shall I see my desire upon them that hate me."
             },
             {
               "vnumber": "8",
-              "text": "It is better to trust in the LORD than to put confidence in man."
+              "text": "It is better to trust in Yahweh than to put confidence in man."
             },
             {
               "vnumber": "9",
-              "text": "It is better to trust in the LORD than to put confidence in princes."
+              "text": "It is better to trust in Yahweh than to put confidence in princes."
             },
             {
               "vnumber": "10",
-              "text": "All nations compassed me about: but in the name of the LORD will I destroy them."
+              "text": "All nations compassed me about: but in the name of Yahweh will I destroy them."
             },
             {
               "vnumber": "11",
-              "text": "They compassed me about; yea, they compassed me about: but in the name of the LORD I will destroy them."
+              "text": "They compassed me about; yea, they compassed me about: but in the name of Yahweh I will destroy them."
             },
             {
               "vnumber": "12",
-              "text": "They compassed me about like bees; they are quenched as the fire of thorns: for in the name of the LORD I will destroy them."
+              "text": "They compassed me about like bees; they are quenched as the fire of thorns: for in the name of Yahweh I will destroy them."
             },
             {
               "vnumber": "13",
-              "text": "Thou hast thrust sore at me that I might fall: but the LORD helped me."
+              "text": "Thou hast thrust sore at me that I might fall: but Yahweh helped me."
             },
             {
               "vnumber": "14",
@@ -8752,11 +8754,11 @@ var Psalms = {
             },
             {
               "vnumber": "15",
-              "text": "The voice of rejoicing and salvation is in the tabernacles of the righteous: the right hand of the LORD doeth valiantly."
+              "text": "The voice of rejoicing and salvation is in the tabernacles of the righteous: the right hand of Yahweh doeth valiantly."
             },
             {
               "vnumber": "16",
-              "text": "The right hand of the LORD is exalted: the right hand of the LORD doeth valiantly."
+              "text": "The right hand of Yahweh is exalted: the right hand of Yahweh doeth valiantly."
             },
             {
               "vnumber": "17",
@@ -8772,7 +8774,7 @@ var Psalms = {
             },
             {
               "vnumber": "20",
-              "text": "This gate of the LORD, into which the righteous shall enter."
+              "text": "This gate of Yahweh, into which the righteous shall enter."
             },
             {
               "vnumber": "21",
@@ -8784,23 +8786,23 @@ var Psalms = {
             },
             {
               "vnumber": "23",
-              "text": "This is the LORD'S doing; it is marvellous in our eyes."
+              "text": "This is Yahweh'S doing; it is marvellous in our eyes."
             },
             {
               "vnumber": "24",
-              "text": "This is the day which the LORD hath made; we will rejoice and be glad in it."
+              "text": "This is the day which Yahweh hath made; we will rejoice and be glad in it."
             },
             {
               "vnumber": "25",
-              "text": "Save now, I beseech thee, O LORD: O LORD, I beseech thee, send now prosperity."
+              "text": "Save now, I beseech thee, Oh Yahweh: Oh Yahweh, I beseech thee, send now prosperity."
             },
             {
               "vnumber": "26",
-              "text": "Blessed be he that cometh in the name of the LORD: we have blessed you out of the house of the LORD."
+              "text": "Blessed be he that cometh in the name of Yahweh: we have blessed you out of the house of Yahweh."
             },
             {
               "vnumber": "27",
-              "text": "God is the LORD, which hath shewed us light: bind the sacrifice with cords, even unto the horns of the altar."
+              "text": "God is Yahweh, which hath shewed us light: bind the sacrifice with cords, even unto the horns of the altar."
             },
             {
               "vnumber": "28",
@@ -8808,7 +8810,7 @@ var Psalms = {
             },
             {
               "vnumber": "29",
-              "text": "O give thanks unto the LORD; for he is good: for his mercy endureth for ever."
+              "text": "O give thanks unto Yahweh; for he is good: for his mercy endureth for ever."
             }
           ]
         },
@@ -8817,7 +8819,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "ALEPH. Blessed are the undefiled in the way, who walk in the law of the LORD."
+              "text": "ALEPH. Blessed are the undefiled in the way, who walk in the law of Yahweh."
             },
             {
               "vnumber": "2",
@@ -8861,7 +8863,7 @@ var Psalms = {
             },
             {
               "vnumber": "12",
-              "text": "Blessed art thou, O LORD: teach me thy statutes."
+              "text": "Blessed art thou, Oh Yahweh: teach me thy statutes."
             },
             {
               "vnumber": "13",
@@ -8937,7 +8939,7 @@ var Psalms = {
             },
             {
               "vnumber": "31",
-              "text": "I have stuck unto thy testimonies: O LORD, put me not to shame."
+              "text": "I have stuck unto thy testimonies: Oh Yahweh, put me not to shame."
             },
             {
               "vnumber": "32",
@@ -8945,7 +8947,7 @@ var Psalms = {
             },
             {
               "vnumber": "33",
-              "text": "HE. Teach me, O LORD, the way of thy statutes; and I shall keep it unto the end."
+              "text": "HE. Teach me, Oh Yahweh, the way of thy statutes; and I shall keep it unto the end."
             },
             {
               "vnumber": "34",
@@ -8979,7 +8981,7 @@ var Psalms = {
             },
             {
               "vnumber": "41",
-              "text": "VAU. Let thy mercies come also unto me, O LORD, even thy salvation, according to thy word."
+              "text": "VAU. Let thy mercies come also unto me, Oh Yahweh, even thy salvation, according to thy word."
             },
             {
               "vnumber": "42",
@@ -9023,7 +9025,7 @@ var Psalms = {
             },
             {
               "vnumber": "52",
-              "text": "I remembered thy judgments of old, O LORD; and have comforted myself."
+              "text": "I remembered thy judgments of old, Oh Yahweh; and have comforted myself."
             },
             {
               "vnumber": "53",
@@ -9035,7 +9037,7 @@ var Psalms = {
             },
             {
               "vnumber": "55",
-              "text": "I have remembered thy name, O LORD, in the night, and have kept thy law."
+              "text": "I have remembered thy name, Oh Yahweh, in the night, and have kept thy law."
             },
             {
               "vnumber": "56",
@@ -9043,7 +9045,7 @@ var Psalms = {
             },
             {
               "vnumber": "57",
-              "text": "CHETH. Thou art my portion, O LORD: I have said that I would keep thy words."
+              "text": "CHETH. Thou art my portion, Oh Yahweh: I have said that I would keep thy words."
             },
             {
               "vnumber": "58",
@@ -9071,11 +9073,11 @@ var Psalms = {
             },
             {
               "vnumber": "64",
-              "text": "The earth, O LORD, is full of thy mercy: teach me thy statutes."
+              "text": "The earth, Oh Yahweh, is full of thy mercy: teach me thy statutes."
             },
             {
               "vnumber": "65",
-              "text": "TETH. Thou hast dealt well with thy servant, O LORD, according unto thy word."
+              "text": "TETH. Thou hast dealt well with thy servant, Oh Yahweh, according unto thy word."
             },
             {
               "vnumber": "66",
@@ -9115,7 +9117,7 @@ var Psalms = {
             },
             {
               "vnumber": "75",
-              "text": "I know, O LORD, that thy judgments are right, and that thou in faithfulness hast afflicted me."
+              "text": "I know, Oh Yahweh, that thy judgments are right, and that thou in faithfulness hast afflicted me."
             },
             {
               "vnumber": "76",
@@ -9171,7 +9173,7 @@ var Psalms = {
             },
             {
               "vnumber": "89",
-              "text": "LAMED. For ever, O LORD, thy word is settled in heaven."
+              "text": "LAMED. For ever, Oh Yahweh, thy word is settled in heaven."
             },
             {
               "vnumber": "90",
@@ -9243,11 +9245,11 @@ var Psalms = {
             },
             {
               "vnumber": "107",
-              "text": "I am afflicted very much: quicken me, O LORD, according unto thy word."
+              "text": "I am afflicted very much: quicken me, Oh Yahweh, according unto thy word."
             },
             {
               "vnumber": "108",
-              "text": "Accept, I beseech thee, the freewill offerings of my mouth, O LORD, and teach me thy judgments."
+              "text": "Accept, I beseech thee, the freewill offerings of my mouth, Oh Yahweh, and teach me thy judgments."
             },
             {
               "vnumber": "109",
@@ -9319,7 +9321,7 @@ var Psalms = {
             },
             {
               "vnumber": "126",
-              "text": "It is time for thee, LORD, to work: for they have made void thy law."
+              "text": "It is time for thee, Yahweh, to work: for they have made void thy law."
             },
             {
               "vnumber": "127",
@@ -9363,7 +9365,7 @@ var Psalms = {
             },
             {
               "vnumber": "137",
-              "text": "TZADDI. Righteous art thou, O LORD, and upright are thy judgments."
+              "text": "TZADDI. Righteous art thou, Oh Yahweh, and upright are thy judgments."
             },
             {
               "vnumber": "138",
@@ -9395,7 +9397,7 @@ var Psalms = {
             },
             {
               "vnumber": "145",
-              "text": "KOPH. I cried with my whole heart; hear me, O LORD: I will keep thy statutes."
+              "text": "KOPH. I cried with my whole heart; hear me, Oh Yahweh: I will keep thy statutes."
             },
             {
               "vnumber": "146",
@@ -9411,7 +9413,7 @@ var Psalms = {
             },
             {
               "vnumber": "149",
-              "text": "Hear my voice according unto thy lovingkindness: O LORD, quicken me according to thy judgment."
+              "text": "Hear my voice according unto thy lovingkindness: Oh Yahweh, quicken me according to thy judgment."
             },
             {
               "vnumber": "150",
@@ -9419,7 +9421,7 @@ var Psalms = {
             },
             {
               "vnumber": "151",
-              "text": "Thou art near, O LORD; and all thy commandments are truth."
+              "text": "Thou art near, Oh Yahweh; and all thy commandments are truth."
             },
             {
               "vnumber": "152",
@@ -9439,7 +9441,7 @@ var Psalms = {
             },
             {
               "vnumber": "156",
-              "text": "Great are thy tender mercies, O LORD: quicken me according to thy judgments."
+              "text": "Great are thy tender mercies, Oh Yahweh: quicken me according to thy judgments."
             },
             {
               "vnumber": "157",
@@ -9451,7 +9453,7 @@ var Psalms = {
             },
             {
               "vnumber": "159",
-              "text": "Consider how I love thy precepts: quicken me, O LORD, according to thy lovingkindness."
+              "text": "Consider how I love thy precepts: quicken me, Oh Yahweh, according to thy lovingkindness."
             },
             {
               "vnumber": "160",
@@ -9479,7 +9481,7 @@ var Psalms = {
             },
             {
               "vnumber": "166",
-              "text": "LORD, I have hoped for thy salvation, and done thy commandments."
+              "text": "Yahweh, I have hoped for thy salvation, and done thy commandments."
             },
             {
               "vnumber": "167",
@@ -9491,7 +9493,7 @@ var Psalms = {
             },
             {
               "vnumber": "169",
-              "text": "TAU. Let my cry come near before thee, O LORD: give me understanding according to thy word."
+              "text": "TAU. Let my cry come near before thee, Oh Yahweh: give me understanding according to thy word."
             },
             {
               "vnumber": "170",
@@ -9511,7 +9513,7 @@ var Psalms = {
             },
             {
               "vnumber": "174",
-              "text": "I have longed for thy salvation, O LORD; and thy law is my delight."
+              "text": "I have longed for thy salvation, Oh Yahweh; and thy law is my delight."
             },
             {
               "vnumber": "175",
@@ -9532,11 +9534,11 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "In my distress I cried unto the LORD, and he heard me."
+              "text": "In my distress I cried unto Yahweh, and he heard me."
             },
             {
               "vnumber": "2",
-              "text": "Deliver my soul, O LORD, from lying lips, and from a deceitful tongue."
+              "text": "Deliver my soul, Oh Yahweh, from lying lips, and from a deceitful tongue."
             },
             {
               "vnumber": "3",
@@ -9573,7 +9575,7 @@ var Psalms = {
             },
             {
               "vnumber": "2",
-              "text": "My help cometh from the LORD, which made heaven and earth."
+              "text": "My help cometh from Yahweh, which made heaven and earth."
             },
             {
               "vnumber": "3",
@@ -9585,7 +9587,7 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "The LORD is thy keeper: the LORD is thy shade upon thy right hand."
+              "text": "Yahweh is thy keeper: Yahweh is thy shade upon thy right hand."
             },
             {
               "vnumber": "6",
@@ -9593,11 +9595,11 @@ var Psalms = {
             },
             {
               "vnumber": "7",
-              "text": "The LORD shall preserve thee from all evil: he shall preserve thy soul."
+              "text": "Yahweh shall preserve thee from all evil: he shall preserve thy soul."
             },
             {
               "vnumber": "8",
-              "text": "The LORD shall preserve thy going out and thy coming in from this time forth, and even for evermore."
+              "text": "Yahweh shall preserve thy going out and thy coming in from this time forth, and even for evermore."
             }
           ]
         },
@@ -9610,7 +9612,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "I was glad when they said unto me, Let us go into the house of the LORD."
+              "text": "I was glad when they said unto me, Let us go into the house of Yahweh."
             },
             {
               "vnumber": "2",
@@ -9642,7 +9644,7 @@ var Psalms = {
             },
             {
               "vnumber": "9",
-              "text": "Because of the house of the LORD our God I will seek thy good."
+              "text": "Because of the house of Yahweh our God I will seek thy good."
             }
           ]
         },
@@ -9659,11 +9661,11 @@ var Psalms = {
             },
             {
               "vnumber": "2",
-              "text": "Behold, as the eyes of servants look unto the hand of their masters, and as the eyes of a maiden unto the hand of her mistress; so our eyes wait upon the LORD our God, until that he have mercy upon us."
+              "text": "Behold, as the eyes of servants look unto the hand of their masters, and as the eyes of a maiden unto the hand of her mistress; so our eyes wait upon Yahweh our God, until that he have mercy upon us."
             },
             {
               "vnumber": "3",
-              "text": "Have mercy upon us, O LORD, have mercy upon us: for we are exceedingly filled with contempt."
+              "text": "Have mercy upon us, Oh Yahweh, have mercy upon us: for we are exceedingly filled with contempt."
             },
             {
               "vnumber": "4",
@@ -9680,11 +9682,11 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "If it had not been the LORD who was on our side, now may Israel say;"
+              "text": "If it had not been Yahweh who was on our side, now may Israel say;"
             },
             {
               "vnumber": "2",
-              "text": "If it had not been the LORD who was on our side, when men rose up against us:"
+              "text": "If it had not been Yahweh who was on our side, when men rose up against us:"
             },
             {
               "vnumber": "3",
@@ -9700,7 +9702,7 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "Blessed be the LORD, who hath not given us as a prey to their teeth."
+              "text": "Blessed be Yahweh, who hath not given us as a prey to their teeth."
             },
             {
               "vnumber": "7",
@@ -9708,7 +9710,7 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "Our help is in the name of the LORD, who made heaven and earth."
+              "text": "Our help is in the name of Yahweh, who made heaven and earth."
             }
           ]
         },
@@ -9721,11 +9723,11 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "They that trust in the LORD shall be as mount Zion, which cannot be removed, but abideth for ever."
+              "text": "They that trust in Yahweh shall be as mount Zion, which cannot be removed, but abideth for ever."
             },
             {
               "vnumber": "2",
-              "text": "As the mountains are round about Jerusalem, so the LORD is round about his people from henceforth even for ever."
+              "text": "As the mountains are round about Jerusalem, so Yahweh is round about his people from henceforth even for ever."
             },
             {
               "vnumber": "3",
@@ -9733,11 +9735,11 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "Do good, O LORD, unto those that be good, and to them that are upright in their hearts."
+              "text": "Do good, Oh Yahweh, unto those that be good, and to them that are upright in their hearts."
             },
             {
               "vnumber": "5",
-              "text": "As for such as turn aside unto their crooked ways, the LORD shall lead them forth with the workers of iniquity: but peace shall be upon Israel."
+              "text": "As for such as turn aside unto their crooked ways, Yahweh shall lead them forth with the workers of iniquity: but peace shall be upon Israel."
             }
           ]
         },
@@ -9760,7 +9762,7 @@ var Psalms = {
             },
             {
               "vnumber": "3",
-              "text": "The LORD hath done great things for us; whereof we are glad."
+              "text": "Yahweh hath done great things for us; whereof we are glad."
             },
             {
               "vnumber": "4",
@@ -9785,7 +9787,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": " Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain."
+              "text": " Except Yahweh build the house, they labour in vain that build it: except Yahweh keep the city, the watchman waketh but in vain."
             },
             {
               "vnumber": "2",
@@ -9793,7 +9795,7 @@ var Psalms = {
             },
             {
               "vnumber": "3",
-              "text": "Lo, children are an heritage of the LORD: and the fruit of the womb is his reward."
+              "text": "Lo, children are an heritage of Yahweh: and the fruit of the womb is his reward."
             },
             {
               "vnumber": "4",
@@ -9814,7 +9816,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Blessed is every one that feareth the LORD; that walketh in his ways."
+              "text": "Blessed is every one that feareth Yahweh; that walketh in his ways."
             },
             {
               "vnumber": "2",
@@ -9826,11 +9828,11 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "Behold, that thus shall the man be blessed that feareth the LORD."
+              "text": "Behold, that thus shall the man be blessed that feareth Yahweh."
             },
             {
               "vnumber": "5",
-              "text": "The LORD shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life."
+              "text": "Yahweh shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life."
             },
             {
               "vnumber": "6",
@@ -9859,7 +9861,7 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "The LORD is righteous: he hath cut asunder the cords of the wicked."
+              "text": "Yahweh is righteous: he hath cut asunder the cords of the wicked."
             },
             {
               "vnumber": "5",
@@ -9875,7 +9877,7 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "Neither do they which go by say, The blessing of the LORD be upon you: we bless you in the name of the LORD."
+              "text": "Neither do they which go by say, The blessing of Yahweh be upon you: we bless you in the name of Yahweh."
             }
           ]
         },
@@ -9888,7 +9890,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Out of the depths have I cried unto thee, O LORD."
+              "text": "Out of the depths have I cried unto thee, Oh Yahweh."
             },
             {
               "vnumber": "2",
@@ -9905,7 +9907,7 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "I wait for the LORD, my soul doth wait, and in his word do I hope."
+              "text": "I wait for Yahweh, my soul doth wait, and in his word do I hope."
             },
             {
               "vnumber": "6",
@@ -9913,7 +9915,7 @@ var Psalms = {
             },
             {
               "vnumber": "7",
-              "text": "Let Israel hope in the LORD: for with the LORD there is mercy, and with him is plenteous redemption."
+              "text": "Let Israel hope in Yahweh: for with Yahweh there is mercy, and with him is plenteous redemption."
             },
             {
               "vnumber": "8",
@@ -9930,7 +9932,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "LORD, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me."
+              "text": "Yahweh, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me."
             },
             {
               "vnumber": "2",
@@ -9938,7 +9940,7 @@ var Psalms = {
             },
             {
               "vnumber": "3",
-              "text": "Let Israel hope in the LORD from henceforth and for ever."
+              "text": "Let Israel hope in Yahweh from henceforth and for ever."
             }
           ]
         },
@@ -9947,11 +9949,11 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "A Song of degrees. LORD, remember David, and all his afflictions:"
+              "text": "A Song of degrees. Yahweh, remember David, and all his afflictions:"
             },
             {
               "vnumber": "2",
-              "text": "How he sware unto the LORD, and vowed unto the mighty God of Jacob;"
+              "text": "How he sware unto Yahweh, and vowed unto the mighty God of Jacob;"
             },
             {
               "vnumber": "3",
@@ -9963,7 +9965,7 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "Until I find out a place for the LORD, an habitation for the mighty God of Jacob."
+              "text": "Until I find out a place for Yahweh, an habitation for the mighty God of Jacob."
             },
             {
               "vnumber": "6",
@@ -9975,7 +9977,7 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "Arise, O LORD, into thy rest; thou, and the ark of thy strength."
+              "text": "Arise, Oh Yahweh, into thy rest; thou, and the ark of thy strength."
             },
             {
               "vnumber": "9",
@@ -9987,7 +9989,7 @@ var Psalms = {
             },
             {
               "vnumber": "11",
-              "text": "The LORD hath sworn in truth unto David; he will not turn from it; Of the fruit of thy body will I set upon thy throne."
+              "text": "Yahweh hath sworn in truth unto David; he will not turn from it; Of the fruit of thy body will I set upon thy throne."
             },
             {
               "vnumber": "12",
@@ -9995,7 +9997,7 @@ var Psalms = {
             },
             {
               "vnumber": "13",
-              "text": "For the LORD hath chosen Zion; he hath desired it for his habitation."
+              "text": "For Yahweh hath chosen Zion; he hath desired it for his habitation."
             },
             {
               "vnumber": "14",
@@ -10036,7 +10038,7 @@ var Psalms = {
             },
             {
               "vnumber": "3",
-              "text": "As the dew of Hermon, and as the dew that descended upon the mountains of Zion: for there the LORD commanded the blessing, even life for evermore."
+              "text": "As the dew of Hermon, and as the dew that descended upon the mountains of Zion: for there Yahweh commanded the blessing, even life for evermore."
             }
           ]
         },
@@ -10049,15 +10051,15 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Behold, bless ye the LORD, all ye servants of the LORD, which by night stand in the house of the LORD."
+              "text": "Behold, bless ye Yahweh, all ye servants of Yahweh, which by night stand in the house of Yahweh."
             },
             {
               "vnumber": "2",
-              "text": "Lift up your hands in the sanctuary, and bless the LORD."
+              "text": "Lift up your hands in the sanctuary, and bless Yahweh."
             },
             {
               "vnumber": "3",
-              "text": "The LORD that made heaven and earth bless thee out of Zion."
+              "text": "Yahweh that made heaven and earth bless thee out of Zion."
             }
           ]
         },
@@ -10066,15 +10068,15 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "HalleluYah! Praise ye the name of the LORD; praise him, O ye servants of the LORD."
+              "text": "HalleluYah! Praise ye the name of Yahweh; praise him, O ye servants of Yahweh."
             },
             {
               "vnumber": "2",
-              "text": "Ye that stand in the house of the LORD, in the courts of the house of our God,"
+              "text": "Ye that stand in the house of Yahweh, in the courts of the house of our God,"
             },
             {
               "vnumber": "3",
-              "text": "Praise Yah; for the LORD is good: sing praises unto his name; for it is pleasant."
+              "text": "Praise Yah; for Yahweh is good: sing praises unto his name; for it is pleasant."
             },
             {
               "vnumber": "4",
@@ -10082,11 +10084,11 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "For I know that the LORD is great, and that our Lord is above all gods."
+              "text": "For I know that Yahweh is great, and that our Lord is above all gods."
             },
             {
               "vnumber": "6",
-              "text": "Whatsoever the LORD pleased, that did he in heaven, and in earth, in the seas, and all deep places."
+              "text": "Whatsoever Yahweh pleased, that did he in heaven, and in earth, in the seas, and all deep places."
             },
             {
               "vnumber": "7",
@@ -10114,11 +10116,11 @@ var Psalms = {
             },
             {
               "vnumber": "13",
-              "text": "Thy name, O LORD, endureth for ever; and thy memorial, O LORD, throughout all generations."
+              "text": "Thy name, Oh Yahweh, endureth for ever; and thy memorial, Oh Yahweh, throughout all generations."
             },
             {
               "vnumber": "14",
-              "text": "For the LORD will judge his people, and he will repent himself concerning his servants."
+              "text": "For Yahweh will judge his people, and he will repent himself concerning his servants."
             },
             {
               "vnumber": "15",
@@ -10138,15 +10140,15 @@ var Psalms = {
             },
             {
               "vnumber": "19",
-              "text": "Bless the LORD, O house of Israel: bless the LORD, O house of Aaron:"
+              "text": "Bless Yahweh, O house of Israel: bless Yahweh, O house of Aaron:"
             },
             {
               "vnumber": "20",
-              "text": "Bless the LORD, O house of Levi: ye that fear the LORD, bless the LORD."
+              "text": "Bless Yahweh, O house of Levi: ye that fear Yahweh, bless Yahweh."
             },
             {
               "vnumber": "21",
-              "text": "Blessed be the LORD out of Zion, which dwelleth at Jerusalem. HalleluYah!"
+              "text": "Blessed be Yahweh out of Zion, which dwelleth at Jerusalem. HalleluYah!"
             }
           ]
         },
@@ -10155,7 +10157,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "O give thanks unto the LORD; for he is good: for his mercy endureth for ever."
+              "text": "O give thanks unto Yahweh; for he is good: for his mercy endureth for ever."
             },
             {
               "vnumber": "2",
@@ -10276,7 +10278,7 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "How shall we sing the LORD'S song in a strange land?"
+              "text": "How shall we sing Yahweh'S song in a strange land?"
             },
             {
               "vnumber": "5",
@@ -10288,7 +10290,7 @@ var Psalms = {
             },
             {
               "vnumber": "7",
-              "text": "Remember, O LORD, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to the foundation thereof."
+              "text": "Remember, Oh Yahweh, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to the foundation thereof."
             },
             {
               "vnumber": "8",
@@ -10321,15 +10323,15 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "All the kings of the earth shall praise thee, O LORD, when they hear the words of thy mouth."
+              "text": "All the kings of the earth shall praise thee, Oh Yahweh, when they hear the words of thy mouth."
             },
             {
               "vnumber": "5",
-              "text": "Yea, they shall sing in the ways of the LORD: for great is the glory of the LORD."
+              "text": "Yea, they shall sing in the ways of Yahweh: for great is the glory of Yahweh."
             },
             {
               "vnumber": "6",
-              "text": "Though the LORD be high, yet hath he respect unto the lowly: but the proud he knoweth afar off."
+              "text": "Though Yahweh be high, yet hath he respect unto the lowly: but the proud he knoweth afar off."
             },
             {
               "vnumber": "7",
@@ -10337,7 +10339,7 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "The LORD will perfect that which concerneth me: thy mercy, O LORD, endureth for ever: forsake not the works of thine own hands."
+              "text": "Yahweh will perfect that which concerneth me: thy mercy, Oh Yahweh, endureth for ever: forsake not the works of thine own hands."
             }
           ]
         },
@@ -10350,7 +10352,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "O LORD, thou hast searched me, and known me."
+              "text": "Oh Yahweh, thou hast searched me, and known me."
             },
             {
               "vnumber": "2",
@@ -10362,7 +10364,7 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "For there is not a word in my tongue, but, lo, O LORD, thou knowest it altogether."
+              "text": "For there is not a word in my tongue, but, lo, Oh Yahweh, thou knowest it altogether."
             },
             {
               "vnumber": "5",
@@ -10430,7 +10432,7 @@ var Psalms = {
             },
             {
               "vnumber": "21",
-              "text": "Do not I hate them, O LORD, that hate thee? and am not I grieved with those that rise up against thee?"
+              "text": "Do not I hate them, Oh Yahweh, that hate thee? and am not I grieved with those that rise up against thee?"
             },
             {
               "vnumber": "22",
@@ -10455,7 +10457,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Deliver me, O LORD, from the evil man: preserve me from the violent man;"
+              "text": "Deliver me, Oh Yahweh, from the evil man: preserve me from the violent man;"
             },
             {
               "vnumber": "2",
@@ -10467,7 +10469,7 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "Keep me, O LORD, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings."
+              "text": "Keep me, Oh Yahweh, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings."
             },
             {
               "vnumber": "5",
@@ -10475,15 +10477,15 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "I said unto the LORD, Thou art my God: hear the voice of my supplications, O LORD."
+              "text": "I said unto Yahweh, Thou art my God: hear the voice of my supplications, Oh Yahweh."
             },
             {
               "vnumber": "7",
-              "text": "O GOD the Lord, the strength of my salvation, thou hast covered my head in the day of battle."
+              "text": "Oh Yahweh the Lord, the strength of my salvation, thou hast covered my head in the day of battle."
             },
             {
               "vnumber": "8",
-              "text": "Grant not, O LORD, the desires of the wicked: further not his wicked device; lest they exalt themselves. Selah."
+              "text": "Grant not, Oh Yahweh, the desires of the wicked: further not his wicked device; lest they exalt themselves. Selah."
             },
             {
               "vnumber": "9",
@@ -10499,7 +10501,7 @@ var Psalms = {
             },
             {
               "vnumber": "12",
-              "text": "I know that the LORD will maintain the cause of the afflicted, and the right of the poor."
+              "text": "I know that Yahweh will maintain the cause of the afflicted, and the right of the poor."
             },
             {
               "vnumber": "13",
@@ -10516,7 +10518,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "LORD, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee."
+              "text": "Yahweh, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee."
             },
             {
               "vnumber": "2",
@@ -10524,7 +10526,7 @@ var Psalms = {
             },
             {
               "vnumber": "3",
-              "text": "Set a watch, O LORD, before my mouth; keep the door of my lips."
+              "text": "Set a watch, Oh Yahweh, before my mouth; keep the door of my lips."
             },
             {
               "vnumber": "4",
@@ -10544,7 +10546,7 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "But mine eyes are unto thee, O GOD the Lord: in thee is my trust; leave not my soul destitute."
+              "text": "But mine eyes are unto thee, Oh Yahweh the Lord: in thee is my trust; leave not my soul destitute."
             },
             {
               "vnumber": "9",
@@ -10565,7 +10567,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "I cried unto the LORD with my voice; with my voice unto the LORD did I make my supplication."
+              "text": "I cried unto Yahweh with my voice; with my voice unto Yahweh did I make my supplication."
             },
             {
               "vnumber": "2",
@@ -10581,7 +10583,7 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "I cried unto thee, O LORD: I said, Thou art my refuge and my portion in the land of the living."
+              "text": "I cried unto thee, Oh Yahweh: I said, Thou art my refuge and my portion in the land of the living."
             },
             {
               "vnumber": "6",
@@ -10602,7 +10604,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Hear my prayer, O LORD, give ear to my supplications: in thy faithfulness answer me, and in thy righteousness."
+              "text": "Hear my prayer, Oh Yahweh, give ear to my supplications: in thy faithfulness answer me, and in thy righteousness."
             },
             {
               "vnumber": "2",
@@ -10626,7 +10628,7 @@ var Psalms = {
             },
             {
               "vnumber": "7",
-              "text": "Hear me speedily, O LORD: my spirit faileth: hide not thy face from me, lest I be like unto them that go down into the pit."
+              "text": "Hear me speedily, Oh Yahweh: my spirit faileth: hide not thy face from me, lest I be like unto them that go down into the pit."
             },
             {
               "vnumber": "8",
@@ -10634,7 +10636,7 @@ var Psalms = {
             },
             {
               "vnumber": "9",
-              "text": "Deliver me, O LORD, from mine enemies: I flee unto thee to hide me."
+              "text": "Deliver me, Oh Yahweh, from mine enemies: I flee unto thee to hide me."
             },
             {
               "vnumber": "10",
@@ -10642,7 +10644,7 @@ var Psalms = {
             },
             {
               "vnumber": "11",
-              "text": "Quicken me, O LORD, for thy name's sake: for thy righteousness' sake bring my soul out of trouble."
+              "text": "Quicken me, Oh Yahweh, for thy name's sake: for thy righteousness' sake bring my soul out of trouble."
             },
             {
               "vnumber": "12",
@@ -10659,7 +10661,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Blessed be the LORD my strength, which teacheth my hands to war, and my fingers to fight:"
+              "text": "Blessed be Yahweh my strength, which teacheth my hands to war, and my fingers to fight:"
             },
             {
               "vnumber": "2",
@@ -10667,7 +10669,7 @@ var Psalms = {
             },
             {
               "vnumber": "3",
-              "text": "LORD, what is man, that thou takest knowledge of him! or the son of man, that thou makest account of him!"
+              "text": "Yahweh, what is man, that thou takest knowledge of him! or the son of man, that thou makest account of him!"
             },
             {
               "vnumber": "4",
@@ -10675,7 +10677,7 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "Bow thy heavens, O LORD, and come down: touch the mountains, and they shall smoke."
+              "text": "Bow thy heavens, Oh Yahweh, and come down: touch the mountains, and they shall smoke."
             },
             {
               "vnumber": "6",
@@ -10715,7 +10717,7 @@ var Psalms = {
             },
             {
               "vnumber": "15",
-              "text": "Happy is that people, that is in such a case: yea, happy is that people, whose God is the LORD."
+              "text": "Happy is that people, that is in such a case: yea, happy is that people, whose God is Yahweh."
             }
           ]
         },
@@ -10736,7 +10738,7 @@ var Psalms = {
             },
             {
               "vnumber": "3",
-              "text": "Great is the LORD, and greatly to be praised; and his greatness is unsearchable."
+              "text": "Great is Yahweh, and greatly to be praised; and his greatness is unsearchable."
             },
             {
               "vnumber": "4",
@@ -10756,15 +10758,15 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "The LORD is gracious, and full of compassion; slow to anger, and of great mercy."
+              "text": "Yahweh is gracious, and full of compassion; slow to anger, and of great mercy."
             },
             {
               "vnumber": "9",
-              "text": "The LORD is good to all: and his tender mercies are over all his works."
+              "text": "Yahweh is good to all: and his tender mercies are over all his works."
             },
             {
               "vnumber": "10",
-              "text": "All thy works shall praise thee, O LORD; and thy saints shall bless thee."
+              "text": "All thy works shall praise thee, Oh Yahweh; and thy saints shall bless thee."
             },
             {
               "vnumber": "11",
@@ -10780,7 +10782,7 @@ var Psalms = {
             },
             {
               "vnumber": "14",
-              "text": "The LORD upholdeth all that fall, and raiseth up all those that be bowed down."
+              "text": "Yahweh upholdeth all that fall, and raiseth up all those that be bowed down."
             },
             {
               "vnumber": "15",
@@ -10792,11 +10794,11 @@ var Psalms = {
             },
             {
               "vnumber": "17",
-              "text": "The LORD is righteous in all his ways, and holy in all his works."
+              "text": "Yahweh is righteous in all his ways, and holy in all his works."
             },
             {
               "vnumber": "18",
-              "text": "The LORD is nigh unto all them that call upon him, to all that call upon him in truth."
+              "text": "Yahweh is nigh unto all them that call upon him, to all that call upon him in truth."
             },
             {
               "vnumber": "19",
@@ -10804,11 +10806,11 @@ var Psalms = {
             },
             {
               "vnumber": "20",
-              "text": "The LORD preserveth all them that love him: but all the wicked will he destroy."
+              "text": "Yahweh preserveth all them that love him: but all the wicked will he destroy."
             },
             {
               "vnumber": "21",
-              "text": "My mouth shall speak the praise of the LORD: and let all flesh bless his holy name for ever and ever."
+              "text": "My mouth shall speak the praise of Yahweh: and let all flesh bless his holy name for ever and ever."
             }
           ]
         },
@@ -10817,11 +10819,11 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "HalleluYah! Praise the LORD, O my soul."
+              "text": "HalleluYah! Praise Yahweh, O my soul."
             },
             {
               "vnumber": "2",
-              "text": "While I live will I praise the LORD: I will sing praises unto my God while I have any being."
+              "text": "While I live will I praise Yahweh: I will sing praises unto my God while I have any being."
             },
             {
               "vnumber": "3",
@@ -10833,7 +10835,7 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "Happy is he that hath the God of Jacob for his help, whose hope is in the LORD his God:"
+              "text": "Happy is he that hath the God of Jacob for his help, whose hope is in Yahweh his God:"
             },
             {
               "vnumber": "6",
@@ -10841,19 +10843,19 @@ var Psalms = {
             },
             {
               "vnumber": "7",
-              "text": "Which executeth judgment for the oppressed: which giveth food to the hungry. The LORD looseth the prisoners:"
+              "text": "Which executeth judgment for the oppressed: which giveth food to the hungry. Yahweh looseth the prisoners:"
             },
             {
               "vnumber": "8",
-              "text": "The LORD openeth the eyes of the blind: the LORD raiseth them that are bowed down: the LORD loveth the righteous:"
+              "text": "Yahweh openeth the eyes of the blind: Yahweh raiseth them that are bowed down: Yahweh loveth the righteous:"
             },
             {
               "vnumber": "9",
-              "text": "The LORD preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down."
+              "text": "Yahweh preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down."
             },
             {
               "vnumber": "10",
-              "text": "The LORD shall reign for ever, even thy God, O Zion, unto all generations. HalleluYah!"
+              "text": "Yahweh shall reign for ever, even thy God, O Zion, unto all generations. HalleluYah!"
             }
           ]
         },
@@ -10866,7 +10868,7 @@ var Psalms = {
             },
             {
               "vnumber": "2",
-              "text": "The LORD doth build up Jerusalem: he gathereth together the outcasts of Israel."
+              "text": "Yahweh doth build up Jerusalem: he gathereth together the outcasts of Israel."
             },
             {
               "vnumber": "3",
@@ -10882,11 +10884,11 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "The LORD lifteth up the meek: he casteth the wicked down to the ground."
+              "text": "Yahweh lifteth up the meek: he casteth the wicked down to the ground."
             },
             {
               "vnumber": "7",
-              "text": "Sing unto the LORD with thanksgiving; sing praise upon the harp unto our God:"
+              "text": "Sing unto Yahweh with thanksgiving; sing praise upon the harp unto our God:"
             },
             {
               "vnumber": "8",
@@ -10902,11 +10904,11 @@ var Psalms = {
             },
             {
               "vnumber": "11",
-              "text": "The LORD taketh pleasure in them that fear him, in those that hope in his mercy."
+              "text": "Yahweh taketh pleasure in them that fear him, in those that hope in his mercy."
             },
             {
               "vnumber": "12",
-              "text": "Praise the LORD, O Jerusalem; praise thy God, O Zion."
+              "text": "Praise Yahweh, O Jerusalem; praise thy God, O Zion."
             },
             {
               "vnumber": "13",
@@ -10947,11 +10949,11 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "HalleluYah! Praise ye the LORD from the heavens: praise him in the heights."
+              "text": "HalleluYah! Praise ye Yahweh from the heavens: praise him in the heights."
             },
             {
               "vnumber": "2",
-              "text": "Praise ye him, all his angels: praise ye him, all his hosts."
+              "text": "Praise ye him, all his angels: praise ye him, all his armies."
             },
             {
               "vnumber": "3",
@@ -10963,7 +10965,7 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "Let them praise the name of the LORD: for he commanded, and they were created."
+              "text": "Let them praise the name of Yahweh: for he commanded, and they were created."
             },
             {
               "vnumber": "6",
@@ -10971,7 +10973,7 @@ var Psalms = {
             },
             {
               "vnumber": "7",
-              "text": "Praise the LORD from the earth, ye dragons, and all deeps:"
+              "text": "Praise Yahweh from the earth, ye dragons, and all deeps:"
             },
             {
               "vnumber": "8",
@@ -10995,7 +10997,7 @@ var Psalms = {
             },
             {
               "vnumber": "13",
-              "text": "Let them praise the name of the LORD: for his name alone is excellent; his glory is above the earth and heaven."
+              "text": "Let them praise the name of Yahweh: for his name alone is excellent; his glory is above the earth and heaven."
             },
             {
               "vnumber": "14",
@@ -11008,7 +11010,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "HalleluYah! Sing unto the LORD a new song, and his praise in the congregation of saints."
+              "text": "HalleluYah! Sing unto Yahweh a new song, and his praise in the congregation of saints."
             },
             {
               "vnumber": "2",
@@ -11020,7 +11022,7 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "For the LORD taketh pleasure in his people: he will beautify the meek with salvation."
+              "text": "For Yahweh taketh pleasure in his people: he will beautify the meek with salvation."
             },
             {
               "vnumber": "5",

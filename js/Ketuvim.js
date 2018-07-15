@@ -34,7 +34,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "7",
-                "text": "The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction."
+                "text": "The fear of Yahweh is the beginning of knowledge: but fools despise wisdom and instruction."
               },
               {
                 "vnumber": "8",
@@ -122,7 +122,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "29",
-                "text": "For that they hated knowledge, and did not choose the fear of the LORD:"
+                "text": "For that they hated knowledge, and did not choose the fear of Yahweh:"
               },
               {
                 "vnumber": "30",
@@ -163,11 +163,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "5",
-                "text": "Then shalt thou understand the fear of the LORD, and find the knowledge of God."
+                "text": "Then shalt thou understand the fear of Yahweh, and find the knowledge of God."
               },
               {
                 "vnumber": "6",
-                "text": "For the LORD giveth wisdom: out of his mouth cometh knowledge and understanding."
+                "text": "For Yahweh giveth wisdom: out of his mouth cometh knowledge and understanding."
               },
               {
                 "vnumber": "7",
@@ -256,7 +256,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "5",
-                "text": "Trust in the LORD with all thine heart; and lean not unto thine own understanding."
+                "text": "Trust in Yahweh with all thine heart; and lean not unto thine own understanding."
               },
               {
                 "vnumber": "6",
@@ -264,7 +264,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "7",
-                "text": "Be not wise in thine own eyes: fear the LORD, and depart from evil."
+                "text": "Be not wise in thine own eyes: fear Yahweh, and depart from evil."
               },
               {
                 "vnumber": "8",
@@ -272,7 +272,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "9",
-                "text": "Honour the LORD with thy substance, and with the firstfruits of all thine increase:"
+                "text": "Honour Yahweh with thy substance, and with the firstfruits of all thine increase:"
               },
               {
                 "vnumber": "10",
@@ -280,11 +280,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "11",
-                "text": "My son, despise not the chastening of the LORD; neither be weary of his correction:"
+                "text": "My son, despise not the chastening of Yahweh; neither be weary of his correction:"
               },
               {
                 "vnumber": "12",
-                "text": "For whom the LORD loveth he correcteth; even as a father the son in whom he delighteth."
+                "text": "For whom Yahweh loveth he correcteth; even as a father the son in whom he delighteth."
               },
               {
                 "vnumber": "13",
@@ -312,7 +312,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "19",
-                "text": "The LORD by wisdom hath founded the earth; by understanding hath he established the heavens."
+                "text": "Yahweh by wisdom hath founded the earth; by understanding hath he established the heavens."
               },
               {
                 "vnumber": "20",
@@ -340,7 +340,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "26",
-                "text": "For the LORD shall be thy confidence, and shall keep thy foot from being taken."
+                "text": "For Yahweh shall be thy confidence, and shall keep thy foot from being taken."
               },
               {
                 "vnumber": "27",
@@ -364,11 +364,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "32",
-                "text": "For the froward is abomination to the LORD: but his secret is with the righteous."
+                "text": "For the froward is abomination to Yahweh: but his secret is with the righteous."
               },
               {
                 "vnumber": "33",
-                "text": "The curse of the LORD is in the house of the wicked: but he blesseth the habitation of the just."
+                "text": "The curse of Yahweh is in the house of the wicked: but he blesseth the habitation of the just."
               },
               {
                 "vnumber": "34",
@@ -578,7 +578,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "21",
-                "text": "For the ways of man are before the eyes of the LORD, and he pondereth all his goings."
+                "text": "For the ways of man are before the eyes of Yahweh, and he pondereth all his goings."
               },
               {
                 "vnumber": "22",
@@ -655,7 +655,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "16",
-                "text": "These six things doth the LORD hate: yea, seven are an abomination unto him:"
+                "text": "These six things doth Yahweh hate: yea, seven are an abomination unto him:"
               },
               {
                 "vnumber": "17",
@@ -901,7 +901,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "13",
-                "text": "The fear of the LORD is to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate."
+                "text": "The fear of Yahweh is to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate."
               },
               {
                 "vnumber": "14",
@@ -937,7 +937,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "22",
-                "text": "The LORD possessed me in the beginning of his way, before his works of old."
+                "text": "Yahweh possessed me in the beginning of his way, before his works of old."
               },
               {
                 "vnumber": "23",
@@ -989,7 +989,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "35",
-                "text": "For whoso findeth me findeth life, and shall obtain favour of the LORD."
+                "text": "For whoso findeth me findeth life, and shall obtain favour of Yahweh."
               },
               {
                 "vnumber": "36",
@@ -1038,7 +1038,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "10",
-                "text": "The fear of the LORD is the beginning of wisdom: and the knowledge of the holy is understanding."
+                "text": "The fear of Yahweh is the beginning of wisdom: and the knowledge of the holy is understanding."
               },
               {
                 "vnumber": "11",
@@ -1087,7 +1087,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "3",
-                "text": "The LORD will not suffer the soul of the righteous to famish: but he casteth away the substance of the wicked."
+                "text": "Yahweh will not suffer the soul of the righteous to famish: but he casteth away the substance of the wicked."
               },
               {
                 "vnumber": "4",
@@ -1163,7 +1163,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "22",
-                "text": "The blessing of the LORD, it maketh rich, and he addeth no sorrow with it."
+                "text": "The blessing of Yahweh, it maketh rich, and he addeth no sorrow with it."
               },
               {
                 "vnumber": "23",
@@ -1183,7 +1183,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "27",
-                "text": "The fear of the LORD prolongeth days: but the years of the wicked shall be shortened."
+                "text": "The fear of Yahweh prolongeth days: but the years of the wicked shall be shortened."
               },
               {
                 "vnumber": "28",
@@ -1191,7 +1191,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "29",
-                "text": "The way of the LORD is strength to the upright: but destruction shall be to the workers of iniquity."
+                "text": "The way of Yahweh is strength to the upright: but destruction shall be to the workers of iniquity."
               },
               {
                 "vnumber": "30",
@@ -1212,7 +1212,7 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "A false balance is abomination to the LORD: but a just weight is his delight."
+                "text": "A false balance is abomination to Yahweh: but a just weight is his delight."
               },
               {
                 "vnumber": "2",
@@ -1289,7 +1289,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "20",
-                "text": "They that are of a froward heart are abomination to the LORD: but such as are upright in their way are his delight."
+                "text": "They that are of a froward heart are abomination to Yahweh: but such as are upright in their way are his delight."
               },
               {
                 "vnumber": "21",
@@ -1346,7 +1346,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "2",
-                "text": "A good man obtaineth favour of the LORD: but a man of wicked devices will he condemn."
+                "text": "A good man obtaineth favour of Yahweh: but a man of wicked devices will he condemn."
               },
               {
                 "vnumber": "3",
@@ -1426,7 +1426,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "22",
-                "text": "Lying lips are abomination to the LORD: but they that deal truly are his delight."
+                "text": "Lying lips are abomination to Yahweh: but they that deal truly are his delight."
               },
               {
                 "vnumber": "23",
@@ -1568,7 +1568,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "2",
-                "text": "He that walketh in his uprightness feareth the LORD: but he that is perverse in his ways despiseth him."
+                "text": "He that walketh in his uprightness feareth Yahweh: but he that is perverse in his ways despiseth him."
               },
               {
                 "vnumber": "3",
@@ -1664,11 +1664,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "26",
-                "text": "In the fear of the LORD is strong confidence: and his children shall have a place of refuge."
+                "text": "In the fear of Yahweh is strong confidence: and his children shall have a place of refuge."
               },
               {
                 "vnumber": "27",
-                "text": "The fear of the LORD is a fountain of life, to depart from the snares of death."
+                "text": "The fear of Yahweh is a fountain of life, to depart from the snares of death."
               },
               {
                 "vnumber": "28",
@@ -1717,7 +1717,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "3",
-                "text": "The eyes of the LORD are in every place, beholding the evil and the good."
+                "text": "The eyes of Yahweh are in every place, beholding the evil and the good."
               },
               {
                 "vnumber": "4",
@@ -1737,11 +1737,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "8",
-                "text": "The sacrifice of the wicked is an abomination to the LORD: but the prayer of the upright is his delight."
+                "text": "The sacrifice of the wicked is an abomination to Yahweh: but the prayer of the upright is his delight."
               },
               {
                 "vnumber": "9",
-                "text": "The way of the wicked is an abomination unto the LORD: but he loveth him that followeth after righteousness."
+                "text": "The way of the wicked is an abomination unto Yahweh: but he loveth him that followeth after righteousness."
               },
               {
                 "vnumber": "10",
@@ -1749,7 +1749,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "11",
-                "text": "Hell and destruction are before the LORD: how much more then the hearts of the children of men?"
+                "text": "Hell and destruction are before Yahweh: how much more then the hearts of the children of men?"
               },
               {
                 "vnumber": "12",
@@ -1769,7 +1769,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "16",
-                "text": "Better is little with the fear of the LORD than great treasure and trouble therewith."
+                "text": "Better is little with the fear of Yahweh than great treasure and trouble therewith."
               },
               {
                 "vnumber": "17",
@@ -1805,11 +1805,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "25",
-                "text": "The LORD will destroy the house of the proud: but he will establish the border of the widow."
+                "text": "Yahweh will destroy the house of the proud: but he will establish the border of the widow."
               },
               {
                 "vnumber": "26",
-                "text": "The thoughts of the wicked are an abomination to the LORD: but the words of the pure are pleasant words."
+                "text": "The thoughts of the wicked are an abomination to Yahweh: but the words of the pure are pleasant words."
               },
               {
                 "vnumber": "27",
@@ -1821,7 +1821,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "29",
-                "text": "The LORD is far from the wicked: but he heareth the prayer of the righteous."
+                "text": "Yahweh is far from the wicked: but he heareth the prayer of the righteous."
               },
               {
                 "vnumber": "30",
@@ -1837,7 +1837,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "33",
-                "text": "The fear of the LORD is the instruction of wisdom; and before honour is humility."
+                "text": "The fear of Yahweh is the instruction of wisdom; and before honour is humility."
               }
             ]
           },
@@ -1846,31 +1846,31 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "The preparations of the heart in man, and the answer of the tongue, is from the LORD."
+                "text": "The preparations of the heart in man, and the answer of the tongue, is from Yahweh."
               },
               {
                 "vnumber": "2",
-                "text": "All the ways of a man are clean in his own eyes; but the LORD weigheth the spirits."
+                "text": "All the ways of a man are clean in his own eyes; but Yahweh weigheth the spirits."
               },
               {
                 "vnumber": "3",
-                "text": "Commit thy works unto the LORD, and thy thoughts shall be established."
+                "text": "Commit thy works unto Yahweh, and thy thoughts shall be established."
               },
               {
                 "vnumber": "4",
-                "text": "The LORD hath made all things for himself: yea, even the wicked for the day of evil."
+                "text": "Yahweh hath made all things for himself: yea, even the wicked for the day of evil."
               },
               {
                 "vnumber": "5",
-                "text": "Every one that is proud in heart is an abomination to the LORD: though hand join in hand, he shall not be unpunished."
+                "text": "Every one that is proud in heart is an abomination to Yahweh: though hand join in hand, he shall not be unpunished."
               },
               {
                 "vnumber": "6",
-                "text": "By mercy and truth iniquity is purged: and by the fear of the LORD men depart from evil."
+                "text": "By mercy and truth iniquity is purged: and by the fear of Yahweh men depart from evil."
               },
               {
                 "vnumber": "7",
-                "text": "When a man's ways please the LORD, he maketh even his enemies to be at peace with him."
+                "text": "When a man's ways please Yahweh, he maketh even his enemies to be at peace with him."
               },
               {
                 "vnumber": "8",
@@ -1878,7 +1878,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "9",
-                "text": "A man's heart deviseth his way: but the LORD directeth his steps."
+                "text": "A man's heart deviseth his way: but Yahweh directeth his steps."
               },
               {
                 "vnumber": "10",
@@ -1886,7 +1886,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "11",
-                "text": "A just weight and balance are the LORD'S: all the weights of the bag are his work."
+                "text": "A just weight and balance are Yahweh'S: all the weights of the bag are his work."
               },
               {
                 "vnumber": "12",
@@ -1922,7 +1922,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "20",
-                "text": "He that handleth a matter wisely shall find good: and whoso trusteth in the LORD, happy is he."
+                "text": "He that handleth a matter wisely shall find good: and whoso trusteth in Yahweh, happy is he."
               },
               {
                 "vnumber": "21",
@@ -1974,7 +1974,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "33",
-                "text": "The lot is cast into the lap; but the whole disposing thereof is of the LORD."
+                "text": "The lot is cast into the lap; but the whole disposing thereof is of Yahweh."
               }
             ]
           },
@@ -1991,7 +1991,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "3",
-                "text": "The fining pot is for silver, and the furnace for gold: but the LORD trieth the hearts."
+                "text": "The fining pot is for silver, and the furnace for gold: but Yahweh trieth the hearts."
               },
               {
                 "vnumber": "4",
@@ -2039,7 +2039,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "15",
-                "text": "He that justifieth the wicked, and he that condemneth the just, even they both are abomination to the LORD."
+                "text": "He that justifieth the wicked, and he that condemneth the just, even they both are abomination to Yahweh."
               },
               {
                 "vnumber": "16",
@@ -2136,7 +2136,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "10",
-                "text": "The name of the LORD is a strong tower: the righteous runneth into it, and is safe."
+                "text": "The name of Yahweh is a strong tower: the righteous runneth into it, and is safe."
               },
               {
                 "vnumber": "11",
@@ -2184,7 +2184,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "22",
-                "text": "Whoso findeth a wife findeth a good thing, and obtaineth favour of the LORD."
+                "text": "Whoso findeth a wife findeth a good thing, and obtaineth favour of Yahweh."
               },
               {
                 "vnumber": "23",
@@ -2209,7 +2209,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "3",
-                "text": "The foolishness of man perverteth his way: and his heart fretteth against the LORD."
+                "text": "The foolishness of man perverteth his way: and his heart fretteth against Yahweh."
               },
               {
                 "vnumber": "4",
@@ -2253,7 +2253,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "14",
-                "text": "House and riches are the inheritance of fathers: and a prudent wife is from the LORD."
+                "text": "House and riches are the inheritance of fathers: and a prudent wife is from Yahweh."
               },
               {
                 "vnumber": "15",
@@ -2265,7 +2265,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "17",
-                "text": "He that hath pity upon the poor lendeth unto the LORD; and that which he hath given will he pay him again."
+                "text": "He that hath pity upon the poor lendeth unto Yahweh; and that which he hath given will he pay him again."
               },
               {
                 "vnumber": "18",
@@ -2281,7 +2281,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "21",
-                "text": "There are many devices in a man's heart; nevertheless the counsel of the LORD, that shall stand."
+                "text": "There are many devices in a man's heart; nevertheless the counsel of Yahweh, that shall stand."
               },
               {
                 "vnumber": "22",
@@ -2289,7 +2289,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "23",
-                "text": "The fear of the LORD tendeth to life: and he that hath it shall abide satisfied; he shall not be visited with evil."
+                "text": "The fear of Yahweh tendeth to life: and he that hath it shall abide satisfied; he shall not be visited with evil."
               },
               {
                 "vnumber": "24",
@@ -2358,7 +2358,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "10",
-                "text": "Divers weights, and divers measures, both of them are alike abomination to the LORD."
+                "text": "Divers weights, and divers measures, both of them are alike abomination to Yahweh."
               },
               {
                 "vnumber": "11",
@@ -2366,7 +2366,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "12",
-                "text": "The hearing ear, and the seeing eye, the LORD hath made even both of them."
+                "text": "The hearing ear, and the seeing eye, Yahweh hath made even both of them."
               },
               {
                 "vnumber": "13",
@@ -2406,15 +2406,15 @@ var Ketuvim = {
               },
               {
                 "vnumber": "22",
-                "text": "Say not thou, I will recompense evil; but wait on the LORD, and he shall save thee."
+                "text": "Say not thou, I will recompense evil; but wait on Yahweh, and he shall save thee."
               },
               {
                 "vnumber": "23",
-                "text": "Divers weights are an abomination unto the LORD; and a false balance is not good."
+                "text": "Divers weights are an abomination unto Yahweh; and a false balance is not good."
               },
               {
                 "vnumber": "24",
-                "text": "Man's goings are of the LORD; how can a man then understand his own way?"
+                "text": "Man's goings are of Yahweh; how can a man then understand his own way?"
               },
               {
                 "vnumber": "25",
@@ -2426,7 +2426,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "27",
-                "text": "The spirit of man is the candle of the LORD, searching all the inward parts of the belly."
+                "text": "The spirit of man is the candle of Yahweh, searching all the inward parts of the belly."
               },
               {
                 "vnumber": "28",
@@ -2447,15 +2447,15 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "The king's heart is in the hand of the LORD, as the rivers of water: he turneth it whithersoever he will."
+                "text": "The king's heart is in the hand of Yahweh, as the rivers of water: he turneth it whithersoever he will."
               },
               {
                 "vnumber": "2",
-                "text": "Every way of a man is right in his own eyes: but the LORD pondereth the hearts."
+                "text": "Every way of a man is right in his own eyes: but Yahweh pondereth the hearts."
               },
               {
                 "vnumber": "3",
-                "text": "To do justice and judgment is more acceptable to the LORD than sacrifice."
+                "text": "To do justice and judgment is more acceptable to Yahweh than sacrifice."
               },
               {
                 "vnumber": "4",
@@ -2563,11 +2563,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "30",
-                "text": "There is no wisdom nor understanding nor counsel against the LORD."
+                "text": "There is no wisdom nor understanding nor counsel against Yahweh."
               },
               {
                 "vnumber": "31",
-                "text": "The horse is prepared against the day of battle: but safety is of the LORD."
+                "text": "The horse is prepared against the day of battle: but safety is of Yahweh."
               }
             ]
           },
@@ -2580,7 +2580,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "2",
-                "text": "The rich and poor meet together: the LORD is the maker of them all."
+                "text": "The rich and poor meet together: Yahweh is the maker of them all."
               },
               {
                 "vnumber": "3",
@@ -2588,7 +2588,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "4",
-                "text": "By humility and the fear of the LORD are riches, and honour, and life."
+                "text": "By humility and the fear of Yahweh are riches, and honour, and life."
               },
               {
                 "vnumber": "5",
@@ -2620,7 +2620,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "12",
-                "text": "The eyes of the LORD preserve knowledge, and he overthroweth the words of the transgressor."
+                "text": "The eyes of Yahweh preserve knowledge, and he overthroweth the words of the transgressor."
               },
               {
                 "vnumber": "13",
@@ -2628,7 +2628,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "14",
-                "text": "The mouth of strange women is a deep pit: he that is abhorred of the LORD shall fall therein."
+                "text": "The mouth of strange women is a deep pit: he that is abhorred of Yahweh shall fall therein."
               },
               {
                 "vnumber": "15",
@@ -2648,7 +2648,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "19",
-                "text": "That thy trust may be in the LORD, I have made known to thee this day, even to thee."
+                "text": "That thy trust may be in Yahweh, I have made known to thee this day, even to thee."
               },
               {
                 "vnumber": "20",
@@ -2664,7 +2664,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "23",
-                "text": "For the LORD will plead their cause, and spoil the soul of those that spoiled them."
+                "text": "For Yahweh will plead their cause, and spoil the soul of those that spoiled them."
               },
               {
                 "vnumber": "24",
@@ -2761,7 +2761,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "17",
-                "text": "Let not thine heart envy sinners: but be thou in the fear of the LORD all the day long."
+                "text": "Let not thine heart envy sinners: but be thou in the fear of Yahweh all the day long."
               },
               {
                 "vnumber": "18",
@@ -2910,7 +2910,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "18",
-                "text": "Lest the LORD see it, and it displease him, and he turn away his wrath from him."
+                "text": "Lest Yahweh see it, and it displease him, and he turn away his wrath from him."
               },
               {
                 "vnumber": "19",
@@ -2922,7 +2922,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "21",
-                "text": "My son, fear thou the LORD and the king: and meddle not with them that are given to change:"
+                "text": "My son, fear thou Yahweh and the king: and meddle not with them that are given to change:"
               },
               {
                 "vnumber": "22",
@@ -3067,7 +3067,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "22",
-                "text": "For thou shalt heap coals of fire upon his head, and the LORD shall reward thee."
+                "text": "For thou shalt heap coals of fire upon his head, and Yahweh shall reward thee."
               },
               {
                 "vnumber": "23",
@@ -3346,7 +3346,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "5",
-                "text": "Evil men understand not judgment: but they that seek the LORD understand all things."
+                "text": "Evil men understand not judgment: but they that seek Yahweh understand all things."
               },
               {
                 "vnumber": "6",
@@ -3426,7 +3426,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "25",
-                "text": "He that is of a proud heart stirreth up strife: but he that putteth his trust in the LORD shall be made fat."
+                "text": "He that is of a proud heart stirreth up strife: but he that putteth his trust in Yahweh shall be made fat."
               },
               {
                 "vnumber": "26",
@@ -3495,7 +3495,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "13",
-                "text": "The poor and the deceitful man meet together: the LORD lighteneth both their eyes."
+                "text": "The poor and the deceitful man meet together: Yahweh lighteneth both their eyes."
               },
               {
                 "vnumber": "14",
@@ -3543,11 +3543,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "25",
-                "text": "The fear of man bringeth a snare: but whoso putteth his trust in the LORD shall be safe."
+                "text": "The fear of man bringeth a snare: but whoso putteth his trust in Yahweh shall be safe."
               },
               {
                 "vnumber": "26",
-                "text": "Many seek the ruler's favour; but every man's judgment cometh from the LORD."
+                "text": "Many seek the ruler's favour; but every man's judgment cometh from Yahweh."
               },
               {
                 "vnumber": "27",
@@ -3592,7 +3592,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "9",
-                "text": "Lest I be full, and deny thee, and say, Who is the LORD? or lest I be poor, and steal, and take the name of my God in vain."
+                "text": "Lest I be full, and deny thee, and say, Who is Yahweh? or lest I be poor, and steal, and take the name of my God in vain."
               },
               {
                 "vnumber": "10",
@@ -3813,7 +3813,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "30",
-                "text": "Favour is deceitful, and beauty is vain: but a woman that feareth the LORD, she shall be praised."
+                "text": "Favour is deceitful, and beauty is vain: but a woman that feareth Yahweh, she shall be praised."
               },
               {
                 "vnumber": "31",
@@ -3853,19 +3853,19 @@ var Ketuvim = {
               },
               {
                 "vnumber": "6",
-                "text": "Now there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them."
+                "text": "Now there was a day when the sons of God came to present themselves before Yahweh, and Satan came also among them."
               },
               {
                 "vnumber": "7",
-                "text": "And the LORD said unto Satan, Whence comest thou? Then Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it."
+                "text": "And Yahweh said unto Satan, Whence comest thou? Then Satan answered Yahweh, and said, From going to and fro in the earth, and from walking up and down in it."
               },
               {
                 "vnumber": "8",
-                "text": "And the LORD said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil?"
+                "text": "And Yahweh said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil?"
               },
               {
                 "vnumber": "9",
-                "text": "Then Satan answered the LORD, and said, Doth Job fear God for nought?"
+                "text": "Then Satan answered Yahweh, and said, Doth Job fear God for nought?"
               },
               {
                 "vnumber": "10",
@@ -3877,7 +3877,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "12",
-                "text": "And the LORD said unto Satan, Behold, all that he hath is in thy power; only upon himself put not forth thine hand. So Satan went forth from the presence of the LORD."
+                "text": "And Yahweh said unto Satan, Behold, all that he hath is in thy power; only upon himself put not forth thine hand. So Satan went forth from the presence of Yahweh."
               },
               {
                 "vnumber": "13",
@@ -3913,7 +3913,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "21",
-                "text": "And said, Naked came I out of my mother's womb, and naked shall I return thither: the LORD gave, and the LORD hath taken away; blessed be the name of the LORD."
+                "text": "And said, Naked came I out of my mother's womb, and naked shall I return thither: Yahweh gave, and Yahweh hath taken away; blessed be the name of Yahweh."
               },
               {
                 "vnumber": "22",
@@ -3926,19 +3926,19 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Again there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them to present himself before the LORD."
+                "text": "Again there was a day when the sons of God came to present themselves before Yahweh, and Satan came also among them to present himself before Yahweh."
               },
               {
                 "vnumber": "2",
-                "text": "And the LORD said unto Satan, From whence comest thou? And Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it."
+                "text": "And Yahweh said unto Satan, From whence comest thou? And Satan answered Yahweh, and said, From going to and fro in the earth, and from walking up and down in it."
               },
               {
                 "vnumber": "3",
-                "text": "And the LORD said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause."
+                "text": "And Yahweh said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause."
               },
               {
                 "vnumber": "4",
-                "text": "And Satan answered the LORD, and said, Skin for skin, yea, all that a man hath will he give for his life."
+                "text": "And Satan answered Yahweh, and said, Skin for skin, yea, all that a man hath will he give for his life."
               },
               {
                 "vnumber": "5",
@@ -3946,11 +3946,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "6",
-                "text": "And the LORD said unto Satan, Behold, he is in thine hand; but save his life."
+                "text": "And Yahweh said unto Satan, Behold, he is in thine hand; but save his life."
               },
               {
                 "vnumber": "7",
-                "text": "So went Satan forth from the presence of the LORD, and smote Job with sore boils from the sole of his foot unto his crown."
+                "text": "So went Satan forth from the presence of Yahweh, and smote Job with sore boils from the sole of his foot unto his crown."
               },
               {
                 "vnumber": "8",
@@ -4956,7 +4956,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "9",
-                "text": "Who knoweth not in all these that the hand of the LORD hath wrought this?"
+                "text": "Who knoweth not in all these that the hand of Yahweh hath wrought this?"
               },
               {
                 "vnumber": "10",
@@ -7714,7 +7714,7 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Then the LORD answered Job out of the whirlwind, and said,"
+                "text": "Then Yahweh answered Job out of the whirlwind, and said,"
               },
               {
                 "vnumber": "2",
@@ -8008,7 +8008,7 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Moreover the LORD answered Job, and said,"
+                "text": "Moreover Yahweh answered Job, and said,"
               },
               {
                 "vnumber": "2",
@@ -8016,7 +8016,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "3",
-                "text": "Then Job answered the LORD, and said,"
+                "text": "Then Job answered Yahweh, and said,"
               },
               {
                 "vnumber": "4",
@@ -8028,7 +8028,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "6",
-                "text": "Then answered the LORD unto Job out of the whirlwind, and said,"
+                "text": "Then answered Yahweh unto Job out of the whirlwind, and said,"
               },
               {
                 "vnumber": "7",
@@ -8250,7 +8250,7 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Then Job answered the LORD, and said,"
+                "text": "Then Job answered Yahweh, and said,"
               },
               {
                 "vnumber": "2",
@@ -8274,7 +8274,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "7",
-                "text": "And it was so, that after the LORD had spoken these words unto Job, the LORD said to Eliphaz the Temanite, My wrath is kindled against thee, and against thy two friends: for ye have not spoken of me the thing that is right, as my servant Job hath."
+                "text": "And it was so, that after Yahweh had spoken these words unto Job, Yahweh said to Eliphaz the Temanite, My wrath is kindled against thee, and against thy two friends: for ye have not spoken of me the thing that is right, as my servant Job hath."
               },
               {
                 "vnumber": "8",
@@ -8282,19 +8282,19 @@ var Ketuvim = {
               },
               {
                 "vnumber": "9",
-                "text": "So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went, and did according as the LORD commanded them: the LORD also accepted Job."
+                "text": "So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went, and did according as Yahweh commanded them: Yahweh also accepted Job."
               },
               {
                 "vnumber": "10",
-                "text": "And the LORD turned the captivity of Job, when he prayed for his friends: also the LORD gave Job twice as much as he had before."
+                "text": "And Yahweh turned the captivity of Job, when he prayed for his friends: also Yahweh gave Job twice as much as he had before."
               },
               {
                 "vnumber": "11",
-                "text": "Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the LORD had brought upon him: every man also gave him a piece of money, and every one an earring of gold."
+                "text": "Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that Yahweh had brought upon him: every man also gave him a piece of money, and every one an earring of gold."
               },
               {
                 "vnumber": "12",
-                "text": "So the LORD blessed the latter end of Job more than his beginning: for he had fourteen thousand sheep, and six thousand camels, and a thousand yoke of oxen, and a thousand she asses."
+                "text": "So Yahweh blessed the latter end of Job more than his beginning: for he had fourteen thousand sheep, and six thousand camels, and a thousand yoke of oxen, and a thousand she asses."
               },
               {
                 "vnumber": "13",
@@ -8865,7 +8865,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "6",
-                "text": "Then she arose with her daughters in law, that she might return from the country of Moab: for she had heard in the country of Moab how that the LORD had visited his people in giving them bread."
+                "text": "Then she arose with her daughters in law, that she might return from the country of Moab: for she had heard in the country of Moab how that Yahweh had visited his people in giving them bread."
               },
               {
                 "vnumber": "7",
@@ -8873,11 +8873,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "8",
-                "text": "And Naomi said unto her two daughters in law, Go, return each to her mother's house: the LORD deal kindly with you, as ye have dealt with the dead, and with me."
+                "text": "And Naomi said unto her two daughters in law, Go, return each to her mother's house: Yahweh deal kindly with you, as ye have dealt with the dead, and with me."
               },
               {
                 "vnumber": "9",
-                "text": "The LORD grant you that ye may find rest, each of you in the house of her husband. Then she kissed them; and they lifted up their voice, and wept."
+                "text": "Yahweh grant you that ye may find rest, each of you in the house of her husband. Then she kissed them; and they lifted up their voice, and wept."
               },
               {
                 "vnumber": "10",
@@ -8893,7 +8893,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "13",
-                "text": "Would ye tarry for them till they were grown? would ye stay for them from having husbands? nay, my daughters; for it grieveth me much for your sakes that the hand of the LORD is gone out against me."
+                "text": "Would ye tarry for them till they were grown? would ye stay for them from having husbands? nay, my daughters; for it grieveth me much for your sakes that the hand of Yahweh is gone out against me."
               },
               {
                 "vnumber": "14",
@@ -8909,7 +8909,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "17",
-                "text": "Where thou diest, will I die, and there will I be buried: the LORD do so to me, and more also, if ought but death part thee and me."
+                "text": "Where thou diest, will I die, and there will I be buried: Yahweh do so to me, and more also, if ought but death part thee and me."
               },
               {
                 "vnumber": "18",
@@ -8925,7 +8925,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "21",
-                "text": "I went out full, and the LORD hath brought me home again empty: why then call ye me Naomi, seeing the LORD hath testified against me, and SHADDAI has afflicted me?"
+                "text": "I went out full, and Yahweh hath brought me home again empty: why then call ye me Naomi, seeing Yahweh hath testified against me, and SHADDAI has afflicted me?"
               },
               {
                 "vnumber": "22",
@@ -8950,7 +8950,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "4",
-                "text": "And, behold, Boaz came from Bethlehem, and said unto the reapers, The LORD be with you. And they answered him, The LORD bless thee."
+                "text": "And, behold, Boaz came from Bethlehem, and said unto the reapers, Yahweh be with you. And they answered him, Yahweh bless thee."
               },
               {
                 "vnumber": "5",
@@ -8982,7 +8982,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "12",
-                "text": "The LORD recompense thy work, and a full reward be given thee of the LORD God of Israel, under whose wings thou art come to trust."
+                "text": "Yahweh recompense thy work, and a full reward be given thee of Yahweh God of Israel, under whose wings thou art come to trust."
               },
               {
                 "vnumber": "13",
@@ -9014,7 +9014,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "20",
-                "text": "And Naomi said unto her daughter in law, Blessed be he of the LORD, who hath not left off his kindness to the living and to the dead. And Naomi said unto her, The man is near of kin unto us, one of our next kinsmen."
+                "text": "And Naomi said unto her daughter in law, Blessed be he of Yahweh, who hath not left off his kindness to the living and to the dead. And Naomi said unto her, The man is near of kin unto us, one of our next kinsmen."
               },
               {
                 "vnumber": "21",
@@ -9071,7 +9071,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "10",
-                "text": "And he said, Blessed be thou of the LORD, my daughter: for thou hast shewed more kindness in the latter end than at the beginning, inasmuch as thou followedst not young men, whether poor or rich."
+                "text": "And he said, Blessed be thou of Yahweh, my daughter: for thou hast shewed more kindness in the latter end than at the beginning, inasmuch as thou followedst not young men, whether poor or rich."
               },
               {
                 "vnumber": "11",
@@ -9083,7 +9083,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "13",
-                "text": "Tarry this night, and it shall be in the morning, that if he will perform unto thee the part of a kinsman, well; let him do the kinsman's part: but if he will not do the part of a kinsman to thee, then will I do the part of a kinsman to thee, as the LORD liveth: lie down until the morning."
+                "text": "Tarry this night, and it shall be in the morning, that if he will perform unto thee the part of a kinsman, well; let him do the kinsman's part: but if he will not do the part of a kinsman to thee, then will I do the part of a kinsman to thee, as Yahweh liveth: lie down until the morning."
               },
               {
                 "vnumber": "14",
@@ -9152,19 +9152,19 @@ var Ketuvim = {
               },
               {
                 "vnumber": "11",
-                "text": "And all the people that were in the gate, and the elders, said, We are witnesses. The LORD make the woman that is come into thine house like Rachel and like Leah, which two did build the house of Israel: and do thou worthily in Ephratah, and be famous in Bethlehem:"
+                "text": "And all the people that were in the gate, and the elders, said, We are witnesses. Yahweh make the woman that is come into thine house like Rachel and like Leah, which two did build the house of Israel: and do thou worthily in Ephratah, and be famous in Bethlehem:"
               },
               {
                 "vnumber": "12",
-                "text": "And let thy house be like the house of Pharez, whom Tamar bare unto Judah, of the seed which the LORD shall give thee of this young woman."
+                "text": "And let thy house be like the house of Pharez, whom Tamar bare unto Judah, of the seed which Yahweh shall give thee of this young woman."
               },
               {
                 "vnumber": "13",
-                "text": "So Boaz took Ruth, and she was his wife: and when he went in unto her, the LORD gave her conception, and she bare a son."
+                "text": "So Boaz took Ruth, and she was his wife: and when he went in unto her, Yahweh gave her conception, and she bare a son."
               },
               {
                 "vnumber": "14",
-                "text": "And the women said unto Naomi, Blessed be the LORD, which hath not left thee this day without a kinsman, that his name may be famous in Israel."
+                "text": "And the women said unto Naomi, Blessed be Yahweh, which hath not left thee this day without a kinsman, that his name may be famous in Israel."
               },
               {
                 "vnumber": "15",
@@ -9228,7 +9228,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "5",
-                "text": "Her adversaries are the chief, her enemies prosper; for the LORD hath afflicted her for the multitude of her transgressions: her children are gone into captivity before the enemy."
+                "text": "Her adversaries are the chief, her enemies prosper; for Yahweh hath afflicted her for the multitude of her transgressions: her children are gone into captivity before the enemy."
               },
               {
                 "vnumber": "6",
@@ -9244,7 +9244,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "9",
-                "text": "Her filthiness is in her skirts; she remembereth not her last end; therefore she came down wonderfully: she had no comforter. O LORD, behold my affliction: for the enemy hath magnified himself."
+                "text": "Her filthiness is in her skirts; she remembereth not her last end; therefore she came down wonderfully: she had no comforter. Oh Yahweh, behold my affliction: for the enemy hath magnified himself."
               },
               {
                 "vnumber": "10",
@@ -9252,11 +9252,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "11",
-                "text": "All her people sigh, they seek bread; they have given their pleasant things for meat to relieve the soul: see, O LORD, and consider; for I am become vile."
+                "text": "All her people sigh, they seek bread; they have given their pleasant things for meat to relieve the soul: see, Oh Yahweh, and consider; for I am become vile."
               },
               {
                 "vnumber": "12",
-                "text": "Is it nothing to you, all ye that pass by? behold, and see if there be any sorrow like unto my sorrow, which is done unto me, wherewith the LORD hath afflicted me in the day of his fierce anger."
+                "text": "Is it nothing to you, all ye that pass by? behold, and see if there be any sorrow like unto my sorrow, which is done unto me, wherewith Yahweh hath afflicted me in the day of his fierce anger."
               },
               {
                 "vnumber": "13",
@@ -9276,11 +9276,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "17",
-                "text": "Zion spreadeth forth her hands, and there is none to comfort her: the LORD hath commanded concerning Jacob, that his adversaries should be round about him: Jerusalem is as a menstruous woman among them."
+                "text": "Zion spreadeth forth her hands, and there is none to comfort her: Yahweh hath commanded concerning Jacob, that his adversaries should be round about him: Jerusalem is as a menstruous woman among them."
               },
               {
                 "vnumber": "18",
-                "text": "The LORD is righteous; for I have rebelled against his commandment: hear, I pray you, all people, and behold my sorrow: my virgins and my young men are gone into captivity."
+                "text": "Yahweh is righteous; for I have rebelled against his commandment: hear, I pray you, all people, and behold my sorrow: my virgins and my young men are gone into captivity."
               },
               {
                 "vnumber": "19",
@@ -9288,7 +9288,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "20",
-                "text": "Behold, O LORD; for I am in distress: my bowels are troubled; mine heart is turned within me; for I have grievously rebelled: abroad the sword bereaveth, at home there is as death."
+                "text": "Behold, Oh Yahweh; for I am in distress: my bowels are troubled; mine heart is turned within me; for I have grievously rebelled: abroad the sword bereaveth, at home there is as death."
               },
               {
                 "vnumber": "21",
@@ -9325,19 +9325,19 @@ var Ketuvim = {
               },
               {
                 "vnumber": "6",
-                "text": "And he hath violently taken away his tabernacle, as if it were of a garden: he hath destroyed his places of the assembly: the LORD hath caused the solemn feasts and sabbaths to be forgotten in Zion, and hath despised in the indignation of his anger the king and the priest."
+                "text": "And he hath violently taken away his tabernacle, as if it were of a garden: he hath destroyed his places of the assembly: Yahweh hath caused the solemn feasts and sabbaths to be forgotten in Zion, and hath despised in the indignation of his anger the king and the priest."
               },
               {
                 "vnumber": "7",
-                "text": "The Lord hath cast off his altar, he hath abhorred his sanctuary, he hath given up into the hand of the enemy the walls of her palaces; they have made a noise in the house of the LORD, as in the day of a solemn feast."
+                "text": "The Lord hath cast off his altar, he hath abhorred his sanctuary, he hath given up into the hand of the enemy the walls of her palaces; they have made a noise in the house of Yahweh, as in the day of a solemn feast."
               },
               {
                 "vnumber": "8",
-                "text": "The LORD hath purposed to destroy the wall of the daughter of Zion: he hath stretched out a line, he hath not withdrawn his hand from destroying: therefore he made the rampart and the wall to lament; they languished together."
+                "text": "Yahweh hath purposed to destroy the wall of the daughter of Zion: he hath stretched out a line, he hath not withdrawn his hand from destroying: therefore he made the rampart and the wall to lament; they languished together."
               },
               {
                 "vnumber": "9",
-                "text": "Her gates are sunk into the ground; he hath destroyed and broken her bars: her king and her princes are among the Gentiles: the law is no more; her prophets also find no vision from the LORD."
+                "text": "Her gates are sunk into the ground; he hath destroyed and broken her bars: her king and her princes are among the Gentiles: the law is no more; her prophets also find no vision from Yahweh."
               },
               {
                 "vnumber": "10",
@@ -9369,7 +9369,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "17",
-                "text": "The LORD hath done that which he had devised; he hath fulfilled his word that he had commanded in the days of old: he hath thrown down, and hath not pitied: and he hath caused thine enemy to rejoice over thee, he hath set up the horn of thine adversaries."
+                "text": "Yahweh hath done that which he had devised; he hath fulfilled his word that he had commanded in the days of old: he hath thrown down, and hath not pitied: and he hath caused thine enemy to rejoice over thee, he hath set up the horn of thine adversaries."
               },
               {
                 "vnumber": "18",
@@ -9381,7 +9381,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "20",
-                "text": "Behold, O LORD, and consider to whom thou hast done this. Shall the women eat their fruit, and children of a span long? shall the priest and the prophet be slain in the sanctuary of the Lord?"
+                "text": "Behold, Oh Yahweh, and consider to whom thou hast done this. Shall the women eat their fruit, and children of a span long? shall the priest and the prophet be slain in the sanctuary of the Lord?"
               },
               {
                 "vnumber": "21",
@@ -9389,7 +9389,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "22",
-                "text": "Thou hast called as in a solemn day my terrors round about, so that in the day of the LORD'S anger none escaped nor remained: those that I have swaddled and brought up hath mine enemy consumed."
+                "text": "Thou hast called as in a solemn day my terrors round about, so that in the day of Yahweh'S anger none escaped nor remained: those that I have swaddled and brought up hath mine enemy consumed."
               }
             ]
           },
@@ -9466,7 +9466,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "18",
-                "text": "And I said, My strength and my hope is perished from the LORD:"
+                "text": "And I said, My strength and my hope is perished from Yahweh:"
               },
               {
                 "vnumber": "19",
@@ -9482,7 +9482,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "22",
-                "text": "It is of the LORD'S mercies that we are not consumed, because his compassions fail not."
+                "text": "It is of Yahweh'S mercies that we are not consumed, because his compassions fail not."
               },
               {
                 "vnumber": "23",
@@ -9490,15 +9490,15 @@ var Ketuvim = {
               },
               {
                 "vnumber": "24",
-                "text": "The LORD is my portion, saith my soul; therefore will I hope in him."
+                "text": "Yahweh is my portion, saith my soul; therefore will I hope in him."
               },
               {
                 "vnumber": "25",
-                "text": "The LORD is good unto them that wait for him, to the soul that seeketh him."
+                "text": "Yahweh is good unto them that wait for him, to the soul that seeketh him."
               },
               {
                 "vnumber": "26",
-                "text": "It is good that a man should both hope and quietly wait for the salvation of the LORD."
+                "text": "It is good that a man should both hope and quietly wait for the salvation of Yahweh."
               },
               {
                 "vnumber": "27",
@@ -9555,7 +9555,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "40",
-                "text": "Let us search and try our ways, and turn again to the LORD."
+                "text": "Let us search and try our ways, and turn again to Yahweh."
               },
               {
                 "vnumber": "41",
@@ -9595,7 +9595,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "50",
-                "text": "Till the LORD look down, and behold from heaven."
+                "text": "Till Yahweh look down, and behold from heaven."
               },
               {
                 "vnumber": "51",
@@ -9615,7 +9615,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "55",
-                "text": "I called upon thy name, O LORD, out of the low dungeon."
+                "text": "I called upon thy name, Oh Yahweh, out of the low dungeon."
               },
               {
                 "vnumber": "56",
@@ -9631,7 +9631,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "59",
-                "text": "O LORD, thou hast seen my wrong: judge thou my cause."
+                "text": "Oh Yahweh, thou hast seen my wrong: judge thou my cause."
               },
               {
                 "vnumber": "60",
@@ -9639,7 +9639,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "61",
-                "text": "Thou hast heard their reproach, O LORD, and all their imaginations against me;"
+                "text": "Thou hast heard their reproach, Oh Yahweh, and all their imaginations against me;"
               },
               {
                 "vnumber": "62",
@@ -9651,7 +9651,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "64",
-                "text": "Render unto them a recompence, O LORD, according to the work of their hands."
+                "text": "Render unto them a recompence, Oh Yahweh, according to the work of their hands."
               },
               {
                 "vnumber": "65",
@@ -9659,7 +9659,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "66",
-                "text": "Persecute and destroy them in anger from under the heavens of the LORD."
+                "text": "Persecute and destroy them in anger from under the heavens of Yahweh."
               }
             ]
           },
@@ -9708,7 +9708,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "11",
-                "text": "The LORD hath accomplished his fury; he hath poured out his fierce anger, and hath kindled a fire in Zion, and it hath devoured the foundations thereof."
+                "text": "Yahweh hath accomplished his fury; he hath poured out his fierce anger, and hath kindled a fire in Zion, and it hath devoured the foundations thereof."
               },
               {
                 "vnumber": "12",
@@ -9728,7 +9728,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "16",
-                "text": "The anger of the LORD hath divided them; he will no more regard them: they respected not the persons of the priests, they favoured not the elders."
+                "text": "The anger of Yahweh hath divided them; he will no more regard them: they respected not the persons of the priests, they favoured not the elders."
               },
               {
                 "vnumber": "17",
@@ -9744,7 +9744,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "20",
-                "text": "The breath of our nostrils, the anointed of the LORD, was taken in their pits, of whom we said, Under his shadow we shall live among the heathen."
+                "text": "The breath of our nostrils, the anointed of Yahweh, was taken in their pits, of whom we said, Under his shadow we shall live among the heathen."
               },
               {
                 "vnumber": "21",
@@ -9761,7 +9761,7 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Remember, O LORD, what is come upon us: consider, and behold our reproach."
+                "text": "Remember, Oh Yahweh, what is come upon us: consider, and behold our reproach."
               },
               {
                 "vnumber": "2",
@@ -9833,7 +9833,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "19",
-                "text": "Thou, O LORD, remainest for ever; thy throne from generation to generation."
+                "text": "Thou, Oh Yahweh, remainest for ever; thy throne from generation to generation."
               },
               {
                 "vnumber": "20",
@@ -9841,7 +9841,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "21",
-                "text": "Turn thou us unto thee, O LORD, and we shall be turned; renew our days as of old."
+                "text": "Turn thou us unto thee, Oh Yahweh, and we shall be turned; renew our days as of old."
               },
               {
                 "vnumber": "22",
@@ -12589,7 +12589,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "2",
-                "text": "In the first year of his reign I Daniel understood by books the number of the years, whereof the word of the LORD came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem."
+                "text": "In the first year of his reign I Daniel understood by books the number of the years, whereof the word of Yahweh came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem."
               },
               {
                 "vnumber": "3",
@@ -12597,7 +12597,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "4",
-                "text": "And I prayed unto the LORD my God, and made my confession, and said, O Lord, the great and dreadful God, keeping the covenant and mercy to them that love him, and to them that keep his commandments;"
+                "text": "And I prayed unto Yahweh my God, and made my confession, and said, O Lord, the great and dreadful God, keeping the covenant and mercy to them that love him, and to them that keep his commandments;"
               },
               {
                 "vnumber": "5",
@@ -12621,7 +12621,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "10",
-                "text": "Neither have we obeyed the voice of the LORD our God, to walk in his laws, which he set before us by his servants the prophets."
+                "text": "Neither have we obeyed the voice of Yahweh our God, to walk in his laws, which he set before us by his servants the prophets."
               },
               {
                 "vnumber": "11",
@@ -12633,11 +12633,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "13",
-                "text": "As it is written in the law of Moses, all this evil is come upon us: yet made we not our prayer before the LORD our God, that we might turn from our iniquities, and understand thy truth."
+                "text": "As it is written in the law of Moses, all this evil is come upon us: yet made we not our prayer before Yahweh our God, that we might turn from our iniquities, and understand thy truth."
               },
               {
                 "vnumber": "14",
-                "text": "Therefore hath the LORD watched upon the evil, and brought it upon us: for the LORD our God is righteous in all his works which he doeth: for we obeyed not his voice."
+                "text": "Therefore hath Yahweh watched upon the evil, and brought it upon us: for Yahweh our God is righteous in all his works which he doeth: for we obeyed not his voice."
               },
               {
                 "vnumber": "15",
@@ -12661,7 +12661,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "20",
-                "text": "And whiles I was speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before the LORD my God for the holy mountain of my God;"
+                "text": "And whiles I was speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before Yahweh my God for the holy mountain of my God;"
               },
               {
                 "vnumber": "21",
@@ -13036,15 +13036,15 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Now in the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be fulfilled, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,"
+                "text": "Now in the first year of Cyrus king of Persia, that the word of Yahweh by the mouth of Jeremiah might be fulfilled, Yahweh stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,"
               },
               {
                 "vnumber": "2",
-                "text": "Thus saith Cyrus king of Persia, The LORD God of heaven hath given me all the kingdoms of the earth; and he hath charged me to build him an house at Jerusalem, which is in Judah."
+                "text": "Thus saith Cyrus king of Persia, Yahweh God of heaven hath given me all the kingdoms of the earth; and he hath charged me to build him an house at Jerusalem, which is in Judah."
               },
               {
                 "vnumber": "3",
-                "text": "Who is there among you of all his people? his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of the LORD God of Israel, (he is the God,) which is in Jerusalem."
+                "text": "Who is there among you of all his people? his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of Yahweh God of Israel, (he is the God,) which is in Jerusalem."
               },
               {
                 "vnumber": "4",
@@ -13052,7 +13052,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "5",
-                "text": "Then rose up the chief of the fathers of Judah and Benjamin, and the priests, and the Levites, with all them whose spirit God had raised, to go up to build the house of the LORD which is in Jerusalem."
+                "text": "Then rose up the chief of the fathers of Judah and Benjamin, and the priests, and the Levites, with all them whose spirit God had raised, to go up to build the house of Yahweh which is in Jerusalem."
               },
               {
                 "vnumber": "6",
@@ -13060,7 +13060,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "7",
-                "text": "Also Cyrus the king brought forth the vessels of the house of the LORD, which Nebuchadnezzar had brought forth out of Jerusalem, and had put them in the house of his gods;"
+                "text": "Also Cyrus the king brought forth the vessels of the house of Yahweh, which Nebuchadnezzar had brought forth out of Jerusalem, and had put them in the house of his gods;"
               },
               {
                 "vnumber": "8",
@@ -13353,7 +13353,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "68",
-                "text": "And some of the chief of the fathers, when they came to the house of the LORD which is at Jerusalem, offered freely for the house of God to set it up in his place:"
+                "text": "And some of the chief of the fathers, when they came to the house of Yahweh which is at Jerusalem, offered freely for the house of God to set it up in his place:"
               },
               {
                 "vnumber": "69",
@@ -13378,7 +13378,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "3",
-                "text": "And they set the altar upon his bases; for fear was upon them because of the people of those countries: and they offered burnt offerings thereon unto the LORD, even burnt offerings morning and evening."
+                "text": "And they set the altar upon his bases; for fear was upon them because of the people of those countries: and they offered burnt offerings thereon unto Yahweh, even burnt offerings morning and evening."
               },
               {
                 "vnumber": "4",
@@ -13386,11 +13386,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "5",
-                "text": "And afterward offered the continual burnt offering, both of the new moons, and of all the set feasts of the LORD that were consecrated, and of every one that willingly offered a freewill offering unto the LORD."
+                "text": "And afterward offered the continual burnt offering, both of the new moons, and of all the set feasts of Yahweh that were consecrated, and of every one that willingly offered a freewill offering unto Yahweh."
               },
               {
                 "vnumber": "6",
-                "text": "From the first day of the seventh month began they to offer burnt offerings unto the LORD. But the foundation of the temple of the LORD was not yet laid."
+                "text": "From the first day of the seventh month began they to offer burnt offerings unto Yahweh. But the foundation of the temple of Yahweh was not yet laid."
               },
               {
                 "vnumber": "7",
@@ -13398,7 +13398,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "8",
-                "text": "Now in the second year of their coming unto the house of God at Jerusalem, in the second month, began Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and the remnant of their brethren the priests and the Levites, and all they that were come out of the captivity unto Jerusalem; and appointed the Levites, from twenty years old and upward, to set forward the work of the house of the LORD."
+                "text": "Now in the second year of their coming unto the house of God at Jerusalem, in the second month, began Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and the remnant of their brethren the priests and the Levites, and all they that were come out of the captivity unto Jerusalem; and appointed the Levites, from twenty years old and upward, to set forward the work of the house of Yahweh."
               },
               {
                 "vnumber": "9",
@@ -13406,11 +13406,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "10",
-                "text": "And when the builders laid the foundation of the temple of the LORD, they set the priests in their apparel with trumpets, and the Levites the sons of Asaph with cymbals, to praise the LORD, after the ordinance of David king of Israel."
+                "text": "And when the builders laid the foundation of the temple of Yahweh, they set the priests in their apparel with trumpets, and the Levites the sons of Asaph with cymbals, to praise Yahweh, after the ordinance of David king of Israel."
               },
               {
                 "vnumber": "11",
-                "text": "And they sang together by course in praising and giving thanks unto the LORD; because he is good, for his mercy endureth for ever toward Israel. And all the people shouted with a great shout, when they praised the LORD, because the foundation of the house of the LORD was laid."
+                "text": "And they sang together by course in praising and giving thanks unto Yahweh; because he is good, for his mercy endureth for ever toward Israel. And all the people shouted with a great shout, when they praised Yahweh, because the foundation of the house of Yahweh was laid."
               },
               {
                 "vnumber": "12",
@@ -13427,7 +13427,7 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Now when the adversaries of Judah and Benjamin heard that the children of the captivity builded the temple unto the LORD God of Israel;"
+                "text": "Now when the adversaries of Judah and Benjamin heard that the children of the captivity builded the temple unto Yahweh God of Israel;"
               },
               {
                 "vnumber": "2",
@@ -13435,7 +13435,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "3",
-                "text": "But Zerubbabel, and Jeshua, and the rest of the chief of the fathers of Israel, said unto them, Ye have nothing to do with us to build an house unto our God; but we ourselves together will build unto the LORD God of Israel, as king Cyrus the king of Persia hath commanded us."
+                "text": "But Zerubbabel, and Jeshua, and the rest of the chief of the fathers of Israel, said unto them, Ye have nothing to do with us to build an house unto our God; but we ourselves together will build unto Yahweh God of Israel, as king Cyrus the king of Persia hath commanded us."
               },
               {
                 "vnumber": "4",
@@ -13681,11 +13681,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "21",
-                "text": "And the children of Israel, which were come again out of captivity, and all such as had separated themselves unto them from the filthiness of the heathen of the land, to seek the LORD God of Israel, did eat,"
+                "text": "And the children of Israel, which were come again out of captivity, and all such as had separated themselves unto them from the filthiness of the heathen of the land, to seek Yahweh God of Israel, did eat,"
               },
               {
                 "vnumber": "22",
-                "text": "And kept the feast of unleavened bread seven days with joy: for the LORD had made them joyful, and turned the heart of the king of Assyria unto them, to strengthen their hands in the work of the house of God, the God of Israel."
+                "text": "And kept the feast of unleavened bread seven days with joy: for Yahweh had made them joyful, and turned the heart of the king of Assyria unto them, to strengthen their hands in the work of the house of God, the God of Israel."
               }
             ]
           },
@@ -13714,7 +13714,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "6",
-                "text": "This Ezra went up from Babylon; and he was a ready scribe in the law of Moses, which the LORD God of Israel had given: and the king granted him all his request, according to the hand of the LORD his God upon him."
+                "text": "This Ezra went up from Babylon; and he was a ready scribe in the law of Moses, which Yahweh God of Israel had given: and the king granted him all his request, according to the hand of Yahweh his God upon him."
               },
               {
                 "vnumber": "7",
@@ -13730,11 +13730,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "10",
-                "text": "For Ezra had prepared his heart to seek the law of the LORD, and to do it, and to teach in Israel statutes and judgments."
+                "text": "For Ezra had prepared his heart to seek the law of Yahweh, and to do it, and to teach in Israel statutes and judgments."
               },
               {
                 "vnumber": "11",
-                "text": "Now this is the copy of the letter that the king Artaxerxes gave unto Ezra the priest, the scribe, even a scribe of the words of the commandments of the LORD, and of his statutes to Israel."
+                "text": "Now this is the copy of the letter that the king Artaxerxes gave unto Ezra the priest, the scribe, even a scribe of the words of the commandments of Yahweh, and of his statutes to Israel."
               },
               {
                 "vnumber": "12",
@@ -13798,11 +13798,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "27",
-                "text": "Blessed be the LORD God of our fathers, which hath put such a thing as this in the king's heart, to beautify the house of the LORD which is in Jerusalem:"
+                "text": "Blessed be Yahweh God of our fathers, which hath put such a thing as this in the king's heart, to beautify the house of Yahweh which is in Jerusalem:"
               },
               {
                 "vnumber": "28",
-                "text": "And hath extended mercy unto me before the king, and his counsellors, and before all the king's mighty princes. And I was strengthened as the hand of the LORD my God was upon me, and I gathered together out of Israel chief men to go up with me."
+                "text": "And hath extended mercy unto me before the king, and his counsellors, and before all the king's mighty princes. And I was strengthened as the hand of Yahweh my God was upon me, and I gathered together out of Israel chief men to go up with me."
               }
             ]
           },
@@ -13919,11 +13919,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "28",
-                "text": "And I said unto them, Ye are holy unto the LORD; the vessels are holy also; and the silver and the gold are a freewill offering unto the LORD God of your fathers."
+                "text": "And I said unto them, Ye are holy unto Yahweh; the vessels are holy also; and the silver and the gold are a freewill offering unto Yahweh God of your fathers."
               },
               {
                 "vnumber": "29",
-                "text": "Watch ye, and keep them, until ye weigh them before the chief of the priests and the Levites, and chief of the fathers of Israel, at Jerusalem, in the chambers of the house of the LORD."
+                "text": "Watch ye, and keep them, until ye weigh them before the chief of the priests and the Levites, and chief of the fathers of Israel, at Jerusalem, in the chambers of the house of Yahweh."
               },
               {
                 "vnumber": "30",
@@ -13947,7 +13947,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "35",
-                "text": "Also the children of those that had been carried away, which were come out of the captivity, offered burnt offerings unto the God of Israel, twelve bullocks for all Israel, ninety and six rams, seventy and seven lambs, twelve he goats for a sin offering: all this was a burnt offering unto the LORD."
+                "text": "Also the children of those that had been carried away, which were come out of the captivity, offered burnt offerings unto the God of Israel, twelve bullocks for all Israel, ninety and six rams, seventy and seven lambs, twelve he goats for a sin offering: all this was a burnt offering unto Yahweh."
               },
               {
                 "vnumber": "36",
@@ -13976,7 +13976,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "5",
-                "text": "And at the evening sacrifice I arose up from my heaviness; and having rent my garment and my mantle, I fell upon my knees, and spread out my hands unto the LORD my God,"
+                "text": "And at the evening sacrifice I arose up from my heaviness; and having rent my garment and my mantle, I fell upon my knees, and spread out my hands unto Yahweh my God,"
               },
               {
                 "vnumber": "6",
@@ -13988,7 +13988,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "8",
-                "text": "And now for a little space grace hath been shewed from the LORD our God, to leave us a remnant to escape, and to give us a nail in his holy place, that our God may lighten our eyes, and give us a little reviving in our bondage."
+                "text": "And now for a little space grace hath been shewed from Yahweh our God, to leave us a remnant to escape, and to give us a nail in his holy place, that our God may lighten our eyes, and give us a little reviving in our bondage."
               },
               {
                 "vnumber": "9",
@@ -14016,7 +14016,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "15",
-                "text": "O LORD God of Israel, thou art righteous: for we remain yet escaped, as it is this day: behold, we are before thee in our trespasses: for we cannot stand before thee because of this."
+                "text": "Oh Yahweh God of Israel, thou art righteous: for we remain yet escaped, as it is this day: behold, we are before thee in our trespasses: for we cannot stand before thee because of this."
               }
             ]
           },
@@ -14065,7 +14065,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "11",
-                "text": "Now therefore make confession unto the LORD God of your fathers, and do his pleasure: and separate yourselves from the people of the land, and from the strange wives."
+                "text": "Now therefore make confession unto Yahweh God of your fathers, and do his pleasure: and separate yourselves from the people of the land, and from the strange wives."
               },
               {
                 "vnumber": "12",
@@ -14229,7 +14229,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "5",
-                "text": "And said, I beseech thee, O LORD God of heaven, the great and terrible God, that keepeth covenant and mercy for them that love him and observe his commandments:"
+                "text": "And said, I beseech thee, Oh Yahweh God of heaven, the great and terrible God, that keepeth covenant and mercy for them that love him and observe his commandments:"
               },
               {
                 "vnumber": "6",
@@ -14625,7 +14625,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "13",
-                "text": "Also I shook my lap, and said, So God shake out every man from his house, and from his labour, that performeth not this promise, even thus be he shaken out, and emptied. And all the congregation said, Amen, and praised the LORD. And the people did according to this promise."
+                "text": "Also I shook my lap, and said, So God shake out every man from his house, and from his labour, that performeth not this promise, even thus be he shaken out, and emptied. And all the congregation said, Amen, and praised Yahweh. And the people did according to this promise."
               },
               {
                 "vnumber": "14",
@@ -15036,7 +15036,7 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the LORD had commanded to Israel."
+                "text": "And all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which Yahweh had commanded to Israel."
               },
               {
                 "vnumber": "2",
@@ -15056,7 +15056,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "6",
-                "text": "And Ezra blessed the LORD, the great God. And all the people answered, Amen, Amen, with lifting up their hands: and they bowed their heads, and worshipped the LORD with their faces to the ground."
+                "text": "And Ezra blessed Yahweh, the great God. And all the people answered, Amen, Amen, with lifting up their hands: and they bowed their heads, and worshipped Yahweh with their faces to the ground."
               },
               {
                 "vnumber": "7",
@@ -15068,11 +15068,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "9",
-                "text": "And Nehemiah, which is the Tirshatha, and Ezra the priest the scribe, and the Levites that taught the people, said unto all the people, This day is holy unto the LORD your God; mourn not, nor weep. For all the people wept, when they heard the words of the law."
+                "text": "And Nehemiah, which is the Tirshatha, and Ezra the priest the scribe, and the Levites that taught the people, said unto all the people, This day is holy unto Yahweh your God; mourn not, nor weep. For all the people wept, when they heard the words of the law."
               },
               {
                 "vnumber": "10",
-                "text": "Then he said unto them, Go your way, eat the fat, and drink the sweet, and send portions unto them for whom nothing is prepared: for this day is holy unto our Lord: neither be ye sorry; for the joy of the LORD is your strength."
+                "text": "Then he said unto them, Go your way, eat the fat, and drink the sweet, and send portions unto them for whom nothing is prepared: for this day is holy unto our Lord: neither be ye sorry; for the joy of Yahweh is your strength."
               },
               {
                 "vnumber": "11",
@@ -15088,7 +15088,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "14",
-                "text": "And they found written in the law which the LORD had commanded by Moses, that the children of Israel should dwell in booths in the feast of the seventh month:"
+                "text": "And they found written in the law which Yahweh had commanded by Moses, that the children of Israel should dwell in booths in the feast of the seventh month:"
               },
               {
                 "vnumber": "15",
@@ -15121,23 +15121,23 @@ var Ketuvim = {
               },
               {
                 "vnumber": "3",
-                "text": "And they stood up in their place, and read in the book of the law of the LORD their God one fourth part of the day; and another fourth part they confessed, and worshipped the LORD their God."
+                "text": "And they stood up in their place, and read in the book of the law of Yahweh their God one fourth part of the day; and another fourth part they confessed, and worshipped Yahweh their God."
               },
               {
                 "vnumber": "4",
-                "text": "Then stood up upon the stairs, of the Levites, Jeshua, and Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani, and cried with a loud voice unto the LORD their God."
+                "text": "Then stood up upon the stairs, of the Levites, Jeshua, and Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani, and cried with a loud voice unto Yahweh their God."
               },
               {
                 "vnumber": "5",
-                "text": "Then the Levites, Jeshua, and Kadmiel, Bani, Hashabniah, Sherebiah, Hodijah, Shebaniah, and Pethahiah, said, Stand up and bless the LORD your God for ever and ever: and blessed be thy glorious name, which is exalted above all blessing and praise."
+                "text": "Then the Levites, Jeshua, and Kadmiel, Bani, Hashabniah, Sherebiah, Hodijah, Shebaniah, and Pethahiah, said, Stand up and bless Yahweh your God for ever and ever: and blessed be thy glorious name, which is exalted above all blessing and praise."
               },
               {
                 "vnumber": "6",
-                "text": "Thou, even thou, art LORD alone; thou hast made heaven, the heaven of heavens, with all their host, the earth, and all things that are therein, the seas, and all that is therein, and thou preservest them all; and the host of heaven worshippeth thee."
+                "text": "Thou, you alone, are Yahweh; thou hast made heaven, the heaven of heavens, with all their host, the earth, and all things that are therein, the seas, and all that is therein, and thou preservest them all; and the host of heaven worshippeth thee."
               },
               {
                 "vnumber": "7",
-                "text": "Thou art the LORD the God, who didst choose Abram, and broughtest him forth out of Ur of the Chaldees, and gavest him the name of Abraham;"
+                "text": "You are Yahweh, the God who did choose Abram, and broughtest him forth out of Ur of the Chaldees, and gavest him the name of Abraham;"
               },
               {
                 "vnumber": "8",
@@ -15382,7 +15382,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "29",
-                "text": "They clave to their brethren, their nobles, and entered into a curse, and into an oath, to walk in God's law, which was given by Moses the servant of God, and to observe and do all the commandments of the LORD our Lord, and his judgments and his statutes;"
+                "text": "They clave to their brethren, their nobles, and entered into a curse, and into an oath, to walk in God's law, which was given by Moses the servant of God, and to observe and do all the commandments of Yahweh our Lord, and his judgments and his statutes;"
               },
               {
                 "vnumber": "30",
@@ -15402,11 +15402,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "34",
-                "text": "And we cast the lots among the priests, the Levites, and the people, for the wood offering, to bring it into the house of our God, after the houses of our fathers, at times appointed year by year, to burn upon the altar of the LORD our God, as it is written in the law:"
+                "text": "And we cast the lots among the priests, the Levites, and the people, for the wood offering, to bring it into the house of our God, after the houses of our fathers, at times appointed year by year, to burn upon the altar of Yahweh our God, as it is written in the law:"
               },
               {
                 "vnumber": "35",
-                "text": "And to bring the firstfruits of our ground, and the firstfruits of all fruit of all trees, year by year, unto the house of the LORD:"
+                "text": "And to bring the firstfruits of our ground, and the firstfruits of all fruit of all trees, year by year, unto the house of Yahweh:"
               },
               {
                 "vnumber": "36",
@@ -16138,7 +16138,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "3",
-                "text": "The sons of Judah; Er, and Onan, and Shelah: which three were born unto him of the daughter of Shua the Canaanitess. And Er, the firstborn of Judah, was evil in the sight of the LORD; and he slew him."
+                "text": "The sons of Judah; Er, and Onan, and Shelah: which three were born unto him of the daughter of Shua the Canaanitess. And Er, the firstborn of Judah, was evil in the sight of Yahweh; and he slew him."
               },
               {
                 "vnumber": "4",
@@ -16798,7 +16798,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "15",
-                "text": "And Jehozadak went into captivity, when the LORD carried away Judah and Jerusalem by the hand of Nebuchadnezzar."
+                "text": "And Jehozadak went into captivity, when Yahweh carried away Judah and Jerusalem by the hand of Nebuchadnezzar."
               },
               {
                 "vnumber": "16",
@@ -16862,11 +16862,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "31",
-                "text": "And these are they whom David set over the service of song in the house of the LORD, after that the ark had rest."
+                "text": "And these are they whom David set over the service of song in the house of Yahweh, after that the ark had rest."
               },
               {
                 "vnumber": "32",
-                "text": "And they ministered before the dwelling place of the tabernacle of the congregation with singing, until Solomon had built the house of the LORD in Jerusalem: and then they waited on their office according to their order."
+                "text": "And they ministered before the dwelling place of the tabernacle of the congregation with singing, until Solomon had built the house of Yahweh in Jerusalem: and then they waited on their office according to their order."
               },
               {
                 "vnumber": "33",
@@ -17473,11 +17473,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "19",
-                "text": "And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brethren, of the house of his father, the Korahites, were over the work of the service, keepers of the gates of the tabernacle: and their fathers, being over the host of the LORD, were keepers of the entry."
+                "text": "And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brethren, of the house of his father, the Korahites, were over the work of the service, keepers of the gates of the tabernacle: and their fathers, being over the host of Yahweh, were keepers of the entry."
               },
               {
                 "vnumber": "20",
-                "text": "And Phinehas the son of Eleazar was the ruler over them in time past, and the LORD was with him."
+                "text": "And Phinehas the son of Eleazar was the ruler over them in time past, and Yahweh was with him."
               },
               {
                 "vnumber": "21",
@@ -17489,7 +17489,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "23",
-                "text": "So they and their children had the oversight of the gates of the house of the LORD, namely, the house of the tabernacle, by wards."
+                "text": "So they and their children had the oversight of the gates of the house of Yahweh, namely, the house of the tabernacle, by wards."
               },
               {
                 "vnumber": "24",
@@ -17630,11 +17630,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "13",
-                "text": "So Saul died for his transgression which he committed against the LORD, even against the word of the LORD, which he kept not, and also for asking counsel of one that had a familiar spirit, to enquire of it;"
+                "text": "So Saul died for his transgression which he committed against Yahweh, even against the word of Yahweh, which he kept not, and also for asking counsel of one that had a familiar spirit, to enquire of it;"
               },
               {
                 "vnumber": "14",
-                "text": "And enquired not of the LORD: therefore he slew him, and turned the kingdom unto David the son of Jesse."
+                "text": "And enquired not of Yahweh: therefore he slew him, and turned the kingdom unto David the son of Jesse."
               }
             ]
           },
@@ -17651,7 +17651,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "3",
-                "text": "Therefore came all the elders of Israel to the king to Hebron; and David made a covenant with them in Hebron before the LORD; and they anointed David king over Israel, according to the word of the LORD by Samuel."
+                "text": "Therefore came all the elders of Israel to the king to Hebron; and David made a covenant with them in Hebron before Yahweh; and they anointed David king over Israel, according to the word of Yahweh by Samuel."
               },
               {
                 "vnumber": "4",
@@ -17675,11 +17675,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "9",
-                "text": "So David waxed greater and greater: for the LORD of hosts was with him."
+                "text": "So David waxed greater and greater: for Yahweh of Armies was with him."
               },
               {
                 "vnumber": "10",
-                "text": "These also are the chief of the mighty men whom David had, who strengthened themselves with him in his kingdom, and with all Israel, to make him king, according to the word of the LORD concerning Israel."
+                "text": "These also are the chief of the mighty men whom David had, who strengthened themselves with him in his kingdom, and with all Israel, to make him king, according to the word of Yahweh concerning Israel."
               },
               {
                 "vnumber": "11",
@@ -17695,7 +17695,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "14",
-                "text": "And they set themselves in the midst of that parcel, and delivered it, and slew the Philistines; and the LORD saved them by a great deliverance."
+                "text": "And they set themselves in the midst of that parcel, and delivered it, and slew the Philistines; and Yahweh saved them by a great deliverance."
               },
               {
                 "vnumber": "15",
@@ -17711,7 +17711,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "18",
-                "text": "And the three brake through the host of the Philistines, and drew water out of the well of Bethlehem, that was by the gate, and took it, and brought it to David: but David would not drink of it, but poured it out to the LORD,"
+                "text": "And the three brake through the host of the Philistines, and drew water out of the well of Bethlehem, that was by the gate, and took it, and brought it to David: but David would not drink of it, but poured it out to Yahweh,"
               },
               {
                 "vnumber": "19",
@@ -17924,7 +17924,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "23",
-                "text": "And these are the numbers of the bands that were ready armed to the war, and came to David to Hebron, to turn the kingdom of Saul to him, according to the word of the LORD."
+                "text": "And these are the numbers of the bands that were ready armed to the war, and came to David to Hebron, to turn the kingdom of Saul to him, according to the word of Yahweh."
               },
               {
                 "vnumber": "24",
@@ -18005,7 +18005,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "2",
-                "text": "And David said unto all the congregation of Israel, If it seem good unto you, and that it be of the LORD our God, let us send abroad unto our brethren every where, that are left in all the land of Israel, and with them also to the priests and Levites which are in their cities and suburbs, that they may gather themselves unto us:"
+                "text": "And David said unto all the congregation of Israel, If it seem good unto you, and that it be of Yahweh our God, let us send abroad unto our brethren every where, that are left in all the land of Israel, and with them also to the priests and Levites which are in their cities and suburbs, that they may gather themselves unto us:"
               },
               {
                 "vnumber": "3",
@@ -18037,11 +18037,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "10",
-                "text": "And the anger of the LORD was kindled against Uzza, and he smote him, because he put his hand to the ark: and there he died before God."
+                "text": "And the anger of Yahweh was kindled against Uzza, and he smote him, because he put his hand to the ark: and there he died before God."
               },
               {
                 "vnumber": "11",
-                "text": "And David was displeased, because the LORD had made a breach upon Uzza: wherefore that place is called Perezuzza to this day."
+                "text": "And David was displeased, because Yahweh had made a breach upon Uzza: wherefore that place is called Perezuzza to this day."
               },
               {
                 "vnumber": "12",
@@ -18053,7 +18053,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "14",
-                "text": "And the ark of God remained with the family of Obededom in his house three months. And the LORD blessed the house of Obededom, and all that he had."
+                "text": "And the ark of God remained with the family of Obededom in his house three months. And Yahweh blessed the house of Obededom, and all that he had."
               }
             ]
           },
@@ -18066,7 +18066,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "2",
-                "text": "And David perceived that the LORD had confirmed him king over Israel, for his kingdom was lifted up on high, because of his people Israel."
+                "text": "And David perceived that Yahweh had confirmed him king over Israel, for his kingdom was lifted up on high, because of his people Israel."
               },
               {
                 "vnumber": "3",
@@ -18098,7 +18098,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "10",
-                "text": "And David enquired of God, saying, Shall I go up against the Philistines? and wilt thou deliver them into mine hand? And the LORD said unto him, Go up; for I will deliver them into thine hand."
+                "text": "And David enquired of God, saying, Shall I go up against the Philistines? and wilt thou deliver them into mine hand? And Yahweh said unto him, Go up; for I will deliver them into thine hand."
               },
               {
                 "vnumber": "11",
@@ -18126,7 +18126,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "17",
-                "text": "And the fame of David went out into all lands; and the LORD brought the fear of him upon all nations."
+                "text": "And the fame of David went out into all lands; and Yahweh brought the fear of him upon all nations."
               }
             ]
           },
@@ -18139,11 +18139,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "2",
-                "text": "Then David said, None ought to carry the ark of God but the Levites: for them hath the LORD chosen to carry the ark of God, and to minister unto him for ever."
+                "text": "Then David said, None ought to carry the ark of God but the Levites: for them hath Yahweh chosen to carry the ark of God, and to minister unto him for ever."
               },
               {
                 "vnumber": "3",
-                "text": "And David gathered all Israel together to Jerusalem, to bring up the ark of the LORD unto his place, which he had prepared for it."
+                "text": "And David gathered all Israel together to Jerusalem, to bring up the ark of Yahweh unto his place, which he had prepared for it."
               },
               {
                 "vnumber": "4",
@@ -18179,19 +18179,19 @@ var Ketuvim = {
               },
               {
                 "vnumber": "12",
-                "text": "And said unto them, Ye are the chief of the fathers of the Levites: sanctify yourselves, both ye and your brethren, that ye may bring up the ark of the LORD God of Israel unto the place that I have prepared for it."
+                "text": "And said unto them, Ye are the chief of the fathers of the Levites: sanctify yourselves, both ye and your brethren, that ye may bring up the ark of Yahweh God of Israel unto the place that I have prepared for it."
               },
               {
                 "vnumber": "13",
-                "text": "For because ye did it not at the first, the LORD our God made a breach upon us, for that we sought him not after the due order."
+                "text": "For because ye did it not at the first, Yahweh our God made a breach upon us, for that we sought him not after the due order."
               },
               {
                 "vnumber": "14",
-                "text": "So the priests and the Levites sanctified themselves to bring up the ark of the LORD God of Israel."
+                "text": "So the priests and the Levites sanctified themselves to bring up the ark of Yahweh God of Israel."
               },
               {
                 "vnumber": "15",
-                "text": "And the children of the Levites bare the ark of God upon their shoulders with the staves thereon, as Moses commanded according to the word of the LORD."
+                "text": "And the children of the Levites bare the ark of God upon their shoulders with the staves thereon, as Moses commanded according to the word of Yahweh."
               },
               {
                 "vnumber": "16",
@@ -18231,11 +18231,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "25",
-                "text": "So David, and the elders of Israel, and the captains over thousands, went to bring up the ark of the covenant of the LORD out of the house of Obededom with joy."
+                "text": "So David, and the elders of Israel, and the captains over thousands, went to bring up the ark of the covenant of Yahweh out of the house of Obededom with joy."
               },
               {
                 "vnumber": "26",
-                "text": "And it came to pass, when God helped the Levites that bare the ark of the covenant of the LORD, that they offered seven bullocks and seven rams."
+                "text": "And it came to pass, when God helped the Levites that bare the ark of the covenant of Yahweh, that they offered seven bullocks and seven rams."
               },
               {
                 "vnumber": "27",
@@ -18243,11 +18243,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "28",
-                "text": "Thus all Israel brought up the ark of the covenant of the LORD with shouting, and with sound of the cornet, and with trumpets, and with cymbals, making a noise with psalteries and harps."
+                "text": "Thus all Israel brought up the ark of the covenant of Yahweh with shouting, and with sound of the cornet, and with trumpets, and with cymbals, making a noise with psalteries and harps."
               },
               {
                 "vnumber": "29",
-                "text": "And it came to pass, as the ark of the covenant of the LORD came to the city of David, that Michal the daughter of Saul looking out at a window saw king David dancing and playing: and she despised him in her heart."
+                "text": "And it came to pass, as the ark of the covenant of Yahweh came to the city of David, that Michal the daughter of Saul looking out at a window saw king David dancing and playing: and she despised him in her heart."
               }
             ]
           },
@@ -18260,7 +18260,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "2",
-                "text": "And when David had made an end of offering the burnt offerings and the peace offerings, he blessed the people in the name of the LORD."
+                "text": "And when David had made an end of offering the burnt offerings and the peace offerings, he blessed the people in the name of Yahweh."
               },
               {
                 "vnumber": "3",
@@ -18268,7 +18268,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "4",
-                "text": "And he appointed certain of the Levites to minister before the ark of the LORD, and to record, and to thank and praise the LORD God of Israel:"
+                "text": "And he appointed certain of the Levites to minister before the ark of Yahweh, and to record, and to thank and praise Yahweh God of Israel:"
               },
               {
                 "vnumber": "5",
@@ -18280,11 +18280,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "7",
-                "text": "Then on that day David delivered first this psalm to thank the LORD into the hand of Asaph and his brethren."
+                "text": "Then on that day David delivered first this psalm to thank Yahweh into the hand of Asaph and his brethren."
               },
               {
                 "vnumber": "8",
-                "text": "Give thanks unto the LORD, call upon his name, make known his deeds among the people."
+                "text": "Give thanks unto Yahweh, call upon his name, make known his deeds among the people."
               },
               {
                 "vnumber": "9",
@@ -18292,11 +18292,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "10",
-                "text": "Glory ye in his holy name: let the heart of them rejoice that seek the LORD."
+                "text": "Glory ye in his holy name: let the heart of them rejoice that seek Yahweh."
               },
               {
                 "vnumber": "11",
-                "text": "Seek the LORD and his strength, seek his face continually."
+                "text": "Seek Yahweh and his strength, seek his face continually."
               },
               {
                 "vnumber": "12",
@@ -18308,7 +18308,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "14",
-                "text": "He is the LORD our God; his judgments are in all the earth."
+                "text": "He is Yahweh our God; his judgments are in all the earth."
               },
               {
                 "vnumber": "15",
@@ -18344,7 +18344,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "23",
-                "text": "Sing unto the LORD, all the earth; shew forth from day to day his salvation."
+                "text": "Sing unto Yahweh, all the earth; shew forth from day to day his salvation."
               },
               {
                 "vnumber": "24",
@@ -18352,11 +18352,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "25",
-                "text": "For great is the LORD, and greatly to be praised: he also is to be feared above all gods."
+                "text": "For great is Yahweh, and greatly to be praised: he also is to be feared above all gods."
               },
               {
                 "vnumber": "26",
-                "text": "For all the gods of the people are idols: but the LORD made the heavens."
+                "text": "For all the gods of the people are idols: but Yahweh made the heavens."
               },
               {
                 "vnumber": "27",
@@ -18364,11 +18364,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "28",
-                "text": "Give unto the LORD, ye kindreds of the people, give unto the LORD glory and strength."
+                "text": "Give unto Yahweh, ye kindreds of the people, give unto Yahweh glory and strength."
               },
               {
                 "vnumber": "29",
-                "text": "Give unto the LORD the glory due unto his name: bring an offering, and come before him: worship the LORD in the beauty of holiness."
+                "text": "Give unto Yahweh the glory due unto his name: bring an offering, and come before him: worship Yahweh in the beauty of holiness."
               },
               {
                 "vnumber": "30",
@@ -18376,7 +18376,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "31",
-                "text": "Let the heavens be glad, and let the earth rejoice: and let men say among the nations, The LORD reigneth."
+                "text": "Let the heavens be glad, and let the earth rejoice: and let men say among the nations, Yahweh reigneth."
               },
               {
                 "vnumber": "32",
@@ -18384,11 +18384,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "33",
-                "text": "Then shall the trees of the wood sing out at the presence of the LORD, because he cometh to judge the earth."
+                "text": "Then shall the trees of the wood sing out at the presence of Yahweh, because he cometh to judge the earth."
               },
               {
                 "vnumber": "34",
-                "text": "O give thanks unto the LORD; for he is good; for his mercy endureth for ever."
+                "text": "O give thanks unto Yahweh; for he is good; for his mercy endureth for ever."
               },
               {
                 "vnumber": "35",
@@ -18396,11 +18396,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "36",
-                "text": "Blessed be the LORD God of Israel for ever and ever. And all the people said, Amen, and praised the LORD."
+                "text": "Blessed be Yahweh God of Israel for ever and ever. And all the people said, Amen, and praised Yahweh."
               },
               {
                 "vnumber": "37",
-                "text": "So he left there before the ark of the covenant of the LORD Asaph and his brethren, to minister before the ark continually, as every day's work required:"
+                "text": "So he left there before the ark of the covenant of Yahweh Asaph and his brethren, to minister before the ark continually, as every day's work required:"
               },
               {
                 "vnumber": "38",
@@ -18408,15 +18408,15 @@ var Ketuvim = {
               },
               {
                 "vnumber": "39",
-                "text": "And Zadok the priest, and his brethren the priests, before the tabernacle of the LORD in the high place that was at Gibeon,"
+                "text": "And Zadok the priest, and his brethren the priests, before the tabernacle of Yahweh in the high place that was at Gibeon,"
               },
               {
                 "vnumber": "40",
-                "text": "To offer burnt offerings unto the LORD upon the altar of the burnt offering continually morning and evening, and to do according to all that is written in the law of the LORD, which he commanded Israel;"
+                "text": "To offer burnt offerings unto Yahweh upon the altar of the burnt offering continually morning and evening, and to do according to all that is written in the law of Yahweh, which he commanded Israel;"
               },
               {
                 "vnumber": "41",
-                "text": "And with them Heman and Jeduthun, and the rest that were chosen, who were expressed by name, to give thanks to the LORD, because his mercy endureth for ever;"
+                "text": "And with them Heman and Jeduthun, and the rest that were chosen, who were expressed by name, to give thanks to Yahweh, because his mercy endureth for ever;"
               },
               {
                 "vnumber": "42",
@@ -18433,7 +18433,7 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Now it came to pass, as David sat in his house, that David said to Nathan the prophet, Lo, I dwell in an house of cedars, but the ark of the covenant of the LORD remaineth under curtains."
+                "text": "Now it came to pass, as David sat in his house, that David said to Nathan the prophet, Lo, I dwell in an house of cedars, but the ark of the covenant of Yahweh remaineth under curtains."
               },
               {
                 "vnumber": "2",
@@ -18445,7 +18445,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "4",
-                "text": "Go and tell David my servant, Thus saith the LORD, you shall not build me an house to dwell in:"
+                "text": "Go and tell David my servant, Thus saith Yahweh, you shall not build me an house to dwell in:"
               },
               {
                 "vnumber": "5",
@@ -18457,7 +18457,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "7",
-                "text": "Now therefore thus shalt thou say unto my servant David, Thus saith the LORD of hosts, I took thee from the sheepcote, even from following the sheep, that thou shouldest be ruler over my people Israel:"
+                "text": "Now therefore thus shalt thou say unto my servant David, Thus says Yahweh of Armies, I took thee from the sheepcote, even from following the sheep, that thou shouldest be ruler over my people Israel:"
               },
               {
                 "vnumber": "8",
@@ -18469,7 +18469,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "10",
-                "text": "And since the time that I commanded judges to be over my people Israel. Moreover I will subdue all thine enemies. Furthermore I tell thee that the LORD will build thee an house."
+                "text": "And since the time that I commanded judges to be over my people Israel. Moreover I will subdue all thine enemies. Furthermore I tell thee that Yahweh will build thee an house."
               },
               {
                 "vnumber": "11",
@@ -18493,11 +18493,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "16",
-                "text": "And David the king came and sat before the LORD, and said, Who am I, O LORD God, and what is mine house, that thou hast brought me hitherto?"
+                "text": "And David the king came and sat before Yahweh, and said, Who am I, Oh Yahweh God, and what is mine house, that thou hast brought me hitherto?"
               },
               {
                 "vnumber": "17",
-                "text": "And yet this was a small thing in thine eyes, O God; for thou hast also spoken of thy servant's house for a great while to come, and hast regarded me according to the estate of a man of high degree, O LORD God."
+                "text": "And yet this was a small thing in thine eyes, O God; for thou hast also spoken of thy servant's house for a great while to come, and hast regarded me according to the estate of a man of high degree, Oh Yahweh God."
               },
               {
                 "vnumber": "18",
@@ -18505,11 +18505,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "19",
-                "text": "O LORD, for thy servant's sake, and according to thine own heart, hast thou done all this greatness, in making known all these great things."
+                "text": "Oh Yahweh, for thy servant's sake, and according to thine own heart, hast thou done all this greatness, in making known all these great things."
               },
               {
                 "vnumber": "20",
-                "text": "O LORD, there is none like thee, neither is there any God beside thee, according to all that we have heard with our ears."
+                "text": "Oh Yahweh, there is none like thee, neither is there any God beside thee, according to all that we have heard with our ears."
               },
               {
                 "vnumber": "21",
@@ -18517,15 +18517,15 @@ var Ketuvim = {
               },
               {
                 "vnumber": "22",
-                "text": "For thy people Israel didst thou make thine own people for ever; and thou, LORD, becamest their God."
+                "text": "For thy people Israel didst thou make thine own people for ever; and thou, Yahweh, becamest their God."
               },
               {
                 "vnumber": "23",
-                "text": "Therefore now, LORD, let the thing that thou hast spoken concerning thy servant and concerning his house be established for ever, and do as thou hast said."
+                "text": "Therefore now, Yahweh, let the thing that thou hast spoken concerning thy servant and concerning his house be established for ever, and do as thou hast said."
               },
               {
                 "vnumber": "24",
-                "text": "Let it even be established, that thy name may be magnified for ever, saying, The LORD of hosts is the God of Israel, even a God to Israel: and let the house of David thy servant be established before thee."
+                "text": "Let it even be established, that thy name may be magnified for ever, saying, Yahweh of Armies is the God of Israel, even a God to Israel: and let the house of David thy servant be established before thee."
               },
               {
                 "vnumber": "25",
@@ -18533,11 +18533,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "26",
-                "text": "And now, LORD, thou art God, and hast promised this goodness unto thy servant:"
+                "text": "And now, Yahweh, thou art God, and hast promised this goodness unto thy servant:"
               },
               {
                 "vnumber": "27",
-                "text": "Now therefore let it please thee to bless the house of thy servant, that it may be before thee for ever: for thou blessest, O LORD, and it shall be blessed for ever."
+                "text": "Now therefore let it please thee to bless the house of thy servant, that it may be before thee for ever: for thou blessest, Oh Yahweh, and it shall be blessed for ever."
               }
             ]
           },
@@ -18566,7 +18566,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "6",
-                "text": "Then David put garrisons in Syriadamascus; and the Syrians became David's servants, and brought gifts. Thus the LORD preserved David whithersoever he went."
+                "text": "Then David put garrisons in Syriadamascus; and the Syrians became David's servants, and brought gifts. Thus Yahweh preserved David whithersoever he went."
               },
               {
                 "vnumber": "7",
@@ -18586,7 +18586,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "11",
-                "text": "Them also king David dedicated unto the LORD, with the silver and the gold that he brought from all these nations; from Edom, and from Moab, and from the children of Ammon, and from the Philistines, and from Amalek."
+                "text": "Them also king David dedicated unto Yahweh, with the silver and the gold that he brought from all these nations; from Edom, and from Moab, and from the children of Ammon, and from the Philistines, and from Amalek."
               },
               {
                 "vnumber": "12",
@@ -18594,7 +18594,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "13",
-                "text": "And he put garrisons in Edom; and all the Edomites became David's servants. Thus the LORD preserved David whithersoever he went."
+                "text": "And he put garrisons in Edom; and all the Edomites became David's servants. Thus Yahweh preserved David whithersoever he went."
               },
               {
                 "vnumber": "14",
@@ -18667,7 +18667,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "13",
-                "text": "Be of good courage, and let us behave ourselves valiantly for our people, and for the cities of our God: and let the LORD do that which is good in his sight."
+                "text": "Be of good courage, and let us behave ourselves valiantly for our people, and for the cities of our God: and let Yahweh do that which is good in his sight."
               },
               {
                 "vnumber": "14",
@@ -18745,7 +18745,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "3",
-                "text": "And Joab answered, The LORD make his people an hundred times so many more as they be: but, my lord the king, are they not all my lord's servants? why then doth my lord require this thing? why will he be a cause of trespass to Israel?"
+                "text": "And Joab answered, Yahweh make his people an hundred times so many more as they be: but, my lord the king, are they not all my lord's servants? why then doth my lord require this thing? why will he be a cause of trespass to Israel?"
               },
               {
                 "vnumber": "4",
@@ -18769,47 +18769,47 @@ var Ketuvim = {
               },
               {
                 "vnumber": "9",
-                "text": "And the LORD spake unto Gad, David's seer, saying,"
+                "text": "And Yahweh spake unto Gad, David's seer, saying,"
               },
               {
                 "vnumber": "10",
-                "text": "Go and tell David, saying, Thus saith the LORD, I offer thee three things: choose thee one of them, that I may do it unto thee."
+                "text": "Go and tell David, saying, Thus saith Yahweh, I offer thee three things: choose thee one of them, that I may do it unto thee."
               },
               {
                 "vnumber": "11",
-                "text": "So Gad came to David, and said unto him, Thus saith the LORD, Choose thee"
+                "text": "So Gad came to David, and said unto him, Thus saith Yahweh, Choose thee"
               },
               {
                 "vnumber": "12",
-                "text": "Either three years' famine; or three months to be destroyed before thy foes, while that the sword of thine enemies overtaketh thee; or else three days the sword of the LORD, even the pestilence, in the land, and the angel of the LORD destroying throughout all the coasts of Israel. Now therefore advise thyself what word I shall bring again to him that sent me."
+                "text": "Either three years' famine; or three months to be destroyed before thy foes, while that the sword of thine enemies overtaketh thee; or else three days the sword of Yahweh, even the pestilence, in the land, and the angel of Yahweh destroying throughout all the coasts of Israel. Now therefore advise thyself what word I shall bring again to him that sent me."
               },
               {
                 "vnumber": "13",
-                "text": "And David said unto Gad, I am in a great strait: let me fall now into the hand of the LORD; for very great are his mercies: but let me not fall into the hand of man."
+                "text": "And David said unto Gad, I am in a great strait: let me fall now into the hand of Yahweh; for very great are his mercies: but let me not fall into the hand of man."
               },
               {
                 "vnumber": "14",
-                "text": "So the LORD sent pestilence upon Israel: and there fell of Israel seventy thousand men."
+                "text": "So Yahweh sent pestilence upon Israel: and there fell of Israel seventy thousand men."
               },
               {
                 "vnumber": "15",
-                "text": "And God sent an angel unto Jerusalem to destroy it: and as he was destroying, the LORD beheld, and he repented him of the evil, and said to the angel that destroyed, It is enough, stay now thine hand. And the angel of the LORD stood by the threshingfloor of Ornan the Jebusite."
+                "text": "And God sent an angel unto Jerusalem to destroy it: and as he was destroying, Yahweh beheld, and he repented him of the evil, and said to the angel that destroyed, It is enough, stay now thine hand. And the angel of Yahweh stood by the threshingfloor of Ornan the Jebusite."
               },
               {
                 "vnumber": "16",
-                "text": "And David lifted up his eyes, and saw the angel of the LORD stand between the earth and the heaven, having a drawn sword in his hand stretched out over Jerusalem. Then David and the elders of Israel, who were clothed in sackcloth, fell upon their faces."
+                "text": "And David lifted up his eyes, and saw the angel of Yahweh stand between the earth and the heaven, having a drawn sword in his hand stretched out over Jerusalem. Then David and the elders of Israel, who were clothed in sackcloth, fell upon their faces."
               },
               {
                 "vnumber": "17",
-                "text": "And David said unto God, Is it not I that commanded the people to be numbered? even I it is that have sinned and done evil indeed; but as for these sheep, what have they done? let thine hand, I pray thee, O LORD my God, be on me, and on my father's house; but not on thy people, that they should be plagued."
+                "text": "And David said unto God, Is it not I that commanded the people to be numbered? even I it is that have sinned and done evil indeed; but as for these sheep, what have they done? let thine hand, I pray thee, Oh Yahweh my God, be on me, and on my father's house; but not on thy people, that they should be plagued."
               },
               {
                 "vnumber": "18",
-                "text": "Then the angel of the LORD commanded Gad to say to David, that David should go up, and set up an altar unto the LORD in the threshingfloor of Ornan the Jebusite."
+                "text": "Then the angel of Yahweh commanded Gad to say to David, that David should go up, and set up an altar unto Yahweh in the threshingfloor of Ornan the Jebusite."
               },
               {
                 "vnumber": "19",
-                "text": "And David went up at the saying of Gad, which he spake in the name of the LORD."
+                "text": "And David went up at the saying of Gad, which he spake in the name of Yahweh."
               },
               {
                 "vnumber": "20",
@@ -18821,7 +18821,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "22",
-                "text": "Then David said to Ornan, Grant me the place of this threshingfloor, that I may build an altar therein unto the LORD: thou shalt grant it me for the full price: that the plague may be stayed from the people."
+                "text": "Then David said to Ornan, Grant me the place of this threshingfloor, that I may build an altar therein unto Yahweh: thou shalt grant it me for the full price: that the plague may be stayed from the people."
               },
               {
                 "vnumber": "23",
@@ -18829,7 +18829,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "24",
-                "text": "And king David said to Ornan, Nay; but I will verily buy it for the full price: for I will not take that which is thine for the LORD, nor offer burnt offerings without cost."
+                "text": "And king David said to Ornan, Nay; but I will verily buy it for the full price: for I will not take that which is thine for Yahweh, nor offer burnt offerings without cost."
               },
               {
                 "vnumber": "25",
@@ -18837,23 +18837,23 @@ var Ketuvim = {
               },
               {
                 "vnumber": "26",
-                "text": "And David built there an altar unto the LORD, and offered burnt offerings and peace offerings, and called upon the LORD; and he answered him from heaven by fire upon the altar of burnt offering."
+                "text": "And David built there an altar unto Yahweh, and offered burnt offerings and peace offerings, and called upon Yahweh; and he answered him from heaven by fire upon the altar of burnt offering."
               },
               {
                 "vnumber": "27",
-                "text": "And the LORD commanded the angel; and he put up his sword again into the sheath thereof."
+                "text": "And Yahweh commanded the angel; and he put up his sword again into the sheath thereof."
               },
               {
                 "vnumber": "28",
-                "text": "At that time when David saw that the LORD had answered him in the threshingfloor of Ornan the Jebusite, then he sacrificed there."
+                "text": "At that time when David saw that Yahweh had answered him in the threshingfloor of Ornan the Jebusite, then he sacrificed there."
               },
               {
                 "vnumber": "29",
-                "text": "For the tabernacle of the LORD, which Moses made in the wilderness, and the altar of the burnt offering, were at that season in the high place at Gibeon."
+                "text": "For the tabernacle of Yahweh, which Moses made in the wilderness, and the altar of the burnt offering, were at that season in the high place at Gibeon."
               },
               {
                 "vnumber": "30",
-                "text": "But David could not go before it to enquire of God: for he was afraid because of the sword of the angel of the LORD."
+                "text": "But David could not go before it to enquire of God: for he was afraid because of the sword of the angel of Yahweh."
               }
             ]
           },
@@ -18862,7 +18862,7 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Then David said, This is the house of the LORD God, and this is the altar of the burnt offering for Israel."
+                "text": "Then David said, This is the house of Yahweh God, and this is the altar of the burnt offering for Israel."
               },
               {
                 "vnumber": "2",
@@ -18878,19 +18878,19 @@ var Ketuvim = {
               },
               {
                 "vnumber": "5",
-                "text": "And David said, Solomon my son is young and tender, and the house that is to be builded for the LORD must be exceeding magnifical, of fame and of glory throughout all countries: I will therefore now make preparation for it. So David prepared abundantly before his death."
+                "text": "And David said, Solomon my son is young and tender, and the house that is to be builded for Yahweh must be exceeding magnifical, of fame and of glory throughout all countries: I will therefore now make preparation for it. So David prepared abundantly before his death."
               },
               {
                 "vnumber": "6",
-                "text": "Then he called for Solomon his son, and charged him to build an house for the LORD God of Israel."
+                "text": "Then he called for Solomon his son, and charged him to build an house for Yahweh God of Israel."
               },
               {
                 "vnumber": "7",
-                "text": "And David said to Solomon, My son, as for me, it was in my mind to build an house unto the name of the LORD my God:"
+                "text": "And David said to Solomon, My son, as for me, it was in my mind to build an house unto the name of Yahweh my God:"
               },
               {
                 "vnumber": "8",
-                "text": "But the word of the LORD came to me, saying, Thou hast shed blood abundantly, and hast made great wars: you shall not build an house unto my name, because thou hast shed much blood upon the earth in my sight."
+                "text": "But the word of Yahweh came to me, saying, Thou hast shed blood abundantly, and hast made great wars: you shall not build an house unto my name, because thou hast shed much blood upon the earth in my sight."
               },
               {
                 "vnumber": "9",
@@ -18902,19 +18902,19 @@ var Ketuvim = {
               },
               {
                 "vnumber": "11",
-                "text": "Now, my son, the LORD be with thee; and prosper thou, and build the house of Yahweh your God, as he hath said of thee."
+                "text": "Now, my son, Yahweh be with thee; and prosper thou, and build the house of Yahweh your God, as he hath said of thee."
               },
               {
                 "vnumber": "12",
-                "text": "Only the LORD give thee wisdom and understanding, and give thee charge concerning Israel, that you may keep the law of Yahweh your God."
+                "text": "Only Yahweh give thee wisdom and understanding, and give thee charge concerning Israel, that you may keep the law of Yahweh your God."
               },
               {
                 "vnumber": "13",
-                "text": "Then shalt thou prosper, if thou takest heed to fulfil the statutes and judgments which the LORD charged Moses with concerning Israel: be strong, and of good courage; dread not, nor be dismayed."
+                "text": "Then shalt thou prosper, if thou takest heed to fulfil the statutes and judgments which Yahweh charged Moses with concerning Israel: be strong, and of good courage; dread not, nor be dismayed."
               },
               {
                 "vnumber": "14",
-                "text": "Now, behold, in my trouble I have prepared for the house of the LORD an hundred thousand talents of gold, and a thousand thousand talents of silver; and of brass and iron without weight; for it is in abundance: timber also and stone have I prepared; and you may add thereto."
+                "text": "Now, behold, in my trouble I have prepared for the house of Yahweh an hundred thousand talents of gold, and a thousand thousand talents of silver; and of brass and iron without weight; for it is in abundance: timber also and stone have I prepared; and you may add thereto."
               },
               {
                 "vnumber": "15",
@@ -18922,7 +18922,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "16",
-                "text": "Of the gold, the silver, and the brass, and the iron, there is no number. Arise therefore, and be doing, and the LORD be with thee."
+                "text": "Of the gold, the silver, and the brass, and the iron, there is no number. Arise therefore, and be doing, and Yahweh be with thee."
               },
               {
                 "vnumber": "17",
@@ -18930,11 +18930,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "18",
-                "text": "Is not the LORD your God with you? and hath he not given you rest on every side? for he hath given the inhabitants of the land into mine hand; and the land is subdued before the LORD, and before his people."
+                "text": "Is not Yahweh your God with you? and hath he not given you rest on every side? for he hath given the inhabitants of the land into mine hand; and the land is subdued before Yahweh, and before his people."
               },
               {
                 "vnumber": "19",
-                "text": "Now set your heart and your soul to seek the LORD your God; arise therefore, and build ye the sanctuary of the LORD God, to bring the ark of the covenant of the LORD, and the holy vessels of God, into the house that is to be built to the name of the LORD."
+                "text": "Now set your heart and your soul to seek Yahweh your God; arise therefore, and build ye the sanctuary of Yahweh God, to bring the ark of the covenant of Yahweh, and the holy vessels of God, into the house that is to be built to the name of Yahweh."
               }
             ]
           },
@@ -18955,11 +18955,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "4",
-                "text": "Of which, twenty and four thousand were to set forward the work of the house of the LORD; and six thousand were officers and judges:"
+                "text": "Of which, twenty and four thousand were to set forward the work of the house of Yahweh; and six thousand were officers and judges:"
               },
               {
                 "vnumber": "5",
-                "text": "Moreover four thousand were porters; and four thousand praised the LORD with the instruments which I made, said David, to praise therewith."
+                "text": "Moreover four thousand were porters; and four thousand praised Yahweh with the instruments which I made, said David, to praise therewith."
               },
               {
                 "vnumber": "6",
@@ -18991,7 +18991,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "13",
-                "text": "The sons of Amram; Aaron and Moses: and Aaron was separated, that he should sanctify the most holy things, he and his sons for ever, to burn incense before the LORD, to minister unto him, and to bless in his name for ever."
+                "text": "The sons of Amram; Aaron and Moses: and Aaron was separated, that he should sanctify the most holy things, he and his sons for ever, to burn incense before Yahweh, to minister unto him, and to bless in his name for ever."
               },
               {
                 "vnumber": "14",
@@ -19035,11 +19035,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "24",
-                "text": "These were the sons of Levi after the house of their fathers; even the chief of the fathers, as they were counted by number of names by their polls, that did the work for the service of the house of the LORD, from the age of twenty years and upward."
+                "text": "These were the sons of Levi after the house of their fathers; even the chief of the fathers, as they were counted by number of names by their polls, that did the work for the service of the house of Yahweh, from the age of twenty years and upward."
               },
               {
                 "vnumber": "25",
-                "text": "For David said, The LORD God of Israel hath given rest unto his people, that they may dwell in Jerusalem for ever:"
+                "text": "For David said, Yahweh God of Israel hath given rest unto his people, that they may dwell in Jerusalem for ever:"
               },
               {
                 "vnumber": "26",
@@ -19051,7 +19051,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "28",
-                "text": "Because their office was to wait on the sons of Aaron for the service of the house of the LORD, in the courts, and in the chambers, and in the purifying of all holy things, and the work of the service of the house of God;"
+                "text": "Because their office was to wait on the sons of Aaron for the service of the house of Yahweh, in the courts, and in the chambers, and in the purifying of all holy things, and the work of the service of the house of God;"
               },
               {
                 "vnumber": "29",
@@ -19059,15 +19059,15 @@ var Ketuvim = {
               },
               {
                 "vnumber": "30",
-                "text": "And to stand every morning to thank and praise the LORD, and likewise at even;"
+                "text": "And to stand every morning to thank and praise Yahweh, and likewise at even;"
               },
               {
                 "vnumber": "31",
-                "text": "And to offer all burnt sacrifices unto the LORD in the sabbaths, in the new moons, and on the set feasts, by number, according to the order commanded unto them, continually before the LORD:"
+                "text": "And to offer all burnt sacrifices unto Yahweh in the sabbaths, in the new moons, and on the set feasts, by number, according to the order commanded unto them, continually before Yahweh:"
               },
               {
                 "vnumber": "32",
-                "text": "And that they should keep the charge of the tabernacle of the congregation, and the charge of the holy place, and the charge of the sons of Aaron their brethren, in the service of the house of the LORD."
+                "text": "And that they should keep the charge of the tabernacle of the congregation, and the charge of the holy place, and the charge of the sons of Aaron their brethren, in the service of the house of Yahweh."
               }
             ]
           },
@@ -19148,7 +19148,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "19",
-                "text": "These were the orderings of them in their service to come into the house of the LORD, according to their manner, under Aaron their father, as the LORD God of Israel had commanded him."
+                "text": "These were the orderings of them in their service to come into the house of Yahweh, according to their manner, under Aaron their father, as Yahweh God of Israel had commanded him."
               },
               {
                 "vnumber": "20",
@@ -19213,7 +19213,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "3",
-                "text": "Of Jeduthun: the sons of Jeduthun; Gedaliah, and Zeri, and Jeshaiah, Hashabiah, and Mattithiah, six, under the hands of their father Jeduthun, who prophesied with a harp, to give thanks and to praise the LORD."
+                "text": "Of Jeduthun: the sons of Jeduthun; Gedaliah, and Zeri, and Jeshaiah, Hashabiah, and Mattithiah, six, under the hands of their father Jeduthun, who prophesied with a harp, to give thanks and to praise Yahweh."
               },
               {
                 "vnumber": "4",
@@ -19225,11 +19225,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "6",
-                "text": "All these were under the hands of their father for song in the house of the LORD, with cymbals, psalteries, and harps, for the service of the house of God, according to the king's order to Asaph, Jeduthun, and Heman."
+                "text": "All these were under the hands of their father for song in the house of Yahweh, with cymbals, psalteries, and harps, for the service of the house of God, according to the king's order to Asaph, Jeduthun, and Heman."
               },
               {
                 "vnumber": "7",
-                "text": "So the number of them, with their brethren that were instructed in the songs of the LORD, even all that were cunning, was two hundred fourscore and eight."
+                "text": "So the number of them, with their brethren that were instructed in the songs of Yahweh, even all that were cunning, was two hundred fourscore and eight."
               },
               {
                 "vnumber": "8",
@@ -19378,7 +19378,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "12",
-                "text": "Among these were the divisions of the porters, even among the chief men, having wards one against another, to minister in the house of the LORD."
+                "text": "Among these were the divisions of the porters, even among the chief men, having wards one against another, to minister in the house of Yahweh."
               },
               {
                 "vnumber": "13",
@@ -19418,7 +19418,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "22",
-                "text": "The sons of Jehieli; Zetham, and Joel his brother, which were over the treasures of the house of the LORD."
+                "text": "The sons of Jehieli; Zetham, and Joel his brother, which were over the treasures of the house of Yahweh."
               },
               {
                 "vnumber": "23",
@@ -19438,7 +19438,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "27",
-                "text": "Out of the spoils won in battles did they dedicate to maintain the house of the LORD."
+                "text": "Out of the spoils won in battles did they dedicate to maintain the house of Yahweh."
               },
               {
                 "vnumber": "28",
@@ -19450,7 +19450,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "30",
-                "text": "And of the Hebronites, Hashabiah and his brethren, men of valour, a thousand and seven hundred, were officers among them of Israel on this side Jordan westward in all the business of the LORD, and in the service of the king."
+                "text": "And of the Hebronites, Hashabiah and his brethren, men of valour, a thousand and seven hundred, were officers among them of Israel on this side Jordan westward in all the business of Yahweh, and in the service of the king."
               },
               {
                 "vnumber": "31",
@@ -19555,7 +19555,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "23",
-                "text": "But David took not the number of them from twenty years old and under: because the LORD had said he would increase Israel like to the stars of the heavens."
+                "text": "But David took not the number of them from twenty years old and under: because Yahweh had said he would increase Israel like to the stars of the heavens."
               },
               {
                 "vnumber": "24",
@@ -19612,7 +19612,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "2",
-                "text": "Then David the king stood up upon his feet, and said, Hear me, my brethren, and my people: As for me, I had in mine heart to build an house of rest for the ark of the covenant of the LORD, and for the footstool of our God, and had made ready for the building:"
+                "text": "Then David the king stood up upon his feet, and said, Hear me, my brethren, and my people: As for me, I had in mine heart to build an house of rest for the ark of the covenant of Yahweh, and for the footstool of our God, and had made ready for the building:"
               },
               {
                 "vnumber": "3",
@@ -19620,11 +19620,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "4",
-                "text": "Howbeit the LORD God of Israel chose me before all the house of my father to be king over Israel for ever: for he hath chosen Judah to be the ruler; and of the house of Judah, the house of my father; and among the sons of my father he liked me to make me king over all Israel:"
+                "text": "Howbeit Yahweh God of Israel chose me before all the house of my father to be king over Israel for ever: for he hath chosen Judah to be the ruler; and of the house of Judah, the house of my father; and among the sons of my father he liked me to make me king over all Israel:"
               },
               {
                 "vnumber": "5",
-                "text": "And of all my sons, (for the LORD hath given me many sons,) he hath chosen Solomon my son to sit upon the throne of the kingdom of the LORD over Israel."
+                "text": "And of all my sons, (for Yahweh hath given me many sons,) he hath chosen Solomon my son to sit upon the throne of the kingdom of Yahweh over Israel."
               },
               {
                 "vnumber": "6",
@@ -19636,15 +19636,15 @@ var Ketuvim = {
               },
               {
                 "vnumber": "8",
-                "text": "Now therefore in the sight of all Israel the congregation of the LORD, and in the audience of our God, keep and seek for all the commandments of the LORD your God: that ye may possess this good land, and leave it for an inheritance for your children after you for ever."
+                "text": "Now therefore in the sight of all Israel the congregation of Yahweh, and in the audience of our God, keep and seek for all the commandments of Yahweh your God: that ye may possess this good land, and leave it for an inheritance for your children after you for ever."
               },
               {
                 "vnumber": "9",
-                "text": "And thou, Solomon my son, know thou the God of thy father, and serve him with a perfect heart and with a willing mind: for the LORD searcheth all hearts, and understandeth all the imaginations of the thoughts: if thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever."
+                "text": "And thou, Solomon my son, know thou the God of thy father, and serve him with a perfect heart and with a willing mind: for Yahweh searcheth all hearts, and understandeth all the imaginations of the thoughts: if thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever."
               },
               {
                 "vnumber": "10",
-                "text": "Take heed now; for the LORD hath chosen thee to build an house for the sanctuary: be strong, and do it."
+                "text": "Take heed now; for Yahweh hath chosen thee to build an house for the sanctuary: be strong, and do it."
               },
               {
                 "vnumber": "11",
@@ -19652,11 +19652,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "12",
-                "text": "And the pattern of all that he had by the spirit, of the courts of the house of the LORD, and of all the chambers round about, of the treasuries of the house of God, and of the treasuries of the dedicated things:"
+                "text": "And the pattern of all that he had by the spirit, of the courts of the house of Yahweh, and of all the chambers round about, of the treasuries of the house of God, and of the treasuries of the dedicated things:"
               },
               {
                 "vnumber": "13",
-                "text": "Also for the courses of the priests and the Levites, and for all the work of the service of the house of the LORD, and for all the vessels of service in the house of the LORD."
+                "text": "Also for the courses of the priests and the Levites, and for all the work of the service of the house of Yahweh, and for all the vessels of service in the house of Yahweh."
               },
               {
                 "vnumber": "14",
@@ -19676,15 +19676,15 @@ var Ketuvim = {
               },
               {
                 "vnumber": "18",
-                "text": "And for the altar of incense refined gold by weight; and gold for the pattern of the chariot of the cherubims, that spread out their wings, and covered the ark of the covenant of the LORD."
+                "text": "And for the altar of incense refined gold by weight; and gold for the pattern of the chariot of the cherubims, that spread out their wings, and covered the ark of the covenant of Yahweh."
               },
               {
                 "vnumber": "19",
-                "text": "All this, said David, the LORD made me understand in writing by his hand upon me, even all the works of this pattern."
+                "text": "All this, said David, Yahweh made me understand in writing by his hand upon me, even all the works of this pattern."
               },
               {
                 "vnumber": "20",
-                "text": "And David said to Solomon his son, Be strong and of good courage, and do it: fear not, nor be dismayed: for the LORD God, even my God, will be with thee; he will not fail thee, nor forsake thee, until thou hast finished all the work for the service of the house of the LORD."
+                "text": "And David said to Solomon his son, Be strong and of good courage, and do it: fear not, nor be dismayed: for Yahweh God, even my God, will be with thee; he will not fail thee, nor forsake thee, until thou hast finished all the work for the service of the house of Yahweh."
               },
               {
                 "vnumber": "21",
@@ -19697,7 +19697,7 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Furthermore David the king said unto all the congregation, Solomon my son, whom alone God hath chosen, is yet young and tender, and the work is great: for the palace is not for man, but for the LORD God."
+                "text": "Furthermore David the king said unto all the congregation, Solomon my son, whom alone God hath chosen, is yet young and tender, and the work is great: for the palace is not for man, but for Yahweh God."
               },
               {
                 "vnumber": "2",
@@ -19713,7 +19713,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "5",
-                "text": "The gold for things of gold, and the silver for things of silver, and for all manner of work to be made by the hands of artificers. And who then is willing to consecrate his service this day unto the LORD?"
+                "text": "The gold for things of gold, and the silver for things of silver, and for all manner of work to be made by the hands of artificers. And who then is willing to consecrate his service this day unto Yahweh?"
               },
               {
                 "vnumber": "6",
@@ -19725,19 +19725,19 @@ var Ketuvim = {
               },
               {
                 "vnumber": "8",
-                "text": "And they with whom precious stones were found gave them to the treasure of the house of the LORD, by the hand of Jehiel the Gershonite."
+                "text": "And they with whom precious stones were found gave them to the treasure of the house of Yahweh, by the hand of Jehiel the Gershonite."
               },
               {
                 "vnumber": "9",
-                "text": "Then the people rejoiced, for that they offered willingly, because with perfect heart they offered willingly to the LORD: and David the king also rejoiced with great joy."
+                "text": "Then the people rejoiced, for that they offered willingly, because with perfect heart they offered willingly to Yahweh: and David the king also rejoiced with great joy."
               },
               {
                 "vnumber": "10",
-                "text": "Wherefore David blessed the LORD before all the congregation: and David said, Blessed be thou, LORD God of Israel our father, for ever and ever."
+                "text": "Wherefore David blessed Yahweh before all the congregation: and David said, Blessed be thou, Yahweh God of Israel our father, for ever and ever."
               },
               {
                 "vnumber": "11",
-                "text": "Thine, O LORD, is the greatness, and the power, and the glory, and the victory, and the majesty: for all that is in the heaven and in the earth is thine; thine is the kingdom, O LORD, and thou art exalted as head above all."
+                "text": "Thine, Oh Yahweh, is the greatness, and the power, and the glory, and the victory, and the majesty: for all that is in the heaven and in the earth is thine; thine is the kingdom, Oh Yahweh, and thou art exalted as head above all."
               },
               {
                 "vnumber": "12",
@@ -19757,7 +19757,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "16",
-                "text": "O LORD our God, all this store that we have prepared to build thee an house for thine holy name cometh of thine hand, and is all thine own."
+                "text": "Oh Yahweh our God, all this store that we have prepared to build thee an house for thine holy name cometh of thine hand, and is all thine own."
               },
               {
                 "vnumber": "17",
@@ -19765,7 +19765,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "18",
-                "text": "O LORD God of Abraham, Isaac, and of Israel, our fathers, keep this for ever in the imagination of the thoughts of the heart of thy people, and prepare their heart unto thee:"
+                "text": "Oh Yahweh God of Abraham, Isaac, and of Israel, our fathers, keep this for ever in the imagination of the thoughts of the heart of thy people, and prepare their heart unto thee:"
               },
               {
                 "vnumber": "19",
@@ -19773,19 +19773,19 @@ var Ketuvim = {
               },
               {
                 "vnumber": "20",
-                "text": "And David said to all the congregation, Now bless the LORD your God. And all the congregation blessed the LORD God of their fathers, and bowed down their heads, and worshipped the LORD, and the king."
+                "text": "And David said to all the congregation, Now bless Yahweh your God. And all the congregation blessed Yahweh God of their fathers, and bowed down their heads, and worshipped Yahweh, and the king."
               },
               {
                 "vnumber": "21",
-                "text": "And they sacrificed sacrifices unto the LORD, and offered burnt offerings unto the LORD, on the morrow after that day, even a thousand bullocks, a thousand rams, and a thousand lambs, with their drink offerings, and sacrifices in abundance for all Israel:"
+                "text": "And they sacrificed sacrifices unto Yahweh, and offered burnt offerings unto Yahweh, on the morrow after that day, even a thousand bullocks, a thousand rams, and a thousand lambs, with their drink offerings, and sacrifices in abundance for all Israel:"
               },
               {
                 "vnumber": "22",
-                "text": "And did eat and drink before the LORD on that day with great gladness. And they made Solomon the son of David king the second time, and anointed him unto the LORD to be the chief governor, and Zadok to be priest."
+                "text": "And did eat and drink before Yahweh on that day with great gladness. And they made Solomon the son of David king the second time, and anointed him unto Yahweh to be the chief governor, and Zadok to be priest."
               },
               {
                 "vnumber": "23",
-                "text": "Then Solomon sat on the throne of the LORD as king instead of David his father, and prospered; and all Israel obeyed him."
+                "text": "Then Solomon sat on the throne of Yahweh as king instead of David his father, and prospered; and all Israel obeyed him."
               },
               {
                 "vnumber": "24",
@@ -19793,7 +19793,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "25",
-                "text": "And the LORD magnified Solomon exceedingly in the sight of all Israel, and bestowed upon him such royal majesty as had not been on any king before him in Israel."
+                "text": "And Yahweh magnified Solomon exceedingly in the sight of all Israel, and bestowed upon him such royal majesty as had not been on any king before him in Israel."
               },
               {
                 "vnumber": "26",
@@ -19829,7 +19829,7 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Solomon the son of David was strengthened in his kingdom, and the LORD his God was with him, and magnified him exceedingly."
+                "text": "And Solomon the son of David was strengthened in his kingdom, and Yahweh his God was with him, and magnified him exceedingly."
               },
               {
                 "vnumber": "2",
@@ -19837,7 +19837,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "3",
-                "text": "So Solomon, and all the congregation with him, went to the high place that was at Gibeon; for there was the tabernacle of the congregation of God, which Moses the servant of the LORD had made in the wilderness."
+                "text": "So Solomon, and all the congregation with him, went to the high place that was at Gibeon; for there was the tabernacle of the congregation of God, which Moses the servant of Yahweh had made in the wilderness."
               },
               {
                 "vnumber": "4",
@@ -19845,11 +19845,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "5",
-                "text": "Moreover the brasen altar, that Bezaleel the son of Uri, the son of Hur, had made, he put before the tabernacle of the LORD: and Solomon and the congregation sought unto it."
+                "text": "Moreover the brasen altar, that Bezaleel the son of Uri, the son of Hur, had made, he put before the tabernacle of Yahweh: and Solomon and the congregation sought unto it."
               },
               {
                 "vnumber": "6",
-                "text": "And Solomon went up thither to the brasen altar before the LORD, which was at the tabernacle of the congregation, and offered a thousand burnt offerings upon it."
+                "text": "And Solomon went up thither to the brasen altar before Yahweh, which was at the tabernacle of the congregation, and offered a thousand burnt offerings upon it."
               },
               {
                 "vnumber": "7",
@@ -19861,7 +19861,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "9",
-                "text": "Now, O LORD God, let thy promise unto David my father be established: for thou hast made me king over a people like the dust of the earth in multitude."
+                "text": "Now, Oh Yahweh God, let thy promise unto David my father be established: for thou hast made me king over a people like the dust of the earth in multitude."
               },
               {
                 "vnumber": "10",
@@ -19902,7 +19902,7 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Solomon determined to build an house for the name of the LORD, and an house for his kingdom."
+                "text": "And Solomon determined to build an house for the name of Yahweh, and an house for his kingdom."
               },
               {
                 "vnumber": "2",
@@ -19914,7 +19914,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "4",
-                "text": "Behold, I build an house to the name of the LORD my God, to dedicate it to him, and to burn before him sweet incense, and for the continual shewbread, and for the burnt offerings morning and evening, on the sabbaths, and on the new moons, and on the solemn feasts of the LORD our God. This is an ordinance for ever to Israel."
+                "text": "Behold, I build an house to the name of Yahweh my God, to dedicate it to him, and to burn before him sweet incense, and for the continual shewbread, and for the burnt offerings morning and evening, on the sabbaths, and on the new moons, and on the solemn feasts of Yahweh our God. This is an ordinance for ever to Israel."
               },
               {
                 "vnumber": "5",
@@ -19942,11 +19942,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "11",
-                "text": "Then Huram the king of Tyre answered in writing, which he sent to Solomon, Because the LORD hath loved his people, he hath made thee king over them."
+                "text": "Then Huram the king of Tyre answered in writing, which he sent to Solomon, Because Yahweh hath loved his people, he hath made thee king over them."
               },
               {
                 "vnumber": "12",
-                "text": "Huram said moreover, Blessed be the LORD God of Israel, that made heaven and earth, who hath given to David the king a wise son, endued with prudence and understanding, that might build an house for the LORD, and an house for his kingdom."
+                "text": "Huram said moreover, Blessed be Yahweh God of Israel, that made heaven and earth, who hath given to David the king a wise son, endued with prudence and understanding, that might build an house for Yahweh, and an house for his kingdom."
               },
               {
                 "vnumber": "13",
@@ -19979,7 +19979,7 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Then Solomon began to build the house of the LORD at Jerusalem in mount Moriah, where the LORD appeared unto David his father, in the place that David had prepared in the threshingfloor of Ornan the Jebusite."
+                "text": "Then Solomon began to build the house of Yahweh at Jerusalem in mount Moriah, where Yahweh appeared unto David his father, in the place that David had prepared in the threshingfloor of Ornan the Jebusite."
               },
               {
                 "vnumber": "2",
@@ -20112,7 +20112,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "16",
-                "text": "The pots also, and the shovels, and the fleshhooks, and all their instruments, did Huram his father make to king Solomon for the house of the LORD of bright brass."
+                "text": "The pots also, and the shovels, and the fleshhooks, and all their instruments, did Huram his father make to king Solomon for the house of Yahweh of bright brass."
               },
               {
                 "vnumber": "17",
@@ -20145,11 +20145,11 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Thus all the work that Solomon made for the house of the LORD was finished: and Solomon brought in all the things that David his father had dedicated; and the silver, and the gold, and all the instruments, put he among the treasures of the house of God."
+                "text": "Thus all the work that Solomon made for the house of Yahweh was finished: and Solomon brought in all the things that David his father had dedicated; and the silver, and the gold, and all the instruments, put he among the treasures of the house of God."
               },
               {
                 "vnumber": "2",
-                "text": "Then Solomon assembled the elders of Israel, and all the heads of the tribes, the chief of the fathers of the children of Israel, unto Jerusalem, to bring up the ark of the covenant of the LORD out of the city of David, which is Zion."
+                "text": "Then Solomon assembled the elders of Israel, and all the heads of the tribes, the chief of the fathers of the children of Israel, unto Jerusalem, to bring up the ark of the covenant of Yahweh out of the city of David, which is Zion."
               },
               {
                 "vnumber": "3",
@@ -20169,7 +20169,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "7",
-                "text": "And the priests brought in the ark of the covenant of the LORD unto his place, to the oracle of the house, into the most holy place, even under the wings of the cherubims:"
+                "text": "And the priests brought in the ark of the covenant of Yahweh unto his place, to the oracle of the house, into the most holy place, even under the wings of the cherubims:"
               },
               {
                 "vnumber": "8",
@@ -20181,7 +20181,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "10",
-                "text": "There was nothing in the ark save the two tables which Moses put therein at Horeb, when the LORD made a covenant with the children of Israel, when they came out of Egypt."
+                "text": "There was nothing in the ark save the two tables which Moses put therein at Horeb, when Yahweh made a covenant with the children of Israel, when they came out of Egypt."
               },
               {
                 "vnumber": "11",
@@ -20193,11 +20193,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "13",
-                "text": "It came even to pass, as the trumpeters and singers were as one, to make one sound to be heard in praising and thanking the LORD; and when they lifted up their voice with the trumpets and cymbals and instruments of musick, and praised the LORD, saying, For he is good; for his mercy endureth for ever: that then the house was filled with a cloud, even the house of the LORD;"
+                "text": "It came even to pass, as the trumpeters and singers were as one, to make one sound to be heard in praising and thanking Yahweh; and when they lifted up their voice with the trumpets and cymbals and instruments of musick, and praised Yahweh, saying, For he is good; for his mercy endureth for ever: that then the house was filled with a cloud, even the house of Yahweh;"
               },
               {
                 "vnumber": "14",
-                "text": "So that the priests could not stand to minister by reason of the cloud: for the glory of the LORD had filled the house of God."
+                "text": "So that the priests could not stand to minister by reason of the cloud: for the glory of Yahweh had filled the house of God."
               }
             ]
           },
@@ -20206,7 +20206,7 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Then said Solomon, The LORD hath said that he would dwell in the thick darkness."
+                "text": "Then said Solomon, Yahweh hath said that he would dwell in the thick darkness."
               },
               {
                 "vnumber": "2",
@@ -20218,7 +20218,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "4",
-                "text": "And he said, Blessed be the LORD God of Israel, who hath with his hands fulfilled that which he spake with his mouth to my father David, saying,"
+                "text": "And he said, Blessed be Yahweh God of Israel, who hath with his hands fulfilled that which he spake with his mouth to my father David, saying,"
               },
               {
                 "vnumber": "5",
@@ -20230,11 +20230,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "7",
-                "text": "Now it was in the heart of David my father to build an house for the name of the LORD God of Israel."
+                "text": "Now it was in the heart of David my father to build an house for the name of Yahweh God of Israel."
               },
               {
                 "vnumber": "8",
-                "text": "But the LORD said to David my father, Forasmuch as it was in thine heart to build an house for my name, thou didst well in that it was in thine heart:"
+                "text": "But Yahweh said to David my father, Forasmuch as it was in thine heart to build an house for my name, thou didst well in that it was in thine heart:"
               },
               {
                 "vnumber": "9",
@@ -20242,15 +20242,15 @@ var Ketuvim = {
               },
               {
                 "vnumber": "10",
-                "text": "The LORD therefore hath performed his word that he hath spoken: for I am risen up in the room of David my father, and am set on the throne of Israel, as the LORD promised, and have built the house for the name of the LORD God of Israel."
+                "text": "Yahweh therefore hath performed his word that he hath spoken: for I am risen up in the room of David my father, and am set on the throne of Israel, as Yahweh promised, and have built the house for the name of Yahweh God of Israel."
               },
               {
                 "vnumber": "11",
-                "text": "And in it have I put the ark, wherein is the covenant of the LORD, that he made with the children of Israel."
+                "text": "And in it have I put the ark, wherein is the covenant of Yahweh, that he made with the children of Israel."
               },
               {
                 "vnumber": "12",
-                "text": "And he stood before the altar of the LORD in the presence of all the congregation of Israel, and spread forth his hands:"
+                "text": "And he stood before the altar of Yahweh in the presence of all the congregation of Israel, and spread forth his hands:"
               },
               {
                 "vnumber": "13",
@@ -20258,7 +20258,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "14",
-                "text": "And said, O LORD God of Israel, there is no God like thee in the heaven, nor in the earth; which keepest covenant, and shewest mercy unto thy servants, that walk before thee with all their hearts:"
+                "text": "And said, Oh Yahweh God of Israel, there is no God like thee in the heaven, nor in the earth; which keepest covenant, and shewest mercy unto thy servants, that walk before thee with all their hearts:"
               },
               {
                 "vnumber": "15",
@@ -20266,11 +20266,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "16",
-                "text": "Now therefore, O LORD God of Israel, keep with thy servant David my father that which thou hast promised him, saying, There shall not fail thee a man in my sight to sit upon the throne of Israel; yet so that thy children take heed to their way to walk in my law, as thou hast walked before me."
+                "text": "Now therefore, Oh Yahweh God of Israel, keep with thy servant David my father that which thou hast promised him, saying, There shall not fail thee a man in my sight to sit upon the throne of Israel; yet so that thy children take heed to their way to walk in my law, as thou hast walked before me."
               },
               {
                 "vnumber": "17",
-                "text": "Now then, O LORD God of Israel, let thy word be verified, which thou hast spoken unto thy servant David."
+                "text": "Now then, Oh Yahweh God of Israel, let thy word be verified, which thou hast spoken unto thy servant David."
               },
               {
                 "vnumber": "18",
@@ -20278,7 +20278,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "19",
-                "text": "Have respect therefore to the prayer of thy servant, and to his supplication, O LORD my God, to hearken unto the cry and the prayer which thy servant prayeth before thee:"
+                "text": "Have respect therefore to the prayer of thy servant, and to his supplication, Oh Yahweh my God, to hearken unto the cry and the prayer which thy servant prayeth before thee:"
               },
               {
                 "vnumber": "20",
@@ -20366,11 +20366,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "41",
-                "text": "Now therefore arise, O LORD God, into thy resting place, thou, and the ark of thy strength: let thy priests, O LORD God, be clothed with salvation, and let thy saints rejoice in goodness."
+                "text": "Now therefore arise, Oh Yahweh God, into thy resting place, thou, and the ark of thy strength: let thy priests, Oh Yahweh God, be clothed with salvation, and let thy saints rejoice in goodness."
               },
               {
                 "vnumber": "42",
-                "text": "O LORD God, turn not away the face of thine anointed: remember the mercies of David thy servant."
+                "text": "Oh Yahweh God, turn not away the face of thine anointed: remember the mercies of David thy servant."
               }
             ]
           },
@@ -20379,19 +20379,19 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Now when Solomon had made an end of praying, the fire came down from heaven, and consumed the burnt offering and the sacrifices; and the glory of the LORD filled the house."
+                "text": "Now when Solomon had made an end of praying, the fire came down from heaven, and consumed the burnt offering and the sacrifices; and the glory of Yahweh filled the house."
               },
               {
                 "vnumber": "2",
-                "text": "And the priests could not enter into the house of the LORD, because the glory of the LORD had filled the LORD'S house."
+                "text": "And the priests could not enter into the house of Yahweh, because the glory of Yahweh had filled Yahweh'S house."
               },
               {
                 "vnumber": "3",
-                "text": "And when all the children of Israel saw how the fire came down, and the glory of the LORD upon the house, they bowed themselves with their faces to the ground upon the pavement, and worshipped, and praised the LORD, saying, For he is good; for his mercy endureth for ever."
+                "text": "And when all the children of Israel saw how the fire came down, and the glory of Yahweh upon the house, they bowed themselves with their faces to the ground upon the pavement, and worshipped, and praised Yahweh, saying, For he is good; for his mercy endureth for ever."
               },
               {
                 "vnumber": "4",
-                "text": "Then the king and all the people offered sacrifices before the LORD."
+                "text": "Then the king and all the people offered sacrifices before Yahweh."
               },
               {
                 "vnumber": "5",
@@ -20399,11 +20399,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "6",
-                "text": "And the priests waited on their offices: the Levites also with instruments of musick of the LORD, which David the king had made to praise the LORD, because his mercy endureth for ever, when David praised by their ministry; and the priests sounded trumpets before them, and all Israel stood."
+                "text": "And the priests waited on their offices: the Levites also with instruments of musick of Yahweh, which David the king had made to praise Yahweh, because his mercy endureth for ever, when David praised by their ministry; and the priests sounded trumpets before them, and all Israel stood."
               },
               {
                 "vnumber": "7",
-                "text": "Moreover Solomon hallowed the middle of the court that was before the house of the LORD: for there he offered burnt offerings, and the fat of the peace offerings, because the brasen altar which Solomon had made was not able to receive the burnt offerings, and the meat offerings, and the fat."
+                "text": "Moreover Solomon hallowed the middle of the court that was before the house of Yahweh: for there he offered burnt offerings, and the fat of the peace offerings, because the brasen altar which Solomon had made was not able to receive the burnt offerings, and the meat offerings, and the fat."
               },
               {
                 "vnumber": "8",
@@ -20415,15 +20415,15 @@ var Ketuvim = {
               },
               {
                 "vnumber": "10",
-                "text": "And on the three and twentieth day of the seventh month he sent the people away into their tents, glad and merry in heart for the goodness that the LORD had shewed unto David, and to Solomon, and to Israel his people."
+                "text": "And on the three and twentieth day of the seventh month he sent the people away into their tents, glad and merry in heart for the goodness that Yahweh had shewed unto David, and to Solomon, and to Israel his people."
               },
               {
                 "vnumber": "11",
-                "text": "Thus Solomon finished the house of the LORD, and the king's house: and all that came into Solomon's heart to make in the house of the LORD, and in his own house, he prosperously effected."
+                "text": "Thus Solomon finished the house of Yahweh, and the king's house: and all that came into Solomon's heart to make in the house of Yahweh, and in his own house, he prosperously effected."
               },
               {
                 "vnumber": "12",
-                "text": "And the LORD appeared to Solomon by night, and said unto him, I have heard thy prayer, and have chosen this place to myself for an house of sacrifice."
+                "text": "And Yahweh appeared to Solomon by night, and said unto him, I have heard thy prayer, and have chosen this place to myself for an house of sacrifice."
               },
               {
                 "vnumber": "13",
@@ -20459,11 +20459,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "21",
-                "text": "And this house, which is high, shall be an astonishment to every one that passeth by it; so that he shall say, Why hath the LORD done thus unto this land, and unto this house?"
+                "text": "And this house, which is high, shall be an astonishment to every one that passeth by it; so that he shall say, Why hath Yahweh done thus unto this land, and unto this house?"
               },
               {
                 "vnumber": "22",
-                "text": "And it shall be answered, Because they forsook the LORD God of their fathers, which brought them forth out of the land of Egypt, and laid hold on other gods, and worshipped them, and served them: therefore hath he brought all this evil upon them."
+                "text": "And it shall be answered, Because they forsook Yahweh God of their fathers, which brought them forth out of the land of Egypt, and laid hold on other gods, and worshipped them, and served them: therefore hath he brought all this evil upon them."
               }
             ]
           },
@@ -20472,7 +20472,7 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And it came to pass at the end of twenty years, wherein Solomon had built the house of the LORD, and his own house,"
+                "text": "And it came to pass at the end of twenty years, wherein Solomon had built the house of Yahweh, and his own house,"
               },
               {
                 "vnumber": "2",
@@ -20512,11 +20512,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "11",
-                "text": "And Solomon brought up the daughter of Pharaoh out of the city of David unto the house that he had built for her: for he said, My wife shall not dwell in the house of David king of Israel, because the places are holy, whereunto the ark of the LORD hath come."
+                "text": "And Solomon brought up the daughter of Pharaoh out of the city of David unto the house that he had built for her: for he said, My wife shall not dwell in the house of David king of Israel, because the places are holy, whereunto the ark of Yahweh hath come."
               },
               {
                 "vnumber": "12",
-                "text": "Then Solomon offered burnt offerings unto the LORD on the altar of the LORD, which he had built before the porch,"
+                "text": "Then Solomon offered burnt offerings unto Yahweh on the altar of Yahweh, which he had built before the porch,"
               },
               {
                 "vnumber": "13",
@@ -20532,7 +20532,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "16",
-                "text": "Now all the work of Solomon was prepared unto the day of the foundation of the house of the LORD, and until it was finished. So the house of the LORD was perfected."
+                "text": "Now all the work of Solomon was prepared unto the day of the foundation of the house of Yahweh, and until it was finished. So the house of Yahweh was perfected."
               },
               {
                 "vnumber": "17",
@@ -20561,7 +20561,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "4",
-                "text": "And the meat of his table, and the sitting of his servants, and the attendance of his ministers, and their apparel; his cupbearers also, and their apparel; and his ascent by which he went up into the house of the LORD; there was no more spirit in her."
+                "text": "And the meat of his table, and the sitting of his servants, and the attendance of his ministers, and their apparel; his cupbearers also, and their apparel; and his ascent by which he went up into the house of Yahweh; there was no more spirit in her."
               },
               {
                 "vnumber": "5",
@@ -20589,7 +20589,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "11",
-                "text": "And the king made of the algum trees terraces to the house of the LORD, and to the king's palace, and harps and psalteries for singers: and there were none such seen before in the land of Judah."
+                "text": "And the king made of the algum trees terraces to the house of Yahweh, and to the king's palace, and harps and psalteries for singers: and there were none such seen before in the land of Judah."
               },
               {
                 "vnumber": "12",
@@ -20734,7 +20734,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "15",
-                "text": "So the king hearkened not unto the people: for the cause was of God, that the LORD might perform his word, which he spake by the hand of Ahijah the Shilonite to Jeroboam the son of Nebat."
+                "text": "So the king hearkened not unto the people: for the cause was of God, that Yahweh might perform his word, which he spake by the hand of Ahijah the Shilonite to Jeroboam the son of Nebat."
               },
               {
                 "vnumber": "16",
@@ -20763,7 +20763,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "2",
-                "text": "But the word of the LORD came to Shemaiah the man of God, saying,"
+                "text": "But the word of Yahweh came to Shemaiah the man of God, saying,"
               },
               {
                 "vnumber": "3",
@@ -20771,7 +20771,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "4",
-                "text": "Thus saith the LORD, you shall not go up, nor fight against your brethren: return every man to his house: for this thing is done of me. And they obeyed the words of the LORD, and returned from going against Jeroboam."
+                "text": "Thus saith Yahweh, you shall not go up, nor fight against your brethren: return every man to his house: for this thing is done of me. And they obeyed the words of Yahweh, and returned from going against Jeroboam."
               },
               {
                 "vnumber": "5",
@@ -20811,7 +20811,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "14",
-                "text": "For the Levites left their suburbs and their possession, and came to Judah and Jerusalem: for Jeroboam and his sons had cast them off from executing the priest's office unto the LORD:"
+                "text": "For the Levites left their suburbs and their possession, and came to Judah and Jerusalem: for Jeroboam and his sons had cast them off from executing the priest's office unto Yahweh:"
               },
               {
                 "vnumber": "15",
@@ -20819,7 +20819,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "16",
-                "text": "And after them out of all the tribes of Israel such as set their hearts to seek the LORD God of Israel came to Jerusalem, to sacrifice unto the LORD God of their fathers."
+                "text": "And after them out of all the tribes of Israel such as set their hearts to seek Yahweh God of Israel came to Jerusalem, to sacrifice unto Yahweh God of their fathers."
               },
               {
                 "vnumber": "17",
@@ -20856,11 +20856,11 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And it came to pass, when Rehoboam had established the kingdom, and had strengthened himself, he forsook the law of the LORD, and all Israel with him."
+                "text": "And it came to pass, when Rehoboam had established the kingdom, and had strengthened himself, he forsook the law of Yahweh, and all Israel with him."
               },
               {
                 "vnumber": "2",
-                "text": "And it came to pass, that in the fifth year of king Rehoboam Shishak king of Egypt came up against Jerusalem, because they had transgressed against the LORD,"
+                "text": "And it came to pass, that in the fifth year of king Rehoboam Shishak king of Egypt came up against Jerusalem, because they had transgressed against Yahweh,"
               },
               {
                 "vnumber": "3",
@@ -20872,15 +20872,15 @@ var Ketuvim = {
               },
               {
                 "vnumber": "5",
-                "text": "Then came Shemaiah the prophet to Rehoboam, and to the princes of Judah, that were gathered together to Jerusalem because of Shishak, and said unto them, Thus saith the LORD, Ye have forsaken me, and therefore have I also left you in the hand of Shishak."
+                "text": "Then came Shemaiah the prophet to Rehoboam, and to the princes of Judah, that were gathered together to Jerusalem because of Shishak, and said unto them, Thus saith Yahweh, Ye have forsaken me, and therefore have I also left you in the hand of Shishak."
               },
               {
                 "vnumber": "6",
-                "text": "Whereupon the princes of Israel and the king humbled themselves; and they said, The LORD is righteous."
+                "text": "Whereupon the princes of Israel and the king humbled themselves; and they said, Yahweh is righteous."
               },
               {
                 "vnumber": "7",
-                "text": "And when the LORD saw that they humbled themselves, the word of the LORD came to Shemaiah, saying, They have humbled themselves; therefore I will not destroy them, but I will grant them some deliverance; and my wrath shall not be poured out upon Jerusalem by the hand of Shishak."
+                "text": "And when Yahweh saw that they humbled themselves, the word of Yahweh came to Shemaiah, saying, They have humbled themselves; therefore I will not destroy them, but I will grant them some deliverance; and my wrath shall not be poured out upon Jerusalem by the hand of Shishak."
               },
               {
                 "vnumber": "8",
@@ -20888,7 +20888,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "9",
-                "text": "So Shishak king of Egypt came up against Jerusalem, and took away the treasures of the house of the LORD, and the treasures of the king's house; he took all: he carried away also the shields of gold which Solomon had made."
+                "text": "So Shishak king of Egypt came up against Jerusalem, and took away the treasures of the house of Yahweh, and the treasures of the king's house; he took all: he carried away also the shields of gold which Solomon had made."
               },
               {
                 "vnumber": "10",
@@ -20896,19 +20896,19 @@ var Ketuvim = {
               },
               {
                 "vnumber": "11",
-                "text": "And when the king entered into the house of the LORD, the guard came and fetched them, and brought them again into the guard chamber."
+                "text": "And when the king entered into the house of Yahweh, the guard came and fetched them, and brought them again into the guard chamber."
               },
               {
                 "vnumber": "12",
-                "text": "And when he humbled himself, the wrath of the LORD turned from him, that he would not destroy him altogether: and also in Judah things went well."
+                "text": "And when he humbled himself, the wrath of Yahweh turned from him, that he would not destroy him altogether: and also in Judah things went well."
               },
               {
                 "vnumber": "13",
-                "text": "So king Rehoboam strengthened himself in Jerusalem, and reigned: for Rehoboam was one and forty years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD had chosen out of all the tribes of Israel, to put his name there. And his mother's name was Naamah an Ammonitess."
+                "text": "So king Rehoboam strengthened himself in Jerusalem, and reigned: for Rehoboam was one and forty years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which Yahweh had chosen out of all the tribes of Israel, to put his name there. And his mother's name was Naamah an Ammonitess."
               },
               {
                 "vnumber": "14",
-                "text": "And he did evil, because he prepared not his heart to seek the LORD."
+                "text": "And he did evil, because he prepared not his heart to seek Yahweh."
               },
               {
                 "vnumber": "15",
@@ -20941,7 +20941,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "5",
-                "text": "Ought ye not to know that the LORD God of Israel gave the kingdom over Israel to David for ever, even to him and to his sons by a covenant of salt?"
+                "text": "Ought ye not to know that Yahweh God of Israel gave the kingdom over Israel to David for ever, even to him and to his sons by a covenant of salt?"
               },
               {
                 "vnumber": "6",
@@ -20953,23 +20953,23 @@ var Ketuvim = {
               },
               {
                 "vnumber": "8",
-                "text": "And now ye think to withstand the kingdom of the LORD in the hand of the sons of David; and ye be a great multitude, and there are with you golden calves, which Jeroboam made you for gods."
+                "text": "And now ye think to withstand the kingdom of Yahweh in the hand of the sons of David; and ye be a great multitude, and there are with you golden calves, which Jeroboam made you for gods."
               },
               {
                 "vnumber": "9",
-                "text": "Have ye not cast out the priests of the LORD, the sons of Aaron, and the Levites, and have made you priests after the manner of the nations of other lands? so that whosoever cometh to consecrate himself with a young bullock and seven rams, the same may be a priest of them that are no gods."
+                "text": "Have ye not cast out the priests of Yahweh, the sons of Aaron, and the Levites, and have made you priests after the manner of the nations of other lands? so that whosoever cometh to consecrate himself with a young bullock and seven rams, the same may be a priest of them that are no gods."
               },
               {
                 "vnumber": "10",
-                "text": "But as for us, the LORD is our God, and we have not forsaken him; and the priests, which minister unto the LORD, are the sons of Aaron, and the Levites wait upon their business:"
+                "text": "But as for us, Yahweh is our God, and we have not forsaken him; and the priests, which minister unto Yahweh, are the sons of Aaron, and the Levites wait upon their business:"
               },
               {
                 "vnumber": "11",
-                "text": "And they burn unto the LORD every morning and every evening burnt sacrifices and sweet incense: the shewbread also set they in order upon the pure table; and the candlestick of gold with the lamps thereof, to burn every evening: for we keep the charge of the LORD our God; but ye have forsaken him."
+                "text": "And they burn unto Yahweh every morning and every evening burnt sacrifices and sweet incense: the shewbread also set they in order upon the pure table; and the candlestick of gold with the lamps thereof, to burn every evening: for we keep the charge of Yahweh our God; but ye have forsaken him."
               },
               {
                 "vnumber": "12",
-                "text": "And, behold, God himself is with us for our captain, and his priests with sounding trumpets to cry alarm against you. O children of Israel, fight ye not against the LORD God of your fathers; for you shall not prosper."
+                "text": "And, behold, God himself is with us for our captain, and his priests with sounding trumpets to cry alarm against you. O children of Israel, fight ye not against Yahweh God of your fathers; for you shall not prosper."
               },
               {
                 "vnumber": "13",
@@ -20977,7 +20977,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "14",
-                "text": "And when Judah looked back, behold, the battle was before and behind: and they cried unto the LORD, and the priests sounded with the trumpets."
+                "text": "And when Judah looked back, behold, the battle was before and behind: and they cried unto Yahweh, and the priests sounded with the trumpets."
               },
               {
                 "vnumber": "15",
@@ -20993,7 +20993,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "18",
-                "text": "Thus the children of Israel were brought under at that time, and the children of Judah prevailed, because they relied upon the LORD God of their fathers."
+                "text": "Thus the children of Israel were brought under at that time, and the children of Judah prevailed, because they relied upon Yahweh God of their fathers."
               },
               {
                 "vnumber": "19",
@@ -21001,7 +21001,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "20",
-                "text": "Neither did Jeroboam recover strength again in the days of Abijah: and the LORD struck him, and he died."
+                "text": "Neither did Jeroboam recover strength again in the days of Abijah: and Yahweh struck him, and he died."
               },
               {
                 "vnumber": "21",
@@ -21022,7 +21022,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "2",
-                "text": "And Asa did that which was good and right in the eyes of the LORD his God:"
+                "text": "And Asa did that which was good and right in the eyes of Yahweh his God:"
               },
               {
                 "vnumber": "3",
@@ -21030,7 +21030,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "4",
-                "text": "And commanded Judah to seek the LORD God of their fathers, and to do the law and the commandment."
+                "text": "And commanded Judah to seek Yahweh God of their fathers, and to do the law and the commandment."
               },
               {
                 "vnumber": "5",
@@ -21038,11 +21038,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "6",
-                "text": "And he built fenced cities in Judah: for the land had rest, and he had no war in those years; because the LORD had given him rest."
+                "text": "And he built fenced cities in Judah: for the land had rest, and he had no war in those years; because Yahweh had given him rest."
               },
               {
                 "vnumber": "7",
-                "text": "Therefore he said unto Judah, Let us build these cities, and make about them walls, and towers, gates, and bars, while the land is yet before us; because we have sought the LORD our God, we have sought him, and he hath given us rest on every side. So they built and prospered."
+                "text": "Therefore he said unto Judah, Let us build these cities, and make about them walls, and towers, gates, and bars, while the land is yet before us; because we have sought Yahweh our God, we have sought him, and he hath given us rest on every side. So they built and prospered."
               },
               {
                 "vnumber": "8",
@@ -21058,19 +21058,19 @@ var Ketuvim = {
               },
               {
                 "vnumber": "11",
-                "text": "And Asa cried unto the LORD his God, and said, LORD, it is nothing with thee to help, whether with many, or with them that have no power: help us, O LORD our God; for we rest on thee, and in thy name we go against this multitude. O LORD, thou art our God; let not man prevail against thee."
+                "text": "And Asa cried unto Yahweh his God, and said, Yahweh, it is nothing with thee to help, whether with many, or with them that have no power: help us, Oh Yahweh our God; for we rest on thee, and in thy name we go against this multitude. Oh Yahweh, thou art our God; let not man prevail against thee."
               },
               {
                 "vnumber": "12",
-                "text": "So the LORD smote the Ethiopians before Asa, and before Judah; and the Ethiopians fled."
+                "text": "So Yahweh smote the Ethiopians before Asa, and before Judah; and the Ethiopians fled."
               },
               {
                 "vnumber": "13",
-                "text": "And Asa and the people that were with him pursued them unto Gerar: and the Ethiopians were overthrown, that they could not recover themselves; for they were destroyed before the LORD, and before his host; and they carried away very much spoil."
+                "text": "And Asa and the people that were with him pursued them unto Gerar: and the Ethiopians were overthrown, that they could not recover themselves; for they were destroyed before Yahweh, and before his host; and they carried away very much spoil."
               },
               {
                 "vnumber": "14",
-                "text": "And they smote all the cities round about Gerar; for the fear of the LORD came upon them: and they spoiled all the cities; for there was exceeding much spoil in them."
+                "text": "And they smote all the cities round about Gerar; for the fear of Yahweh came upon them: and they spoiled all the cities; for there was exceeding much spoil in them."
               },
               {
                 "vnumber": "15",
@@ -21087,7 +21087,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "2",
-                "text": "And he went out to meet Asa, and said unto him, Hear ye me, Asa, and all Judah and Benjamin; The LORD is with you, while ye be with him; and if ye seek him, he will be found of you; but if ye forsake him, he will forsake you."
+                "text": "And he went out to meet Asa, and said unto him, Hear ye me, Asa, and all Judah and Benjamin; Yahweh is with you, while ye be with him; and if ye seek him, he will be found of you; but if ye forsake him, he will forsake you."
               },
               {
                 "vnumber": "3",
@@ -21095,7 +21095,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "4",
-                "text": "But when they in their trouble did turn unto the LORD God of Israel, and sought him, he was found of them."
+                "text": "But when they in their trouble did turn unto Yahweh God of Israel, and sought him, he was found of them."
               },
               {
                 "vnumber": "5",
@@ -21111,11 +21111,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "8",
-                "text": "And when Asa heard these words, and the prophecy of Oded the prophet, he took courage, and put away the abominable idols out of all the land of Judah and Benjamin, and out of the cities which he had taken from mount Ephraim, and renewed the altar of the LORD, that was before the porch of the LORD."
+                "text": "And when Asa heard these words, and the prophecy of Oded the prophet, he took courage, and put away the abominable idols out of all the land of Judah and Benjamin, and out of the cities which he had taken from mount Ephraim, and renewed the altar of Yahweh, that was before the porch of Yahweh."
               },
               {
                 "vnumber": "9",
-                "text": "And he gathered all Judah and Benjamin, and the strangers with them out of Ephraim and Manasseh, and out of Simeon: for they fell to him out of Israel in abundance, when they saw that the LORD his God was with him."
+                "text": "And he gathered all Judah and Benjamin, and the strangers with them out of Ephraim and Manasseh, and out of Simeon: for they fell to him out of Israel in abundance, when they saw that Yahweh his God was with him."
               },
               {
                 "vnumber": "10",
@@ -21123,23 +21123,23 @@ var Ketuvim = {
               },
               {
                 "vnumber": "11",
-                "text": "And they offered unto the LORD the same time, of the spoil which they had brought, seven hundred oxen and seven thousand sheep."
+                "text": "And they offered unto Yahweh the same time, of the spoil which they had brought, seven hundred oxen and seven thousand sheep."
               },
               {
                 "vnumber": "12",
-                "text": "And they entered into a covenant to seek the LORD God of their fathers with all their heart and with all their soul;"
+                "text": "And they entered into a covenant to seek Yahweh God of their fathers with all their heart and with all their soul;"
               },
               {
                 "vnumber": "13",
-                "text": "That whosoever would not seek the LORD God of Israel should be put to death, whether small or great, whether man or woman."
+                "text": "That whosoever would not seek Yahweh God of Israel should be put to death, whether small or great, whether man or woman."
               },
               {
                 "vnumber": "14",
-                "text": "And they sware unto the LORD with a loud voice, and with shouting, and with trumpets, and with cornets."
+                "text": "And they sware unto Yahweh with a loud voice, and with shouting, and with trumpets, and with cornets."
               },
               {
                 "vnumber": "15",
-                "text": "And all Judah rejoiced at the oath: for they had sworn with all their heart, and sought him with their whole desire; and he was found of them: and the LORD gave them rest round about."
+                "text": "And all Judah rejoiced at the oath: for they had sworn with all their heart, and sought him with their whole desire; and he was found of them: and Yahweh gave them rest round about."
               },
               {
                 "vnumber": "16",
@@ -21168,7 +21168,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "2",
-                "text": "Then Asa brought out silver and gold out of the treasures of the house of the LORD and of the king's house, and sent to Benhadad king of Syria, that dwelt at Damascus, saying,"
+                "text": "Then Asa brought out silver and gold out of the treasures of the house of Yahweh and of the king's house, and sent to Benhadad king of Syria, that dwelt at Damascus, saying,"
               },
               {
                 "vnumber": "3",
@@ -21192,11 +21192,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "8",
-                "text": "Were not the Ethiopians and the Lubims a huge host, with very many chariots and horsemen? yet, because thou didst rely on the LORD, he delivered them into thine hand."
+                "text": "Were not the Ethiopians and the Lubims a huge host, with very many chariots and horsemen? yet, because thou didst rely on Yahweh, he delivered them into thine hand."
               },
               {
                 "vnumber": "9",
-                "text": "For the eyes of the LORD run to and fro throughout the whole earth, to shew himself strong in the behalf of them whose heart is perfect toward him. Herein thou hast done foolishly: therefore from henceforth thou shalt have wars."
+                "text": "For the eyes of Yahweh run to and fro throughout the whole earth, to shew himself strong in the behalf of them whose heart is perfect toward him. Herein thou hast done foolishly: therefore from henceforth thou shalt have wars."
               },
               {
                 "vnumber": "10",
@@ -21208,7 +21208,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "12",
-                "text": "And Asa in the thirty and ninth year of his reign was diseased in his feet, until his disease was exceeding great: yet in his disease he sought not to the LORD, but to the physicians."
+                "text": "And Asa in the thirty and ninth year of his reign was diseased in his feet, until his disease was exceeding great: yet in his disease he sought not to Yahweh, but to the physicians."
               },
               {
                 "vnumber": "13",
@@ -21233,19 +21233,19 @@ var Ketuvim = {
               },
               {
                 "vnumber": "3",
-                "text": "And the LORD was with Jehoshaphat, because he walked in the first ways of his father David, and sought not unto Baalim;"
+                "text": "And Yahweh was with Jehoshaphat, because he walked in the first ways of his father David, and sought not unto Baalim;"
               },
               {
                 "vnumber": "4",
-                "text": "But sought to the LORD God of his father, and walked in his commandments, and not after the doings of Israel."
+                "text": "But sought to Yahweh God of his father, and walked in his commandments, and not after the doings of Israel."
               },
               {
                 "vnumber": "5",
-                "text": "Therefore the LORD stablished the kingdom in his hand; and all Judah brought to Jehoshaphat presents; and he had riches and honour in abundance."
+                "text": "Therefore Yahweh stablished the kingdom in his hand; and all Judah brought to Jehoshaphat presents; and he had riches and honour in abundance."
               },
               {
                 "vnumber": "6",
-                "text": "And his heart was lifted up in the ways of the LORD: moreover he took away the high places and groves out of Judah."
+                "text": "And his heart was lifted up in the ways of Yahweh: moreover he took away the high places and groves out of Judah."
               },
               {
                 "vnumber": "7",
@@ -21257,11 +21257,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "9",
-                "text": "And they taught in Judah, and had the book of the law of the LORD with them, and went about throughout all the cities of Judah, and taught the people."
+                "text": "And they taught in Judah, and had the book of the law of Yahweh with them, and went about throughout all the cities of Judah, and taught the people."
               },
               {
                 "vnumber": "10",
-                "text": "And the fear of the LORD fell upon all the kingdoms of the lands that were round about Judah, so that they made no war against Jehoshaphat."
+                "text": "And the fear of Yahweh fell upon all the kingdoms of the lands that were round about Judah, so that they made no war against Jehoshaphat."
               },
               {
                 "vnumber": "11",
@@ -21285,7 +21285,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "16",
-                "text": "And next him was Amasiah the son of Zichri, who willingly offered himself unto the LORD; and with him two hundred thousand mighty men of valour."
+                "text": "And next him was Amasiah the son of Zichri, who willingly offered himself unto Yahweh; and with him two hundred thousand mighty men of valour."
               },
               {
                 "vnumber": "17",
@@ -21318,7 +21318,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "4",
-                "text": "And Jehoshaphat said unto the king of Israel, Enquire, I pray thee, at the word of the LORD to day."
+                "text": "And Jehoshaphat said unto the king of Israel, Enquire, I pray thee, at the word of Yahweh to day."
               },
               {
                 "vnumber": "5",
@@ -21326,11 +21326,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "6",
-                "text": "But Jehoshaphat said, Is there not here a prophet of the LORD besides, that we might enquire of him?"
+                "text": "But Jehoshaphat said, Is there not here a prophet of Yahweh besides, that we might enquire of him?"
               },
               {
                 "vnumber": "7",
-                "text": "And the king of Israel said unto Jehoshaphat, There is yet one man, by whom we may enquire of the LORD: but I hate him; for he never prophesied good unto me, but always evil: the same is Micaiah the son of Imla. And Jehoshaphat said, Let not the king say so."
+                "text": "And the king of Israel said unto Jehoshaphat, There is yet one man, by whom we may enquire of Yahweh: but I hate him; for he never prophesied good unto me, but always evil: the same is Micaiah the son of Imla. And Jehoshaphat said, Let not the king say so."
               },
               {
                 "vnumber": "8",
@@ -21342,11 +21342,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "10",
-                "text": "And Zedekiah the son of Chenaanah had made him horns of iron, and said, Thus saith the LORD, With these thou shalt push Syria until they be consumed."
+                "text": "And Zedekiah the son of Chenaanah had made him horns of iron, and said, Thus saith Yahweh, With these thou shalt push Syria until they be consumed."
               },
               {
                 "vnumber": "11",
-                "text": "And all the prophets prophesied so, saying, Go up to Ramothgilead, and prosper: for the LORD shall deliver it into the hand of the king."
+                "text": "And all the prophets prophesied so, saying, Go up to Ramothgilead, and prosper: for Yahweh shall deliver it into the hand of the king."
               },
               {
                 "vnumber": "12",
@@ -21354,7 +21354,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "13",
-                "text": "And Micaiah said, As the LORD liveth, even what my God saith, that will I speak."
+                "text": "And Micaiah said, As Yahweh liveth, even what my God saith, that will I speak."
               },
               {
                 "vnumber": "14",
@@ -21362,11 +21362,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "15",
-                "text": "And the king said to him, How many times shall I adjure thee that thou say nothing but the truth to me in the name of the LORD?"
+                "text": "And the king said to him, How many times shall I adjure thee that thou say nothing but the truth to me in the name of Yahweh?"
               },
               {
                 "vnumber": "16",
-                "text": "Then he said, I did see all Israel scattered upon the mountains, as sheep that have no shepherd: and the LORD said, These have no master; let them return therefore every man to his house in peace."
+                "text": "Then he said, I did see all Israel scattered upon the mountains, as sheep that have no shepherd: and Yahweh said, These have no master; let them return therefore every man to his house in peace."
               },
               {
                 "vnumber": "17",
@@ -21374,27 +21374,27 @@ var Ketuvim = {
               },
               {
                 "vnumber": "18",
-                "text": "Again he said, Therefore hear the word of the LORD; I saw the LORD sitting upon his throne, and all the host of heaven standing on his right hand and on his left."
+                "text": "Again he said, Therefore hear the word of Yahweh; I saw Yahweh sitting upon his throne, and all the host of heaven standing on his right hand and on his left."
               },
               {
                 "vnumber": "19",
-                "text": "And the LORD said, Who shall entice Ahab king of Israel, that he may go up and fall at Ramothgilead? And one spake saying after this manner, and another saying after that manner."
+                "text": "And Yahweh said, Who shall entice Ahab king of Israel, that he may go up and fall at Ramothgilead? And one spake saying after this manner, and another saying after that manner."
               },
               {
                 "vnumber": "20",
-                "text": "Then there came out a spirit, and stood before the LORD, and said, I will entice him. And the LORD said unto him, Wherewith?"
+                "text": "Then there came out a spirit, and stood before Yahweh, and said, I will entice him. And Yahweh said unto him, Wherewith?"
               },
               {
                 "vnumber": "21",
-                "text": "And he said, I will go out, and be a lying spirit in the mouth of all his prophets. And the LORD said, Thou shalt entice him, and thou shalt also prevail: go out, and do even so."
+                "text": "And he said, I will go out, and be a lying spirit in the mouth of all his prophets. And Yahweh said, Thou shalt entice him, and thou shalt also prevail: go out, and do even so."
               },
               {
                 "vnumber": "22",
-                "text": "Now therefore, behold, the LORD hath put a lying spirit in the mouth of these thy prophets, and the LORD hath spoken evil against thee."
+                "text": "Now therefore, behold, Yahweh hath put a lying spirit in the mouth of these thy prophets, and Yahweh hath spoken evil against thee."
               },
               {
                 "vnumber": "23",
-                "text": "Then Zedekiah the son of Chenaanah came near, and smote Micaiah upon the cheek, and said, Which way went the Spirit of the LORD from me to speak unto thee?"
+                "text": "Then Zedekiah the son of Chenaanah came near, and smote Micaiah upon the cheek, and said, Which way went the Spirit of Yahweh from me to speak unto thee?"
               },
               {
                 "vnumber": "24",
@@ -21410,7 +21410,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "27",
-                "text": "And Micaiah said, If thou certainly return in peace, then hath not the LORD spoken by me. And he said, Hearken, all ye people."
+                "text": "And Micaiah said, If thou certainly return in peace, then hath not Yahweh spoken by me. And he said, Hearken, all ye people."
               },
               {
                 "vnumber": "28",
@@ -21426,7 +21426,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "31",
-                "text": "And it came to pass, when the captains of the chariots saw Jehoshaphat, that they said, It is the king of Israel. Therefore they compassed about him to fight: but Jehoshaphat cried out, and the LORD helped him; and God moved them to depart from him."
+                "text": "And it came to pass, when the captains of the chariots saw Jehoshaphat, that they said, It is the king of Israel. Therefore they compassed about him to fight: but Jehoshaphat cried out, and Yahweh helped him; and God moved them to depart from him."
               },
               {
                 "vnumber": "32",
@@ -21451,7 +21451,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "2",
-                "text": "And Jehu the son of Hanani the seer went out to meet him, and said to king Jehoshaphat, Shouldest thou help the ungodly, and love them that hate the LORD? therefore is wrath upon thee from before the LORD."
+                "text": "And Jehu the son of Hanani the seer went out to meet him, and said to king Jehoshaphat, Shouldest thou help the ungodly, and love them that hate Yahweh? therefore is wrath upon thee from before Yahweh."
               },
               {
                 "vnumber": "3",
@@ -21459,7 +21459,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "4",
-                "text": "And Jehoshaphat dwelt at Jerusalem: and he went out again through the people from Beersheba to mount Ephraim, and brought them back unto the LORD God of their fathers."
+                "text": "And Jehoshaphat dwelt at Jerusalem: and he went out again through the people from Beersheba to mount Ephraim, and brought them back unto Yahweh God of their fathers."
               },
               {
                 "vnumber": "5",
@@ -21467,27 +21467,27 @@ var Ketuvim = {
               },
               {
                 "vnumber": "6",
-                "text": "And said to the judges, Take heed what ye do: for ye judge not for man, but for the LORD, who is with you in the judgment."
+                "text": "And said to the judges, Take heed what ye do: for ye judge not for man, but for Yahweh, who is with you in the judgment."
               },
               {
                 "vnumber": "7",
-                "text": "Wherefore now let the fear of the LORD be upon you; take heed and do it: for there is no iniquity with the LORD our God, nor respect of persons, nor taking of gifts."
+                "text": "Wherefore now let the fear of Yahweh be upon you; take heed and do it: for there is no iniquity with Yahweh our God, nor respect of persons, nor taking of gifts."
               },
               {
                 "vnumber": "8",
-                "text": "Moreover in Jerusalem did Jehoshaphat set of the Levites, and of the priests, and of the chief of the fathers of Israel, for the judgment of the LORD, and for controversies, when they returned to Jerusalem."
+                "text": "Moreover in Jerusalem did Jehoshaphat set of the Levites, and of the priests, and of the chief of the fathers of Israel, for the judgment of Yahweh, and for controversies, when they returned to Jerusalem."
               },
               {
                 "vnumber": "9",
-                "text": "And he charged them, saying, Thus shall ye do in the fear of the LORD, faithfully, and with a perfect heart."
+                "text": "And he charged them, saying, Thus shall ye do in the fear of Yahweh, faithfully, and with a perfect heart."
               },
               {
                 "vnumber": "10",
-                "text": "And what cause soever shall come to you of your brethren that dwell in their cities, between blood and blood, between law and commandment, statutes and judgments, ye shall even warn them that they trespass not against the LORD, and so wrath come upon you, and upon your brethren: this do, and you shall not trespass."
+                "text": "And what cause soever shall come to you of your brethren that dwell in their cities, between blood and blood, between law and commandment, statutes and judgments, ye shall even warn them that they trespass not against Yahweh, and so wrath come upon you, and upon your brethren: this do, and you shall not trespass."
               },
               {
                 "vnumber": "11",
-                "text": "And, behold, Amariah the chief priest is over you in all matters of the LORD; and Zebadiah the son of Ishmael, the ruler of the house of Judah, for all the king's matters: also the Levites shall be officers before you. Deal courageously, and the LORD shall be with the good."
+                "text": "And, behold, Amariah the chief priest is over you in all matters of Yahweh; and Zebadiah the son of Ishmael, the ruler of the house of Judah, for all the king's matters: also the Levites shall be officers before you. Deal courageously, and Yahweh shall be with the good."
               }
             ]
           },
@@ -21504,19 +21504,19 @@ var Ketuvim = {
               },
               {
                 "vnumber": "3",
-                "text": "And Jehoshaphat feared, and set himself to seek the LORD, and proclaimed a fast throughout all Judah."
+                "text": "And Jehoshaphat feared, and set himself to seek Yahweh, and proclaimed a fast throughout all Judah."
               },
               {
                 "vnumber": "4",
-                "text": "And Judah gathered themselves together, to ask help of the LORD: even out of all the cities of Judah they came to seek the LORD."
+                "text": "And Judah gathered themselves together, to ask help of Yahweh: even out of all the cities of Judah they came to seek Yahweh."
               },
               {
                 "vnumber": "5",
-                "text": "And Jehoshaphat stood in the congregation of Judah and Jerusalem, in the house of the LORD, before the new court,"
+                "text": "And Jehoshaphat stood in the congregation of Judah and Jerusalem, in the house of Yahweh, before the new court,"
               },
               {
                 "vnumber": "6",
-                "text": "And said, O LORD God of our fathers, art not thou God in heaven? and rulest not thou over all the kingdoms of the heathen? and in thine hand is there not power and might, so that none is able to withstand thee?"
+                "text": "And said, Oh Yahweh God of our fathers, art not thou God in heaven? and rulest not thou over all the kingdoms of the heathen? and in thine hand is there not power and might, so that none is able to withstand thee?"
               },
               {
                 "vnumber": "7",
@@ -21544,15 +21544,15 @@ var Ketuvim = {
               },
               {
                 "vnumber": "13",
-                "text": "And all Judah stood before the LORD, with their little ones, their wives, and their children."
+                "text": "And all Judah stood before Yahweh, with their little ones, their wives, and their children."
               },
               {
                 "vnumber": "14",
-                "text": "Then upon Jahaziel the son of Zechariah, the son of Benaiah, the son of Jeiel, the son of Mattaniah, a Levite of the sons of Asaph, came the Spirit of the LORD in the midst of the congregation;"
+                "text": "Then upon Jahaziel the son of Zechariah, the son of Benaiah, the son of Jeiel, the son of Mattaniah, a Levite of the sons of Asaph, came the Spirit of Yahweh in the midst of the congregation;"
               },
               {
                 "vnumber": "15",
-                "text": "And he said, Hearken ye, all Judah, and ye inhabitants of Jerusalem, and thou king Jehoshaphat, Thus saith the LORD unto you, Be not afraid nor dismayed by reason of this great multitude; for the battle is not yours, but God's."
+                "text": "And he said, Hearken ye, all Judah, and ye inhabitants of Jerusalem, and thou king Jehoshaphat, Thus saith Yahweh unto you, Be not afraid nor dismayed by reason of this great multitude; for the battle is not yours, but God's."
               },
               {
                 "vnumber": "16",
@@ -21560,27 +21560,27 @@ var Ketuvim = {
               },
               {
                 "vnumber": "17",
-                "text": "you shall not need to fight in this battle: set yourselves, stand ye still, and see the salvation of the LORD with you, O Judah and Jerusalem: fear not, nor be dismayed; to morrow go out against them: for the LORD will be with you."
+                "text": "you shall not need to fight in this battle: set yourselves, stand ye still, and see the salvation of Yahweh with you, O Judah and Jerusalem: fear not, nor be dismayed; to morrow go out against them: for Yahweh will be with you."
               },
               {
                 "vnumber": "18",
-                "text": "And Jehoshaphat bowed his head with his face to the ground: and all Judah and the inhabitants of Jerusalem fell before the LORD, worshipping the LORD."
+                "text": "And Jehoshaphat bowed his head with his face to the ground: and all Judah and the inhabitants of Jerusalem fell before Yahweh, worshipping Yahweh."
               },
               {
                 "vnumber": "19",
-                "text": "And the Levites, of the children of the Kohathites, and of the children of the Korhites, stood up to praise the LORD God of Israel with a loud voice on high."
+                "text": "And the Levites, of the children of the Kohathites, and of the children of the Korhites, stood up to praise Yahweh God of Israel with a loud voice on high."
               },
               {
                 "vnumber": "20",
-                "text": "And they rose early in the morning, and went forth into the wilderness of Tekoa: and as they went forth, Jehoshaphat stood and said, Hear me, O Judah, and ye inhabitants of Jerusalem; Believe in the LORD your God, so shall ye be established; believe his prophets, so shall ye prosper."
+                "text": "And they rose early in the morning, and went forth into the wilderness of Tekoa: and as they went forth, Jehoshaphat stood and said, Hear me, O Judah, and ye inhabitants of Jerusalem; Believe in Yahweh your God, so shall ye be established; believe his prophets, so shall ye prosper."
               },
               {
                 "vnumber": "21",
-                "text": "And when he had consulted with the people, he appointed singers unto the LORD, and that should praise the beauty of holiness, as they went out before the army, and to say, Praise the LORD; for his mercy endureth for ever."
+                "text": "And when he had consulted with the people, he appointed singers unto Yahweh, and that should praise the beauty of holiness, as they went out before the army, and to say, Praise Yahweh; for his mercy endureth for ever."
               },
               {
                 "vnumber": "22",
-                "text": "And when they began to sing and to praise, the LORD set ambushments against the children of Ammon, Moab, and mount Seir, which were come against Judah; and they were smitten."
+                "text": "And when they began to sing and to praise, Yahweh set ambushments against the children of Ammon, Moab, and mount Seir, which were come against Judah; and they were smitten."
               },
               {
                 "vnumber": "23",
@@ -21596,19 +21596,19 @@ var Ketuvim = {
               },
               {
                 "vnumber": "26",
-                "text": "And on the fourth day they assembled themselves in the valley of Berachah; for there they blessed the LORD: therefore the name of the same place was called, The valley of Berachah, unto this day."
+                "text": "And on the fourth day they assembled themselves in the valley of Berachah; for there they blessed Yahweh: therefore the name of the same place was called, The valley of Berachah, unto this day."
               },
               {
                 "vnumber": "27",
-                "text": "Then they returned, every man of Judah and Jerusalem, and Jehoshaphat in the forefront of them, to go again to Jerusalem with joy; for the LORD had made them to rejoice over their enemies."
+                "text": "Then they returned, every man of Judah and Jerusalem, and Jehoshaphat in the forefront of them, to go again to Jerusalem with joy; for Yahweh had made them to rejoice over their enemies."
               },
               {
                 "vnumber": "28",
-                "text": "And they came to Jerusalem with psalteries and harps and trumpets unto the house of the LORD."
+                "text": "And they came to Jerusalem with psalteries and harps and trumpets unto the house of Yahweh."
               },
               {
                 "vnumber": "29",
-                "text": "And the fear of God was on all the kingdoms of those countries, when they had heard that the LORD fought against the enemies of Israel."
+                "text": "And the fear of God was on all the kingdoms of those countries, when they had heard that Yahweh fought against the enemies of Israel."
               },
               {
                 "vnumber": "30",
@@ -21620,7 +21620,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "32",
-                "text": "And he walked in the way of Asa his father, and departed not from it, doing that which was right in the sight of the LORD."
+                "text": "And he walked in the way of Asa his father, and departed not from it, doing that which was right in the sight of Yahweh."
               },
               {
                 "vnumber": "33",
@@ -21640,7 +21640,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "37",
-                "text": "Then Eliezer the son of Dodavah of Mareshah prophesied against Jehoshaphat, saying, Because thou hast joined thyself with Ahaziah, the LORD hath broken thy works. And the ships were broken, that they were not able to go to Tarshish."
+                "text": "Then Eliezer the son of Dodavah of Mareshah prophesied against Jehoshaphat, saying, Because thou hast joined thyself with Ahaziah, Yahweh hath broken thy works. And the ships were broken, that they were not able to go to Tarshish."
               }
             ]
           },
@@ -21669,11 +21669,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "6",
-                "text": "And he walked in the way of the kings of Israel, like as did the house of Ahab: for he had the daughter of Ahab to wife: and he wrought that which was evil in the eyes of the LORD."
+                "text": "And he walked in the way of the kings of Israel, like as did the house of Ahab: for he had the daughter of Ahab to wife: and he wrought that which was evil in the eyes of Yahweh."
               },
               {
                 "vnumber": "7",
-                "text": "Howbeit the LORD would not destroy the house of David, because of the covenant that he had made with David, and as he promised to give a light to him and to his sons for ever."
+                "text": "Howbeit Yahweh would not destroy the house of David, because of the covenant that he had made with David, and as he promised to give a light to him and to his sons for ever."
               },
               {
                 "vnumber": "8",
@@ -21685,7 +21685,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "10",
-                "text": "So the Edomites revolted from under the hand of Judah unto this day. The same time also did Libnah revolt from under his hand; because he had forsaken the LORD God of his fathers."
+                "text": "So the Edomites revolted from under the hand of Judah unto this day. The same time also did Libnah revolt from under his hand; because he had forsaken Yahweh God of his fathers."
               },
               {
                 "vnumber": "11",
@@ -21693,7 +21693,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "12",
-                "text": "And there came a writing to him from Elijah the prophet, saying, Thus saith the LORD God of David thy father, Because thou hast not walked in the ways of Jehoshaphat thy father, nor in the ways of Asa king of Judah,"
+                "text": "And there came a writing to him from Elijah the prophet, saying, Thus saith Yahweh God of David thy father, Because thou hast not walked in the ways of Jehoshaphat thy father, nor in the ways of Asa king of Judah,"
               },
               {
                 "vnumber": "13",
@@ -21701,7 +21701,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "14",
-                "text": "Behold, with a great plague will the LORD smite thy people, and thy children, and thy wives, and all thy goods:"
+                "text": "Behold, with a great plague will Yahweh smite thy people, and thy children, and thy wives, and all thy goods:"
               },
               {
                 "vnumber": "15",
@@ -21709,7 +21709,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "16",
-                "text": "Moreover the LORD stirred up against Jehoram the spirit of the Philistines, and of the Arabians, that were near the Ethiopians:"
+                "text": "Moreover Yahweh stirred up against Jehoram the spirit of the Philistines, and of the Arabians, that were near the Ethiopians:"
               },
               {
                 "vnumber": "17",
@@ -21717,7 +21717,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "18",
-                "text": "And after all this the LORD smote him in his bowels with an incurable disease."
+                "text": "And after all this Yahweh smote him in his bowels with an incurable disease."
               },
               {
                 "vnumber": "19",
@@ -21746,7 +21746,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "4",
-                "text": "Wherefore he did evil in the sight of the LORD like the house of Ahab: for they were his counsellors after the death of his father to his destruction."
+                "text": "Wherefore he did evil in the sight of Yahweh like the house of Ahab: for they were his counsellors after the death of his father to his destruction."
               },
               {
                 "vnumber": "5",
@@ -21758,7 +21758,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "7",
-                "text": "And the destruction of Ahaziah was of God by coming to Joram: for when he was come, he went out with Jehoram against Jehu the son of Nimshi, whom the LORD had anointed to cut off the house of Ahab."
+                "text": "And the destruction of Ahaziah was of God by coming to Joram: for when he was come, he went out with Jehoram against Jehu the son of Nimshi, whom Yahweh had anointed to cut off the house of Ahab."
               },
               {
                 "vnumber": "8",
@@ -21766,7 +21766,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "9",
-                "text": "And he sought Ahaziah: and they caught him, (for he was hid in Samaria,) and brought him to Jehu: and when they had slain him, they buried him: Because, said they, he is the son of Jehoshaphat, who sought the LORD with all his heart. So the house of Ahaziah had no power to keep still the kingdom."
+                "text": "And he sought Ahaziah: and they caught him, (for he was hid in Samaria,) and brought him to Jehu: and when they had slain him, they buried him: Because, said they, he is the son of Jehoshaphat, who sought Yahweh with all his heart. So the house of Ahaziah had no power to keep still the kingdom."
               },
               {
                 "vnumber": "10",
@@ -21795,7 +21795,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "3",
-                "text": "And all the congregation made a covenant with the king in the house of God. And he said unto them, Behold, the king's son shall reign, as the LORD hath said of the sons of David."
+                "text": "And all the congregation made a covenant with the king in the house of God. And he said unto them, Behold, the king's son shall reign, as Yahweh hath said of the sons of David."
               },
               {
                 "vnumber": "4",
@@ -21803,11 +21803,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "5",
-                "text": "And a third part shall be at the king's house; and a third part at the gate of the foundation: and all the people shall be in the courts of the house of the LORD."
+                "text": "And a third part shall be at the king's house; and a third part at the gate of the foundation: and all the people shall be in the courts of the house of Yahweh."
               },
               {
                 "vnumber": "6",
-                "text": "But let none come into the house of the LORD, save the priests, and they that minister of the Levites; they shall go in, for they are holy: but all the people shall keep the watch of the LORD."
+                "text": "But let none come into the house of Yahweh, save the priests, and they that minister of the Levites; they shall go in, for they are holy: but all the people shall keep the watch of Yahweh."
               },
               {
                 "vnumber": "7",
@@ -21831,7 +21831,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "12",
-                "text": "Now when Athaliah heard the noise of the people running and praising the king, she came to the people into the house of the LORD:"
+                "text": "Now when Athaliah heard the noise of the people running and praising the king, she came to the people into the house of Yahweh:"
               },
               {
                 "vnumber": "13",
@@ -21839,7 +21839,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "14",
-                "text": "Then Jehoiada the priest brought out the captains of hundreds that were set over the host, and said unto them, Have her forth of the ranges: and whoso followeth her, let him be slain with the sword. For the priest said, Slay her not in the house of the LORD."
+                "text": "Then Jehoiada the priest brought out the captains of hundreds that were set over the host, and said unto them, Have her forth of the ranges: and whoso followeth her, let him be slain with the sword. For the priest said, Slay her not in the house of Yahweh."
               },
               {
                 "vnumber": "15",
@@ -21847,7 +21847,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "16",
-                "text": "And Jehoiada made a covenant between him, and between all the people, and between the king, that they should be the LORD'S people."
+                "text": "And Jehoiada made a covenant between him, and between all the people, and between the king, that they should be Yahweh'S people."
               },
               {
                 "vnumber": "17",
@@ -21855,15 +21855,15 @@ var Ketuvim = {
               },
               {
                 "vnumber": "18",
-                "text": "Also Jehoiada appointed the offices of the house of the LORD by the hand of the priests the Levites, whom David had distributed in the house of the LORD, to offer the burnt offerings of the LORD, as it is written in the law of Moses, with rejoicing and with singing, as it was ordained by David."
+                "text": "Also Jehoiada appointed the offices of the house of Yahweh by the hand of the priests the Levites, whom David had distributed in the house of Yahweh, to offer the burnt offerings of Yahweh, as it is written in the law of Moses, with rejoicing and with singing, as it was ordained by David."
               },
               {
                 "vnumber": "19",
-                "text": "And he set the porters at the gates of the house of the LORD, that none which was unclean in any thing should enter in."
+                "text": "And he set the porters at the gates of the house of Yahweh, that none which was unclean in any thing should enter in."
               },
               {
                 "vnumber": "20",
-                "text": "And he took the captains of hundreds, and the nobles, and the governors of the people, and all the people of the land, and brought down the king from the house of the LORD: and they came through the high gate into the king's house, and set the king upon the throne of the kingdom."
+                "text": "And he took the captains of hundreds, and the nobles, and the governors of the people, and all the people of the land, and brought down the king from the house of Yahweh: and they came through the high gate into the king's house, and set the king upon the throne of the kingdom."
               },
               {
                 "vnumber": "21",
@@ -21880,7 +21880,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "2",
-                "text": "And Joash did that which was right in the sight of the LORD all the days of Jehoiada the priest."
+                "text": "And Joash did that which was right in the sight of Yahweh all the days of Jehoiada the priest."
               },
               {
                 "vnumber": "3",
@@ -21888,7 +21888,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "4",
-                "text": "And it came to pass after this, that Joash was minded to repair the house of the LORD."
+                "text": "And it came to pass after this, that Joash was minded to repair the house of Yahweh."
               },
               {
                 "vnumber": "5",
@@ -21896,19 +21896,19 @@ var Ketuvim = {
               },
               {
                 "vnumber": "6",
-                "text": "And the king called for Jehoiada the chief, and said unto him, Why hast thou not required of the Levites to bring in out of Judah and out of Jerusalem the collection, according to the commandment of Moses the servant of the LORD, and of the congregation of Israel, for the tabernacle of witness?"
+                "text": "And the king called for Jehoiada the chief, and said unto him, Why hast thou not required of the Levites to bring in out of Judah and out of Jerusalem the collection, according to the commandment of Moses the servant of Yahweh, and of the congregation of Israel, for the tabernacle of witness?"
               },
               {
                 "vnumber": "7",
-                "text": "For the sons of Athaliah, that wicked woman, had broken up the house of God; and also all the dedicated things of the house of the LORD did they bestow upon Baalim."
+                "text": "For the sons of Athaliah, that wicked woman, had broken up the house of God; and also all the dedicated things of the house of Yahweh did they bestow upon Baalim."
               },
               {
                 "vnumber": "8",
-                "text": "And at the king's commandment they made a chest, and set it without at the gate of the house of the LORD."
+                "text": "And at the king's commandment they made a chest, and set it without at the gate of the house of Yahweh."
               },
               {
                 "vnumber": "9",
-                "text": "And they made a proclamation through Judah and Jerusalem, to bring in to the LORD the collection that Moses the servant of God laid upon Israel in the wilderness."
+                "text": "And they made a proclamation through Judah and Jerusalem, to bring in to Yahweh the collection that Moses the servant of God laid upon Israel in the wilderness."
               },
               {
                 "vnumber": "10",
@@ -21920,7 +21920,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "12",
-                "text": "And the king and Jehoiada gave it to such as did the work of the service of the house of the LORD, and hired masons and carpenters to repair the house of the LORD, and also such as wrought iron and brass to mend the house of the LORD."
+                "text": "And the king and Jehoiada gave it to such as did the work of the service of the house of Yahweh, and hired masons and carpenters to repair the house of Yahweh, and also such as wrought iron and brass to mend the house of Yahweh."
               },
               {
                 "vnumber": "13",
@@ -21928,7 +21928,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "14",
-                "text": "And when they had finished it, they brought the rest of the money before the king and Jehoiada, whereof were made vessels for the house of the LORD, even vessels to minister, and to offer withal, and spoons, and vessels of gold and silver. And they offered burnt offerings in the house of the LORD continually all the days of Jehoiada."
+                "text": "And when they had finished it, they brought the rest of the money before the king and Jehoiada, whereof were made vessels for the house of Yahweh, even vessels to minister, and to offer withal, and spoons, and vessels of gold and silver. And they offered burnt offerings in the house of Yahweh continually all the days of Jehoiada."
               },
               {
                 "vnumber": "15",
@@ -21944,23 +21944,23 @@ var Ketuvim = {
               },
               {
                 "vnumber": "18",
-                "text": "And they left the house of the LORD God of their fathers, and served groves and idols: and wrath came upon Judah and Jerusalem for this their trespass."
+                "text": "And they left the house of Yahweh God of their fathers, and served groves and idols: and wrath came upon Judah and Jerusalem for this their trespass."
               },
               {
                 "vnumber": "19",
-                "text": "Yet he sent prophets to them, to bring them again unto the LORD; and they testified against them: but they would not give ear."
+                "text": "Yet he sent prophets to them, to bring them again unto Yahweh; and they testified against them: but they would not give ear."
               },
               {
                 "vnumber": "20",
-                "text": "And the Spirit of God came upon Zechariah the son of Jehoiada the priest, which stood above the people, and said unto them, Thus saith God, Why transgress ye the commandments of the LORD, that ye cannot prosper? because ye have forsaken the LORD, he hath also forsaken you."
+                "text": "And the Spirit of God came upon Zechariah the son of Jehoiada the priest, which stood above the people, and said unto them, Thus saith God, Why transgress ye the commandments of Yahweh, that ye cannot prosper? because ye have forsaken Yahweh, he hath also forsaken you."
               },
               {
                 "vnumber": "21",
-                "text": "And they conspired against him, and stoned him with stones at the commandment of the king in the court of the house of the LORD."
+                "text": "And they conspired against him, and stoned him with stones at the commandment of the king in the court of the house of Yahweh."
               },
               {
                 "vnumber": "22",
-                "text": "Thus Joash the king remembered not the kindness which Jehoiada his father had done to him, but slew his son. And when he died, he said, The LORD look upon it, and require it."
+                "text": "Thus Joash the king remembered not the kindness which Jehoiada his father had done to him, but slew his son. And when he died, he said, Yahweh look upon it, and require it."
               },
               {
                 "vnumber": "23",
@@ -21968,7 +21968,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "24",
-                "text": "For the army of the Syrians came with a small company of men, and the LORD delivered a very great host into their hand, because they had forsaken the LORD God of their fathers. So they executed judgment against Joash."
+                "text": "For the army of the Syrians came with a small company of men, and Yahweh delivered a very great host into their hand, because they had forsaken Yahweh God of their fathers. So they executed judgment against Joash."
               },
               {
                 "vnumber": "25",
@@ -21993,7 +21993,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "2",
-                "text": "And he did that which was right in the sight of the LORD, but not with a perfect heart."
+                "text": "And he did that which was right in the sight of Yahweh, but not with a perfect heart."
               },
               {
                 "vnumber": "3",
@@ -22001,7 +22001,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "4",
-                "text": "But he slew not their children, but did as it is written in the law in the book of Moses, where the LORD commanded, saying, The fathers shall not die for the children, neither shall the children die for the fathers, but every man shall die for his own sin."
+                "text": "But he slew not their children, but did as it is written in the law in the book of Moses, where Yahweh commanded, saying, The fathers shall not die for the children, neither shall the children die for the fathers, but every man shall die for his own sin."
               },
               {
                 "vnumber": "5",
@@ -22013,7 +22013,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "7",
-                "text": "But there came a man of God to him, saying, O king, let not the army of Israel go with thee; for the LORD is not with Israel, to wit, with all the children of Ephraim."
+                "text": "But there came a man of God to him, saying, O king, let not the army of Israel go with thee; for Yahweh is not with Israel, to wit, with all the children of Ephraim."
               },
               {
                 "vnumber": "8",
@@ -22021,7 +22021,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "9",
-                "text": "And Amaziah said to the man of God, But what shall we do for the hundred talents which I have given to the army of Israel? And the man of God answered, The LORD is able to give thee much more than this."
+                "text": "And Amaziah said to the man of God, But what shall we do for the hundred talents which I have given to the army of Israel? And the man of God answered, Yahweh is able to give thee much more than this."
               },
               {
                 "vnumber": "10",
@@ -22045,7 +22045,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "15",
-                "text": "Wherefore the anger of the LORD was kindled against Amaziah, and he sent unto him a prophet, which said unto him, Why hast thou sought after the gods of the people, which could not deliver their own people out of thine hand?"
+                "text": "Wherefore the anger of Yahweh was kindled against Amaziah, and he sent unto him a prophet, which said unto him, Why hast thou sought after the gods of the people, which could not deliver their own people out of thine hand?"
               },
               {
                 "vnumber": "16",
@@ -22093,7 +22093,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "27",
-                "text": "Now after the time that Amaziah did turn away from following the LORD they made a conspiracy against him in Jerusalem; and he fled to Lachish: but they sent to Lachish after him, and slew him there."
+                "text": "Now after the time that Amaziah did turn away from following Yahweh they made a conspiracy against him in Jerusalem; and he fled to Lachish: but they sent to Lachish after him, and slew him there."
               },
               {
                 "vnumber": "28",
@@ -22118,11 +22118,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "4",
-                "text": "And he did that which was right in the sight of the LORD, according to all that his father Amaziah did."
+                "text": "And he did that which was right in the sight of Yahweh, according to all that his father Amaziah did."
               },
               {
                 "vnumber": "5",
-                "text": "And he sought God in the days of Zechariah, who had understanding in the visions of God: and as long as he sought the LORD, God made him to prosper."
+                "text": "And he sought God in the days of Zechariah, who had understanding in the visions of God: and as long as he sought Yahweh, God made him to prosper."
               },
               {
                 "vnumber": "6",
@@ -22166,27 +22166,27 @@ var Ketuvim = {
               },
               {
                 "vnumber": "16",
-                "text": "But when he was strong, his heart was lifted up to his destruction: for he transgressed against the LORD his God, and went into the temple of the LORD to burn incense upon the altar of incense."
+                "text": "But when he was strong, his heart was lifted up to his destruction: for he transgressed against Yahweh his God, and went into the temple of Yahweh to burn incense upon the altar of incense."
               },
               {
                 "vnumber": "17",
-                "text": "And Azariah the priest went in after him, and with him fourscore priests of the LORD, that were valiant men:"
+                "text": "And Azariah the priest went in after him, and with him fourscore priests of Yahweh, that were valiant men:"
               },
               {
                 "vnumber": "18",
-                "text": "And they withstood Uzziah the king, and said unto him, It appertaineth not unto thee, Uzziah, to burn incense unto the LORD, but to the priests the sons of Aaron, that are consecrated to burn incense: go out of the sanctuary; for thou hast trespassed; neither shall it be for thine honour from the LORD God."
+                "text": "And they withstood Uzziah the king, and said unto him, It appertaineth not unto thee, Uzziah, to burn incense unto Yahweh, but to the priests the sons of Aaron, that are consecrated to burn incense: go out of the sanctuary; for thou hast trespassed; neither shall it be for thine honour from Yahweh God."
               },
               {
                 "vnumber": "19",
-                "text": "Then Uzziah was wroth, and had a censer in his hand to burn incense: and while he was wroth with the priests, the leprosy even rose up in his forehead before the priests in the house of the LORD, from beside the incense altar."
+                "text": "Then Uzziah was wroth, and had a censer in his hand to burn incense: and while he was wroth with the priests, the leprosy even rose up in his forehead before the priests in the house of Yahweh, from beside the incense altar."
               },
               {
                 "vnumber": "20",
-                "text": "And Azariah the chief priest, and all the priests, looked upon him, and, behold, he was leprous in his forehead, and they thrust him out from thence; yea, himself hasted also to go out, because the LORD had smitten him."
+                "text": "And Azariah the chief priest, and all the priests, looked upon him, and, behold, he was leprous in his forehead, and they thrust him out from thence; yea, himself hasted also to go out, because Yahweh had smitten him."
               },
               {
                 "vnumber": "21",
-                "text": "And Uzziah the king was a leper unto the day of his death, and dwelt in a several house, being a leper; for he was cut off from the house of the LORD: and Jotham his son was over the king's house, judging the people of the land."
+                "text": "And Uzziah the king was a leper unto the day of his death, and dwelt in a several house, being a leper; for he was cut off from the house of Yahweh: and Jotham his son was over the king's house, judging the people of the land."
               },
               {
                 "vnumber": "22",
@@ -22207,11 +22207,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "2",
-                "text": "And he did that which was right in the sight of the LORD, according to all that his father Uzziah did: howbeit he entered not into the temple of the LORD. And the people did yet corruptly."
+                "text": "And he did that which was right in the sight of Yahweh, according to all that his father Uzziah did: howbeit he entered not into the temple of Yahweh. And the people did yet corruptly."
               },
               {
                 "vnumber": "3",
-                "text": "He built the high gate of the house of the LORD, and on the wall of Ophel he built much."
+                "text": "He built the high gate of the house of Yahweh, and on the wall of Ophel he built much."
               },
               {
                 "vnumber": "4",
@@ -22223,7 +22223,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "6",
-                "text": "So Jotham became mighty, because he prepared his ways before the LORD his God."
+                "text": "So Jotham became mighty, because he prepared his ways before Yahweh his God."
               },
               {
                 "vnumber": "7",
@@ -22244,7 +22244,7 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem: but he did not that which was right in the sight of the LORD, like David his father:"
+                "text": "Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem: but he did not that which was right in the sight of Yahweh, like David his father:"
               },
               {
                 "vnumber": "2",
@@ -22252,7 +22252,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "3",
-                "text": "Moreover he burnt incense in the valley of the son of Hinnom, and burnt his children in the fire, after the abominations of the heathen whom the LORD had cast out before the children of Israel."
+                "text": "Moreover he burnt incense in the valley of the son of Hinnom, and burnt his children in the fire, after the abominations of the heathen whom Yahweh had cast out before the children of Israel."
               },
               {
                 "vnumber": "4",
@@ -22260,11 +22260,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "5",
-                "text": "Wherefore the LORD his God delivered him into the hand of the king of Syria; and they smote him, and carried away a great multitude of them captives, and brought them to Damascus. And he was also delivered into the hand of the king of Israel, who smote him with a great slaughter."
+                "text": "Wherefore Yahweh his God delivered him into the hand of the king of Syria; and they smote him, and carried away a great multitude of them captives, and brought them to Damascus. And he was also delivered into the hand of the king of Israel, who smote him with a great slaughter."
               },
               {
                 "vnumber": "6",
-                "text": "For Pekah the son of Remaliah slew in Judah an hundred and twenty thousand in one day, which were all valiant men; because they had forsaken the LORD God of their fathers."
+                "text": "For Pekah the son of Remaliah slew in Judah an hundred and twenty thousand in one day, which were all valiant men; because they had forsaken Yahweh God of their fathers."
               },
               {
                 "vnumber": "7",
@@ -22276,15 +22276,15 @@ var Ketuvim = {
               },
               {
                 "vnumber": "9",
-                "text": "But a prophet of the LORD was there, whose name was Oded: and he went out before the host that came to Samaria, and said unto them, Behold, because the LORD God of your fathers was wroth with Judah, he hath delivered them into your hand, and ye have slain them in a rage that reacheth up unto heaven."
+                "text": "But a prophet of Yahweh was there, whose name was Oded: and he went out before the host that came to Samaria, and said unto them, Behold, because Yahweh God of your fathers was wroth with Judah, he hath delivered them into your hand, and ye have slain them in a rage that reacheth up unto heaven."
               },
               {
                 "vnumber": "10",
-                "text": "And now ye purpose to keep under the children of Judah and Jerusalem for bondmen and bondwomen unto you: but are there not with you, even with you, sins against the LORD your God?"
+                "text": "And now ye purpose to keep under the children of Judah and Jerusalem for bondmen and bondwomen unto you: but are there not with you, even with you, sins against Yahweh your God?"
               },
               {
                 "vnumber": "11",
-                "text": "Now hear me therefore, and deliver the captives again, which ye have taken captive of your brethren: for the fierce wrath of the LORD is upon you."
+                "text": "Now hear me therefore, and deliver the captives again, which ye have taken captive of your brethren: for the fierce wrath of Yahweh is upon you."
               },
               {
                 "vnumber": "12",
@@ -22292,7 +22292,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "13",
-                "text": "And said unto them, you shall not bring in the captives hither: for whereas we have offended against the LORD already, ye intend to add more to our sins and to our trespass: for our trespass is great, and there is fierce wrath against Israel."
+                "text": "And said unto them, you shall not bring in the captives hither: for whereas we have offended against Yahweh already, ye intend to add more to our sins and to our trespass: for our trespass is great, and there is fierce wrath against Israel."
               },
               {
                 "vnumber": "14",
@@ -22316,7 +22316,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "19",
-                "text": "For the LORD brought Judah low because of Ahaz king of Israel; for he made Judah naked, and transgressed sore against the LORD."
+                "text": "For Yahweh brought Judah low because of Ahaz king of Israel; for he made Judah naked, and transgressed sore against Yahweh."
               },
               {
                 "vnumber": "20",
@@ -22324,11 +22324,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "21",
-                "text": "For Ahaz took away a portion out of the house of the LORD, and out of the house of the king, and of the princes, and gave it unto the king of Assyria: but he helped him not."
+                "text": "For Ahaz took away a portion out of the house of Yahweh, and out of the house of the king, and of the princes, and gave it unto the king of Assyria: but he helped him not."
               },
               {
                 "vnumber": "22",
-                "text": "And in the time of his distress did he trespass yet more against the LORD: this is that king Ahaz."
+                "text": "And in the time of his distress did he trespass yet more against Yahweh: this is that king Ahaz."
               },
               {
                 "vnumber": "23",
@@ -22336,11 +22336,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "24",
-                "text": "And Ahaz gathered together the vessels of the house of God, and cut in pieces the vessels of the house of God, and shut up the doors of the house of the LORD, and he made him altars in every corner of Jerusalem."
+                "text": "And Ahaz gathered together the vessels of the house of God, and cut in pieces the vessels of the house of God, and shut up the doors of the house of Yahweh, and he made him altars in every corner of Jerusalem."
               },
               {
                 "vnumber": "25",
-                "text": "And in every several city of Judah he made high places to burn incense unto other gods, and provoked to anger the LORD God of his fathers."
+                "text": "And in every several city of Judah he made high places to burn incense unto other gods, and provoked to anger Yahweh God of his fathers."
               },
               {
                 "vnumber": "26",
@@ -22361,11 +22361,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "2",
-                "text": "And he did that which was right in the sight of the LORD, according to all that David his father had done."
+                "text": "And he did that which was right in the sight of Yahweh, according to all that David his father had done."
               },
               {
                 "vnumber": "3",
-                "text": "He in the first year of his reign, in the first month, opened the doors of the house of the LORD, and repaired them."
+                "text": "He in the first year of his reign, in the first month, opened the doors of the house of Yahweh, and repaired them."
               },
               {
                 "vnumber": "4",
@@ -22373,11 +22373,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "5",
-                "text": "And said unto them, Hear me, ye Levites, sanctify now yourselves, and sanctify the house of the LORD God of your fathers, and carry forth the filthiness out of the holy place."
+                "text": "And said unto them, Hear me, ye Levites, sanctify now yourselves, and sanctify the house of Yahweh God of your fathers, and carry forth the filthiness out of the holy place."
               },
               {
                 "vnumber": "6",
-                "text": "For our fathers have trespassed, and done that which was evil in the eyes of the LORD our God, and have forsaken him, and have turned away their faces from the habitation of the LORD, and turned their backs."
+                "text": "For our fathers have trespassed, and done that which was evil in the eyes of Yahweh our God, and have forsaken him, and have turned away their faces from the habitation of Yahweh, and turned their backs."
               },
               {
                 "vnumber": "7",
@@ -22385,7 +22385,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "8",
-                "text": "Wherefore the wrath of the LORD was upon Judah and Jerusalem, and he hath delivered them to trouble, to astonishment, and to hissing, as ye see with your eyes."
+                "text": "Wherefore the wrath of Yahweh was upon Judah and Jerusalem, and he hath delivered them to trouble, to astonishment, and to hissing, as ye see with your eyes."
               },
               {
                 "vnumber": "9",
@@ -22393,11 +22393,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "10",
-                "text": "Now it is in mine heart to make a covenant with the LORD God of Israel, that his fierce wrath may turn away from us."
+                "text": "Now it is in mine heart to make a covenant with Yahweh God of Israel, that his fierce wrath may turn away from us."
               },
               {
                 "vnumber": "11",
-                "text": "My sons, be not now negligent: for the LORD hath chosen you to stand before him, to serve him, and that ye should minister unto him, and burn incense."
+                "text": "My sons, be not now negligent: for Yahweh hath chosen you to stand before him, to serve him, and that ye should minister unto him, and burn incense."
               },
               {
                 "vnumber": "12",
@@ -22413,31 +22413,31 @@ var Ketuvim = {
               },
               {
                 "vnumber": "15",
-                "text": "And they gathered their brethren, and sanctified themselves, and came, according to the commandment of the king, by the words of the LORD, to cleanse the house of the LORD."
+                "text": "And they gathered their brethren, and sanctified themselves, and came, according to the commandment of the king, by the words of Yahweh, to cleanse the house of Yahweh."
               },
               {
                 "vnumber": "16",
-                "text": "And the priests went into the inner part of the house of the LORD, to cleanse it, and brought out all the uncleanness that they found in the temple of the LORD into the court of the house of the LORD. And the Levites took it, to carry it out abroad into the brook Kidron."
+                "text": "And the priests went into the inner part of the house of Yahweh, to cleanse it, and brought out all the uncleanness that they found in the temple of Yahweh into the court of the house of Yahweh. And the Levites took it, to carry it out abroad into the brook Kidron."
               },
               {
                 "vnumber": "17",
-                "text": "Now they began on the first day of the first month to sanctify, and on the eighth day of the month came they to the porch of the LORD: so they sanctified the house of the LORD in eight days; and in the sixteenth day of the first month they made an end."
+                "text": "Now they began on the first day of the first month to sanctify, and on the eighth day of the month came they to the porch of Yahweh: so they sanctified the house of Yahweh in eight days; and in the sixteenth day of the first month they made an end."
               },
               {
                 "vnumber": "18",
-                "text": "Then they went in to Hezekiah the king, and said, We have cleansed all the house of the LORD, and the altar of burnt offering, with all the vessels thereof, and the shewbread table, with all the vessels thereof."
+                "text": "Then they went in to Hezekiah the king, and said, We have cleansed all the house of Yahweh, and the altar of burnt offering, with all the vessels thereof, and the shewbread table, with all the vessels thereof."
               },
               {
                 "vnumber": "19",
-                "text": "Moreover all the vessels, which king Ahaz in his reign did cast away in his transgression, have we prepared and sanctified, and, behold, they are before the altar of the LORD."
+                "text": "Moreover all the vessels, which king Ahaz in his reign did cast away in his transgression, have we prepared and sanctified, and, behold, they are before the altar of Yahweh."
               },
               {
                 "vnumber": "20",
-                "text": "Then Hezekiah the king rose early, and gathered the rulers of the city, and went up to the house of the LORD."
+                "text": "Then Hezekiah the king rose early, and gathered the rulers of the city, and went up to the house of Yahweh."
               },
               {
                 "vnumber": "21",
-                "text": "And they brought seven bullocks, and seven rams, and seven lambs, and seven he goats, for a sin offering for the kingdom, and for the sanctuary, and for Judah. And he commanded the priests the sons of Aaron to offer them on the altar of the LORD."
+                "text": "And they brought seven bullocks, and seven rams, and seven lambs, and seven he goats, for a sin offering for the kingdom, and for the sanctuary, and for Judah. And he commanded the priests the sons of Aaron to offer them on the altar of Yahweh."
               },
               {
                 "vnumber": "22",
@@ -22453,7 +22453,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "25",
-                "text": "And he set the Levites in the house of the LORD with cymbals, with psalteries, and with harps, according to the commandment of David, and of Gad the king's seer, and Nathan the prophet: for so was the commandment of the LORD by his prophets."
+                "text": "And he set the Levites in the house of Yahweh with cymbals, with psalteries, and with harps, according to the commandment of David, and of Gad the king's seer, and Nathan the prophet: for so was the commandment of Yahweh by his prophets."
               },
               {
                 "vnumber": "26",
@@ -22461,7 +22461,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "27",
-                "text": "And Hezekiah commanded to offer the burnt offering upon the altar. And when the burnt offering began, the song of the LORD began also with the trumpets, and with the instruments ordained by David king of Israel."
+                "text": "And Hezekiah commanded to offer the burnt offering upon the altar. And when the burnt offering began, the song of Yahweh began also with the trumpets, and with the instruments ordained by David king of Israel."
               },
               {
                 "vnumber": "28",
@@ -22473,15 +22473,15 @@ var Ketuvim = {
               },
               {
                 "vnumber": "30",
-                "text": "Moreover Hezekiah the king and the princes commanded the Levites to sing praise unto the LORD with the words of David, and of Asaph the seer. And they sang praises with gladness, and they bowed their heads and worshipped."
+                "text": "Moreover Hezekiah the king and the princes commanded the Levites to sing praise unto Yahweh with the words of David, and of Asaph the seer. And they sang praises with gladness, and they bowed their heads and worshipped."
               },
               {
                 "vnumber": "31",
-                "text": "Then Hezekiah answered and said, Now ye have consecrated yourselves unto the LORD, come near and bring sacrifices and thank offerings into the house of the LORD. And the congregation brought in sacrifices and thank offerings; and as many as were of a free heart burnt offerings."
+                "text": "Then Hezekiah answered and said, Now ye have consecrated yourselves unto Yahweh, come near and bring sacrifices and thank offerings into the house of Yahweh. And the congregation brought in sacrifices and thank offerings; and as many as were of a free heart burnt offerings."
               },
               {
                 "vnumber": "32",
-                "text": "And the number of the burnt offerings, which the congregation brought, was threescore and ten bullocks, an hundred rams, and two hundred lambs: all these were for a burnt offering to the LORD."
+                "text": "And the number of the burnt offerings, which the congregation brought, was threescore and ten bullocks, an hundred rams, and two hundred lambs: all these were for a burnt offering to Yahweh."
               },
               {
                 "vnumber": "33",
@@ -22493,7 +22493,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "35",
-                "text": "And also the burnt offerings were in abundance, with the fat of the peace offerings, and the drink offerings for every burnt offering. So the service of the house of the LORD was set in order."
+                "text": "And also the burnt offerings were in abundance, with the fat of the peace offerings, and the drink offerings for every burnt offering. So the service of the house of Yahweh was set in order."
               },
               {
                 "vnumber": "36",
@@ -22506,7 +22506,7 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Hezekiah sent to all Israel and Judah, and wrote letters also to Ephraim and Manasseh, that they should come to the house of the LORD at Jerusalem, to keep the passover unto the LORD God of Israel."
+                "text": "And Hezekiah sent to all Israel and Judah, and wrote letters also to Ephraim and Manasseh, that they should come to the house of Yahweh at Jerusalem, to keep the passover unto Yahweh God of Israel."
               },
               {
                 "vnumber": "2",
@@ -22522,23 +22522,23 @@ var Ketuvim = {
               },
               {
                 "vnumber": "5",
-                "text": "So they established a decree to make proclamation throughout all Israel, from Beersheba even to Dan, that they should come to keep the passover unto the LORD God of Israel at Jerusalem: for they had not done it of a long time in such sort as it was written."
+                "text": "So they established a decree to make proclamation throughout all Israel, from Beersheba even to Dan, that they should come to keep the passover unto Yahweh God of Israel at Jerusalem: for they had not done it of a long time in such sort as it was written."
               },
               {
                 "vnumber": "6",
-                "text": "So the posts went with the letters from the king and his princes throughout all Israel and Judah, and according to the commandment of the king, saying, Ye children of Israel, turn again unto the LORD God of Abraham, Isaac, and Israel, and he will return to the remnant of you, that are escaped out of the hand of the kings of Assyria."
+                "text": "So the posts went with the letters from the king and his princes throughout all Israel and Judah, and according to the commandment of the king, saying, Ye children of Israel, turn again unto Yahweh God of Abraham, Isaac, and Israel, and he will return to the remnant of you, that are escaped out of the hand of the kings of Assyria."
               },
               {
                 "vnumber": "7",
-                "text": "And be not ye like your fathers, and like your brethren, which trespassed against the LORD God of their fathers, who therefore gave them up to desolation, as ye see."
+                "text": "And be not ye like your fathers, and like your brethren, which trespassed against Yahweh God of their fathers, who therefore gave them up to desolation, as ye see."
               },
               {
                 "vnumber": "8",
-                "text": "Now be ye not stiffnecked, as your fathers were, but yield yourselves unto the LORD, and enter into his sanctuary, which he hath sanctified for ever: and serve the LORD your God, that the fierceness of his wrath may turn away from you."
+                "text": "Now be ye not stiffnecked, as your fathers were, but yield yourselves unto Yahweh, and enter into his sanctuary, which he hath sanctified for ever: and serve Yahweh your God, that the fierceness of his wrath may turn away from you."
               },
               {
                 "vnumber": "9",
-                "text": "For if ye turn again unto the LORD, your brethren and your children shall find compassion before them that lead them captive, so that they shall come again into this land: for the LORD your God is gracious and merciful, and will not turn away his face from you, if ye return unto him."
+                "text": "For if ye turn again unto Yahweh, your brethren and your children shall find compassion before them that lead them captive, so that they shall come again into this land: for Yahweh your God is gracious and merciful, and will not turn away his face from you, if ye return unto him."
               },
               {
                 "vnumber": "10",
@@ -22550,7 +22550,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "12",
-                "text": "Also in Judah the hand of God was to give them one heart to do the commandment of the king and of the princes, by the word of the LORD."
+                "text": "Also in Judah the hand of God was to give them one heart to do the commandment of the king and of the princes, by the word of Yahweh."
               },
               {
                 "vnumber": "13",
@@ -22562,7 +22562,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "15",
-                "text": "Then they killed the passover on the fourteenth day of the second month: and the priests and the Levites were ashamed, and sanctified themselves, and brought in the burnt offerings into the house of the LORD."
+                "text": "Then they killed the passover on the fourteenth day of the second month: and the priests and the Levites were ashamed, and sanctified themselves, and brought in the burnt offerings into the house of Yahweh."
               },
               {
                 "vnumber": "16",
@@ -22570,27 +22570,27 @@ var Ketuvim = {
               },
               {
                 "vnumber": "17",
-                "text": "For there were many in the congregation that were not sanctified: therefore the Levites had the charge of the killing of the passovers for every one that was not clean, to sanctify them unto the LORD."
+                "text": "For there were many in the congregation that were not sanctified: therefore the Levites had the charge of the killing of the passovers for every one that was not clean, to sanctify them unto Yahweh."
               },
               {
                 "vnumber": "18",
-                "text": "For a multitude of the people, even many of Ephraim, and Manasseh, Issachar, and Zebulun, had not cleansed themselves, yet did they eat the passover otherwise than it was written. But Hezekiah prayed for them, saying, The good LORD pardon every one"
+                "text": "For a multitude of the people, even many of Ephraim, and Manasseh, Issachar, and Zebulun, had not cleansed themselves, yet did they eat the passover otherwise than it was written. But Hezekiah prayed for them, saying, May Yahweh the good One pardon every one"
               },
               {
                 "vnumber": "19",
-                "text": "That prepareth his heart to seek God, the LORD God of his fathers, though he be not cleansed according to the purification of the sanctuary."
+                "text": "who prepares his heart to seek God, Yahweh God of his fathers, though he be not cleansed according to the purification of the sanctuary."
               },
               {
                 "vnumber": "20",
-                "text": "And the LORD hearkened to Hezekiah, and healed the people."
+                "text": "And Yahweh hearkened to Hezekiah, and healed the people."
               },
               {
                 "vnumber": "21",
-                "text": "And the children of Israel that were present at Jerusalem kept the feast of unleavened bread seven days with great gladness: and the Levites and the priests praised the LORD day by day, singing with loud instruments unto the LORD."
+                "text": "And the children of Israel that were present at Jerusalem kept the feast of unleavened bread seven days with great gladness: and the Levites and the priests praised Yahweh day by day, singing with loud instruments unto Yahweh."
               },
               {
                 "vnumber": "22",
-                "text": "And Hezekiah spake comfortably unto all the Levites that taught the good knowledge of the LORD: and they did eat throughout the feast seven days, offering peace offerings, and making confession to the LORD God of their fathers."
+                "text": "And Hezekiah spake comfortably unto all the Levites that taught the good knowledge of Yahweh: and they did eat throughout the feast seven days, offering peace offerings, and making confession to Yahweh God of their fathers."
               },
               {
                 "vnumber": "23",
@@ -22623,15 +22623,15 @@ var Ketuvim = {
               },
               {
                 "vnumber": "2",
-                "text": "And Hezekiah appointed the courses of the priests and the Levites after their courses, every man according to his service, the priests and Levites for burnt offerings and for peace offerings, to minister, and to give thanks, and to praise in the gates of the tents of the LORD."
+                "text": "And Hezekiah appointed the courses of the priests and the Levites after their courses, every man according to his service, the priests and Levites for burnt offerings and for peace offerings, to minister, and to give thanks, and to praise in the gates of the tents of Yahweh."
               },
               {
                 "vnumber": "3",
-                "text": "He appointed also the king's portion of his substance for the burnt offerings, to wit, for the morning and evening burnt offerings, and the burnt offerings for the sabbaths, and for the new moons, and for the set feasts, as it is written in the law of the LORD."
+                "text": "He appointed also the king's portion of his substance for the burnt offerings, to wit, for the morning and evening burnt offerings, and the burnt offerings for the sabbaths, and for the new moons, and for the set feasts, as it is written in the law of Yahweh."
               },
               {
                 "vnumber": "4",
-                "text": "Moreover he commanded the people that dwelt in Jerusalem to give the portion of the priests and the Levites, that they might be encouraged in the law of the LORD."
+                "text": "Moreover he commanded the people that dwelt in Jerusalem to give the portion of the priests and the Levites, that they might be encouraged in the law of Yahweh."
               },
               {
                 "vnumber": "5",
@@ -22639,7 +22639,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "6",
-                "text": "And concerning the children of Israel and Judah, that dwelt in the cities of Judah, they also brought in the tithe of oxen and sheep, and the tithe of holy things which were consecrated unto the LORD their God, and laid them by heaps."
+                "text": "And concerning the children of Israel and Judah, that dwelt in the cities of Judah, they also brought in the tithe of oxen and sheep, and the tithe of holy things which were consecrated unto Yahweh their God, and laid them by heaps."
               },
               {
                 "vnumber": "7",
@@ -22647,7 +22647,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "8",
-                "text": "And when Hezekiah and the princes came and saw the heaps, they blessed the LORD, and his people Israel."
+                "text": "And when Hezekiah and the princes came and saw the heaps, they blessed Yahweh, and his people Israel."
               },
               {
                 "vnumber": "9",
@@ -22655,11 +22655,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "10",
-                "text": "And Azariah the chief priest of the house of Zadok answered him, and said, Since the people began to bring the offerings into the house of the LORD, we have had enough to eat, and have left plenty: for the LORD hath blessed his people; and that which is left is this great store."
+                "text": "And Azariah the chief priest of the house of Zadok answered him, and said, Since the people began to bring the offerings into the house of Yahweh, we have had enough to eat, and have left plenty: for Yahweh hath blessed his people; and that which is left is this great store."
               },
               {
                 "vnumber": "11",
-                "text": "Then Hezekiah commanded to prepare chambers in the house of the LORD; and they prepared them,"
+                "text": "Then Hezekiah commanded to prepare chambers in the house of Yahweh; and they prepared them,"
               },
               {
                 "vnumber": "12",
@@ -22671,7 +22671,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "14",
-                "text": "And Kore the son of Imnah the Levite, the porter toward the east, was over the freewill offerings of God, to distribute the oblations of the LORD, and the most holy things."
+                "text": "And Kore the son of Imnah the Levite, the porter toward the east, was over the freewill offerings of God, to distribute the oblations of Yahweh, and the most holy things."
               },
               {
                 "vnumber": "15",
@@ -22679,7 +22679,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "16",
-                "text": "Beside their genealogy of males, from three years old and upward, even unto every one that entereth into the house of the LORD, his daily portion for their service in their charges according to their courses;"
+                "text": "Beside their genealogy of males, from three years old and upward, even unto every one that entereth into the house of Yahweh, his daily portion for their service in their charges according to their courses;"
               },
               {
                 "vnumber": "17",
@@ -22695,7 +22695,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "20",
-                "text": "And thus did Hezekiah throughout all Judah, and wrought that which was good and right and truth before the LORD his God."
+                "text": "And thus did Hezekiah throughout all Judah, and wrought that which was good and right and truth before Yahweh his God."
               },
               {
                 "vnumber": "21",
@@ -22736,7 +22736,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "8",
-                "text": "With him is an arm of flesh; but with us is the LORD our God to help us, and to fight our battles. And the people rested themselves upon the words of Hezekiah king of Judah."
+                "text": "With him is an arm of flesh; but with us is Yahweh our God to help us, and to fight our battles. And the people rested themselves upon the words of Hezekiah king of Judah."
               },
               {
                 "vnumber": "9",
@@ -22748,7 +22748,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "11",
-                "text": "Doth not Hezekiah persuade you to give over yourselves to die by famine and by thirst, saying, The LORD our God shall deliver us out of the hand of the king of Assyria?"
+                "text": "Doth not Hezekiah persuade you to give over yourselves to die by famine and by thirst, saying, Yahweh our God shall deliver us out of the hand of the king of Assyria?"
               },
               {
                 "vnumber": "12",
@@ -22768,11 +22768,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "16",
-                "text": "And his servants spake yet more against the LORD God, and against his servant Hezekiah."
+                "text": "And his servants spake yet more against Yahweh God, and against his servant Hezekiah."
               },
               {
                 "vnumber": "17",
-                "text": "He wrote also letters to rail on the LORD God of Israel, and to speak against him, saying, As the gods of the nations of other lands have not delivered their people out of mine hand, so shall not the God of Hezekiah deliver his people out of mine hand."
+                "text": "He wrote also letters to rail on Yahweh God of Israel, and to speak against him, saying, As the gods of the nations of other lands have not delivered their people out of mine hand, so shall not the God of Hezekiah deliver his people out of mine hand."
               },
               {
                 "vnumber": "18",
@@ -22788,19 +22788,19 @@ var Ketuvim = {
               },
               {
                 "vnumber": "21",
-                "text": "And the LORD sent an angel, which cut off all the mighty men of valour, and the leaders and captains in the camp of the king of Assyria. So he returned with shame of face to his own land. And when he was come into the house of his god, they that came forth of his own bowels slew him there with the sword."
+                "text": "And Yahweh sent an angel, which cut off all the mighty men of valour, and the leaders and captains in the camp of the king of Assyria. So he returned with shame of face to his own land. And when he was come into the house of his god, they that came forth of his own bowels slew him there with the sword."
               },
               {
                 "vnumber": "22",
-                "text": "Thus the LORD saved Hezekiah and the inhabitants of Jerusalem from the hand of Sennacherib the king of Assyria, and from the hand of all other, and guided them on every side."
+                "text": "Thus Yahweh saved Hezekiah and the inhabitants of Jerusalem from the hand of Sennacherib the king of Assyria, and from the hand of all other, and guided them on every side."
               },
               {
                 "vnumber": "23",
-                "text": "And many brought gifts unto the LORD to Jerusalem, and presents to Hezekiah king of Judah: so that he was magnified in the sight of all nations from thenceforth."
+                "text": "And many brought gifts unto Yahweh to Jerusalem, and presents to Hezekiah king of Judah: so that he was magnified in the sight of all nations from thenceforth."
               },
               {
                 "vnumber": "24",
-                "text": "In those days Hezekiah was sick to the death, and prayed unto the LORD: and he spake unto him, and he gave him a sign."
+                "text": "In those days Hezekiah was sick to the death, and prayed unto Yahweh: and he spake unto him, and he gave him a sign."
               },
               {
                 "vnumber": "25",
@@ -22808,7 +22808,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "26",
-                "text": "Notwithstanding Hezekiah humbled himself for the pride of his heart, both he and the inhabitants of Jerusalem, so that the wrath of the LORD came not upon them in the days of Hezekiah."
+                "text": "Notwithstanding Hezekiah humbled himself for the pride of his heart, both he and the inhabitants of Jerusalem, so that the wrath of Yahweh came not upon them in the days of Hezekiah."
               },
               {
                 "vnumber": "27",
@@ -22849,7 +22849,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "2",
-                "text": "But did that which was evil in the sight of the LORD, like unto the abominations of the heathen, whom the LORD had cast out before the children of Israel."
+                "text": "But did that which was evil in the sight of Yahweh, like unto the abominations of the heathen, whom Yahweh had cast out before the children of Israel."
               },
               {
                 "vnumber": "3",
@@ -22857,15 +22857,15 @@ var Ketuvim = {
               },
               {
                 "vnumber": "4",
-                "text": "Also he built altars in the house of the LORD, whereof the LORD had said, In Jerusalem shall my name be for ever."
+                "text": "Also he built altars in the house of Yahweh, whereof Yahweh had said, In Jerusalem shall my name be for ever."
               },
               {
                 "vnumber": "5",
-                "text": "And he built altars for all the host of heaven in the two courts of the house of the LORD."
+                "text": "And he built altars for all the host of heaven in the two courts of the house of Yahweh."
               },
               {
                 "vnumber": "6",
-                "text": "And he caused his children to pass through the fire in the valley of the son of Hinnom: also he observed times, and used enchantments, and used witchcraft, and dealt with a familiar spirit, and with wizards: he wrought much evil in the sight of the LORD, to provoke him to anger."
+                "text": "And he caused his children to pass through the fire in the valley of the son of Hinnom: also he observed times, and used enchantments, and used witchcraft, and dealt with a familiar spirit, and with wizards: he wrought much evil in the sight of Yahweh, to provoke him to anger."
               },
               {
                 "vnumber": "7",
@@ -22877,23 +22877,23 @@ var Ketuvim = {
               },
               {
                 "vnumber": "9",
-                "text": "So Manasseh made Judah and the inhabitants of Jerusalem to err, and to do worse than the heathen, whom the LORD had destroyed before the children of Israel."
+                "text": "So Manasseh made Judah and the inhabitants of Jerusalem to err, and to do worse than the heathen, whom Yahweh had destroyed before the children of Israel."
               },
               {
                 "vnumber": "10",
-                "text": "And the LORD spake to Manasseh, and to his people: but they would not hearken."
+                "text": "And Yahweh spake to Manasseh, and to his people: but they would not hearken."
               },
               {
                 "vnumber": "11",
-                "text": "Wherefore the LORD brought upon them the captains of the host of the king of Assyria, which took Manasseh among the thorns, and bound him with fetters, and carried him to Babylon."
+                "text": "Wherefore Yahweh brought upon them the captains of the host of the king of Assyria, which took Manasseh among the thorns, and bound him with fetters, and carried him to Babylon."
               },
               {
                 "vnumber": "12",
-                "text": "And when he was in affliction, he besought the LORD his God, and humbled himself greatly before the God of his fathers,"
+                "text": "And when he was in affliction, he besought Yahweh his God, and humbled himself greatly before the God of his fathers,"
               },
               {
                 "vnumber": "13",
-                "text": "And prayed unto him: and he was intreated of him, and heard his supplication, and brought him again to Jerusalem into his kingdom. Then Manasseh knew that the LORD he was God."
+                "text": "And prayed unto him: and he was intreated of him, and heard his supplication, and brought him again to Jerusalem into his kingdom. Then Manasseh knew that Yahweh he was God."
               },
               {
                 "vnumber": "14",
@@ -22901,19 +22901,19 @@ var Ketuvim = {
               },
               {
                 "vnumber": "15",
-                "text": "And he took away the strange gods, and the idol out of the house of the LORD, and all the altars that he had built in the mount of the house of the LORD, and in Jerusalem, and cast them out of the city."
+                "text": "And he took away the strange gods, and the idol out of the house of Yahweh, and all the altars that he had built in the mount of the house of Yahweh, and in Jerusalem, and cast them out of the city."
               },
               {
                 "vnumber": "16",
-                "text": "And he repaired the altar of the LORD, and sacrificed thereon peace offerings and thank offerings, and commanded Judah to serve the LORD God of Israel."
+                "text": "And he repaired the altar of Yahweh, and sacrificed thereon peace offerings and thank offerings, and commanded Judah to serve Yahweh God of Israel."
               },
               {
                 "vnumber": "17",
-                "text": "Nevertheless the people did sacrifice still in the high places, yet unto the LORD their God only."
+                "text": "Nevertheless the people did sacrifice still in the high places, yet unto Yahweh their God only."
               },
               {
                 "vnumber": "18",
-                "text": "Now the rest of the acts of Manasseh, and his prayer unto his God, and the words of the seers that spake to him in the name of the LORD God of Israel, behold, they are written in the book of the kings of Israel."
+                "text": "Now the rest of the acts of Manasseh, and his prayer unto his God, and the words of the seers that spake to him in the name of Yahweh God of Israel, behold, they are written in the book of the kings of Israel."
               },
               {
                 "vnumber": "19",
@@ -22929,11 +22929,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "22",
-                "text": "But he did that which was evil in the sight of the LORD, as did Manasseh his father: for Amon sacrificed unto all the carved images which Manasseh his father had made, and served them;"
+                "text": "But he did that which was evil in the sight of Yahweh, as did Manasseh his father: for Amon sacrificed unto all the carved images which Manasseh his father had made, and served them;"
               },
               {
                 "vnumber": "23",
-                "text": "And humbled not himself before the LORD, as Manasseh his father had humbled himself; but Amon trespassed more and more."
+                "text": "And humbled not himself before Yahweh, as Manasseh his father had humbled himself; but Amon trespassed more and more."
               },
               {
                 "vnumber": "24",
@@ -22954,7 +22954,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "2",
-                "text": "And he did that which was right in the sight of the LORD, and walked in the ways of David his father, and declined neither to the right hand, nor to the left."
+                "text": "And he did that which was right in the sight of Yahweh, and walked in the ways of David his father, and declined neither to the right hand, nor to the left."
               },
               {
                 "vnumber": "3",
@@ -22978,7 +22978,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "8",
-                "text": "Now in the eighteenth year of his reign, when he had purged the land, and the house, he sent Shaphan the son of Azaliah, and Maaseiah the governor of the city, and Joah the son of Joahaz the recorder, to repair the house of the LORD his God."
+                "text": "Now in the eighteenth year of his reign, when he had purged the land, and the house, he sent Shaphan the son of Azaliah, and Maaseiah the governor of the city, and Joah the son of Joahaz the recorder, to repair the house of Yahweh his God."
               },
               {
                 "vnumber": "9",
@@ -22986,7 +22986,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "10",
-                "text": "And they put it in the hand of the workmen that had the oversight of the house of the LORD, and they gave it to the workmen that wrought in the house of the LORD, to repair and amend the house:"
+                "text": "And they put it in the hand of the workmen that had the oversight of the house of Yahweh, and they gave it to the workmen that wrought in the house of Yahweh, to repair and amend the house:"
               },
               {
                 "vnumber": "11",
@@ -23002,11 +23002,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "14",
-                "text": "And when they brought out the money that was brought into the house of the LORD, Hilkiah the priest found a book of the law of the LORD given by Moses."
+                "text": "And when they brought out the money that was brought into the house of Yahweh, Hilkiah the priest found a book of the law of Yahweh given by Moses."
               },
               {
                 "vnumber": "15",
-                "text": "And Hilkiah answered and said to Shaphan the scribe, I have found the book of the law in the house of the LORD. And Hilkiah delivered the book to Shaphan."
+                "text": "And Hilkiah answered and said to Shaphan the scribe, I have found the book of the law in the house of Yahweh. And Hilkiah delivered the book to Shaphan."
               },
               {
                 "vnumber": "16",
@@ -23014,7 +23014,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "17",
-                "text": "And they have gathered together the money that was found in the house of the LORD, and have delivered it into the hand of the overseers, and to the hand of the workmen."
+                "text": "And they have gathered together the money that was found in the house of Yahweh, and have delivered it into the hand of the overseers, and to the hand of the workmen."
               },
               {
                 "vnumber": "18",
@@ -23030,7 +23030,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "21",
-                "text": "Go, enquire of the LORD for me, and for them that are left in Israel and in Judah, concerning the words of the book that is found: for great is the wrath of the LORD that is poured out upon us, because our fathers have not kept the word of the LORD, to do after all that is written in this book."
+                "text": "Go, enquire of Yahweh for me, and for them that are left in Israel and in Judah, concerning the words of the book that is found: for great is the wrath of Yahweh that is poured out upon us, because our fathers have not kept the word of Yahweh, to do after all that is written in this book."
               },
               {
                 "vnumber": "22",
@@ -23038,11 +23038,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "23",
-                "text": "And she answered them, Thus saith the LORD God of Israel, Tell ye the man that sent you to me,"
+                "text": "And she answered them, Thus saith Yahweh God of Israel, Tell ye the man that sent you to me,"
               },
               {
                 "vnumber": "24",
-                "text": "Thus saith the LORD, Behold, I will bring evil upon this place, and upon the inhabitants thereof, even all the curses that are written in the book which they have read before the king of Judah:"
+                "text": "Thus saith Yahweh, Behold, I will bring evil upon this place, and upon the inhabitants thereof, even all the curses that are written in the book which they have read before the king of Judah:"
               },
               {
                 "vnumber": "25",
@@ -23050,11 +23050,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "26",
-                "text": "And as for the king of Judah, who sent you to enquire of the LORD, so shall ye say unto him, Thus saith the LORD God of Israel concerning the words which thou hast heard;"
+                "text": "And as for the king of Judah, who sent you to enquire of Yahweh, so shall ye say unto him, Thus saith Yahweh God of Israel concerning the words which thou hast heard;"
               },
               {
                 "vnumber": "27",
-                "text": "Because thine heart was tender, and thou didst humble thyself before God, when thou heardest his words against this place, and against the inhabitants thereof, and humbledst thyself before me, and didst rend thy clothes, and weep before me; I have even heard thee also, saith the LORD."
+                "text": "Because thine heart was tender, and thou didst humble thyself before God, when thou heardest his words against this place, and against the inhabitants thereof, and humbledst thyself before me, and didst rend thy clothes, and weep before me; I have even heard thee also, saith Yahweh."
               },
               {
                 "vnumber": "28",
@@ -23066,11 +23066,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "30",
-                "text": "And the king went up into the house of the LORD, and all the men of Judah, and the inhabitants of Jerusalem, and the priests, and the Levites, and all the people, great and small: and he read in their ears all the words of the book of the covenant that was found in the house of the LORD."
+                "text": "And the king went up into the house of Yahweh, and all the men of Judah, and the inhabitants of Jerusalem, and the priests, and the Levites, and all the people, great and small: and he read in their ears all the words of the book of the covenant that was found in the house of Yahweh."
               },
               {
                 "vnumber": "31",
-                "text": "And the king stood in his place, and made a covenant before the LORD, to walk after the LORD, and to keep his commandments, and his testimonies, and his statutes, with all his heart, and with all his soul, to perform the words of the covenant which are written in this book."
+                "text": "And the king stood in his place, and made a covenant before Yahweh, to walk after Yahweh, and to keep his commandments, and his testimonies, and his statutes, with all his heart, and with all his soul, to perform the words of the covenant which are written in this book."
               },
               {
                 "vnumber": "32",
@@ -23078,7 +23078,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "33",
-                "text": "And Josiah took away all the abominations out of all the countries that pertained to the children of Israel, and made all that were present in Israel to serve, even to serve the LORD their God. And all his days they departed not from following the LORD, the God of their fathers."
+                "text": "And Josiah took away all the abominations out of all the countries that pertained to the children of Israel, and made all that were present in Israel to serve, even to serve Yahweh their God. And all his days they departed not from following Yahweh, the God of their fathers."
               }
             ]
           },
@@ -23087,15 +23087,15 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Moreover Josiah kept a passover unto the LORD in Jerusalem: and they killed the passover on the fourteenth day of the first month."
+                "text": "Moreover Josiah kept a passover unto Yahweh in Jerusalem: and they killed the passover on the fourteenth day of the first month."
               },
               {
                 "vnumber": "2",
-                "text": "And he set the priests in their charges, and encouraged them to the service of the house of the LORD,"
+                "text": "And he set the priests in their charges, and encouraged them to the service of the house of Yahweh,"
               },
               {
                 "vnumber": "3",
-                "text": "And said unto the Levites that taught all Israel, which were holy unto the LORD, Put the holy ark in the house which Solomon the son of David king of Israel did build; it shall not be a burden upon your shoulders: serve now the LORD your God, and his people Israel,"
+                "text": "And said unto the Levites that taught all Israel, which were holy unto Yahweh, Put the holy ark in the house which Solomon the son of David king of Israel did build; it shall not be a burden upon your shoulders: serve now Yahweh your God, and his people Israel,"
               },
               {
                 "vnumber": "4",
@@ -23107,7 +23107,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "6",
-                "text": "So kill the passover, and sanctify yourselves, and prepare your brethren, that they may do according to the word of the LORD by the hand of Moses."
+                "text": "So kill the passover, and sanctify yourselves, and prepare your brethren, that they may do according to the word of Yahweh by the hand of Moses."
               },
               {
                 "vnumber": "7",
@@ -23131,7 +23131,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "12",
-                "text": "And they removed the burnt offerings, that they might give according to the divisions of the families of the people, to offer unto the LORD, as it is written in the book of Moses. And so did they with the oxen."
+                "text": "And they removed the burnt offerings, that they might give according to the divisions of the families of the people, to offer unto Yahweh, as it is written in the book of Moses. And so did they with the oxen."
               },
               {
                 "vnumber": "13",
@@ -23147,7 +23147,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "16",
-                "text": "So all the service of the LORD was prepared the same day, to keep the passover, and to offer burnt offerings upon the altar of the LORD, according to the commandment of king Josiah."
+                "text": "So all the service of Yahweh was prepared the same day, to keep the passover, and to offer burnt offerings upon the altar of Yahweh, according to the commandment of king Josiah."
               },
               {
                 "vnumber": "17",
@@ -23187,7 +23187,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "26",
-                "text": "Now the rest of the acts of Josiah, and his goodness, according to that which was written in the law of the LORD,"
+                "text": "Now the rest of the acts of Josiah, and his goodness, according to that which was written in the law of Yahweh,"
               },
               {
                 "vnumber": "27",
@@ -23216,7 +23216,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "5",
-                "text": "Jehoiakim was twenty and five years old when he began to reign, and he reigned eleven years in Jerusalem: and he did that which was evil in the sight of the LORD his God."
+                "text": "Jehoiakim was twenty and five years old when he began to reign, and he reigned eleven years in Jerusalem: and he did that which was evil in the sight of Yahweh his God."
               },
               {
                 "vnumber": "6",
@@ -23224,7 +23224,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "7",
-                "text": "Nebuchadnezzar also carried of the vessels of the house of the LORD to Babylon, and put them in his temple at Babylon."
+                "text": "Nebuchadnezzar also carried of the vessels of the house of Yahweh to Babylon, and put them in his temple at Babylon."
               },
               {
                 "vnumber": "8",
@@ -23232,11 +23232,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "9",
-                "text": "Jehoiachin was eight years old when he began to reign, and he reigned three months and ten days in Jerusalem: and he did that which was evil in the sight of the LORD."
+                "text": "Jehoiachin was eight years old when he began to reign, and he reigned three months and ten days in Jerusalem: and he did that which was evil in the sight of Yahweh."
               },
               {
                 "vnumber": "10",
-                "text": "And when the year was expired, king Nebuchadnezzar sent, and brought him to Babylon, with the goodly vessels of the house of the LORD, and made Zedekiah his brother king over Judah and Jerusalem."
+                "text": "And when the year was expired, king Nebuchadnezzar sent, and brought him to Babylon, with the goodly vessels of the house of Yahweh, and made Zedekiah his brother king over Judah and Jerusalem."
               },
               {
                 "vnumber": "11",
@@ -23244,23 +23244,23 @@ var Ketuvim = {
               },
               {
                 "vnumber": "12",
-                "text": "And he did that which was evil in the sight of the LORD his God, and humbled not himself before Jeremiah the prophet speaking from the mouth of the LORD."
+                "text": "And he did that which was evil in the sight of Yahweh his God, and humbled not himself before Jeremiah the prophet speaking from the mouth of Yahweh."
               },
               {
                 "vnumber": "13",
-                "text": "And he also rebelled against king Nebuchadnezzar, who had made him swear by God: but he stiffened his neck, and hardened his heart from turning unto the LORD God of Israel."
+                "text": "And he also rebelled against king Nebuchadnezzar, who had made him swear by God: but he stiffened his neck, and hardened his heart from turning unto Yahweh God of Israel."
               },
               {
                 "vnumber": "14",
-                "text": "Moreover all the chief of the priests, and the people, transgressed very much after all the abominations of the heathen; and polluted the house of the LORD which he had hallowed in Jerusalem."
+                "text": "Moreover all the chief of the priests, and the people, transgressed very much after all the abominations of the heathen; and polluted the house of Yahweh which he had hallowed in Jerusalem."
               },
               {
                 "vnumber": "15",
-                "text": "And the LORD God of their fathers sent to them by his messengers, rising up betimes, and sending; because he had compassion on his people, and on his dwelling place:"
+                "text": "And Yahweh God of their fathers sent to them by his messengers, rising up betimes, and sending; because he had compassion on his people, and on his dwelling place:"
               },
               {
                 "vnumber": "16",
-                "text": "But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the LORD arose against his people, till there was no remedy."
+                "text": "But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of Yahweh arose against his people, till there was no remedy."
               },
               {
                 "vnumber": "17",
@@ -23268,7 +23268,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "18",
-                "text": "And all the vessels of the house of God, great and small, and the treasures of the house of the LORD, and the treasures of the king, and of his princes; all these he brought to Babylon."
+                "text": "And all the vessels of the house of God, great and small, and the treasures of the house of Yahweh, and the treasures of the king, and of his princes; all these he brought to Babylon."
               },
               {
                 "vnumber": "19",
@@ -23280,15 +23280,15 @@ var Ketuvim = {
               },
               {
                 "vnumber": "21",
-                "text": "To fulfil the word of the LORD by the mouth of Jeremiah, until the land had enjoyed her sabbaths: for as long as she lay desolate she kept sabbath, to fulfil threescore and ten years."
+                "text": "To fulfil the word of Yahweh by the mouth of Jeremiah, until the land had enjoyed her sabbaths: for as long as she lay desolate she kept sabbath, to fulfil threescore and ten years."
               },
               {
                 "vnumber": "22",
-                "text": "Now in the first year of Cyrus king of Persia, that the word of the LORD spoken by the mouth of Jeremiah might be accomplished, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,"
+                "text": "Now in the first year of Cyrus king of Persia, that the word of Yahweh spoken by the mouth of Jeremiah might be accomplished, Yahweh stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,"
               },
               {
                 "vnumber": "23",
-                "text": "Thus saith Cyrus king of Persia, All the kingdoms of the earth hath the LORD God of heaven given me; and he hath charged me to build him an house in Jerusalem, which is in Judah. Who is there among you of all his people? The LORD his God be with him, and let him go up."
+                "text": "Thus saith Cyrus king of Persia, All the kingdoms of the earth hath Yahweh God of heaven given me; and he hath charged me to build him an house in Jerusalem, which is in Judah. Who is there among you of all his people? Yahweh his God be with him, and let him go up."
               }
             ]
           }
