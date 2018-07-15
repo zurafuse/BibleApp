@@ -249,7 +249,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Now the serpent was more subtil than any beast of the field which Yahweh God had made. And he said unto the woman, Yea, hath God said, you shall not eat of every tree of the garden?"
+                "text": "Now the serpent was more subtil than any beast of the field which Yahweh God had made. And he said unto the woman, Yea, has God said, you shall not eat of every tree of the garden?"
               },
               {
                 "vnumber": "2",
@@ -382,15 +382,15 @@ var Torah = {
               },
               {
                 "vnumber": "9",
-                "text": "And Yahweh said unto Cain, Where is Abel thy brother? And he said, I know not: Am I my brother's keeper?"
+                "text": "And Yahweh said unto Cain, Where is Abel your brother? And he said, I know not: Am I my brother's keeper?"
               },
               {
                 "vnumber": "10",
-                "text": "And he said, What hast thou done? the voice of thy brother's blood crieth unto me from the ground."
+                "text": "And he said, What hast thou done? the voice of your brother's blood crieth unto me from the ground."
               },
               {
                 "vnumber": "11",
-                "text": "And now art thou cursed from the earth, which hath opened her mouth to receive thy brother's blood from thy hand;"
+                "text": "And now art thou cursed from the earth, which hath opened her mouth to receive your brother's blood from thy hand;"
               },
               {
                 "vnumber": "12",
@@ -685,7 +685,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation."
+                "text": "And Yahweh said unto Noah, Come, you and all your house into the ark; for you have I seen righteous before me in this generation."
               },
               {
                 "vnumber": "2",
@@ -842,7 +842,7 @@ var Torah = {
               },
               {
                 "vnumber": "15",
-                "text": "And God spake unto Noah, saying,"
+                "text": "And God spoke unto Noah, saying,"
               },
               {
                 "vnumber": "16",
@@ -907,7 +907,7 @@ var Torah = {
               },
               {
                 "vnumber": "8",
-                "text": "And God spake unto Noah, and to his sons with him, saying,"
+                "text": "And God spoke unto Noah, and to his sons with him, saying,"
               },
               {
                 "vnumber": "9",
@@ -1666,7 +1666,7 @@ var Torah = {
               },
               {
                 "vnumber": "13",
-                "text": "And she called the name of Yahweh that spake unto her, Thou God seest me: for she said, Have I also here looked after him that seeth me?"
+                "text": "And she called the name of Yahweh that spoke unto her, Thou God seest me: for she said, Have I also here looked after him that seeth me?"
               },
               {
                 "vnumber": "14",
@@ -1678,7 +1678,7 @@ var Torah = {
               },
               {
                 "vnumber": "16",
-                "text": "And Abram was fourscore and six years old, when Hagar bare Ishmael to Abram."
+                "text": "And Abram was eight-six years old, when Hagar bare Ishmael to Abram."
               }
             ]
           },
@@ -1739,7 +1739,7 @@ var Torah = {
               },
               {
                 "vnumber": "14",
-                "text": "And the uncircumcised man child whose flesh of his foreskin is not circumcised, that soul shall be cut off from his people; he hath broken my covenant."
+                "text": "And the uncircumcised man child whose flesh of his foreskin is not circumcised, that soul shall be cut off from his people; he has broken my covenant."
               },
               {
                 "vnumber": "15",
@@ -1872,7 +1872,7 @@ var Torah = {
               },
               {
                 "vnumber": "19",
-                "text": "For I know him, that he will command his children and his household after him, and they shall keep the way of Yahweh, to do justice and judgment; that Yahweh may bring upon Abraham that which he hath spoken of him."
+                "text": "For I know him, that he will command his children and his household after him, and they shall keep the way of Yahweh, to do justice and judgment; that Yahweh may bring upon Abraham that which he has spoken of him."
               },
               {
                 "vnumber": "20",
@@ -1912,7 +1912,7 @@ var Torah = {
               },
               {
                 "vnumber": "29",
-                "text": "And he spake unto him yet again, and said, Peradventure there shall be forty found there. And he said, I will not do it for forty's sake."
+                "text": "And he spoke unto him yet again, and said, Peradventure there shall be forty found there. And he said, I will not do it for forty's sake."
               },
               {
                 "vnumber": "30",
@@ -1989,7 +1989,7 @@ var Torah = {
               },
               {
                 "vnumber": "14",
-                "text": "And Lot went out, and spake unto his sons in law, which married his daughters, and said, Up, get you out of this place; for Yahweh will destroy this city. But he seemed as one that mocked unto his sons in law."
+                "text": "And Lot went out, and spoke unto his sons in law, which married his daughters, and said, Up, get you out of this place; for Yahweh will destroy this city. But he seemed as one that mocked unto his sons in law."
               },
               {
                 "vnumber": "15",
@@ -2154,7 +2154,7 @@ var Torah = {
               },
               {
                 "vnumber": "16",
-                "text": "And unto Sarah he said, Behold, I have given thy brother a thousand pieces of silver: behold, he is to thee a covering of the eyes, unto all that are with thee, and with all other: thus she was reproved."
+                "text": "And unto Sarah he said, Behold, I have given your brother a thousand pieces of silver: behold, he is to thee a covering of the eyes, unto all that are with thee, and with all other: thus she was reproved."
               },
               {
                 "vnumber": "17",
@@ -2255,7 +2255,7 @@ var Torah = {
               },
               {
                 "vnumber": "22",
-                "text": "And it came to pass at that time, that Abimelech and Phichol the chief captain of his host spake unto Abraham, saying, God is with thee in all that thou doest:"
+                "text": "And it came to pass at that time, that Abimelech and Phichol the chief captain of his host spoke unto Abraham, saying, God is with thee in all that thou doest:"
               },
               {
                 "vnumber": "23",
@@ -2336,7 +2336,7 @@ var Torah = {
               },
               {
                 "vnumber": "7",
-                "text": "And Isaac spake unto Abraham his father, and said, My father: and he said, Here am I, my son. And he said, Behold the fire and the wood: but where is the lamb for a burnt offering?"
+                "text": "And Isaac spoke unto Abraham his father, and said, My father: and he said, Here am I, my son. And he said, Behold the fire and the wood: but where is the lamb for a burnt offering?"
               },
               {
                 "vnumber": "8",
@@ -2388,7 +2388,7 @@ var Torah = {
               },
               {
                 "vnumber": "20",
-                "text": "And it came to pass after these things, that it was told Abraham, saying, Behold, Milcah, she hath also born children unto thy brother Nahor;"
+                "text": "And it came to pass after these things, that it was told Abraham, saying, Behold, Milcah, she has also born children unto your brother Nahor;"
               },
               {
                 "vnumber": "21",
@@ -2421,7 +2421,7 @@ var Torah = {
               },
               {
                 "vnumber": "3",
-                "text": "And Abraham stood up from before his dead, and spake unto the sons of Heth, saying,"
+                "text": "And Abraham stood up from before his dead, and spoke unto the sons of Heth, saying,"
               },
               {
                 "vnumber": "4",
@@ -2445,7 +2445,7 @@ var Torah = {
               },
               {
                 "vnumber": "9",
-                "text": "That he may give me the cave of Machpelah, which he hath, which is in the end of his field; for as much money as it is worth he shall give it me for a possession of a buryingplace amongst you."
+                "text": "That he may give me the cave of Machpelah, which he has, which is in the end of his field; for as much money as it is worth he shall give it me for a possession of a buryingplace amongst you."
               },
               {
                 "vnumber": "10",
@@ -2461,7 +2461,7 @@ var Torah = {
               },
               {
                 "vnumber": "13",
-                "text": "And he spake unto Ephron in the audience of the people of the land, saying, But if thou wilt give it, I pray thee, hear me: I will give thee money for the field; take it of me, and I will bury my dead there."
+                "text": "And he spoke unto Ephron in the audience of the people of the land, saying, But if thou wilt give it, I pray thee, hear me: I will give thee money for the field; take it of me, and I will bury my dead there."
               },
               {
                 "vnumber": "14",
@@ -2522,7 +2522,7 @@ var Torah = {
               },
               {
                 "vnumber": "7",
-                "text": "Yahweh God of heaven, which took me from my father's house, and from the land of my kindred, and which spake unto me, and that sware unto me, saying, Unto thy seed will I give this land; he shall send his angel before thee, and thou shalt take a wife unto my son from thence."
+                "text": "Yahweh God of heaven, which took me from my father's house, and from the land of my kindred, and which spoke unto me, and that sware unto me, saying, Unto thy seed will I give this land; he shall send his angel before thee, and thou shalt take a wife unto my son from thence."
               },
               {
                 "vnumber": "8",
@@ -2614,7 +2614,7 @@ var Torah = {
               },
               {
                 "vnumber": "30",
-                "text": "And it came to pass, when he saw the earring and bracelets upon his sister's hands, and when he heard the words of Rebekah his sister, saying, Thus spake the man unto me; that he came unto the man; and, behold, he stood by the camels at the well."
+                "text": "And it came to pass, when he saw the earring and bracelets upon his sister's hands, and when he heard the words of Rebekah his sister, saying, Thus spoke the man unto me; that he came unto the man; and, behold, he stood by the camels at the well."
               },
               {
                 "vnumber": "31",
@@ -2634,11 +2634,11 @@ var Torah = {
               },
               {
                 "vnumber": "35",
-                "text": "And Yahweh hath blessed my master greatly; and he is become great: and he hath given him flocks, and herds, and silver, and gold, and menservants, and maidservants, and camels, and asses."
+                "text": "And Yahweh hath blessed my master greatly; and he is become great: and he has given him flocks, and herds, and silver, and gold, and menservants, and maidservants, and camels, and asses."
               },
               {
                 "vnumber": "36",
-                "text": "And Sarah my master's wife bare a son to my master when she was old: and unto him hath he given all that he hath."
+                "text": "And Sarah my master's wife bare a son to my master when she was old: and unto him hath he given all that he has."
               },
               {
                 "vnumber": "37",
@@ -2795,7 +2795,7 @@ var Torah = {
               },
               {
                 "vnumber": "7",
-                "text": "And these are the days of the years of Abraham's life which he lived, an hundred threescore and fifteen years."
+                "text": "And these are the days of the years of Abraham's life which he lived, one hundred and seventy-five years."
               },
               {
                 "vnumber": "8",
@@ -2871,7 +2871,7 @@ var Torah = {
               },
               {
                 "vnumber": "26",
-                "text": "And after that came his brother out, and his hand took hold on Esau's heel; and his name was called Jacob: and Isaac was threescore years old when she bare them."
+                "text": "And after that came his brother out, and his hand took hold on Esau's heel; and his name was called Jacob: and Isaac was sixty years old when she bare them."
               },
               {
                 "vnumber": "27",
@@ -3073,11 +3073,11 @@ var Torah = {
               },
               {
                 "vnumber": "5",
-                "text": "And Rebekah heard when Isaac spake to Esau his son. And Esau went to the field to hunt for venison, and to bring it."
+                "text": "And Rebekah heard when Isaac spoke to Esau his son. And Esau went to the field to hunt for venison, and to bring it."
               },
               {
                 "vnumber": "6",
-                "text": "And Rebekah spake unto Jacob her son, saying, Behold, I heard thy father speak unto Esau thy brother, saying,"
+                "text": "And Rebekah spoke unto Jacob her son, saying, Behold, I heard thy father speak unto Esau your brother, saying,"
               },
               {
                 "vnumber": "7",
@@ -3197,7 +3197,7 @@ var Torah = {
               },
               {
                 "vnumber": "36",
-                "text": "And he said, Is not he rightly named Jacob? for he hath supplanted me these two times: he took away my birthright; and, behold, now he hath taken away my blessing. And he said, Hast thou not reserved a blessing for me?"
+                "text": "And he said, Is not he rightly named Jacob? for he has supplanted me these two times: he took away my birthright; and, behold, now he has taken away my blessing. And he said, Hast thou not reserved a blessing for me?"
               },
               {
                 "vnumber": "37",
@@ -3213,7 +3213,7 @@ var Torah = {
               },
               {
                 "vnumber": "40",
-                "text": "And by thy sword shalt thou live, and shalt serve thy brother; and it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck."
+                "text": "And by thy sword shalt thou live, and shalt serve your brother; and it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck."
               },
               {
                 "vnumber": "41",
@@ -3221,7 +3221,7 @@ var Torah = {
               },
               {
                 "vnumber": "42",
-                "text": "And these words of Esau her elder son were told to Rebekah: and she sent and called Jacob her younger son, and said unto him, Behold, thy brother Esau, as touching thee, doth comfort himself, purposing to kill thee."
+                "text": "And these words of Esau her elder son were told to Rebekah: and she sent and called Jacob her younger son, and said unto him, Behold, your brother Esau, as touching thee, doth comfort himself, purposing to kill thee."
               },
               {
                 "vnumber": "43",
@@ -3229,11 +3229,11 @@ var Torah = {
               },
               {
                 "vnumber": "44",
-                "text": "And tarry with him a few days, until thy brother's fury turn away;"
+                "text": "And tarry with him a few days, until your brother's fury turn away;"
               },
               {
                 "vnumber": "45",
-                "text": "Until thy brother's anger turn away from thee, and he forget that which thou hast done to him: then I will send, and fetch thee from thence: why should I be deprived also of you both in one day?"
+                "text": "Until your brother's anger turn away from thee, and he forget that which thou hast done to him: then I will send, and fetch thee from thence: why should I be deprived also of you both in one day?"
               },
               {
                 "vnumber": "46",
@@ -3371,7 +3371,7 @@ var Torah = {
               },
               {
                 "vnumber": "9",
-                "text": "And while he yet spake with them, Rachel came with her father's sheep: for she kept them."
+                "text": "And while he yet spoke with them, Rachel came with her father's sheep: for she kept them."
               },
               {
                 "vnumber": "10",
@@ -3467,7 +3467,7 @@ var Torah = {
               },
               {
                 "vnumber": "33",
-                "text": "And she conceived again, and bare a son; and said, Because Yahweh hath heard that I was hated, he hath therefore given me this son also: and she called his name Simeon."
+                "text": "And she conceived again, and bare a son; and said, Because Yahweh hath heard that I was hated, he has therefore given me this son also: and she called his name Simeon."
               },
               {
                 "vnumber": "34",
@@ -3701,7 +3701,7 @@ var Torah = {
               },
               {
                 "vnumber": "11",
-                "text": "And the angel of God spake unto me in a dream, saying, Jacob: And I said, Here am I."
+                "text": "And the angel of God spoke unto me in a dream, saying, Jacob: And I said, Here am I."
               },
               {
                 "vnumber": "12",
@@ -3717,7 +3717,7 @@ var Torah = {
               },
               {
                 "vnumber": "15",
-                "text": "Are we not counted of him strangers? for he hath sold us, and hath quite devoured also our money."
+                "text": "Are we not counted of him strangers? for he has sold us, and hath quite devoured also our money."
               },
               {
                 "vnumber": "16",
@@ -3773,7 +3773,7 @@ var Torah = {
               },
               {
                 "vnumber": "29",
-                "text": "It is in the power of my hand to do you hurt: but the God of your father spake unto me yesternight, saying, Take thou heed that thou speak not to Jacob either good or bad."
+                "text": "It is in the power of my hand to do you hurt: but the God of your father spoke unto me yesternight, saying, Take thou heed that thou speak not to Jacob either good or bad."
               },
               {
                 "vnumber": "30",
@@ -3906,7 +3906,7 @@ var Torah = {
               },
               {
                 "vnumber": "6",
-                "text": "And the messengers returned to Jacob, saying, We came to thy brother Esau, and also he cometh to meet thee, and four hundred men with him."
+                "text": "And the messengers returned to Jacob, saying, We came to your brother Esau, and also he cometh to meet thee, and four hundred men with him."
               },
               {
                 "vnumber": "7",
@@ -4112,11 +4112,11 @@ var Torah = {
               },
               {
                 "vnumber": "3",
-                "text": "And his soul clave unto Dinah the daughter of Jacob, and he loved the damsel, and spake kindly unto the damsel."
+                "text": "And his soul clave unto Dinah the daughter of Jacob, and he loved the damsel, and spoke kindly unto the damsel."
               },
               {
                 "vnumber": "4",
-                "text": "And Shechem spake unto his father Hamor, saying, Get me this damsel to wife."
+                "text": "And Shechem spoke unto his father Hamor, saying, Get me this damsel to wife."
               },
               {
                 "vnumber": "5",
@@ -4233,7 +4233,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And God said unto Jacob, Arise, go up to Bethel, and dwell there: and make there an altar unto God, that appeared unto thee when thou fleddest from the face of Esau thy brother."
+                "text": "And God said unto Jacob, Arise, go up to Bethel, and dwell there: and make there an altar unto God, that appeared unto thee when thou fleddest from the face of Esau your brother."
               },
               {
                 "vnumber": "2",
@@ -4289,7 +4289,7 @@ var Torah = {
               },
               {
                 "vnumber": "15",
-                "text": "And Jacob called the name of the place where God spake with him, Bethel."
+                "text": "And Jacob called the name of the place where God spoke with him, Bethel."
               },
               {
                 "vnumber": "16",
@@ -4341,7 +4341,7 @@ var Torah = {
               },
               {
                 "vnumber": "28",
-                "text": "And the days of Isaac were an hundred and fourscore years."
+                "text": "And the days of Isaac were one hundred and eighty years."
               },
               {
                 "vnumber": "29",
@@ -4708,7 +4708,7 @@ var Torah = {
               },
               {
                 "vnumber": "8",
-                "text": "And Judah said unto Onan, Go in unto thy brother's wife, and marry her, and raise up seed to thy brother."
+                "text": "And Judah said unto Onan, Go in unto your brother's wife, and marry her, and raise up seed to your brother."
               },
               {
                 "vnumber": "9",
@@ -4780,7 +4780,7 @@ var Torah = {
               },
               {
                 "vnumber": "26",
-                "text": "And Judah acknowledged them, and said, She hath been more righteous than I; because that I gave her not to Shelah my son. And he knew her again no more."
+                "text": "And Judah acknowledged them, and said, She has been more righteous than I; because that I gave her not to Shelah my son. And he knew her again no more."
               },
               {
                 "vnumber": "27",
@@ -4833,7 +4833,7 @@ var Torah = {
               },
               {
                 "vnumber": "8",
-                "text": "But he refused, and said unto his master's wife, Behold, my master wotteth not what is with me in the house, and he hath committed all that he hath to my hand;"
+                "text": "But he refused, and said unto his master's wife, Behold, my master wotteth not what is with me in the house, and he has committed all that he has to my hand;"
               },
               {
                 "vnumber": "9",
@@ -4841,7 +4841,7 @@ var Torah = {
               },
               {
                 "vnumber": "10",
-                "text": "And it came to pass, as she spake to Joseph day by day, that he hearkened not unto her, to lie by her, or to be with her."
+                "text": "And it came to pass, as she spoke to Joseph day by day, that he hearkened not unto her, to lie by her, or to be with her."
               },
               {
                 "vnumber": "11",
@@ -4857,7 +4857,7 @@ var Torah = {
               },
               {
                 "vnumber": "14",
-                "text": "That she called unto the men of her house, and spake unto them, saying, See, he hath brought in an Hebrew unto us to mock us; he came in unto me to lie with me, and I cried with a loud voice:"
+                "text": "That she called unto the men of her house, and spoke unto them, saying, See, he has brought in an Hebrew unto us to mock us; he came in unto me to lie with me, and I cried with a loud voice:"
               },
               {
                 "vnumber": "15",
@@ -4869,7 +4869,7 @@ var Torah = {
               },
               {
                 "vnumber": "17",
-                "text": "And she spake unto him according to these words, saying, The Hebrew servant, which thou hast brought unto us, came in unto me to mock me:"
+                "text": "And she spoke unto him according to these words, saying, The Hebrew servant, which thou hast brought unto us, came in unto me to mock me:"
               },
               {
                 "vnumber": "18",
@@ -4877,7 +4877,7 @@ var Torah = {
               },
               {
                 "vnumber": "19",
-                "text": "And it came to pass, when his master heard the words of his wife, which she spake unto him, saying, After this manner did thy servant to me; that his wrath was kindled."
+                "text": "And it came to pass, when his master heard the words of his wife, which she spoke unto him, saying, After this manner did thy servant to me; that his wrath was kindled."
               },
               {
                 "vnumber": "20",
@@ -5031,7 +5031,7 @@ var Torah = {
               },
               {
                 "vnumber": "9",
-                "text": "Then spake the chief butler unto Pharaoh, saying, I do remember my faults this day:"
+                "text": "Then spoke the chief butler unto Pharaoh, saying, I do remember my faults this day:"
               },
               {
                 "vnumber": "10",
@@ -5256,7 +5256,7 @@ var Torah = {
               },
               {
                 "vnumber": "7",
-                "text": "And Joseph saw his brethren, and he knew them, but made himself strange unto them, and spake roughly unto them; and he said unto them, Whence come ye? And they said, From the land of Canaan to buy food."
+                "text": "And Joseph saw his brethren, and he knew them, but made himself strange unto them, and spoke roughly unto them; and he said unto them, Whence come ye? And they said, From the land of Canaan to buy food."
               },
               {
                 "vnumber": "8",
@@ -5284,7 +5284,7 @@ var Torah = {
               },
               {
                 "vnumber": "14",
-                "text": "And Joseph said unto them, That is it that I spake unto you, saying, Ye are spies:"
+                "text": "And Joseph said unto them, That is it that I spoke unto you, saying, Ye are spies:"
               },
               {
                 "vnumber": "15",
@@ -5320,7 +5320,7 @@ var Torah = {
               },
               {
                 "vnumber": "23",
-                "text": "And they knew not that Joseph understood them; for he spake unto them by an interpreter."
+                "text": "And they knew not that Joseph understood them; for he spoke unto them by an interpreter."
               },
               {
                 "vnumber": "24",
@@ -5348,7 +5348,7 @@ var Torah = {
               },
               {
                 "vnumber": "30",
-                "text": "The man, who is the lord of the land, spake roughly to us, and took us for spies of the country."
+                "text": "The man, who is the lord of the land, spoke roughly to us, and took us for spies of the country."
               },
               {
                 "vnumber": "31",
@@ -5376,7 +5376,7 @@ var Torah = {
               },
               {
                 "vnumber": "37",
-                "text": "And Reuben spake unto his father, saying, Slay my two sons, if I bring him not to thee: deliver him into my hand, and I will bring him to thee again."
+                "text": "And Reuben spoke unto his father, saying, Slay my two sons, if I bring him not to thee: deliver him into my hand, and I will bring him to thee again."
               },
               {
                 "vnumber": "38",
@@ -5397,7 +5397,7 @@ var Torah = {
               },
               {
                 "vnumber": "3",
-                "text": "And Judah spake unto him, saying, The man did solemnly protest unto us, saying, you shall not see my face, except your brother be with you."
+                "text": "And Judah spoke unto him, saying, The man did solemnly protest unto us, saying, you shall not see my face, except your brother be with you."
               },
               {
                 "vnumber": "4",
@@ -5493,7 +5493,7 @@ var Torah = {
               },
               {
                 "vnumber": "27",
-                "text": "And he asked them of their welfare, and said, Is your father well, the old man of whom ye spake? Is he yet alive?"
+                "text": "And he asked them of their welfare, and said, Is your father well, the old man of whom ye spoke? Is he yet alive?"
               },
               {
                 "vnumber": "28",
@@ -5501,7 +5501,7 @@ var Torah = {
               },
               {
                 "vnumber": "29",
-                "text": "And he lifted up his eyes, and saw his brother Benjamin, his mother's son, and said, Is this your younger brother, of whom ye spake unto me? And he said, God be gracious unto thee, my son."
+                "text": "And he lifted up his eyes, and saw his brother Benjamin, his mother's son, and said, Is this your younger brother, of whom ye spoke unto me? And he said, God be gracious unto thee, my son."
               },
               {
                 "vnumber": "30",
@@ -5550,7 +5550,7 @@ var Torah = {
               },
               {
                 "vnumber": "6",
-                "text": "And he overtook them, and he spake unto them these same words."
+                "text": "And he overtook them, and he spoke unto them these same words."
               },
               {
                 "vnumber": "7",
@@ -5699,7 +5699,7 @@ var Torah = {
               },
               {
                 "vnumber": "8",
-                "text": "So now it was not you that sent me hither, but God: and he hath made me a father to Pharaoh, and lord of all his house, and a ruler throughout all the land of Egypt."
+                "text": "So now it was not you that sent me hither, but God: and he has made me a father to Pharaoh, and lord of all his house, and a ruler throughout all the land of Egypt."
               },
               {
                 "vnumber": "9",
@@ -5792,7 +5792,7 @@ var Torah = {
               },
               {
                 "vnumber": "2",
-                "text": "And God spake unto Israel in the visions of the night, and said, Jacob, Jacob. And he said, Here am I."
+                "text": "And God spoke unto Israel in the visions of the night, and said, Jacob, Jacob. And he said, Here am I."
               },
               {
                 "vnumber": "3",
@@ -5888,11 +5888,11 @@ var Torah = {
               },
               {
                 "vnumber": "26",
-                "text": "All the souls that came with Jacob into Egypt, which came out of his loins, besides Jacob's sons' wives, all the souls were threescore and six;"
+                "text": "All the souls that came with Jacob into Egypt, which came out of his loins, besides Jacob's sons' wives, all the souls were sixty-six;"
               },
               {
                 "vnumber": "27",
-                "text": "And the sons of Joseph, which were born him in Egypt, were two souls: all the souls of the house of Jacob, which came into Egypt, were threescore and ten."
+                "text": "And the sons of Joseph, which were born him in Egypt, were two souls: all the souls of the house of Jacob, which came into Egypt, were seventy."
               },
               {
                 "vnumber": "28",
@@ -5945,7 +5945,7 @@ var Torah = {
               },
               {
                 "vnumber": "5",
-                "text": "And Pharaoh spake unto Joseph, saying, Thy father and thy brethren are come unto thee:"
+                "text": "And Pharaoh spoke unto Joseph, saying, Thy father and thy brethren are come unto thee:"
               },
               {
                 "vnumber": "6",
@@ -6259,7 +6259,7 @@ var Torah = {
               },
               {
                 "vnumber": "28",
-                "text": "All these are the twelve tribes of Israel: and this is it that their father spake unto them, and blessed them; every one according to his blessing he blessed them."
+                "text": "All these are the twelve tribes of Israel: and this is it that their father spoke unto them, and blessed them; every one according to his blessing he blessed them."
               },
               {
                 "vnumber": "29",
@@ -6296,11 +6296,11 @@ var Torah = {
               },
               {
                 "vnumber": "3",
-                "text": "And forty days were fulfilled for him; for so are fulfilled the days of those which are embalmed: and the Egyptians mourned for him threescore and ten days."
+                "text": "And forty days were fulfilled for him; for so are fulfilled the days of those which are embalmed: and the Egyptians mourned for him seventy days."
               },
               {
                 "vnumber": "4",
-                "text": "And when the days of his mourning were past, Joseph spake unto the house of Pharaoh, saying, If now I have found grace in your eyes, speak, I pray you, in the ears of Pharaoh, saying,"
+                "text": "And when the days of his mourning were past, Joseph spoke unto the house of Pharaoh, saying, If now I have found grace in your eyes, speak, I pray you, in the ears of Pharaoh, saying,"
               },
               {
                 "vnumber": "5",
@@ -6352,7 +6352,7 @@ var Torah = {
               },
               {
                 "vnumber": "17",
-                "text": "So shall ye say unto Joseph, Forgive, I pray thee now, the trespass of thy brethren, and their sin; for they did unto thee evil: and now, we pray thee, forgive the trespass of the servants of the God of thy father. And Joseph wept when they spake unto him."
+                "text": "So shall ye say unto Joseph, Forgive, I pray thee now, the trespass of thy brethren, and their sin; for they did unto thee evil: and now, we pray thee, forgive the trespass of the servants of the God of thy father. And Joseph wept when they spoke unto him."
               },
               {
                 "vnumber": "18",
@@ -6368,7 +6368,7 @@ var Torah = {
               },
               {
                 "vnumber": "21",
-                "text": "Now therefore fear ye not: I will nourish you, and your little ones. And he comforted them, and spake kindly unto them."
+                "text": "Now therefore fear ye not: I will nourish you, and your little ones. And he comforted them, and spoke kindly unto them."
               },
               {
                 "vnumber": "22",
@@ -6460,7 +6460,7 @@ var Torah = {
               },
               {
                 "vnumber": "15",
-                "text": "And the king of Egypt spake to the Hebrew midwives, of which the name of the one was Shiphrah, and the name of the other Puah:"
+                "text": "And the king of Egypt spoke to the Hebrew midwives, of which the name of the one was Shiphrah, and the name of the other Puah:"
               },
               {
                 "vnumber": "16",
@@ -6748,7 +6748,7 @@ var Torah = {
               },
               {
                 "vnumber": "14",
-                "text": "And the anger of Yahweh was kindled against Moses, and he said, Is not Aaron the Levite thy brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart."
+                "text": "And the anger of Yahweh was kindled against Moses, and he said, Is not Aaron the Levite your brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart."
               },
               {
                 "vnumber": "15",
@@ -6812,7 +6812,7 @@ var Torah = {
               },
               {
                 "vnumber": "30",
-                "text": "And Aaron spake all the words which Yahweh had spoken unto Moses, and did the signs in the sight of the people."
+                "text": "And Aaron spoke all the words which Yahweh had spoken unto Moses, and did the signs in the sight of the people."
               },
               {
                 "vnumber": "31",
@@ -6861,7 +6861,7 @@ var Torah = {
               },
               {
                 "vnumber": "10",
-                "text": "And the taskmasters of the people went out, and their officers, and they spake to the people, saying, Thus saith Pharaoh, I will not give you straw."
+                "text": "And the taskmasters of the people went out, and their officers, and they spoke to the people, saying, Thus saith Pharaoh, I will not give you straw."
               },
               {
                 "vnumber": "11",
@@ -6913,7 +6913,7 @@ var Torah = {
               },
               {
                 "vnumber": "23",
-                "text": "For since I came to Pharaoh to speak in thy name, he hath done evil to this people; neither hast thou delivered thy people at all."
+                "text": "For since I came to Pharaoh to speak in thy name, he has done evil to this people; neither hast thou delivered thy people at all."
               }
             ]
           },
@@ -6926,7 +6926,7 @@ var Torah = {
               },
               {
                 "vnumber": "2",
-                "text": "And God spake unto Moses, and said unto him, I am Yahweh:"
+                "text": "And God spoke unto Moses, and said unto him, I am Yahweh:"
               },
               {
                 "vnumber": "3",
@@ -6954,11 +6954,11 @@ var Torah = {
               },
               {
                 "vnumber": "9",
-                "text": "And Moses spake so unto the children of Israel: but they hearkened not unto Moses for anguish of spirit, and for cruel bondage."
+                "text": "And Moses spoke so unto the children of Israel: but they hearkened not unto Moses for anguish of spirit, and for cruel bondage."
               },
               {
                 "vnumber": "10",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "11",
@@ -6966,11 +6966,11 @@ var Torah = {
               },
               {
                 "vnumber": "12",
-                "text": "And Moses spake before Yahweh, saying, Behold, the children of Israel have not hearkened unto me; how then shall Pharaoh hear me, who am of uncircumcised lips?"
+                "text": "And Moses spoke before Yahweh, saying, Behold, the children of Israel have not hearkened unto me; how then shall Pharaoh hear me, who am of uncircumcised lips?"
               },
               {
                 "vnumber": "13",
-                "text": "And Yahweh spake unto Moses and unto Aaron, and gave them a charge unto the children of Israel, and unto Pharaoh king of Egypt, to bring the children of Israel out of the land of Egypt."
+                "text": "And Yahweh spoke unto Moses and unto Aaron, and gave them a charge unto the children of Israel, and unto Pharaoh king of Egypt, to bring the children of Israel out of the land of Egypt."
               },
               {
                 "vnumber": "14",
@@ -7026,15 +7026,15 @@ var Torah = {
               },
               {
                 "vnumber": "27",
-                "text": "These are they which spake to Pharaoh king of Egypt, to bring out the children of Israel from Egypt: these are that Moses and Aaron."
+                "text": "These are they which spoke to Pharaoh king of Egypt, to bring out the children of Israel from Egypt: these are that Moses and Aaron."
               },
               {
                 "vnumber": "28",
-                "text": "And it came to pass on the day when Yahweh spake unto Moses in the land of Egypt,"
+                "text": "And it came to pass on the day when Yahweh spoke unto Moses in the land of Egypt,"
               },
               {
                 "vnumber": "29",
-                "text": "That Yahweh spake unto Moses, saying, I am Yahweh: speak thou unto Pharaoh king of Egypt all that I say unto thee."
+                "text": "That Yahweh spoke unto Moses, saying, I am Yahweh: speak thou unto Pharaoh king of Egypt all that I say unto thee."
               },
               {
                 "vnumber": "30",
@@ -7047,11 +7047,11 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh said unto Moses, See, I have made thee a god to Pharaoh: and Aaron thy brother shall be thy prophet."
+                "text": "And Yahweh said unto Moses, See, I have made thee a god to Pharaoh: and Aaron your brother shall be thy prophet."
               },
               {
                 "vnumber": "2",
-                "text": "Thou shalt speak all that I command thee: and Aaron thy brother shall speak unto Pharaoh, that he send the children of Israel out of his land."
+                "text": "Thou shalt speak all that I command thee: and Aaron your brother shall speak unto Pharaoh, that he send the children of Israel out of his land."
               },
               {
                 "vnumber": "3",
@@ -7071,11 +7071,11 @@ var Torah = {
               },
               {
                 "vnumber": "7",
-                "text": "And Moses was fourscore years old, and Aaron fourscore and three years old, when they spake unto Pharaoh."
+                "text": "And Moses was eighty years old, and Aaron eighty-three years old, when they spoke unto Pharaoh."
               },
               {
                 "vnumber": "8",
-                "text": "And Yahweh spake unto Moses and unto Aaron, saying,"
+                "text": "And Yahweh spoke unto Moses and unto Aaron, saying,"
               },
               {
                 "vnumber": "9",
@@ -7119,7 +7119,7 @@ var Torah = {
               },
               {
                 "vnumber": "19",
-                "text": "And Yahweh spake unto Moses, Say unto Aaron, Take thy rod, and stretch out thine hand upon the waters of Egypt, upon their streams, upon their rivers, and upon their ponds, and upon all their pools of water, that they may become blood; and that there may be blood throughout all the land of Egypt, both in vessels of wood, and in vessels of stone."
+                "text": "And Yahweh spoke unto Moses, Say unto Aaron, Take thy rod, and stretch out thine hand upon the waters of Egypt, upon their streams, upon their rivers, and upon their ponds, and upon all their pools of water, that they may become blood; and that there may be blood throughout all the land of Egypt, both in vessels of wood, and in vessels of stone."
               },
               {
                 "vnumber": "20",
@@ -7152,7 +7152,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, Go unto Pharaoh, and say unto him, Thus saith Yahweh, Let my people go, that they may serve me."
+                "text": "And Yahweh spoke unto Moses, Go unto Pharaoh, and say unto him, Thus saith Yahweh, Let my people go, that they may serve me."
               },
               {
                 "vnumber": "2",
@@ -7168,7 +7168,7 @@ var Torah = {
               },
               {
                 "vnumber": "5",
-                "text": "And Yahweh spake unto Moses, Say unto Aaron, Stretch forth thine hand with thy rod over the streams, over the rivers, and over the ponds, and cause frogs to come up upon the land of Egypt."
+                "text": "And Yahweh spoke unto Moses, Say unto Aaron, Stretch forth thine hand with thy rod over the streams, over the rivers, and over the ponds, and cause frogs to come up upon the land of Egypt."
               },
               {
                 "vnumber": "6",
@@ -7397,7 +7397,7 @@ var Torah = {
               },
               {
                 "vnumber": "29",
-                "text": "And Moses said unto him, As soon as I am gone out of the city, I will spread abroad my hands unto Yahweh; and the thunder shall cease, neither shall there be any more hail; that you may know how that the earth is Yahweh'S."
+                "text": "And Moses said unto him, As soon as I am gone out of the city, I will spread abroad my hands unto Yahweh; and the thunder shall cease, neither shall there be any more hail; that you may know how that the earth is Yahweh's."
               },
               {
                 "vnumber": "30",
@@ -7596,7 +7596,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses and Aaron in the land of Egypt, saying,"
+                "text": "And Yahweh spoke unto Moses and Aaron in the land of Egypt, saying,"
               },
               {
                 "vnumber": "2",
@@ -7636,7 +7636,7 @@ var Torah = {
               },
               {
                 "vnumber": "11",
-                "text": "And thus shall ye eat it; with your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste: it is Yahweh'S passover."
+                "text": "And thus shall ye eat it; with your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste: it is Yahweh's passover."
               },
               {
                 "vnumber": "12",
@@ -7692,7 +7692,7 @@ var Torah = {
               },
               {
                 "vnumber": "25",
-                "text": "And it shall come to pass, when ye be come to the land which Yahweh will give you, according as he hath promised, that ye shall keep this service."
+                "text": "And it shall come to pass, when ye be come to the land which Yahweh will give you, according as he has promised, that ye shall keep this service."
               },
               {
                 "vnumber": "26",
@@ -7700,7 +7700,7 @@ var Torah = {
               },
               {
                 "vnumber": "27",
-                "text": "That ye shall say, It is the sacrifice of Yahweh'S passover, who passed over the houses of the children of Israel in Egypt, when he smote the Egyptians, and delivered our houses. And the people bowed the head and worshipped."
+                "text": "That ye shall say, It is the sacrifice of Yahweh's passover, who passed over the houses of the children of Israel in Egypt, when he smote the Egyptians, and delivered our houses. And the people bowed the head and worshipped."
               },
               {
                 "vnumber": "28",
@@ -7805,7 +7805,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -7837,7 +7837,7 @@ var Torah = {
               },
               {
                 "vnumber": "9",
-                "text": "And it shall be for a sign unto thee upon thine hand, and for a memorial between thine eyes, that Yahweh'S law may be in thy mouth: for with a strong hand hath Yahweh brought thee out of Egypt."
+                "text": "And it shall be for a sign unto thee upon thine hand, and for a memorial between thine eyes, that Yahweh's law may be in thy mouth: for with a strong hand hath Yahweh brought thee out of Egypt."
               },
               {
                 "vnumber": "10",
@@ -7849,7 +7849,7 @@ var Torah = {
               },
               {
                 "vnumber": "12",
-                "text": "That thou shalt set apart unto Yahweh all that openeth the matrix, and every firstling that cometh of a beast which thou hast; the males shall be Yahweh'S."
+                "text": "That thou shalt set apart unto Yahweh all that openeth the matrix, and every firstling that cometh of a beast which thou hast; the males shall be Yahweh's."
               },
               {
                 "vnumber": "13",
@@ -7898,7 +7898,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -8027,7 +8027,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Then sang Moses and the children of Israel this song unto Yahweh, and spake, saying, I will sing unto Yahweh, for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea."
+                "text": "Then sang Moses and the children of Israel this song unto Yahweh, and spoke, saying, I will sing unto Yahweh, for he has triumphed gloriously: the horse and his rider hath he thrown into the sea."
               },
               {
                 "vnumber": "2",
@@ -8107,7 +8107,7 @@ var Torah = {
               },
               {
                 "vnumber": "21",
-                "text": "And Miriam answered them, Sing ye to Yahweh, for he hath triumphed gloriously; the horse and his rider hath he thrown into the sea."
+                "text": "And Miriam answered them, Sing ye to Yahweh, for he has triumphed gloriously; the horse and his rider hath he thrown into the sea."
               },
               {
                 "vnumber": "22",
@@ -8131,7 +8131,7 @@ var Torah = {
               },
               {
                 "vnumber": "27",
-                "text": "And they came to Elim, where were twelve wells of water, and threescore and ten palm trees: and they encamped there by the waters."
+                "text": "And they came to Elim, where were twelve wells of water, and seventy palm trees: and they encamped there by the waters."
               }
             ]
           },
@@ -8172,15 +8172,15 @@ var Torah = {
               },
               {
                 "vnumber": "9",
-                "text": "And Moses spake unto Aaron, Say unto all the congregation of the children of Israel, Come near before Yahweh: for he hath heard your murmurings."
+                "text": "And Moses spoke unto Aaron, Say unto all the congregation of the children of Israel, Come near before Yahweh: for he has heard your murmurings."
               },
               {
                 "vnumber": "10",
-                "text": "And it came to pass, as Aaron spake unto the whole congregation of the children of Israel, that they looked toward the wilderness, and, behold, the glory of Yahweh appeared in the cloud."
+                "text": "And it came to pass, as Aaron spoke unto the whole congregation of the children of Israel, that they looked toward the wilderness, and, behold, the glory of Yahweh appeared in the cloud."
               },
               {
                 "vnumber": "11",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "12",
@@ -8544,7 +8544,7 @@ var Torah = {
               },
               {
                 "vnumber": "19",
-                "text": "And when the voice of the trumpet sounded long, and waxed louder and louder, Moses spake, and God answered him by a voice."
+                "text": "And when the voice of the trumpet sounded long, and waxed louder and louder, Moses spoke, and God answered him by a voice."
               },
               {
                 "vnumber": "20",
@@ -8568,7 +8568,7 @@ var Torah = {
               },
               {
                 "vnumber": "25",
-                "text": "So Moses went down unto the people, and spake unto them."
+                "text": "So Moses went down unto the people, and spoke unto them."
               }
             ]
           },
@@ -8577,7 +8577,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And God spake all these words, saying,"
+                "text": "And God spoke all these words, saying,"
               },
               {
                 "vnumber": "2",
@@ -8714,7 +8714,7 @@ var Torah = {
               },
               {
                 "vnumber": "8",
-                "text": "If she please not her master, who hath betrothed her to himself, then shall he let her be redeemed: to sell her unto a strange nation he shall have no power, seeing he hath dealt deceitfully with her."
+                "text": "If she please not her master, who hath betrothed her to himself, then shall he let her be redeemed: to sell her unto a strange nation he shall have no power, seeing he has dealt deceitfully with her."
               },
               {
                 "vnumber": "9",
@@ -8798,7 +8798,7 @@ var Torah = {
               },
               {
                 "vnumber": "29",
-                "text": "But if the ox were wont to push with his horn in time past, and it hath been testified to his owner, and he hath not kept him in, but that he hath killed a man or a woman; the ox shall be stoned, and his owner also shall be put to death."
+                "text": "But if the ox were wont to push with his horn in time past, and it hath been testified to his owner, and he has not kept him in, but that he has killed a man or a woman; the ox shall be stoned, and his owner also shall be put to death."
               },
               {
                 "vnumber": "30",
@@ -8875,7 +8875,7 @@ var Torah = {
               },
               {
                 "vnumber": "11",
-                "text": "Then shall an oath of Yahweh be between them both, that he hath not put his hand unto his neighbour's goods; and the owner of it shall accept thereof, and he shall not make it good."
+                "text": "Then shall an oath of Yahweh be between them both, that he has not put his hand unto his neighbour's goods; and the owner of it shall accept thereof, and he shall not make it good."
               },
               {
                 "vnumber": "12",
@@ -9178,7 +9178,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -9585,11 +9585,11 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And take thou unto thee Aaron thy brother, and his sons with him, from among the children of Israel, that he may minister unto me in the priest's office, even Aaron, Nadab and Abihu, Eleazar and Ithamar, Aaron's sons."
+                "text": "And take thou unto thee Aaron your brother, and his sons with him, from among the children of Israel, that he may minister unto me in the priest's office, even Aaron, Nadab and Abihu, Eleazar and Ithamar, Aaron's sons."
               },
               {
                 "vnumber": "2",
-                "text": "And thou shalt make holy garments for Aaron thy brother for glory and for beauty."
+                "text": "And thou shalt make holy garments for Aaron your brother for glory and for beauty."
               },
               {
                 "vnumber": "3",
@@ -9597,7 +9597,7 @@ var Torah = {
               },
               {
                 "vnumber": "4",
-                "text": "And these are the garments which they shall make; a breastplate, and an ephod, and a robe, and a broidered coat, a mitre, and a girdle: and they shall make holy garments for Aaron thy brother, and his sons, that he may minister unto me in the priest's office."
+                "text": "And these are the garments which they shall make; a breastplate, and an ephod, and a robe, and a broidered coat, a mitre, and a girdle: and they shall make holy garments for Aaron your brother, and his sons, that he may minister unto me in the priest's office."
               },
               {
                 "vnumber": "5",
@@ -9745,7 +9745,7 @@ var Torah = {
               },
               {
                 "vnumber": "41",
-                "text": "And thou shalt put them upon Aaron thy brother, and his sons with him; and shalt anoint them, and consecrate them, and sanctify them, that they may minister unto me in the priest's office."
+                "text": "And thou shalt put them upon Aaron your brother, and his sons with him; and shalt anoint them, and consecrate them, and sanctify them, that they may minister unto me in the priest's office."
               },
               {
                 "vnumber": "42",
@@ -9991,7 +9991,7 @@ var Torah = {
               },
               {
                 "vnumber": "11",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "12",
@@ -10015,7 +10015,7 @@ var Torah = {
               },
               {
                 "vnumber": "17",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "18",
@@ -10035,7 +10035,7 @@ var Torah = {
               },
               {
                 "vnumber": "22",
-                "text": "Moreover Yahweh spake unto Moses, saying,"
+                "text": "Moreover Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "23",
@@ -10108,7 +10108,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -10152,7 +10152,7 @@ var Torah = {
               },
               {
                 "vnumber": "12",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "13",
@@ -10285,7 +10285,7 @@ var Torah = {
               },
               {
                 "vnumber": "26",
-                "text": "Then Moses stood in the gate of the camp, and said, Who is on Yahweh'S side? let him come unto me. And all the sons of Levi gathered themselves together unto him."
+                "text": "Then Moses stood in the gate of the camp, and said, Who is on Yahweh's side? let him come unto me. And all the sons of Levi gathered themselves together unto him."
               },
               {
                 "vnumber": "27",
@@ -10370,7 +10370,7 @@ var Torah = {
               },
               {
                 "vnumber": "11",
-                "text": "And Yahweh spake unto Moses face to face, as a man speaketh unto his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle."
+                "text": "And Yahweh spoke unto Moses face to face, as a man speaketh unto his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle."
               },
               {
                 "vnumber": "12",
@@ -10559,7 +10559,7 @@ var Torah = {
               },
               {
                 "vnumber": "34",
-                "text": "But when Moses went in before Yahweh to speak with him, he took the vail off, until he came out. And he came out, and spake unto the children of Israel that which he was commanded."
+                "text": "But when Moses went in before Yahweh to speak with him, he took the vail off, until he came out. And he came out, and spoke unto the children of Israel that which he was commanded."
               },
               {
                 "vnumber": "35",
@@ -10584,7 +10584,7 @@ var Torah = {
               },
               {
                 "vnumber": "4",
-                "text": "And Moses spake unto all the congregation of the children of Israel, saying, This is the thing which Yahweh commanded, saying,"
+                "text": "And Moses spoke unto all the congregation of the children of Israel, saying, This is the thing which Yahweh commanded, saying,"
               },
               {
                 "vnumber": "5",
@@ -10652,7 +10652,7 @@ var Torah = {
               },
               {
                 "vnumber": "21",
-                "text": "And they came, every one whose heart stirred him up, and every one whom his spirit made willing, and they brought Yahweh'S offering to the work of the tabernacle of the congregation, and for all his service, and for the holy garments."
+                "text": "And they came, every one whose heart stirred him up, and every one whom his spirit made willing, and they brought Yahweh's offering to the work of the tabernacle of the congregation, and for all his service, and for the holy garments."
               },
               {
                 "vnumber": "22",
@@ -10664,7 +10664,7 @@ var Torah = {
               },
               {
                 "vnumber": "24",
-                "text": "Every one that did offer an offering of silver and brass brought Yahweh'S offering: and every man, with whom was found shittim wood for any work of the service, brought it."
+                "text": "Every one that did offer an offering of silver and brass brought Yahweh's offering: and every man, with whom was found shittim wood for any work of the service, brought it."
               },
               {
                 "vnumber": "25",
@@ -10692,7 +10692,7 @@ var Torah = {
               },
               {
                 "vnumber": "31",
-                "text": "And he hath filled him with the spirit of God, in wisdom, in understanding, and in knowledge, and in all manner of workmanship;"
+                "text": "And he has filled him with the spirit of God, in wisdom, in understanding, and in knowledge, and in all manner of workmanship;"
               },
               {
                 "vnumber": "32",
@@ -10704,7 +10704,7 @@ var Torah = {
               },
               {
                 "vnumber": "34",
-                "text": "And he hath put in his heart that he may teach, both he, and Aholiab, the son of Ahisamach, of the tribe of Dan."
+                "text": "And he has put in his heart that he may teach, both he, and Aholiab, the son of Ahisamach, of the tribe of Dan."
               },
               {
                 "vnumber": "35",
@@ -10733,7 +10733,7 @@ var Torah = {
               },
               {
                 "vnumber": "5",
-                "text": "And they spake unto Moses, saying, The people bring much more than enough for the service of the work, which Yahweh commanded to make."
+                "text": "And they spoke unto Moses, saying, The people bring much more than enough for the service of the work, which Yahweh commanded to make."
               },
               {
                 "vnumber": "6",
@@ -11091,7 +11091,7 @@ var Torah = {
               },
               {
                 "vnumber": "25",
-                "text": "And the silver of them that were numbered of the congregation was an hundred talents, and a thousand seven hundred and threescore and fifteen shekels, after the shekel of the sanctuary:"
+                "text": "And the silver of them that were numbered of the congregation was an hundred talents, and one thousand, seven hundred and seventy-five shekels, after the shekel of the sanctuary:"
               },
               {
                 "vnumber": "26",
@@ -11301,7 +11301,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -11465,7 +11465,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh called unto Moses, and spake unto him out of the tabernacle of the congregation, saying,"
+                "text": "And Yahweh called unto Moses, and spoke unto him out of the tabernacle of the congregation, saying,"
               },
               {
                 "vnumber": "2",
@@ -11667,7 +11667,7 @@ var Torah = {
               },
               {
                 "vnumber": "16",
-                "text": "And the priest shall burn them upon the altar: it is the food of the offering made by fire for a sweet savour: all the fat is Yahweh'S."
+                "text": "And the priest shall burn them upon the altar: it is the food of the offering made by fire for a sweet savour: all the fat is Yahweh's."
               },
               {
                 "vnumber": "17",
@@ -11680,7 +11680,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -11688,7 +11688,7 @@ var Torah = {
               },
               {
                 "vnumber": "3",
-                "text": "If the priest that is anointed do sin according to the sin of the people; then let him bring for his sin, which he hath sinned, a young bullock without blemish unto Yahweh for a sin offering."
+                "text": "If the priest that is anointed do sin according to the sin of the people; then let him bring for his sin, which he has sinned, a young bullock without blemish unto Yahweh for a sin offering."
               },
               {
                 "vnumber": "4",
@@ -11768,7 +11768,7 @@ var Torah = {
               },
               {
                 "vnumber": "23",
-                "text": "Or if his sin, wherein he hath sinned, come to his knowledge; he shall bring his offering, a kid of the goats, a male without blemish:"
+                "text": "Or if his sin, wherein he has sinned, come to his knowledge; he shall bring his offering, a kid of the goats, a male without blemish:"
               },
               {
                 "vnumber": "24",
@@ -11788,7 +11788,7 @@ var Torah = {
               },
               {
                 "vnumber": "28",
-                "text": "Or if his sin, which he hath sinned, come to his knowledge: then he shall bring his offering, a kid of the goats, a female without blemish, for his sin which he hath sinned."
+                "text": "Or if his sin, which he has sinned, come to his knowledge: then he shall bring his offering, a kid of the goats, a female without blemish, for his sin which he has sinned."
               },
               {
                 "vnumber": "29",
@@ -11816,7 +11816,7 @@ var Torah = {
               },
               {
                 "vnumber": "35",
-                "text": "And he shall take away all the fat thereof, as the fat of the lamb is taken away from the sacrifice of the peace offerings; and the priest shall burn them upon the altar, according to the offerings made by fire unto Yahweh: and the priest shall make an atonement for his sin that he hath committed, and it shall be forgiven him."
+                "text": "And he shall take away all the fat thereof, as the fat of the lamb is taken away from the sacrifice of the peace offerings; and the priest shall burn them upon the altar, according to the offerings made by fire unto Yahweh: and the priest shall make an atonement for his sin that he has committed, and it shall be forgiven him."
               }
             ]
           },
@@ -11825,7 +11825,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And if a soul sin, and hear the voice of swearing, and is a witness, whether he hath seen or known of it; if he do not utter it, then he shall bear his iniquity."
+                "text": "And if a soul sin, and hear the voice of swearing, and is a witness, whether he has seen or known of it; if he do not utter it, then he shall bear his iniquity."
               },
               {
                 "vnumber": "2",
@@ -11841,15 +11841,15 @@ var Torah = {
               },
               {
                 "vnumber": "5",
-                "text": "And it shall be, when he shall be guilty in one of these things, that he shall confess that he hath sinned in that thing:"
+                "text": "And it shall be, when he shall be guilty in one of these things, that he shall confess that he has sinned in that thing:"
               },
               {
                 "vnumber": "6",
-                "text": "And he shall bring his trespass offering unto Yahweh for his sin which he hath sinned, a female from the flock, a lamb or a kid of the goats, for a sin offering; and the priest shall make an atonement for him concerning his sin."
+                "text": "And he shall bring his trespass offering unto Yahweh for his sin which he has sinned, a female from the flock, a lamb or a kid of the goats, for a sin offering; and the priest shall make an atonement for him concerning his sin."
               },
               {
                 "vnumber": "7",
-                "text": "And if he be not able to bring a lamb, then he shall bring for his trespass, which he hath committed, two turtledoves, or two young pigeons, unto Yahweh; one for a sin offering, and the other for a burnt offering."
+                "text": "And if he be not able to bring a lamb, then he shall bring for his trespass, which he has committed, two turtledoves, or two young pigeons, unto Yahweh; one for a sin offering, and the other for a burnt offering."
               },
               {
                 "vnumber": "8",
@@ -11861,7 +11861,7 @@ var Torah = {
               },
               {
                 "vnumber": "10",
-                "text": "And he shall offer the second for a burnt offering, according to the manner: and the priest shall make an atonement for him for his sin which he hath sinned, and it shall be forgiven him."
+                "text": "And he shall offer the second for a burnt offering, according to the manner: and the priest shall make an atonement for him for his sin which he has sinned, and it shall be forgiven him."
               },
               {
                 "vnumber": "11",
@@ -11873,11 +11873,11 @@ var Torah = {
               },
               {
                 "vnumber": "13",
-                "text": "And the priest shall make an atonement for him as touching his sin that he hath sinned in one of these, and it shall be forgiven him: and the remnant shall be the priest's, as a meat offering."
+                "text": "And the priest shall make an atonement for him as touching his sin that he has sinned in one of these, and it shall be forgiven him: and the remnant shall be the priest's, as a meat offering."
               },
               {
                 "vnumber": "14",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "15",
@@ -11885,7 +11885,7 @@ var Torah = {
               },
               {
                 "vnumber": "16",
-                "text": "And he shall make amends for the harm that he hath done in the holy thing, and shall add the fifth part thereto, and give it unto the priest: and the priest shall make an atonement for him with the ram of the trespass offering, and it shall be forgiven him."
+                "text": "And he shall make amends for the harm that he has done in the holy thing, and shall add the fifth part thereto, and give it unto the priest: and the priest shall make an atonement for him with the ram of the trespass offering, and it shall be forgiven him."
               },
               {
                 "vnumber": "17",
@@ -11897,7 +11897,7 @@ var Torah = {
               },
               {
                 "vnumber": "19",
-                "text": "It is a trespass offering: he hath certainly trespassed against Yahweh."
+                "text": "It is a trespass offering: he has certainly trespassed against Yahweh."
               }
             ]
           },
@@ -11906,7 +11906,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -11918,11 +11918,11 @@ var Torah = {
               },
               {
                 "vnumber": "4",
-                "text": "Then it shall be, because he hath sinned, and is guilty, that he shall restore that which he took violently away, or the thing which he hath deceitfully gotten, or that which was delivered him to keep, or the lost thing which he found,"
+                "text": "Then it shall be, because he has sinned, and is guilty, that he shall restore that which he took violently away, or the thing which he has deceitfully gotten, or that which was delivered him to keep, or the lost thing which he found,"
               },
               {
                 "vnumber": "5",
-                "text": "Or all that about which he hath sworn falsely; he shall even restore it in the principal, and shall add the fifth part more thereto, and give it unto him to whom it appertaineth, in the day of his trespass offering."
+                "text": "Or all that about which he has sworn falsely; he shall even restore it in the principal, and shall add the fifth part more thereto, and give it unto him to whom it appertaineth, in the day of his trespass offering."
               },
               {
                 "vnumber": "6",
@@ -11930,11 +11930,11 @@ var Torah = {
               },
               {
                 "vnumber": "7",
-                "text": "And the priest shall make an atonement for him before Yahweh: and it shall be forgiven him for any thing of all that he hath done in trespassing therein."
+                "text": "And the priest shall make an atonement for him before Yahweh: and it shall be forgiven him for any thing of all that he has done in trespassing therein."
               },
               {
                 "vnumber": "8",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "9",
@@ -11978,7 +11978,7 @@ var Torah = {
               },
               {
                 "vnumber": "19",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "20",
@@ -11998,7 +11998,7 @@ var Torah = {
               },
               {
                 "vnumber": "24",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "25",
@@ -12059,7 +12059,7 @@ var Torah = {
               },
               {
                 "vnumber": "8",
-                "text": "And the priest that offereth any man's burnt offering, even the priest shall have to himself the skin of the burnt offering which he hath offered."
+                "text": "And the priest that offereth any man's burnt offering, even the priest shall have to himself the skin of the burnt offering which he has offered."
               },
               {
                 "vnumber": "9",
@@ -12115,7 +12115,7 @@ var Torah = {
               },
               {
                 "vnumber": "22",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "23",
@@ -12139,7 +12139,7 @@ var Torah = {
               },
               {
                 "vnumber": "28",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "29",
@@ -12188,7 +12188,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -12320,7 +12320,7 @@ var Torah = {
               },
               {
                 "vnumber": "34",
-                "text": "As he hath done this day, so Yahweh hath commanded to do, to make an atonement for you."
+                "text": "As he has done this day, so Yahweh hath commanded to do, to make an atonement for you."
               },
               {
                 "vnumber": "35",
@@ -12446,7 +12446,7 @@ var Torah = {
               },
               {
                 "vnumber": "3",
-                "text": "Then Moses said unto Aaron, This is it that Yahweh spake, saying, I will be sanctified in them that come nigh me, and before all the people I will be glorified. And Aaron held his peace."
+                "text": "Then Moses said unto Aaron, This is it that Yahweh spoke, saying, I will be sanctified in them that come nigh me, and before all the people I will be glorified. And Aaron held his peace."
               },
               {
                 "vnumber": "4",
@@ -12466,7 +12466,7 @@ var Torah = {
               },
               {
                 "vnumber": "8",
-                "text": "And Yahweh spake unto Aaron, saying,"
+                "text": "And Yahweh spoke unto Aaron, saying,"
               },
               {
                 "vnumber": "9",
@@ -12482,7 +12482,7 @@ var Torah = {
               },
               {
                 "vnumber": "12",
-                "text": "And Moses spake unto Aaron, and unto Eleazar and unto Ithamar, his sons that were left, Take the meat offering that remaineth of the offerings of Yahweh made by fire, and eat it without leaven beside the altar: for it is most holy:"
+                "text": "And Moses spoke unto Aaron, and unto Eleazar and unto Ithamar, his sons that were left, Take the meat offering that remaineth of the offerings of Yahweh made by fire, and eat it without leaven beside the altar: for it is most holy:"
               },
               {
                 "vnumber": "13",
@@ -12523,7 +12523,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses and to Aaron, saying unto them,"
+                "text": "And Yahweh spoke unto Moses and to Aaron, saying unto them,"
               },
               {
                 "vnumber": "2",
@@ -12716,7 +12716,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -12732,7 +12732,7 @@ var Torah = {
               },
               {
                 "vnumber": "5",
-                "text": "But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days."
+                "text": "But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying sixty-six days."
               },
               {
                 "vnumber": "6",
@@ -12753,7 +12753,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses and Aaron, saying,"
+                "text": "And Yahweh spoke unto Moses and Aaron, saying,"
               },
               {
                 "vnumber": "2",
@@ -12777,7 +12777,7 @@ var Torah = {
               },
               {
                 "vnumber": "7",
-                "text": "But if the scab spread much abroad in the skin, after that he hath been seen of the priest for his cleansing, he shall be seen of the priest again:"
+                "text": "But if the scab spread much abroad in the skin, after that he has been seen of the priest for his cleansing, he shall be seen of the priest again:"
               },
               {
                 "vnumber": "8",
@@ -12994,7 +12994,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -13122,7 +13122,7 @@ var Torah = {
               },
               {
                 "vnumber": "33",
-                "text": "And Yahweh spake unto Moses and unto Aaron, saying,"
+                "text": "And Yahweh spoke unto Moses and unto Aaron, saying,"
               },
               {
                 "vnumber": "34",
@@ -13162,7 +13162,7 @@ var Torah = {
               },
               {
                 "vnumber": "43",
-                "text": "And if the plague come again, and break out in the house, after that he hath taken away the stones, and after he hath scraped the house, and after it is plaistered;"
+                "text": "And if the plague come again, and break out in the house, after that he has taken away the stones, and after he has scraped the house, and after it is plaistered;"
               },
               {
                 "vnumber": "44",
@@ -13227,7 +13227,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses and to Aaron, saying,"
+                "text": "And Yahweh spoke unto Moses and to Aaron, saying,"
               },
               {
                 "vnumber": "2",
@@ -13364,11 +13364,11 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses after the death of the two sons of Aaron, when they offered before Yahweh, and died;"
+                "text": "And Yahweh spoke unto Moses after the death of the two sons of Aaron, when they offered before Yahweh, and died;"
               },
               {
                 "vnumber": "2",
-                "text": "And Yahweh said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy place within the vail before the mercy seat, which is upon the ark; that he die not: for I will appear in the cloud upon the mercy seat."
+                "text": "And Yahweh said unto Moses, Speak unto Aaron your brother, that he come not at all times into the holy place within the vail before the mercy seat, which is upon the ark; that he die not: for I will appear in the cloud upon the mercy seat."
               },
               {
                 "vnumber": "3",
@@ -13396,7 +13396,7 @@ var Torah = {
               },
               {
                 "vnumber": "9",
-                "text": "And Aaron shall bring the goat upon which Yahweh'S lot fell, and offer him for a sin offering."
+                "text": "And Aaron shall bring the goat upon which Yahweh's lot fell, and offer him for a sin offering."
               },
               {
                 "vnumber": "10",
@@ -13440,7 +13440,7 @@ var Torah = {
               },
               {
                 "vnumber": "20",
-                "text": "And when he hath made an end of reconciling the holy place, and the tabernacle of the congregation, and the altar, he shall bring the live goat:"
+                "text": "And when he has made an end of reconciling the holy place, and the tabernacle of the congregation, and the altar, he shall bring the live goat:"
               },
               {
                 "vnumber": "21",
@@ -13505,7 +13505,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -13517,7 +13517,7 @@ var Torah = {
               },
               {
                 "vnumber": "4",
-                "text": "And bringeth it not unto the door of the tabernacle of the congregation, to offer an offering unto Yahweh before the tabernacle of Yahweh; blood shall be imputed unto that man; he hath shed blood; and that man shall be cut off from among his people:"
+                "text": "And bringeth it not unto the door of the tabernacle of the congregation, to offer an offering unto Yahweh before the tabernacle of Yahweh; blood shall be imputed unto that man; he has shed blood; and that man shall be cut off from among his people:"
               },
               {
                 "vnumber": "5",
@@ -13574,7 +13574,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -13634,7 +13634,7 @@ var Torah = {
               },
               {
                 "vnumber": "16",
-                "text": "You shall not uncover the nakedness of thy brother's wife: it is thy brother's nakedness."
+                "text": "You shall not uncover the nakedness of your brother's wife: it is your brother's nakedness."
               },
               {
                 "vnumber": "17",
@@ -13699,7 +13699,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -13727,7 +13727,7 @@ var Torah = {
               },
               {
                 "vnumber": "8",
-                "text": "Therefore every one that eateth it shall bear his iniquity, because he hath profaned the hallowed thing of Yahweh: and that soul shall be cut off from among his people."
+                "text": "Therefore every one that eateth it shall bear his iniquity, because he has profaned the hallowed thing of Yahweh: and that soul shall be cut off from among his people."
               },
               {
                 "vnumber": "9",
@@ -13763,7 +13763,7 @@ var Torah = {
               },
               {
                 "vnumber": "17",
-                "text": "You shall not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him."
+                "text": "You shall not hate your brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him."
               },
               {
                 "vnumber": "18",
@@ -13783,7 +13783,7 @@ var Torah = {
               },
               {
                 "vnumber": "22",
-                "text": "And the priest shall make an atonement for him with the ram of the trespass offering before Yahweh for his sin which he hath done: and the sin which he hath done shall be forgiven him."
+                "text": "And the priest shall make an atonement for him with the ram of the trespass offering before Yahweh for his sin which he has done: and the sin which he has done shall be forgiven him."
               },
               {
                 "vnumber": "23",
@@ -13852,7 +13852,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -13860,7 +13860,7 @@ var Torah = {
               },
               {
                 "vnumber": "3",
-                "text": "And I will set my face against that man, and will cut him off from among his people; because he hath given of his seed unto Molech, to defile my sanctuary, and to profane my holy name."
+                "text": "And I will set my face against that man, and will cut him off from among his people; because he has given of his seed unto Molech, to defile my sanctuary, and to profane my holy name."
               },
               {
                 "vnumber": "4",
@@ -13884,7 +13884,7 @@ var Torah = {
               },
               {
                 "vnumber": "9",
-                "text": "For every one that curseth his father or his mother shall be surely put to death: he hath cursed his father or his mother; his blood shall be upon him."
+                "text": "For every one that curseth his father or his mother shall be surely put to death: he has cursed his father or his mother; his blood shall be upon him."
               },
               {
                 "vnumber": "10",
@@ -13916,11 +13916,11 @@ var Torah = {
               },
               {
                 "vnumber": "17",
-                "text": "And if a man shall take his sister, his father's daughter, or his mother's daughter, and see her nakedness, and she see his nakedness; it is a wicked thing; and they shall be cut off in the sight of their people: he hath uncovered his sister's nakedness; he shall bear his iniquity."
+                "text": "And if a man shall take his sister, his father's daughter, or his mother's daughter, and see her nakedness, and she see his nakedness; it is a wicked thing; and they shall be cut off in the sight of their people: he has uncovered his sister's nakedness; he shall bear his iniquity."
               },
               {
                 "vnumber": "18",
-                "text": "And if a man shall lie with a woman having her sickness, and shall uncover her nakedness; he hath discovered her fountain, and she hath uncovered the fountain of her blood: and both of them shall be cut off from among their people."
+                "text": "And if a man shall lie with a woman having her sickness, and shall uncover her nakedness; he has discovered her fountain, and she has uncovered the fountain of her blood: and both of them shall be cut off from among their people."
               },
               {
                 "vnumber": "19",
@@ -13928,11 +13928,11 @@ var Torah = {
               },
               {
                 "vnumber": "20",
-                "text": "And if a man shall lie with his uncle's wife, he hath uncovered his uncle's nakedness: they shall bear their sin; they shall die childless."
+                "text": "And if a man shall lie with his uncle's wife, he has uncovered his uncle's nakedness: they shall bear their sin; they shall die childless."
               },
               {
                 "vnumber": "21",
-                "text": "And if a man shall take his brother's wife, it is an unclean thing: he hath uncovered his brother's nakedness; they shall be childless."
+                "text": "And if a man shall take his brother's wife, it is an unclean thing: he has uncovered his brother's nakedness; they shall be childless."
               },
               {
                 "vnumber": "22",
@@ -14025,7 +14025,7 @@ var Torah = {
               },
               {
                 "vnumber": "16",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "17",
@@ -14045,7 +14045,7 @@ var Torah = {
               },
               {
                 "vnumber": "21",
-                "text": "No man that hath a blemish of the seed of Aaron the priest shall come nigh to offer the offerings of Yahweh made by fire: he hath a blemish; he shall not come nigh to offer the bread of his God."
+                "text": "No man that hath a blemish of the seed of Aaron the priest shall come nigh to offer the offerings of Yahweh made by fire: he has a blemish; he shall not come nigh to offer the bread of his God."
               },
               {
                 "vnumber": "22",
@@ -14053,7 +14053,7 @@ var Torah = {
               },
               {
                 "vnumber": "23",
-                "text": "Only he shall not go in unto the vail, nor come nigh unto the altar, because he hath a blemish; that he profane not my sanctuaries: for I Yahweh do sanctify them."
+                "text": "Only he shall not go in unto the vail, nor come nigh unto the altar, because he has a blemish; that he profane not my sanctuaries: for I Yahweh do sanctify them."
               },
               {
                 "vnumber": "24",
@@ -14066,7 +14066,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -14082,7 +14082,7 @@ var Torah = {
               },
               {
                 "vnumber": "5",
-                "text": "Or whosoever toucheth any creeping thing, whereby he may be made unclean, or a man of whom he may take uncleanness, whatsoever uncleanness he hath;"
+                "text": "Or whosoever toucheth any creeping thing, whereby he may be made unclean, or a man of whom he may take uncleanness, whatsoever uncleanness he has;"
               },
               {
                 "vnumber": "6",
@@ -14130,7 +14130,7 @@ var Torah = {
               },
               {
                 "vnumber": "17",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "18",
@@ -14166,7 +14166,7 @@ var Torah = {
               },
               {
                 "vnumber": "26",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "27",
@@ -14203,7 +14203,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -14219,7 +14219,7 @@ var Torah = {
               },
               {
                 "vnumber": "5",
-                "text": "In the fourteenth day of the first month at even is Yahweh'S passover."
+                "text": "In the fourteenth day of the first month at even is Yahweh's passover."
               },
               {
                 "vnumber": "6",
@@ -14235,7 +14235,7 @@ var Torah = {
               },
               {
                 "vnumber": "9",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "10",
@@ -14291,7 +14291,7 @@ var Torah = {
               },
               {
                 "vnumber": "23",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "24",
@@ -14303,7 +14303,7 @@ var Torah = {
               },
               {
                 "vnumber": "26",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "27",
@@ -14331,7 +14331,7 @@ var Torah = {
               },
               {
                 "vnumber": "33",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "34",
@@ -14384,7 +14384,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -14432,7 +14432,7 @@ var Torah = {
               },
               {
                 "vnumber": "13",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "14",
@@ -14456,11 +14456,11 @@ var Torah = {
               },
               {
                 "vnumber": "19",
-                "text": "And if a man cause a blemish in his neighbour; as he hath done, so shall it be done to him;"
+                "text": "And if a man cause a blemish in his neighbour; as he has done, so shall it be done to him;"
               },
               {
                 "vnumber": "20",
-                "text": "Breach for breach, eye for eye, tooth for tooth: as he hath caused a blemish in a man, so shall it be done to him again."
+                "text": "Breach for breach, eye for eye, tooth for tooth: as he has caused a blemish in a man, so shall it be done to him again."
               },
               {
                 "vnumber": "21",
@@ -14472,7 +14472,7 @@ var Torah = {
               },
               {
                 "vnumber": "23",
-                "text": "And Moses spake to the children of Israel, that they should bring forth him that had cursed out of the camp, and stone him with stones. And the children of Israel did as Yahweh commanded Moses."
+                "text": "And Moses spoke to the children of Israel, that they should bring forth him that had cursed out of the camp, and stone him with stones. And the children of Israel did as Yahweh commanded Moses."
               }
             ]
           },
@@ -14481,7 +14481,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses in mount Sinai, saying,"
+                "text": "And Yahweh spoke unto Moses in mount Sinai, saying,"
               },
               {
                 "vnumber": "2",
@@ -14577,7 +14577,7 @@ var Torah = {
               },
               {
                 "vnumber": "25",
-                "text": "If thy brother be waxen poor, and hath sold away some of his possession, and if any of his kin come to redeem it, then shall he redeem that which his brother sold."
+                "text": "If your brother be waxen poor, and hath sold away some of his possession, and if any of his kin come to redeem it, then shall he redeem that which his brother sold."
               },
               {
                 "vnumber": "26",
@@ -14617,11 +14617,11 @@ var Torah = {
               },
               {
                 "vnumber": "35",
-                "text": "And if thy brother be waxen poor, and fallen in decay with thee; then thou shalt relieve him: yea, though he be a stranger, or a sojourner; that he may live with thee."
+                "text": "And if your brother be waxen poor, and fallen in decay with thee; then thou shalt relieve him: yea, though he be a stranger, or a sojourner; that he may live with thee."
               },
               {
                 "vnumber": "36",
-                "text": "Take thou no usury of him, or increase: but fear thy God; that thy brother may live with thee."
+                "text": "Take thou no usury of him, or increase: but fear thy God; that your brother may live with thee."
               },
               {
                 "vnumber": "37",
@@ -14633,7 +14633,7 @@ var Torah = {
               },
               {
                 "vnumber": "39",
-                "text": "And if thy brother that dwelleth by thee be waxen poor, and be sold unto thee; you shall not compel him to serve as a bondservant:"
+                "text": "And if your brother that dwelleth by thee be waxen poor, and be sold unto thee; you shall not compel him to serve as a bondservant:"
               },
               {
                 "vnumber": "40",
@@ -14665,7 +14665,7 @@ var Torah = {
               },
               {
                 "vnumber": "47",
-                "text": "And if a sojourner or stranger wax rich by thee, and thy brother that dwelleth by him wax poor, and sell himself unto the stranger or sojourner by thee, or to the stock of the stranger's family:"
+                "text": "And if a sojourner or stranger wax rich by thee, and your brother that dwelleth by him wax poor, and sell himself unto the stranger or sojourner by thee, or to the stock of the stranger's family:"
               },
               {
                 "vnumber": "48",
@@ -14896,7 +14896,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -14980,7 +14980,7 @@ var Torah = {
               },
               {
                 "vnumber": "22",
-                "text": "And if a man sanctify unto Yahweh a field which he hath bought, which is not of the fields of his possession;"
+                "text": "And if a man sanctify unto Yahweh a field which he has bought, which is not of the fields of his possession;"
               },
               {
                 "vnumber": "23",
@@ -14996,7 +14996,7 @@ var Torah = {
               },
               {
                 "vnumber": "26",
-                "text": "Only the firstling of the beasts, which should be Yahweh'S firstling, no man shall sanctify it; whether it be ox, or sheep: it is Yahweh'S."
+                "text": "Only the firstling of the beasts, which should be Yahweh's firstling, no man shall sanctify it; whether it be ox, or sheep: it is Yahweh's."
               },
               {
                 "vnumber": "27",
@@ -15004,7 +15004,7 @@ var Torah = {
               },
               {
                 "vnumber": "28",
-                "text": "Notwithstanding no devoted thing, that a man shall devote unto Yahweh of all that he hath, both of man and beast, and of the field of his possession, shall be sold or redeemed: every devoted thing is most holy unto Yahweh."
+                "text": "Notwithstanding no devoted thing, that a man shall devote unto Yahweh of all that he has, both of man and beast, and of the field of his possession, shall be sold or redeemed: every devoted thing is most holy unto Yahweh."
               },
               {
                 "vnumber": "29",
@@ -15012,7 +15012,7 @@ var Torah = {
               },
               {
                 "vnumber": "30",
-                "text": "And all the tithe of the land, whether of the seed of the land, or of the fruit of the tree, is Yahweh'S: it is holy unto Yahweh."
+                "text": "And all the tithe of the land, whether of the seed of the land, or of the fruit of the tree, is Yahweh's: it is holy unto Yahweh."
               },
               {
                 "vnumber": "31",
@@ -15044,7 +15044,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying,"
+                "text": "And Yahweh spoke unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying,"
               },
               {
                 "vnumber": "2",
@@ -15148,7 +15148,7 @@ var Torah = {
               },
               {
                 "vnumber": "27",
-                "text": "Those that were numbered of them, even of the tribe of Judah, were threescore and fourteen thousand and six hundred."
+                "text": "Those that were numbered of them, even of the tribe of Judah, were seventy-four thousand and six hundred."
               },
               {
                 "vnumber": "28",
@@ -15196,7 +15196,7 @@ var Torah = {
               },
               {
                 "vnumber": "39",
-                "text": "Those that were numbered of them, even of the tribe of Dan, were threescore and two thousand and seven hundred."
+                "text": "Those that were numbered of them, even of the tribe of Dan, were sixty-two thousand and seven hundred."
               },
               {
                 "vnumber": "40",
@@ -15265,7 +15265,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses and unto Aaron, saying,"
+                "text": "And Yahweh spoke unto Moses and unto Aaron, saying,"
               },
               {
                 "vnumber": "2",
@@ -15277,7 +15277,7 @@ var Torah = {
               },
               {
                 "vnumber": "4",
-                "text": "And his host, and those that were numbered of them, were threescore and fourteen thousand and six hundred."
+                "text": "And his host, and those that were numbered of them, were seventy-four thousand and six hundred."
               },
               {
                 "vnumber": "5",
@@ -15297,7 +15297,7 @@ var Torah = {
               },
               {
                 "vnumber": "9",
-                "text": "All that were numbered in the camp of Judah were an hundred thousand and fourscore thousand and six thousand and four hundred, throughout their armies. These shall first set forth."
+                "text": "All that were numbered in the camp of Judah were one hundred thousand, and eighty thousand and six thousand and four hundred, throughout their armies. These shall first set forth."
               },
               {
                 "vnumber": "10",
@@ -15365,7 +15365,7 @@ var Torah = {
               },
               {
                 "vnumber": "26",
-                "text": "And his host, and those that were numbered of them, were threescore and two thousand and seven hundred."
+                "text": "And his host, and those that were numbered of them, were sixty-two thousand and seven hundred."
               },
               {
                 "vnumber": "27",
@@ -15406,7 +15406,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "These also are the generations of Aaron and Moses in the day that Yahweh spake with Moses in mount Sinai."
+                "text": "These also are the generations of Aaron and Moses in the day that Yahweh spoke with Moses in mount Sinai."
               },
               {
                 "vnumber": "2",
@@ -15422,7 +15422,7 @@ var Torah = {
               },
               {
                 "vnumber": "5",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "6",
@@ -15446,7 +15446,7 @@ var Torah = {
               },
               {
                 "vnumber": "11",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "12",
@@ -15458,7 +15458,7 @@ var Torah = {
               },
               {
                 "vnumber": "14",
-                "text": "And Yahweh spake unto Moses in the wilderness of Sinai, saying,"
+                "text": "And Yahweh spoke unto Moses in the wilderness of Sinai, saying,"
               },
               {
                 "vnumber": "15",
@@ -15574,11 +15574,11 @@ var Torah = {
               },
               {
                 "vnumber": "43",
-                "text": "And all the firstborn males by the number of names, from a month old and upward, of those that were numbered of them, were twenty and two thousand two hundred and threescore and thirteen."
+                "text": "And all the firstborn males by the number of names, from a month old and upward, of those that were numbered of them, were twenty and two thousand two hundred and sixty and thirteen."
               },
               {
                 "vnumber": "44",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "45",
@@ -15586,7 +15586,7 @@ var Torah = {
               },
               {
                 "vnumber": "46",
-                "text": "And for those that are to be redeemed of the two hundred and threescore and thirteen of the firstborn of the children of Israel, which are more than the Levites;"
+                "text": "And for those that are to be redeemed of the two hundred and seventy-three of the firstborn of the children of Israel, which are more than the Levites;"
               },
               {
                 "vnumber": "47",
@@ -15602,7 +15602,7 @@ var Torah = {
               },
               {
                 "vnumber": "50",
-                "text": "Of the firstborn of the children of Israel took he the money; a thousand three hundred and threescore and five shekels, after the shekel of the sanctuary:"
+                "text": "Of the firstborn of the children of Israel took he the money; a thousand three hundred and sixty-five shekels, after the shekel of the sanctuary:"
               },
               {
                 "vnumber": "51",
@@ -15615,7 +15615,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses and unto Aaron, saying,"
+                "text": "And Yahweh spoke unto Moses and unto Aaron, saying,"
               },
               {
                 "vnumber": "2",
@@ -15679,7 +15679,7 @@ var Torah = {
               },
               {
                 "vnumber": "17",
-                "text": "And Yahweh spake unto Moses and unto Aaron, saying,"
+                "text": "And Yahweh spoke unto Moses and unto Aaron, saying,"
               },
               {
                 "vnumber": "18",
@@ -15695,7 +15695,7 @@ var Torah = {
               },
               {
                 "vnumber": "21",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "22",
@@ -15803,7 +15803,7 @@ var Torah = {
               },
               {
                 "vnumber": "48",
-                "text": "Even those that were numbered of them, were eight thousand and five hundred and fourscore."
+                "text": "Even those that were numbered of them, were eight thousand and five hundred and eighty."
               },
               {
                 "vnumber": "49",
@@ -15816,7 +15816,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -15828,11 +15828,11 @@ var Torah = {
               },
               {
                 "vnumber": "4",
-                "text": "And the children of Israel did so, and put them out without the camp: as Yahweh spake unto Moses, so did the children of Israel."
+                "text": "And the children of Israel did so, and put them out without the camp: as Yahweh spoke unto Moses, so did the children of Israel."
               },
               {
                 "vnumber": "5",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "6",
@@ -15840,7 +15840,7 @@ var Torah = {
               },
               {
                 "vnumber": "7",
-                "text": "Then they shall confess their sin which they have done: and he shall recompense his trespass with the principal thereof, and add unto it the fifth part thereof, and give it unto him against whom he hath trespassed."
+                "text": "Then they shall confess their sin which they have done: and he shall recompense his trespass with the principal thereof, and add unto it the fifth part thereof, and give it unto him against whom he has trespassed."
               },
               {
                 "vnumber": "8",
@@ -15856,7 +15856,7 @@ var Torah = {
               },
               {
                 "vnumber": "11",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "12",
@@ -15920,7 +15920,7 @@ var Torah = {
               },
               {
                 "vnumber": "27",
-                "text": "And when he hath made her to drink the water, then it shall come to pass, that, if she be defiled, and have done trespass against her husband, that the water that causeth the curse shall enter into her, and become bitter, and her belly shall swell, and her thigh shall rot: and the woman shall be a curse among her people."
+                "text": "And when he has made her to drink the water, then it shall come to pass, that, if she be defiled, and have done trespass against her husband, that the water that causeth the curse shall enter into her, and become bitter, and her belly shall swell, and her thigh shall rot: and the woman shall be a curse among her people."
               },
               {
                 "vnumber": "28",
@@ -15945,7 +15945,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -15977,7 +15977,7 @@ var Torah = {
               },
               {
                 "vnumber": "9",
-                "text": "And if any man die very suddenly by him, and he hath defiled the head of his consecration; then he shall shave his head in the day of his cleansing, on the seventh day shall he shave it."
+                "text": "And if any man die very suddenly by him, and he has defiled the head of his consecration; then he shall shave his head in the day of his cleansing, on the seventh day shall he shave it."
               },
               {
                 "vnumber": "10",
@@ -16029,7 +16029,7 @@ var Torah = {
               },
               {
                 "vnumber": "22",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "23",
@@ -16070,7 +16070,7 @@ var Torah = {
               },
               {
                 "vnumber": "4",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "5",
@@ -16410,7 +16410,7 @@ var Torah = {
               },
               {
                 "vnumber": "89",
-                "text": "And when Moses was gone into the tabernacle of the congregation to speak with him, then he heard the voice of one speaking unto him from off the mercy seat that was upon the ark of testimony, from between the two cherubims: and he spake unto him."
+                "text": "And when Moses was gone into the tabernacle of the congregation to speak with him, then he heard the voice of one speaking unto him from off the mercy seat that was upon the ark of testimony, from between the two cherubims: and he spoke unto him."
               }
             ]
           },
@@ -16419,7 +16419,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -16435,7 +16435,7 @@ var Torah = {
               },
               {
                 "vnumber": "5",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "6",
@@ -16507,7 +16507,7 @@ var Torah = {
               },
               {
                 "vnumber": "23",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "24",
@@ -16528,7 +16528,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying,"
+                "text": "And Yahweh spoke unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying,"
               },
               {
                 "vnumber": "2",
@@ -16540,7 +16540,7 @@ var Torah = {
               },
               {
                 "vnumber": "4",
-                "text": "And Moses spake unto the children of Israel, that they should keep the passover."
+                "text": "And Moses spoke unto the children of Israel, that they should keep the passover."
               },
               {
                 "vnumber": "5",
@@ -16560,7 +16560,7 @@ var Torah = {
               },
               {
                 "vnumber": "9",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "10",
@@ -16625,7 +16625,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -16862,7 +16862,7 @@ var Torah = {
               },
               {
                 "vnumber": "23",
-                "text": "And Yahweh said unto Moses, Is Yahweh'S hand waxed short? thou shalt see now whether my word shall come to pass unto thee or not."
+                "text": "And Yahweh said unto Moses, Is Yahweh's hand waxed short? thou shalt see now whether my word shall come to pass unto thee or not."
               },
               {
                 "vnumber": "24",
@@ -16870,7 +16870,7 @@ var Torah = {
               },
               {
                 "vnumber": "25",
-                "text": "And Yahweh came down in a cloud, and spake unto him, and took of the spirit that was upon him, and gave it unto the seventy elders: and it came to pass, that, when the spirit rested upon them, they prophesied, and did not cease."
+                "text": "And Yahweh came down in a cloud, and spoke unto him, and took of the spirit that was upon him, and gave it unto the seventy elders: and it came to pass, that, when the spirit rested upon them, they prophesied, and did not cease."
               },
               {
                 "vnumber": "26",
@@ -16886,7 +16886,7 @@ var Torah = {
               },
               {
                 "vnumber": "29",
-                "text": "And Moses said unto him, Enviest thou for my sake? would God that all Yahweh'S people were prophets, and that Yahweh would put his spirit upon them!"
+                "text": "And Moses said unto him, Enviest thou for my sake? would God that all Yahweh's people were prophets, and that Yahweh would put his spirit upon them!"
               },
               {
                 "vnumber": "30",
@@ -16919,7 +16919,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman."
+                "text": "And Miriam and Aaron spoke against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman."
               },
               {
                 "vnumber": "2",
@@ -16931,7 +16931,7 @@ var Torah = {
               },
               {
                 "vnumber": "4",
-                "text": "And Yahweh spake suddenly unto Moses, and unto Aaron, and unto Miriam, Come out ye three unto the tabernacle of the congregation. And they three came out."
+                "text": "And Yahweh spoke suddenly unto Moses, and unto Aaron, and unto Miriam, Come out ye three unto the tabernacle of the congregation. And they three came out."
               },
               {
                 "vnumber": "5",
@@ -16988,7 +16988,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -17149,7 +17149,7 @@ var Torah = {
               },
               {
                 "vnumber": "7",
-                "text": "And they spake unto all the company of the children of Israel, saying, The land, which we passed through to search it, is an exceeding good land."
+                "text": "And they spoke unto all the company of the children of Israel, saying, The land, which we passed through to search it, is an exceeding good land."
               },
               {
                 "vnumber": "8",
@@ -17185,7 +17185,7 @@ var Torah = {
               },
               {
                 "vnumber": "16",
-                "text": "Because Yahweh was not able to bring this people into the land which he sware unto them, therefore he hath slain them in the wilderness."
+                "text": "Because Yahweh was not able to bring this people into the land which he sware unto them, therefore he has slain them in the wilderness."
               },
               {
                 "vnumber": "17",
@@ -17225,7 +17225,7 @@ var Torah = {
               },
               {
                 "vnumber": "26",
-                "text": "And Yahweh spake unto Moses and unto Aaron, saying,"
+                "text": "And Yahweh spoke unto Moses and unto Aaron, saying,"
               },
               {
                 "vnumber": "27",
@@ -17310,7 +17310,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -17374,7 +17374,7 @@ var Torah = {
               },
               {
                 "vnumber": "17",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "18",
@@ -17430,7 +17430,7 @@ var Torah = {
               },
               {
                 "vnumber": "31",
-                "text": "Because he hath despised the word of Yahweh, and hath broken his commandment, that soul shall utterly be cut off; his iniquity shall be upon him."
+                "text": "Because he has despised the word of Yahweh, and hath broken his commandment, that soul shall utterly be cut off; his iniquity shall be upon him."
               },
               {
                 "vnumber": "32",
@@ -17454,7 +17454,7 @@ var Torah = {
               },
               {
                 "vnumber": "37",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "38",
@@ -17495,7 +17495,7 @@ var Torah = {
               },
               {
                 "vnumber": "5",
-                "text": "And he spake unto Korah and unto all his company, saying, Even to morrow Yahweh will shew who are his, and who is holy; and will cause him to come near unto him: even him whom he hath chosen will he cause to come near unto him."
+                "text": "And he spoke unto Korah and unto all his company, saying, Even to morrow Yahweh will shew who are his, and who is holy; and will cause him to come near unto him: even him whom he has chosen will he cause to come near unto him."
               },
               {
                 "vnumber": "6",
@@ -17515,7 +17515,7 @@ var Torah = {
               },
               {
                 "vnumber": "10",
-                "text": "And he hath brought thee near to him, and all thy brethren the sons of Levi with thee: and seek ye the priesthood also?"
+                "text": "And he has brought thee near to him, and all thy brethren the sons of Levi with thee: and seek ye the priesthood also?"
               },
               {
                 "vnumber": "11",
@@ -17555,7 +17555,7 @@ var Torah = {
               },
               {
                 "vnumber": "20",
-                "text": "And Yahweh spake unto Moses and unto Aaron, saying,"
+                "text": "And Yahweh spoke unto Moses and unto Aaron, saying,"
               },
               {
                 "vnumber": "21",
@@ -17567,7 +17567,7 @@ var Torah = {
               },
               {
                 "vnumber": "23",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "24",
@@ -17579,7 +17579,7 @@ var Torah = {
               },
               {
                 "vnumber": "26",
-                "text": "And he spake unto the congregation, saying, Depart, I pray you, from the tents of these wicked men, and touch nothing of theirs, lest ye be consumed in all their sins."
+                "text": "And he spoke unto the congregation, saying, Depart, I pray you, from the tents of these wicked men, and touch nothing of theirs, lest ye be consumed in all their sins."
               },
               {
                 "vnumber": "27",
@@ -17619,7 +17619,7 @@ var Torah = {
               },
               {
                 "vnumber": "36",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "37",
@@ -17651,7 +17651,7 @@ var Torah = {
               },
               {
                 "vnumber": "44",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "45",
@@ -17684,7 +17684,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -17704,7 +17704,7 @@ var Torah = {
               },
               {
                 "vnumber": "6",
-                "text": "And Moses spake unto the children of Israel, and every one of their princes gave him a rod apiece, for each prince one, according to their fathers' houses, even twelve rods: and the rod of Aaron was among their rods."
+                "text": "And Moses spoke unto the children of Israel, and every one of their princes gave him a rod apiece, for each prince one, according to their fathers' houses, even twelve rods: and the rod of Aaron was among their rods."
               },
               {
                 "vnumber": "7",
@@ -17728,7 +17728,7 @@ var Torah = {
               },
               {
                 "vnumber": "12",
-                "text": "And the children of Israel spake unto Moses, saying, Behold, we die, we perish, we all perish."
+                "text": "And the children of Israel spoke unto Moses, saying, Behold, we die, we perish, we all perish."
               },
               {
                 "vnumber": "13",
@@ -17769,7 +17769,7 @@ var Torah = {
               },
               {
                 "vnumber": "8",
-                "text": "And Yahweh spake unto Aaron, Behold, I also have given thee the charge of mine heave offerings of all the hallowed things of the children of Israel; unto thee have I given them by reason of the anointing, and to thy sons, by an ordinance for ever."
+                "text": "And Yahweh spoke unto Aaron, Behold, I also have given thee the charge of mine heave offerings of all the hallowed things of the children of Israel; unto thee have I given them by reason of the anointing, and to thy sons, by an ordinance for ever."
               },
               {
                 "vnumber": "9",
@@ -17817,7 +17817,7 @@ var Torah = {
               },
               {
                 "vnumber": "20",
-                "text": "And Yahweh spake unto Aaron, Thou shalt have no inheritance in their land, neither shalt thou have any part among them: I am thy part and thine inheritance among the children of Israel."
+                "text": "And Yahweh spoke unto Aaron, Thou shalt have no inheritance in their land, neither shalt thou have any part among them: I am thy part and thine inheritance among the children of Israel."
               },
               {
                 "vnumber": "21",
@@ -17837,7 +17837,7 @@ var Torah = {
               },
               {
                 "vnumber": "25",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "26",
@@ -17849,7 +17849,7 @@ var Torah = {
               },
               {
                 "vnumber": "28",
-                "text": "Thus ye also shall offer an heave offering unto Yahweh of all your tithes, which ye receive of the children of Israel; and ye shall give thereof Yahweh'S heave offering to Aaron the priest."
+                "text": "Thus ye also shall offer an heave offering unto Yahweh of all your tithes, which ye receive of the children of Israel; and ye shall give thereof Yahweh's heave offering to Aaron the priest."
               },
               {
                 "vnumber": "29",
@@ -17874,7 +17874,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses and unto Aaron, saying,"
+                "text": "And Yahweh spoke unto Moses and unto Aaron, saying,"
               },
               {
                 "vnumber": "2",
@@ -17950,7 +17950,7 @@ var Torah = {
               },
               {
                 "vnumber": "20",
-                "text": "But the man that shall be unclean, and shall not purify himself, that soul shall be cut off from among the congregation, because he hath defiled the sanctuary of Yahweh: the water of separation hath not been sprinkled upon him; he is unclean."
+                "text": "But the man that shall be unclean, and shall not purify himself, that soul shall be cut off from among the congregation, because he has defiled the sanctuary of Yahweh: the water of separation hath not been sprinkled upon him; he is unclean."
               },
               {
                 "vnumber": "21",
@@ -17975,7 +17975,7 @@ var Torah = {
               },
               {
                 "vnumber": "3",
-                "text": "And the people chode with Moses, and spake, saying, Would God that we had died when our brethren died before Yahweh!"
+                "text": "And the people chode with Moses, and spoke, saying, Would God that we had died when our brethren died before Yahweh!"
               },
               {
                 "vnumber": "4",
@@ -17991,11 +17991,11 @@ var Torah = {
               },
               {
                 "vnumber": "7",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "8",
-                "text": "Take the rod, and gather thou the assembly together, thou, and Aaron thy brother, and speak ye unto the rock before their eyes; and it shall give forth his water, and thou shalt bring forth to them water out of the rock: so thou shalt give the congregation and their beasts drink."
+                "text": "Take the rod, and gather thou the assembly together, thou, and Aaron your brother, and speak ye unto the rock before their eyes; and it shall give forth his water, and thou shalt bring forth to them water out of the rock: so thou shalt give the congregation and their beasts drink."
               },
               {
                 "vnumber": "9",
@@ -18011,7 +18011,7 @@ var Torah = {
               },
               {
                 "vnumber": "12",
-                "text": "And Yahweh spake unto Moses and Aaron, Because ye believed me not, to sanctify me in the eyes of the children of Israel, therefore you shall not bring this congregation into the land which I have given them."
+                "text": "And Yahweh spoke unto Moses and Aaron, Because ye believed me not, to sanctify me in the eyes of the children of Israel, therefore you shall not bring this congregation into the land which I have given them."
               },
               {
                 "vnumber": "13",
@@ -18019,7 +18019,7 @@ var Torah = {
               },
               {
                 "vnumber": "14",
-                "text": "And Moses sent messengers from Kadesh unto the king of Edom, Thus saith thy brother Israel, Thou knowest all the travail that hath befallen us:"
+                "text": "And Moses sent messengers from Kadesh unto the king of Edom, Thus saith your brother Israel, Thou knowest all the travail that hath befallen us:"
               },
               {
                 "vnumber": "15",
@@ -18055,7 +18055,7 @@ var Torah = {
               },
               {
                 "vnumber": "23",
-                "text": "And Yahweh spake unto Moses and Aaron in mount Hor, by the coast of the land of Edom, saying,"
+                "text": "And Yahweh spoke unto Moses and Aaron in mount Hor, by the coast of the land of Edom, saying,"
               },
               {
                 "vnumber": "24",
@@ -18104,7 +18104,7 @@ var Torah = {
               },
               {
                 "vnumber": "5",
-                "text": "And the people spake against God, and against Moses, Wherefore have ye brought us up out of Egypt to die in the wilderness? for there is no bread, neither is there any water; and our soul loatheth this light bread."
+                "text": "And the people spoke against God, and against Moses, Wherefore have ye brought us up out of Egypt to die in the wilderness? for there is no bread, neither is there any water; and our soul loatheth this light bread."
               },
               {
                 "vnumber": "6",
@@ -18148,7 +18148,7 @@ var Torah = {
               },
               {
                 "vnumber": "16",
-                "text": "And from thence they went to Beer: that is the well whereof Yahweh spake unto Moses, Gather the people together, and I will give them water."
+                "text": "And from thence they went to Beer: that is the well whereof Yahweh spoke unto Moses, Gather the people together, and I will give them water."
               },
               {
                 "vnumber": "17",
@@ -18200,7 +18200,7 @@ var Torah = {
               },
               {
                 "vnumber": "29",
-                "text": "Woe to thee, Moab! thou art undone, O people of Chemosh: he hath given his sons that escaped, and his daughters, into captivity unto Sihon king of the Amorites."
+                "text": "Woe to thee, Moab! thou art undone, O people of Chemosh: he has given his sons that escaped, and his daughters, into captivity unto Sihon king of the Amorites."
               },
               {
                 "vnumber": "30",
@@ -18257,7 +18257,7 @@ var Torah = {
               },
               {
                 "vnumber": "7",
-                "text": "And the elders of Moab and the elders of Midian departed with the rewards of divination in their hand; and they came unto Balaam, and spake unto him the words of Balak."
+                "text": "And the elders of Moab and the elders of Midian departed with the rewards of divination in their hand; and they came unto Balaam, and spoke unto him the words of Balak."
               },
               {
                 "vnumber": "8",
@@ -18478,15 +18478,15 @@ var Torah = {
               },
               {
                 "vnumber": "20",
-                "text": "Behold, I have received commandment to bless: and he hath blessed; and I cannot reverse it."
+                "text": "Behold, I have received commandment to bless: and he has blessed; and I cannot reverse it."
               },
               {
                 "vnumber": "21",
-                "text": "He hath not beheld iniquity in Jacob, neither hath he seen perverseness in Israel: Yahweh his God is with him, and the shout of a king is among them."
+                "text": "He has not beheld iniquity in Jacob, neither hath he seen perverseness in Israel: Yahweh his God is with him, and the shout of a king is among them."
               },
               {
                 "vnumber": "22",
-                "text": "God brought them out of Egypt; he hath as it were the strength of an unicorn."
+                "text": "God brought them out of Egypt; he has as it were the strength of an unicorn."
               },
               {
                 "vnumber": "23",
@@ -18557,7 +18557,7 @@ var Torah = {
               },
               {
                 "vnumber": "8",
-                "text": "God brought him forth out of Egypt; he hath as it were the strength of an unicorn: he shall eat up the nations his enemies, and shall break their bones, and pierce them through with his arrows."
+                "text": "God brought him forth out of Egypt; he has as it were the strength of an unicorn: he shall eat up the nations his enemies, and shall break their bones, and pierce them through with his arrows."
               },
               {
                 "vnumber": "9",
@@ -18589,7 +18589,7 @@ var Torah = {
               },
               {
                 "vnumber": "16",
-                "text": "He hath said, which heard the words of God, and knew the knowledge of ELYON, who saw the vision of SHADDAI, falling into a trance, but having his eyes open:"
+                "text": "He has said, which heard the words of God, and knew the knowledge of ELYON, who saw the vision of SHADDAI, falling into a trance, but having his eyes open:"
               },
               {
                 "vnumber": "17",
@@ -18670,7 +18670,7 @@ var Torah = {
               },
               {
                 "vnumber": "10",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "11",
@@ -18694,7 +18694,7 @@ var Torah = {
               },
               {
                 "vnumber": "16",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "17",
@@ -18711,7 +18711,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And it came to pass after the plague, that Yahweh spake unto Moses and unto Eleazar the son of Aaron the priest, saying,"
+                "text": "And it came to pass after the plague, that Yahweh spoke unto Moses and unto Eleazar the son of Aaron the priest, saying,"
               },
               {
                 "vnumber": "2",
@@ -18719,7 +18719,7 @@ var Torah = {
               },
               {
                 "vnumber": "3",
-                "text": "And Moses and Eleazar the priest spake with them in the plains of Moab by Jordan near Jericho, saying,"
+                "text": "And Moses and Eleazar the priest spoke with them in the plains of Moab by Jordan near Jericho, saying,"
               },
               {
                 "vnumber": "4",
@@ -18795,7 +18795,7 @@ var Torah = {
               },
               {
                 "vnumber": "22",
-                "text": "These are the families of Judah according to those that were numbered of them, threescore and sixteen thousand and five hundred."
+                "text": "These are the families of Judah according to those that were numbered of them, seventy-six thousand and five hundred."
               },
               {
                 "vnumber": "23",
@@ -18807,7 +18807,7 @@ var Torah = {
               },
               {
                 "vnumber": "25",
-                "text": "These are the families of Issachar according to those that were numbered of them, threescore and four thousand and three hundred."
+                "text": "These are the families of Issachar according to those that were numbered of them, sixty-four thousand and three hundred."
               },
               {
                 "vnumber": "26",
@@ -18815,7 +18815,7 @@ var Torah = {
               },
               {
                 "vnumber": "27",
-                "text": "These are the families of the Zebulunites according to those that were numbered of them, threescore thousand and five hundred."
+                "text": "These are the families of the Zebulunites according to those that were numbered of them, sixty thousand and five hundred."
               },
               {
                 "vnumber": "28",
@@ -18879,7 +18879,7 @@ var Torah = {
               },
               {
                 "vnumber": "43",
-                "text": "All the families of the Shuhamites, according to those that were numbered of them, were threescore and four thousand and four hundred."
+                "text": "All the families of the Shuhamites, according to those that were numbered of them, were sixty-four thousand and four hundred."
               },
               {
                 "vnumber": "44",
@@ -18915,7 +18915,7 @@ var Torah = {
               },
               {
                 "vnumber": "52",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "53",
@@ -18988,7 +18988,7 @@ var Torah = {
               },
               {
                 "vnumber": "4",
-                "text": "Why should the name of our father be done away from among his family, because he hath no son? Give unto us therefore a possession among the brethren of our father."
+                "text": "Why should the name of our father be done away from among his family, because he has no son? Give unto us therefore a possession among the brethren of our father."
               },
               {
                 "vnumber": "5",
@@ -18996,7 +18996,7 @@ var Torah = {
               },
               {
                 "vnumber": "6",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "7",
@@ -19024,7 +19024,7 @@ var Torah = {
               },
               {
                 "vnumber": "13",
-                "text": "And when thou hast seen it, thou also shalt be gathered unto thy people, as Aaron thy brother was gathered."
+                "text": "And when thou hast seen it, thou also shalt be gathered unto thy people, as Aaron your brother was gathered."
               },
               {
                 "vnumber": "14",
@@ -19032,7 +19032,7 @@ var Torah = {
               },
               {
                 "vnumber": "15",
-                "text": "And Moses spake unto Yahweh, saying,"
+                "text": "And Moses spoke unto Yahweh, saying,"
               },
               {
                 "vnumber": "16",
@@ -19073,7 +19073,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -19367,7 +19367,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Moses spake unto the heads of the tribes concerning the children of Israel, saying, This is the thing which Yahweh hath commanded."
+                "text": "And Moses spoke unto the heads of the tribes concerning the children of Israel, saying, This is the thing which Yahweh hath commanded."
               },
               {
                 "vnumber": "2",
@@ -19379,11 +19379,11 @@ var Torah = {
               },
               {
                 "vnumber": "4",
-                "text": "And her father hear her vow, and her bond wherewith she hath bound her soul, and her father shall hold his peace at her: then all her vows shall stand, and every bond wherewith she hath bound her soul shall stand."
+                "text": "And her father hear her vow, and her bond wherewith she has bound her soul, and her father shall hold his peace at her: then all her vows shall stand, and every bond wherewith she has bound her soul shall stand."
               },
               {
                 "vnumber": "5",
-                "text": "But if her father disallow her in the day that he heareth; not any of her vows, or of her bonds wherewith she hath bound her soul, shall stand: and Yahweh shall forgive her, because her father disallowed her."
+                "text": "But if her father disallow her in the day that he heareth; not any of her vows, or of her bonds wherewith she has bound her soul, shall stand: and Yahweh shall forgive her, because her father disallowed her."
               },
               {
                 "vnumber": "6",
@@ -19423,7 +19423,7 @@ var Torah = {
               },
               {
                 "vnumber": "15",
-                "text": "But if he shall any ways make them void after that he hath heard them; then he shall bear her iniquity."
+                "text": "But if he shall any ways make them void after that he has heard them; then he shall bear her iniquity."
               },
               {
                 "vnumber": "16",
@@ -19436,7 +19436,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -19444,7 +19444,7 @@ var Torah = {
               },
               {
                 "vnumber": "3",
-                "text": "And Moses spake unto the people, saying, Arm some of yourselves unto the war, and let them go against the Midianites, and avenge Yahweh of Midian."
+                "text": "And Moses spoke unto the people, saying, Arm some of yourselves unto the war, and let them go against the Midianites, and avenge Yahweh of Midian."
               },
               {
                 "vnumber": "4",
@@ -19532,7 +19532,7 @@ var Torah = {
               },
               {
                 "vnumber": "25",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "26",
@@ -19564,11 +19564,11 @@ var Torah = {
               },
               {
                 "vnumber": "33",
-                "text": "And threescore and twelve thousand beeves,"
+                "text": "And seventy-two thousand beeves,"
               },
               {
                 "vnumber": "34",
-                "text": "And threescore and one thousand asses,"
+                "text": "And sixty-one thousand donkeys,"
               },
               {
                 "vnumber": "35",
@@ -19580,23 +19580,23 @@ var Torah = {
               },
               {
                 "vnumber": "37",
-                "text": "And Yahweh'S tribute of the sheep was six hundred and threescore and fifteen."
+                "text": "And Yahweh's tribute of the sheep was six hundred and seventy-five."
               },
               {
                 "vnumber": "38",
-                "text": "And the beeves were thirty and six thousand; of which Yahweh'S tribute was threescore and twelve."
+                "text": "And the beeves were thirty and six thousand; of which Yahweh's tribute was seventy-two."
               },
               {
                 "vnumber": "39",
-                "text": "And the asses were thirty thousand and five hundred; of which Yahweh'S tribute was threescore and one."
+                "text": "And the donkeys were thirty thousand and five hundred; of which Yahweh's tribute was sixty-one."
               },
               {
                 "vnumber": "40",
-                "text": "And the persons were sixteen thousand; of which Yahweh'S tribute was thirty and two persons."
+                "text": "And the persons were sixteen thousand; of which Yahweh's tribute was thirty and two persons."
               },
               {
                 "vnumber": "41",
-                "text": "And Moses gave the tribute, which was Yahweh'S heave offering, unto Eleazar the priest, as Yahweh commanded Moses."
+                "text": "And Moses gave the tribute, which was Yahweh's heave offering, unto Eleazar the priest, as Yahweh commanded Moses."
               },
               {
                 "vnumber": "42",
@@ -19661,7 +19661,7 @@ var Torah = {
               },
               {
                 "vnumber": "2",
-                "text": "The children of Gad and the children of Reuben came and spake unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying,"
+                "text": "The children of Gad and the children of Reuben came and spoke unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying,"
               },
               {
                 "vnumber": "3",
@@ -19693,7 +19693,7 @@ var Torah = {
               },
               {
                 "vnumber": "10",
-                "text": "And Yahweh'S anger was kindled the same time, and he sware, saying,"
+                "text": "And Yahweh's anger was kindled the same time, and he sware, saying,"
               },
               {
                 "vnumber": "11",
@@ -19705,7 +19705,7 @@ var Torah = {
               },
               {
                 "vnumber": "13",
-                "text": "And Yahweh'S anger was kindled against Israel, and he made them wander in the wilderness forty years, until all the generation, that had done evil in the sight of Yahweh, was consumed."
+                "text": "And Yahweh's anger was kindled against Israel, and he made them wander in the wilderness forty years, until all the generation, that had done evil in the sight of Yahweh, was consumed."
               },
               {
                 "vnumber": "14",
@@ -19737,7 +19737,7 @@ var Torah = {
               },
               {
                 "vnumber": "21",
-                "text": "And will go all of you armed over Jordan before Yahweh, until he hath driven out his enemies from before him,"
+                "text": "And will go all of you armed over Jordan before Yahweh, until he has driven out his enemies from before him,"
               },
               {
                 "vnumber": "22",
@@ -19753,7 +19753,7 @@ var Torah = {
               },
               {
                 "vnumber": "25",
-                "text": "And the children of Gad and the children of Reuben spake unto Moses, saying, Thy servants will do as my lord commandeth."
+                "text": "And the children of Gad and the children of Reuben spoke unto Moses, saying, Thy servants will do as my lord commandeth."
               },
               {
                 "vnumber": "26",
@@ -19862,7 +19862,7 @@ var Torah = {
               },
               {
                 "vnumber": "9",
-                "text": "And they removed from Marah, and came unto Elim: and in Elim were twelve fountains of water, and threescore and ten palm trees; and they pitched there."
+                "text": "And they removed from Marah, and came unto Elim: and in Elim were twelve fountains of water, and seventy palm trees; and they pitched there."
               },
               {
                 "vnumber": "10",
@@ -20026,7 +20026,7 @@ var Torah = {
               },
               {
                 "vnumber": "50",
-                "text": "And Yahweh spake unto Moses in the plains of Moab by Jordan near Jericho, saying,"
+                "text": "And Yahweh spoke unto Moses in the plains of Moab by Jordan near Jericho, saying,"
               },
               {
                 "vnumber": "51",
@@ -20059,7 +20059,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "2",
@@ -20119,7 +20119,7 @@ var Torah = {
               },
               {
                 "vnumber": "16",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "17",
@@ -20180,7 +20180,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Yahweh spake unto Moses in the plains of Moab by Jordan near Jericho, saying,"
+                "text": "And Yahweh spoke unto Moses in the plains of Moab by Jordan near Jericho, saying,"
               },
               {
                 "vnumber": "2",
@@ -20212,7 +20212,7 @@ var Torah = {
               },
               {
                 "vnumber": "9",
-                "text": "And Yahweh spake unto Moses, saying,"
+                "text": "And Yahweh spoke unto Moses, saying,"
               },
               {
                 "vnumber": "10",
@@ -20321,7 +20321,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And the chief fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the chief fathers of the children of Israel:"
+                "text": "And the chief fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spoke before Moses, and before the princes, the chief fathers of the children of Israel:"
               },
               {
                 "vnumber": "2",
@@ -20385,7 +20385,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "These be the words which Moses spake unto all Israel on this side Jordan in the wilderness, in the plain over against the Red sea, between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab."
+                "text": "These be the words which Moses spoke unto all Israel on this side Jordan in the wilderness, in the plain over against the Red sea, between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab."
               },
               {
                 "vnumber": "2",
@@ -20393,7 +20393,7 @@ var Torah = {
               },
               {
                 "vnumber": "3",
-                "text": "And it came to pass in the fortieth year, in the eleventh month, on the first day of the month, that Moses spake unto the children of Israel, according unto all that Yahweh had given him in commandment unto them;"
+                "text": "And it came to pass in the fortieth year, in the eleventh month, on the first day of the month, that Moses spoke unto the children of Israel, according unto all that Yahweh had given him in commandment unto them;"
               },
               {
                 "vnumber": "4",
@@ -20405,7 +20405,7 @@ var Torah = {
               },
               {
                 "vnumber": "6",
-                "text": "Yahweh our God spake unto us in Horeb, saying, Ye have dwelt long enough in this mount:"
+                "text": "Yahweh our God spoke unto us in Horeb, saying, Ye have dwelt long enough in this mount:"
               },
               {
                 "vnumber": "7",
@@ -20417,7 +20417,7 @@ var Torah = {
               },
               {
                 "vnumber": "9",
-                "text": "And I spake unto you at that time, saying, I am not able to bear you myself alone:"
+                "text": "And I spoke unto you at that time, saying, I am not able to bear you myself alone:"
               },
               {
                 "vnumber": "10",
@@ -20425,7 +20425,7 @@ var Torah = {
               },
               {
                 "vnumber": "11",
-                "text": "(Yahweh God of your fathers make you a thousand times so many more as ye are, and bless you, as he hath promised you!)"
+                "text": "(Yahweh God of your fathers make you a thousand times so many more as ye are, and bless you, as he has promised you!)"
               },
               {
                 "vnumber": "12",
@@ -20489,7 +20489,7 @@ var Torah = {
               },
               {
                 "vnumber": "27",
-                "text": "And ye murmured in your tents, and said, Because Yahweh hated us, he hath brought us forth out of the land of Egypt, to deliver us into the hand of the Amorites, to destroy us."
+                "text": "And ye murmured in your tents, and said, Because Yahweh hated us, he has brought us forth out of the land of Egypt, to deliver us into the hand of the Amorites, to destroy us."
               },
               {
                 "vnumber": "28",
@@ -20525,7 +20525,7 @@ var Torah = {
               },
               {
                 "vnumber": "36",
-                "text": "Save Caleb the son of Jephunneh; he shall see it, and to him will I give the land that he hath trodden upon, and to his children, because he hath wholly followed Yahweh."
+                "text": "Save Caleb the son of Jephunneh; he shall see it, and to him will I give the land that he has trodden upon, and to his children, because he has wholly followed Yahweh."
               },
               {
                 "vnumber": "37",
@@ -20553,7 +20553,7 @@ var Torah = {
               },
               {
                 "vnumber": "43",
-                "text": "So I spake unto you; and ye would not hear, but rebelled against the commandment of Yahweh, and went presumptuously up into the hill."
+                "text": "So I spoke unto you; and ye would not hear, but rebelled against the commandment of Yahweh, and went presumptuously up into the hill."
               },
               {
                 "vnumber": "44",
@@ -20574,11 +20574,11 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Then we turned, and took our journey into the wilderness by the way of the Red sea, as Yahweh spake unto me: and we compassed mount Seir many days."
+                "text": "Then we turned, and took our journey into the wilderness by the way of the Red sea, as Yahweh spoke unto me: and we compassed mount Seir many days."
               },
               {
                 "vnumber": "2",
-                "text": "And Yahweh spake unto me, saying,"
+                "text": "And Yahweh spoke unto me, saying,"
               },
               {
                 "vnumber": "3",
@@ -20638,7 +20638,7 @@ var Torah = {
               },
               {
                 "vnumber": "17",
-                "text": "That Yahweh spake unto me, saying,"
+                "text": "That Yahweh spoke unto me, saying,"
               },
               {
                 "vnumber": "18",
@@ -20739,7 +20739,7 @@ var Torah = {
               },
               {
                 "vnumber": "4",
-                "text": "And we took all his cities at that time, there was not a city which we took not from them, threescore cities, all the region of Argob, the kingdom of Og in Bashan."
+                "text": "And we took all his cities at that time, there was not a city which we took not from them, sixty cities, all the region of Argob, the kingdom of Og in Bashan."
               },
               {
                 "vnumber": "5",
@@ -20892,7 +20892,7 @@ var Torah = {
               },
               {
                 "vnumber": "12",
-                "text": "And Yahweh spake unto you out of the midst of the fire: ye heard the voice of the words, but saw no similitude; only ye heard a voice."
+                "text": "And Yahweh spoke unto you out of the midst of the fire: ye heard the voice of the words, but saw no similitude; only ye heard a voice."
               },
               {
                 "vnumber": "13",
@@ -20904,7 +20904,7 @@ var Torah = {
               },
               {
                 "vnumber": "15",
-                "text": "Take ye therefore good heed unto yourselves; for ye saw no manner of similitude on the day that Yahweh spake unto you in Horeb out of the midst of the fire:"
+                "text": "Take ye therefore good heed unto yourselves; for ye saw no manner of similitude on the day that Yahweh spoke unto you in Horeb out of the midst of the fire:"
               },
               {
                 "vnumber": "16",
@@ -21024,7 +21024,7 @@ var Torah = {
               },
               {
                 "vnumber": "45",
-                "text": "These are the testimonies, and the statutes, and the judgments, which Moses spake unto the children of Israel, after they came forth out of Egypt,"
+                "text": "These are the testimonies, and the statutes, and the judgments, which Moses spoke unto the children of Israel, after they came forth out of Egypt,"
               },
               {
                 "vnumber": "46",
@@ -21133,7 +21133,7 @@ var Torah = {
               },
               {
                 "vnumber": "22",
-                "text": "These words Yahweh spake unto all your assembly in the mount out of the midst of the fire, of the cloud, and of the thick darkness, with a great voice: and he added no more. And he wrote them in two tables of stone, and delivered them unto me."
+                "text": "These words Yahweh spoke unto all your assembly in the mount out of the midst of the fire, of the cloud, and of the thick darkness, with a great voice: and he added no more. And he wrote them in two tables of stone, and delivered them unto me."
               },
               {
                 "vnumber": "23",
@@ -21157,7 +21157,7 @@ var Torah = {
               },
               {
                 "vnumber": "28",
-                "text": "And Yahweh heard the voice of your words, when ye spake unto me; and Yahweh said unto me, I have heard the voice of the words of this people, which they have spoken unto thee: they have well said all that they have spoken."
+                "text": "And Yahweh heard the voice of your words, when ye spoke unto me; and Yahweh said unto me, I have heard the voice of the words of this people, which they have spoken unto thee: they have well said all that they have spoken."
               },
               {
                 "vnumber": "29",
@@ -21251,7 +21251,7 @@ var Torah = {
               },
               {
                 "vnumber": "17",
-                "text": "Ye shall diligently keep the commandments of Yahweh your God, and his testimonies, and his statutes, which he hath commanded thee."
+                "text": "Ye shall diligently keep the commandments of Yahweh your God, and his testimonies, and his statutes, which he has commanded thee."
               },
               {
                 "vnumber": "18",
@@ -21283,7 +21283,7 @@ var Torah = {
               },
               {
                 "vnumber": "25",
-                "text": "And it shall be our righteousness, if we observe to do all these commandments before Yahweh our God, as he hath commanded us."
+                "text": "And it shall be our righteousness, if we observe to do all these commandments before Yahweh our God, as he has commanded us."
               }
             ]
           },
@@ -21437,7 +21437,7 @@ var Torah = {
               },
               {
                 "vnumber": "10",
-                "text": "When thou hast eaten and art full, then thou shalt bless Yahweh your God for the good land which he hath given thee."
+                "text": "When thou hast eaten and art full, then thou shalt bless Yahweh your God for the good land which he has given thee."
               },
               {
                 "vnumber": "11",
@@ -21522,7 +21522,7 @@ var Torah = {
               },
               {
                 "vnumber": "10",
-                "text": "And Yahweh delivered unto me two tables of stone written with the finger of God; and on them was written according to all the words, which Yahweh spake with you in the mount out of the midst of the fire in the day of the assembly."
+                "text": "And Yahweh delivered unto me two tables of stone written with the finger of God; and on them was written according to all the words, which Yahweh spoke with you in the mount out of the midst of the fire in the day of the assembly."
               },
               {
                 "vnumber": "11",
@@ -21534,7 +21534,7 @@ var Torah = {
               },
               {
                 "vnumber": "13",
-                "text": "Furthermore Yahweh spake unto me, saying, I have seen this people, and, behold, it is a stiffnecked people:"
+                "text": "Furthermore Yahweh spoke unto me, saying, I have seen this people, and, behold, it is a stiffnecked people:"
               },
               {
                 "vnumber": "14",
@@ -21594,7 +21594,7 @@ var Torah = {
               },
               {
                 "vnumber": "28",
-                "text": "Lest the land whence thou broughtest us out say, Because Yahweh was not able to bring them into the land which he promised them, and because he hated them, he hath brought them out to slay them in the wilderness."
+                "text": "Lest the land whence thou broughtest us out say, Because Yahweh was not able to bring them into the land which he promised them, and because he hated them, he has brought them out to slay them in the wilderness."
               },
               {
                 "vnumber": "29",
@@ -21619,7 +21619,7 @@ var Torah = {
               },
               {
                 "vnumber": "4",
-                "text": "And he wrote on the tables, according to the first writing, the ten commandments, which Yahweh spake unto you in the mount out of the midst of the fire in the day of the assembly: and Yahweh gave them unto me."
+                "text": "And he wrote on the tables, according to the first writing, the ten commandments, which Yahweh spoke unto you in the mount out of the midst of the fire in the day of the assembly: and Yahweh gave them unto me."
               },
               {
                 "vnumber": "5",
@@ -21659,7 +21659,7 @@ var Torah = {
               },
               {
                 "vnumber": "14",
-                "text": "Behold, the heaven and the heaven of heavens is Yahweh'S thy God, the earth also, with all that therein is."
+                "text": "Behold, the heaven and the heaven of heavens is Yahweh's thy God, the earth also, with all that therein is."
               },
               {
                 "vnumber": "15",
@@ -21691,7 +21691,7 @@ var Torah = {
               },
               {
                 "vnumber": "22",
-                "text": "Thy fathers went down into Egypt with threescore and ten persons; and now Yahweh your God hath made thee as the stars of heaven for multitude."
+                "text": "Your ancestors went down into Egypt with seventy people; and now Yahweh your God has made you as the stars of heaven for multitude."
               }
             ]
           },
@@ -21700,7 +21700,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Therefore thou shalt love Yahweh your God, and keep his charge, and his statutes, and his judgments, and his commandments, alway."
+                "text": "Therefore you shall love Yahweh your God, and keep his charge, and his statutes, and his judgments, and his commandments, alway."
               },
               {
                 "vnumber": "2",
@@ -21764,7 +21764,7 @@ var Torah = {
               },
               {
                 "vnumber": "17",
-                "text": "And then Yahweh'S wrath be kindled against you, and he shut up the heaven, that there be no rain, and that the land yield not her fruit; and lest ye perish quickly from off the good land which Yahweh giveth you."
+                "text": "And then Yahweh's wrath be kindled against you, and he shut up the heaven, that there be no rain, and that the land yield not her fruit; and lest ye perish quickly from off the good land which Yahweh giveth you."
               },
               {
                 "vnumber": "18",
@@ -21796,7 +21796,7 @@ var Torah = {
               },
               {
                 "vnumber": "25",
-                "text": "There shall no man be able to stand before you: for Yahweh your God shall lay the fear of you and the dread of you upon all the land that ye shall tread upon, as he hath said unto you."
+                "text": "There shall no man be able to stand before you: for Yahweh your God shall lay the fear of you and the dread of you upon all the land that ye shall tread upon, as he has said unto you."
               },
               {
                 "vnumber": "26",
@@ -21877,7 +21877,7 @@ var Torah = {
               },
               {
                 "vnumber": "12",
-                "text": "And ye shall rejoice before Yahweh your God, ye, and your sons, and your daughters, and your menservants, and your maidservants, and the Levite that is within your gates; forasmuch as he hath no part nor inheritance with you."
+                "text": "And ye shall rejoice before Yahweh your God, ye, and your sons, and your daughters, and your menservants, and your maidservants, and the Levite that is within your gates; forasmuch as he has no part nor inheritance with you."
               },
               {
                 "vnumber": "13",
@@ -21889,7 +21889,7 @@ var Torah = {
               },
               {
                 "vnumber": "15",
-                "text": "Notwithstanding you may kill and eat flesh in all thy gates, whatsoever thy soul lusteth after, according to the blessing of Yahweh your God which he hath given thee: the unclean and the clean may eat thereof, as of the roebuck, and as of the hart."
+                "text": "Notwithstanding you may kill and eat flesh in all thy gates, whatsoever thy soul lusteth after, according to the blessing of Yahweh your God which he has given thee: the unclean and the clean may eat thereof, as of the roebuck, and as of the hart."
               },
               {
                 "vnumber": "16",
@@ -21909,7 +21909,7 @@ var Torah = {
               },
               {
                 "vnumber": "20",
-                "text": "When Yahweh your God shall enlarge thy border, as he hath promised thee, and thou shalt say, I will eat flesh, because thy soul longeth to eat flesh; you may eat flesh, whatsoever thy soul lusteth after."
+                "text": "When Yahweh your God shall enlarge thy border, as he has promised thee, and thou shalt say, I will eat flesh, because thy soul longeth to eat flesh; you may eat flesh, whatsoever thy soul lusteth after."
               },
               {
                 "vnumber": "21",
@@ -21970,7 +21970,7 @@ var Torah = {
               },
               {
                 "vnumber": "2",
-                "text": "And the sign or the wonder come to pass, whereof he spake unto thee, saying, Let us go after other gods, which thou hast not known, and let us serve them;"
+                "text": "And the sign or the wonder come to pass, whereof he spoke unto thee, saying, Let us go after other gods, which thou hast not known, and let us serve them;"
               },
               {
                 "vnumber": "3",
@@ -21982,11 +21982,11 @@ var Torah = {
               },
               {
                 "vnumber": "5",
-                "text": "And that prophet, or that dreamer of dreams, shall be put to death; because he hath spoken to turn you away from Yahweh your God, which brought you out of the land of Egypt, and redeemed you out of the house of bondage, to thrust thee out of the way which Yahweh your God commanded thee to walk in. So shalt thou put the evil away from the midst of thee."
+                "text": "And that prophet, or that dreamer of dreams, shall be put to death; because he has spoken to turn you away from Yahweh your God, which brought you out of the land of Egypt, and redeemed you out of the house of bondage, to thrust thee out of the way which Yahweh your God commanded thee to walk in. So shalt thou put the evil away from the midst of thee."
               },
               {
                 "vnumber": "6",
-                "text": "If thy brother, the son of thy mother, or thy son, or thy daughter, or the wife of thy bosom, or thy friend, which is as thine own soul, entice thee secretly, saying, Let us go and serve other gods, which thou hast not known, thou, nor thy fathers;"
+                "text": "If your brother, the son of thy mother, or thy son, or thy daughter, or the wife of thy bosom, or thy friend, which is as thine own soul, entice thee secretly, saying, Let us go and serve other gods, which thou hast not known, thou, nor thy fathers;"
               },
               {
                 "vnumber": "7",
@@ -22002,7 +22002,7 @@ var Torah = {
               },
               {
                 "vnumber": "10",
-                "text": "And thou shalt stone him with stones, that he die; because he hath sought to thrust thee away from Yahweh your God, which brought thee out of the land of Egypt, from the house of bondage."
+                "text": "And thou shalt stone him with stones, that he die; because he has sought to thrust thee away from Yahweh your God, which brought thee out of the land of Egypt, from the house of bondage."
               },
               {
                 "vnumber": "11",
@@ -22030,7 +22030,7 @@ var Torah = {
               },
               {
                 "vnumber": "17",
-                "text": "And there shall cleave nought of the cursed thing to thine hand: that Yahweh may turn from the fierceness of his anger, and shew thee mercy, and have compassion upon thee, and multiply thee, as he hath sworn unto thy fathers;"
+                "text": "And there shall cleave nought of the cursed thing to thine hand: that Yahweh may turn from the fierceness of his anger, and shew thee mercy, and have compassion upon thee, and multiply thee, as he has sworn unto thy fathers;"
               },
               {
                 "vnumber": "18",
@@ -22147,7 +22147,7 @@ var Torah = {
               },
               {
                 "vnumber": "27",
-                "text": "And the Levite that is within thy gates; you shall not forsake him; for he hath no part nor inheritance with thee."
+                "text": "And the Levite that is within thy gates; you shall not forsake him; for he has no part nor inheritance with thee."
               },
               {
                 "vnumber": "28",
@@ -22155,7 +22155,7 @@ var Torah = {
               },
               {
                 "vnumber": "29",
-                "text": "And the Levite, (because he hath no part nor inheritance with thee,) and the stranger, and the fatherless, and the widow, which are within thy gates, shall come, and shall eat and be satisfied; that Yahweh your God may bless thee in all the work of thine hand which thou doest."
+                "text": "And the Levite, (because he has no part nor inheritance with thee,) and the stranger, and the fatherless, and the widow, which are within thy gates, shall come, and shall eat and be satisfied; that Yahweh your God may bless thee in all the work of thine hand which thou doest."
               }
             ]
           },
@@ -22168,11 +22168,11 @@ var Torah = {
               },
               {
                 "vnumber": "2",
-                "text": "And this is the manner of the release: Every creditor that lendeth ought unto his neighbour shall release it; he shall not exact it of his neighbour, or of his brother; because it is called Yahweh'S release."
+                "text": "And this is the manner of the release: Every creditor that lendeth ought unto his neighbour shall release it; he shall not exact it of his neighbour, or of his brother; because it is called Yahweh's release."
               },
               {
                 "vnumber": "3",
-                "text": "Of a foreigner you may exact it again: but that which is thine with thy brother thine hand shall release;"
+                "text": "Of a foreigner you may exact it again: but that which is thine with your brother thine hand shall release;"
               },
               {
                 "vnumber": "4",
@@ -22204,11 +22204,11 @@ var Torah = {
               },
               {
                 "vnumber": "11",
-                "text": "For the poor shall never cease out of the land: therefore I command thee, saying, Thou shalt open thine hand wide unto thy brother, to thy poor, and to thy needy, in thy land."
+                "text": "For the poor shall never cease out of the land: therefore I command thee, saying, Thou shalt open thine hand wide unto your brother, to thy poor, and to thy needy, in thy land."
               },
               {
                 "vnumber": "12",
-                "text": "And if thy brother, an Hebrew man, or an Hebrew woman, be sold unto thee, and serve thee six years; then in the seventh year thou shalt let him go free from thee."
+                "text": "And if your brother, an Hebrew man, or an Hebrew woman, be sold unto thee, and serve thee six years; then in the seventh year thou shalt let him go free from thee."
               },
               {
                 "vnumber": "13",
@@ -22232,7 +22232,7 @@ var Torah = {
               },
               {
                 "vnumber": "18",
-                "text": "It shall not seem hard unto thee, when thou sendest him away free from thee; for he hath been worth a double hired servant to thee, in serving thee six years: and Yahweh your God shall bless thee in all that thou doest."
+                "text": "It shall not seem hard unto thee, when thou sendest him away free from thee; for he has been worth a double hired servant to thee, in serving thee six years: and Yahweh your God shall bless thee in all that thou doest."
               },
               {
                 "vnumber": "19",
@@ -22325,7 +22325,7 @@ var Torah = {
               },
               {
                 "vnumber": "17",
-                "text": "Every man shall give as he is able, according to the blessing of Yahweh your God which he hath given thee."
+                "text": "Every man shall give as he is able, according to the blessing of Yahweh your God which he has given thee."
               },
               {
                 "vnumber": "18",
@@ -22410,7 +22410,7 @@ var Torah = {
               },
               {
                 "vnumber": "15",
-                "text": "Thou shalt in any wise set him king over thee, whom Yahweh your God shall choose: one from among thy brethren shalt thou set king over thee: you may not set a stranger over thee, which is not thy brother."
+                "text": "Thou shalt in any wise set him king over thee, whom Yahweh your God shall choose: one from among thy brethren shalt thou set king over thee: you may not set a stranger over thee, which is not your brother."
               },
               {
                 "vnumber": "16",
@@ -22443,7 +22443,7 @@ var Torah = {
               },
               {
                 "vnumber": "2",
-                "text": "Therefore shall they have no inheritance among their brethren: Yahweh is their inheritance, as he hath said unto them."
+                "text": "Therefore shall they have no inheritance among their brethren: Yahweh is their inheritance, as he has said unto them."
               },
               {
                 "vnumber": "3",
@@ -22560,7 +22560,7 @@ var Torah = {
               },
               {
                 "vnumber": "8",
-                "text": "And if Yahweh your God enlarge thy coast, as he hath sworn unto thy fathers, and give thee all the land which he promised to give unto thy fathers;"
+                "text": "And if Yahweh your God enlarge thy coast, as he has sworn unto thy fathers, and give thee all the land which he promised to give unto thy fathers;"
               },
               {
                 "vnumber": "9",
@@ -22766,11 +22766,11 @@ var Torah = {
               },
               {
                 "vnumber": "16",
-                "text": "Then it shall be, when he maketh his sons to inherit that which he hath, that he may not make the son of the beloved firstborn before the son of the hated, which is indeed the firstborn:"
+                "text": "Then it shall be, when he maketh his sons to inherit that which he has, that he may not make the son of the beloved firstborn before the son of the hated, which is indeed the firstborn:"
               },
               {
                 "vnumber": "17",
-                "text": "But he shall acknowledge the son of the hated for the firstborn, by giving him a double portion of all that he hath: for he is the beginning of his strength; the right of the firstborn is his."
+                "text": "But he shall acknowledge the son of the hated for the firstborn, by giving him a double portion of all that he has: for he is the beginning of his strength; the right of the firstborn is his."
               },
               {
                 "vnumber": "18",
@@ -22803,19 +22803,19 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "You shall not see thy brother's ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother."
+                "text": "You shall not see your brother's ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto your brother."
               },
               {
                 "vnumber": "2",
-                "text": "And if thy brother be not nigh unto thee, or if thou know him not, then thou shalt bring it unto thine own house, and it shall be with thee until thy brother seek after it, and thou shalt restore it to him again."
+                "text": "And if your brother be not nigh unto thee, or if thou know him not, then thou shalt bring it unto thine own house, and it shall be with thee until your brother seek after it, and thou shalt restore it to him again."
               },
               {
                 "vnumber": "3",
-                "text": "In like manner shalt thou do with his ass; and so shalt thou do with his raiment; and with all lost thing of thy brother's, which he hath lost, and thou hast found, shalt thou do likewise: you may not hide thyself."
+                "text": "In like manner shalt thou do with his ass; and so shalt thou do with his raiment; and with all lost thing of your brother's, which he has lost, and thou hast found, shalt thou do likewise: you may not hide thyself."
               },
               {
                 "vnumber": "4",
-                "text": "You shall not see thy brother's ass or his ox fall down by the way, and hide thyself from them: thou shalt surely help him to lift them up again."
+                "text": "You shall not see your brother's ass or his ox fall down by the way, and hide thyself from them: thou shalt surely help him to lift them up again."
               },
               {
                 "vnumber": "5",
@@ -22867,7 +22867,7 @@ var Torah = {
               },
               {
                 "vnumber": "17",
-                "text": "And, lo, he hath given occasions of speech against her, saying, I found not thy daughter a maid; and yet these are the tokens of my daughter's virginity. And they shall spread the cloth before the elders of the city."
+                "text": "And, lo, he has given occasions of speech against her, saying, I found not thy daughter a maid; and yet these are the tokens of my daughter's virginity. And they shall spread the cloth before the elders of the city."
               },
               {
                 "vnumber": "18",
@@ -22875,7 +22875,7 @@ var Torah = {
               },
               {
                 "vnumber": "19",
-                "text": "And they shall amerce him in an hundred shekels of silver, and give them unto the father of the damsel, because he hath brought up an evil name upon a virgin of Israel: and she shall be his wife; he may not put her away all his days."
+                "text": "And they shall amerce him in an hundred shekels of silver, and give them unto the father of the damsel, because he has brought up an evil name upon a virgin of Israel: and she shall be his wife; he may not put her away all his days."
               },
               {
                 "vnumber": "20",
@@ -22883,7 +22883,7 @@ var Torah = {
               },
               {
                 "vnumber": "21",
-                "text": "Then they shall bring out the damsel to the door of her father's house, and the men of her city shall stone her with stones that she die: because she hath wrought folly in Israel, to play the whore in her father's house: so shalt thou put evil away from among you."
+                "text": "Then they shall bring out the damsel to the door of her father's house, and the men of her city shall stone her with stones that she die: because she has wrought folly in Israel, to play the whore in her father's house: so shalt thou put evil away from among you."
               },
               {
                 "vnumber": "22",
@@ -22895,7 +22895,7 @@ var Torah = {
               },
               {
                 "vnumber": "24",
-                "text": "Then ye shall bring them both out unto the gate of that city, and ye shall stone them with stones that they die; the damsel, because she cried not, being in the city; and the man, because he hath humbled his neighbour's wife: so thou shalt put away evil from among you."
+                "text": "Then ye shall bring them both out unto the gate of that city, and ye shall stone them with stones that they die; the damsel, because she cried not, being in the city; and the man, because he has humbled his neighbour's wife: so thou shalt put away evil from among you."
               },
               {
                 "vnumber": "25",
@@ -22915,7 +22915,7 @@ var Torah = {
               },
               {
                 "vnumber": "29",
-                "text": "Then the man that lay with her shall give unto the damsel's father fifty shekels of silver, and she shall be his wife; because he hath humbled her, he may not put her away all his days."
+                "text": "Then the man that lay with her shall give unto the damsel's father fifty shekels of silver, and she shall be his wife; because he has humbled her, he may not put her away all his days."
               },
               {
                 "vnumber": "30",
@@ -22952,7 +22952,7 @@ var Torah = {
               },
               {
                 "vnumber": "7",
-                "text": "You shall not abhor an Edomite; for he is thy brother: you shall not abhor an Egyptian; because thou wast a stranger in his land."
+                "text": "You shall not abhor an Edomite; for he is your brother: you shall not abhor an Egyptian; because thou wast a stranger in his land."
               },
               {
                 "vnumber": "8",
@@ -23000,11 +23000,11 @@ var Torah = {
               },
               {
                 "vnumber": "19",
-                "text": "You shall not lend upon usury to thy brother; usury of money, usury of victuals, usury of any thing that is lent upon usury:"
+                "text": "You shall not lend upon usury to your brother; usury of money, usury of victuals, usury of any thing that is lent upon usury:"
               },
               {
                 "vnumber": "20",
-                "text": "Unto a stranger you may lend upon usury; but unto thy brother you shall not lend upon usury: that Yahweh your God may bless thee in all that thou settest thine hand to in the land whither thou goest to possess it."
+                "text": "Unto a stranger you may lend upon usury; but unto your brother you shall not lend upon usury: that Yahweh your God may bless thee in all that thou settest thine hand to in the land whither thou goest to possess it."
               },
               {
                 "vnumber": "21",
@@ -23033,7 +23033,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "When a man hath taken a wife, and married her, and it come to pass that she find no favour in his eyes, because he hath found some uncleanness in her: then let him write her a bill of divorcement, and give it in her hand, and send her out of his house."
+                "text": "When a man hath taken a wife, and married her, and it come to pass that she find no favour in his eyes, because he has found some uncleanness in her: then let him write her a bill of divorcement, and give it in her hand, and send her out of his house."
               },
               {
                 "vnumber": "2",
@@ -23049,7 +23049,7 @@ var Torah = {
               },
               {
                 "vnumber": "5",
-                "text": "When a man hath taken a new wife, he shall not go out to war, neither shall he be charged with any business: but he shall be free at home one year, and shall cheer up his wife which he hath taken."
+                "text": "When a man hath taken a new wife, he shall not go out to war, neither shall he be charged with any business: but he shall be free at home one year, and shall cheer up his wife which he has taken."
               },
               {
                 "vnumber": "6",
@@ -23069,7 +23069,7 @@ var Torah = {
               },
               {
                 "vnumber": "10",
-                "text": "When thou dost lend thy brother any thing, you shall not go into his house to fetch his pledge."
+                "text": "When thou dost lend your brother any thing, you shall not go into his house to fetch his pledge."
               },
               {
                 "vnumber": "11",
@@ -23134,7 +23134,7 @@ var Torah = {
               },
               {
                 "vnumber": "3",
-                "text": "Forty stripes he may give him, and not exceed: lest, if he should exceed, and beat him above these with many stripes, then thy brother should seem vile unto thee."
+                "text": "Forty stripes he may give him, and not exceed: lest, if he should exceed, and beat him above these with many stripes, then your brother should seem vile unto thee."
               },
               {
                 "vnumber": "4",
@@ -23239,7 +23239,7 @@ var Torah = {
               },
               {
                 "vnumber": "9",
-                "text": "And he hath brought us into this place, and hath given us this land, even a land that floweth with milk and honey."
+                "text": "And he has brought us into this place, and hath given us this land, even a land that floweth with milk and honey."
               },
               {
                 "vnumber": "10",
@@ -23275,11 +23275,11 @@ var Torah = {
               },
               {
                 "vnumber": "18",
-                "text": "And Yahweh hath avouched thee this day to be his peculiar people, as he hath promised thee, and that thou shouldest keep all his commandments;"
+                "text": "And Yahweh hath avouched thee this day to be his peculiar people, as he has promised thee, and that thou shouldest keep all his commandments;"
               },
               {
                 "vnumber": "19",
-                "text": "And to make thee high above all nations which he hath made, in praise, and in name, and in honour; and that you may be an holy people unto Yahweh your God, as he hath spoken."
+                "text": "And to make thee high above all nations which he has made, in praise, and in name, and in honour; and that you may be an holy people unto Yahweh your God, as he has spoken."
               }
             ]
           },
@@ -23320,7 +23320,7 @@ var Torah = {
               },
               {
                 "vnumber": "9",
-                "text": "And Moses and the priests the Levites spake unto all Israel, saying, Take heed, and hearken, O Israel; this day thou art become the people of Yahweh your God."
+                "text": "And Moses and the priests the Levites spoke unto all Israel, saying, Take heed, and hearken, O Israel; this day thou art become the people of Yahweh your God."
               },
               {
                 "vnumber": "10",
@@ -23429,7 +23429,7 @@ var Torah = {
               },
               {
                 "vnumber": "9",
-                "text": "Yahweh shall establish thee an holy people unto himself, as he hath sworn unto thee, if thou shalt keep the commandments of Yahweh your God, and walk in his ways."
+                "text": "Yahweh shall establish thee an holy people unto himself, as he has sworn unto thee, if thou shalt keep the commandments of Yahweh your God, and walk in his ways."
               },
               {
                 "vnumber": "10",
@@ -23613,7 +23613,7 @@ var Torah = {
               },
               {
                 "vnumber": "55",
-                "text": "So that he will not give to any of them of the flesh of his children whom he shall eat: because he hath nothing left him in the siege, and in the straitness, wherewith thine enemies shall distress thee in all thy gates."
+                "text": "So that he will not give to any of them of the flesh of his children whom he shall eat: because he has nothing left him in the siege, and in the straitness, wherewith thine enemies shall distress thee in all thy gates."
               },
               {
                 "vnumber": "56",
@@ -23665,7 +23665,7 @@ var Torah = {
               },
               {
                 "vnumber": "68",
-                "text": "And Yahweh shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you."
+                "text": "And Yahweh shall bring thee into Egypt again with ships, by the way whereof I spoke unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you."
               }
             ]
           },
@@ -23722,7 +23722,7 @@ var Torah = {
               },
               {
                 "vnumber": "13",
-                "text": "That he may establish thee to day for a people unto himself, and that he may be unto thee a God, as he hath said unto thee, and as he hath sworn unto thy fathers, to Abraham, to Isaac, and to Jacob."
+                "text": "That he may establish thee to day for a people unto himself, and that he may be unto thee a God, as he has said unto thee, and as he has sworn unto thy fathers, to Abraham, to Isaac, and to Jacob."
               },
               {
                 "vnumber": "14",
@@ -23880,7 +23880,7 @@ var Torah = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Moses went and spake these words unto all Israel."
+                "text": "And Moses went and spoke these words unto all Israel."
               },
               {
                 "vnumber": "2",
@@ -23996,7 +23996,7 @@ var Torah = {
               },
               {
                 "vnumber": "30",
-                "text": "And Moses spake in the ears of all the congregation of Israel the words of this song, until they were ended."
+                "text": "And Moses spoke in the ears of all the congregation of Israel the words of this song, until they were ended."
               }
             ]
           },
@@ -24037,7 +24037,7 @@ var Torah = {
               },
               {
                 "vnumber": "9",
-                "text": "For Yahweh'S portion is his people; Jacob is the lot of his inheritance."
+                "text": "For Yahweh's portion is his people; Jacob is the lot of his inheritance."
               },
               {
                 "vnumber": "10",
@@ -24177,7 +24177,7 @@ var Torah = {
               },
               {
                 "vnumber": "44",
-                "text": "And Moses came and spake all the words of this song in the ears of the people, he, and Hoshea the son of Nun."
+                "text": "And Moses came and spoke all the words of this song in the ears of the people, he, and Hoshea the son of Nun."
               },
               {
                 "vnumber": "45",
@@ -24193,7 +24193,7 @@ var Torah = {
               },
               {
                 "vnumber": "48",
-                "text": "And Yahweh spake unto Moses that selfsame day, saying,"
+                "text": "And Yahweh spoke unto Moses that selfsame day, saying,"
               },
               {
                 "vnumber": "49",
@@ -24201,7 +24201,7 @@ var Torah = {
               },
               {
                 "vnumber": "50",
-                "text": "And die in the mount whither thou goest up, and be gathered unto thy people; as Aaron thy brother died in mount Hor, and was gathered unto his people:"
+                "text": "And die in the mount whither thou goest up, and be gathered unto thy people; as Aaron your brother died in mount Hor, and was gathered unto his people:"
               },
               {
                 "vnumber": "51",

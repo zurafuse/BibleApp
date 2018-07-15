@@ -10,7 +10,7 @@ var Gospel = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "The book of the generation of Yeshua the Messiah, the son of David, the son of Abraham."
+                "text": "This is the book of the generations of Yeshua the Messiah, the son of David, the son of Abraham."
               },
               {
                 "vnumber": "2",
@@ -458,7 +458,7 @@ var Gospel = {
               },
               {
                 "vnumber": "18",
-                "text": "For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled."
+                "text": "For Amen I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled."
               },
               {
                 "vnumber": "19",
@@ -490,7 +490,7 @@ var Gospel = {
               },
               {
                 "vnumber": "26",
-                "text": "Verily I say unto thee, Thou shalt by no means come out thence, till thou hast paid the uttermost farthing."
+                "text": "Amen I say unto thee, Thou shalt by no means come out thence, till thou hast paid the uttermost farthing."
               },
               {
                 "vnumber": "27",
@@ -591,7 +591,7 @@ var Gospel = {
               },
               {
                 "vnumber": "2",
-                "text": "Therefore when thou doest thine alms, do not sound a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, They have their reward."
+                "text": "Therefore when thou doest thine alms, do not sound a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Amen I say unto you, They have their reward."
               },
               {
                 "vnumber": "3",
@@ -603,7 +603,7 @@ var Gospel = {
               },
               {
                 "vnumber": "5",
-                "text": "And when thou prayest, you shall not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward."
+                "text": "And when thou prayest, you shall not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Amen I say unto you, They have their reward."
               },
               {
                 "vnumber": "6",
@@ -647,7 +647,7 @@ var Gospel = {
               },
               {
                 "vnumber": "16",
-                "text": "Moreover when ye fast, be not, as the hypocrites, of a sad countenance: for they disfigure their faces, that they may appear unto men to fast. Verily I say unto you, They have their reward."
+                "text": "Moreover when ye fast, be not, as the hypocrites, of a sad countenance: for they disfigure their faces, that they may appear unto men to fast. Amen I say unto you, They have their reward."
               },
               {
                 "vnumber": "17",
@@ -885,7 +885,7 @@ var Gospel = {
               },
               {
                 "vnumber": "10",
-                "text": "When Yeshua heard it, he marvelled, and said to them that followed, Verily I say unto you, I have not found so great faith, no, not in Israel."
+                "text": "When Yeshua heard it, he marvelled, and said to them that followed, Amen I say unto you, I have not found so great faith, no, not in Israel."
               },
               {
                 "vnumber": "11",
@@ -1203,7 +1203,7 @@ var Gospel = {
               },
               {
                 "vnumber": "15",
-                "text": "Verily I say unto you, It shall be more tolerable for the land of Sodom and Gomorrha in the day of judgment, than for that city."
+                "text": "Amen I say unto you, It shall be more tolerable for the land of Sodom and Gomorrha in the day of judgment, than for that city."
               },
               {
                 "vnumber": "16",
@@ -1235,7 +1235,7 @@ var Gospel = {
               },
               {
                 "vnumber": "23",
-                "text": "But when they persecute you in this city, flee ye into another: for verily I say unto you, you shall not have gone over the cities of Israel, till the Son of man be come."
+                "text": "But when they persecute you in this city, flee ye into another: for Amen I say unto you, you shall not have gone over the cities of Israel, till the Son of man be come."
               },
               {
                 "vnumber": "24",
@@ -1311,7 +1311,7 @@ var Gospel = {
               },
               {
                 "vnumber": "42",
-                "text": "And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward."
+                "text": "And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, Amen I say unto you, he shall in no wise lose his reward."
               }
             ]
           },
@@ -1360,7 +1360,7 @@ var Gospel = {
               },
               {
                 "vnumber": "11",
-                "text": "Verily I say unto you, Among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding he that is least in the kingdom of heaven is greater than he."
+                "text": "Amen I say unto you, Among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding he that is least in the kingdom of heaven is greater than he."
               },
               {
                 "vnumber": "12",
@@ -1714,7 +1714,7 @@ var Gospel = {
               },
               {
                 "vnumber": "17",
-                "text": "For verily I say unto you, That many prophets and righteous men have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them."
+                "text": "For Amen I say unto you, That many prophets and righteous men have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them."
               },
               {
                 "vnumber": "18",
@@ -2305,7 +2305,7 @@ var Gospel = {
               },
               {
                 "vnumber": "28",
-                "text": "Verily I say unto you, There be some standing here, which shall not taste of death, till they see the Son of man coming in his kingdom."
+                "text": "Amen I say to you, There are some standing here, who shall not taste of death, until they see the Son of man coming in his kingdom."
               }
             ]
           },
@@ -2390,7 +2390,7 @@ var Gospel = {
               },
               {
                 "vnumber": "20",
-                "text": "And Yeshua said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you."
+                "text": "And Yeshua said unto them, Because of your unbelief: for Amen I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you."
               },
               {
                 "vnumber": "21",
@@ -2435,7 +2435,7 @@ var Gospel = {
               },
               {
                 "vnumber": "3",
-                "text": "And said, Verily I say unto you, Except ye be converted, and become as little children, you shall not enter into the kingdom of heaven."
+                "text": "And said, Amen I say unto you, Except ye be converted, and become as little children, you shall not enter into the kingdom of heaven."
               },
               {
                 "vnumber": "4",
@@ -2475,7 +2475,7 @@ var Gospel = {
               },
               {
                 "vnumber": "13",
-                "text": "And if so be that he find it, verily I say unto you, he rejoiceth more of that sheep, than of the ninety and nine which went not astray."
+                "text": "And if so be that he find it, Amen I say unto you, he rejoiceth more of that sheep, than of the ninety and nine which went not astray."
               },
               {
                 "vnumber": "14",
@@ -2495,7 +2495,7 @@ var Gospel = {
               },
               {
                 "vnumber": "18",
-                "text": "Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven."
+                "text": "Amen I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven."
               },
               {
                 "vnumber": "19",
@@ -2660,7 +2660,7 @@ var Gospel = {
               },
               {
                 "vnumber": "23",
-                "text": "Then said Yeshua unto his disciples, Verily I say unto you, That a rich man shall hardly enter into the kingdom of heaven."
+                "text": "Then said Yeshua unto his disciples, Amen I say unto you, That a rich man shall hardly enter into the kingdom of heaven."
               },
               {
                 "vnumber": "24",
@@ -2680,7 +2680,7 @@ var Gospel = {
               },
               {
                 "vnumber": "28",
-                "text": "And Yeshua said unto them, Verily I say unto you, That ye which have followed me, in the regeneration when the Son of man shall sit in the throne of his glory, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel."
+                "text": "And Yeshua said to them, Amen I say unto you, That you who have followed me, in the PaliGenesia (Regenesis) when the Son of man shall sit on the throne of his glory, you also shall sit upon twelve thrones, judging the twelve tribes of Israel."
               },
               {
                 "vnumber": "29",
@@ -2918,7 +2918,7 @@ var Gospel = {
               },
               {
                 "vnumber": "21",
-                "text": "Yeshua answered and said unto them, Verily I say unto you, If ye have faith, and doubt not, you shall not only do this which is done to the fig tree, but also if ye shall say unto this mountain, Be thou removed, and be thou cast into the sea; it shall be done."
+                "text": "Yeshua answered and said unto them, Amen I say unto you, If ye have faith, and doubt not, you shall not only do this which is done to the fig tree, but also if ye shall say unto this mountain, Be thou removed, and be thou cast into the sea; it shall be done."
               },
               {
                 "vnumber": "22",
@@ -2958,7 +2958,7 @@ var Gospel = {
               },
               {
                 "vnumber": "31",
-                "text": "Whether of them twain did the will of his father? They say unto him, The first. Yeshua saith unto them, Verily I say unto you, That the publicans and the harlots go into the kingdom of God before you."
+                "text": "Which of the two did the will of his father? They said unto him, The first. Yeshua saith unto them, Amen I say unto you, That the publicans and the harlots go into the kingdom of God before you."
               },
               {
                 "vnumber": "32",
@@ -3356,11 +3356,11 @@ var Gospel = {
               },
               {
                 "vnumber": "36",
-                "text": "Verily I say unto you, All these things shall come upon this generation."
+                "text": "Amen I say unto you, All these things shall come upon this generation."
               },
               {
                 "vnumber": "37",
-                "text": "O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!"
+                "text": "Oh Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!"
               },
               {
                 "vnumber": "38",
@@ -3381,7 +3381,7 @@ var Gospel = {
               },
               {
                 "vnumber": "2",
-                "text": "And Yeshua said unto them, See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down."
+                "text": "And Yeshua said unto them, See ye not all these things? Amen I say unto you, There shall not be left here one stone upon another, that shall not be thrown down."
               },
               {
                 "vnumber": "3",
@@ -3509,7 +3509,7 @@ var Gospel = {
               },
               {
                 "vnumber": "34",
-                "text": "Verily I say unto you, This generation shall not pass, till all these things be fulfilled."
+                "text": "Amen I say unto you, This generation shall not pass, till all these things be fulfilled."
               },
               {
                 "vnumber": "35",
@@ -3561,7 +3561,7 @@ var Gospel = {
               },
               {
                 "vnumber": "47",
-                "text": "Verily I say unto you, That he shall make him ruler over all his goods."
+                "text": "Amen I say unto you, That he shall make him ruler over all his goods."
               },
               {
                 "vnumber": "48",
@@ -3630,7 +3630,7 @@ var Gospel = {
               },
               {
                 "vnumber": "12",
-                "text": "But he answered and said, Verily I say unto you, I know you not."
+                "text": "But he answered and said, Amen I say unto you, I know you not."
               },
               {
                 "vnumber": "13",
@@ -3742,7 +3742,7 @@ var Gospel = {
               },
               {
                 "vnumber": "40",
-                "text": "And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me."
+                "text": "And the King shall answer and say unto them, Amen I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me."
               },
               {
                 "vnumber": "41",
@@ -3762,7 +3762,7 @@ var Gospel = {
               },
               {
                 "vnumber": "45",
-                "text": "Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did it not to one of the least of these, ye did it not to me."
+                "text": "Then shall he answer them, saying, Amen I say unto you, Inasmuch as ye did it not to one of the least of these, ye did it not to me."
               },
               {
                 "vnumber": "46",
@@ -3823,7 +3823,7 @@ var Gospel = {
               },
               {
                 "vnumber": "13",
-                "text": "Verily I say unto you, Wheresoever this good news shall be preached in the whole world, there shall also this, that this woman hath done, be told for a memorial of her."
+                "text": "Amen I say unto you, Wheresoever this good news shall be preached in the whole world, there shall also this, that this woman hath done, be told for a memorial of her."
               },
               {
                 "vnumber": "14",
@@ -3855,7 +3855,7 @@ var Gospel = {
               },
               {
                 "vnumber": "21",
-                "text": "And as they did eat, he said, Verily I say unto you, that one of you shall betray me."
+                "text": "And as they did eat, he said, Amen I say unto you, that one of you shall betray me."
               },
               {
                 "vnumber": "22",
@@ -3907,7 +3907,7 @@ var Gospel = {
               },
               {
                 "vnumber": "34",
-                "text": "Yeshua said unto him, Verily I say unto thee, That this night, before the cock crow, thou shalt deny me thrice."
+                "text": "Yeshua said unto him, Amen I say unto thee, That this night, before the cock crow, thou shalt deny me thrice."
               },
               {
                 "vnumber": "35",
@@ -4851,7 +4851,7 @@ var Gospel = {
               },
               {
                 "vnumber": "28",
-                "text": "Verily I say unto you, All sins shall be forgiven unto the sons of men, and blasphemies wherewith soever they shall blaspheme:"
+                "text": "Amen I say unto you, All sins shall be forgiven unto the sons of men, and blasphemies wherewith soever they shall blaspheme:"
               },
               {
                 "vnumber": "29",
@@ -5274,7 +5274,7 @@ var Gospel = {
               },
               {
                 "vnumber": "11",
-                "text": "And whosoever shall not receive you, nor hear you, when ye depart thence, shake off the dust under your feet for a testimony against them. Verily I say unto you, It shall be more tolerable for Sodom and Gomorrha in the day of judgment, than for that city."
+                "text": "And whosoever shall not receive you, nor hear you, when ye depart thence, shake off the dust under your feet for a testimony against them. Amen I say unto you, It shall be more tolerable for Sodom and Gomorrha in the day of judgment, than for that city."
               },
               {
                 "vnumber": "12",
@@ -5660,7 +5660,7 @@ var Gospel = {
               },
               {
                 "vnumber": "12",
-                "text": "And he sighed deeply in his spirit, and saith, Why doth this generation seek after a sign? verily I say unto you, There shall no sign be given unto this generation."
+                "text": "And he sighed deeply in his spirit, and saith, Why doth this generation seek after a sign? Amen I say unto you, There shall no sign be given unto this generation."
               },
               {
                 "vnumber": "13",
@@ -5773,11 +5773,11 @@ var Gospel = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And he said unto them, Verily I say unto you, That there be some of them that stand here, which shall not taste of death, till they have seen the kingdom of God come with power."
+                "text": "And he said unto them, Amen I say unto you, That there are some of them that stand here, who shall not taste of death, till they have seen the kingdom of God come with power."
               },
               {
                 "vnumber": "2",
-                "text": "And after six days Yeshua taketh with him Peter, and James, and John, and leadeth them up into an high mountain apart by themselves: and he was transfigured before them."
+                "text": "And after six days Yeshua took with him Peter, and James, and John, and leadeth them up into an high mountain apart by themselves: and he was transfigured before them."
               },
               {
                 "vnumber": "3",
@@ -5817,11 +5817,11 @@ var Gospel = {
               },
               {
                 "vnumber": "12",
-                "text": "And he answered and told them, Elijah verily cometh first, and restoreth all things; and how it is written of the Son of man, that he must suffer many things, and be set at nought."
+                "text": "And he answered and told them, Elijah truly comes first, and restores all things; and how it is written of the Son of man, that he must suffer many things, and be despised."
               },
               {
                 "vnumber": "13",
-                "text": "But I say unto you, That Elijah is indeed come, and they have done unto him whatsoever they listed, as it is written of him."
+                "text": "But I say unto you, That Elijah has indeed come, and they have done unto him whatsoever they listed, as it is written of him."
               },
               {
                 "vnumber": "14",
@@ -5933,7 +5933,7 @@ var Gospel = {
               },
               {
                 "vnumber": "41",
-                "text": "For whosoever shall give you a cup of water to drink in my name, because ye belong to Messiah, verily I say unto you, he shall not lose his reward."
+                "text": "For whosoever shall give you a cup of water to drink in my name, because you belong to Messiah, Amen I say unto you, he shall not lose his reward."
               },
               {
                 "vnumber": "42",
@@ -6034,7 +6034,7 @@ var Gospel = {
               },
               {
                 "vnumber": "15",
-                "text": "Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall not enter therein."
+                "text": "Amen I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall not enter therein."
               },
               {
                 "vnumber": "16",
@@ -6090,7 +6090,7 @@ var Gospel = {
               },
               {
                 "vnumber": "29",
-                "text": "And Yeshua answered and said, Verily I say unto you, There is no man that hath left house, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my sake, and because of the Good News,"
+                "text": "And Yeshua answered and said, Amen I say unto you, There is no man that hath left house, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my sake, and because of the Good News,"
               },
               {
                 "vnumber": "30",
@@ -6279,7 +6279,7 @@ var Gospel = {
               },
               {
                 "vnumber": "23",
-                "text": "For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith."
+                "text": "For Amen I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith."
               },
               {
                 "vnumber": "24",
@@ -6496,7 +6496,7 @@ var Gospel = {
               },
               {
                 "vnumber": "43",
-                "text": "And he called unto him his disciples, and saith unto them, Verily I say unto you, That this poor widow hath cast more in, than all they which have cast into the treasury:"
+                "text": "And he called unto him his disciples, and saith unto them, Amen I say unto you, That this poor widow hath cast more in, than all they which have cast into the treasury:"
               },
               {
                 "vnumber": "44",
@@ -6625,7 +6625,7 @@ var Gospel = {
               },
               {
                 "vnumber": "30",
-                "text": "Verily I say unto you, that this generation shall not pass, till all these things be done."
+                "text": "Amen I say unto you, that this generation shall not pass, till all these things be done."
               },
               {
                 "vnumber": "31",
@@ -6694,7 +6694,7 @@ var Gospel = {
               },
               {
                 "vnumber": "9",
-                "text": "Verily I say unto you, Wheresoever this good news shall be preached throughout the whole world, this also that she hath done shall be spoken of for a memorial of her."
+                "text": "Amen I say unto you, Wheresoever this good news shall be preached throughout the whole world, this also that she hath done shall be spoken of for a memorial of her."
               },
               {
                 "vnumber": "10",
@@ -6730,7 +6730,7 @@ var Gospel = {
               },
               {
                 "vnumber": "18",
-                "text": "And as they sat and did eat, Yeshua said, Verily I say unto you, One of you which eateth with me shall betray me."
+                "text": "And as they sat and did eat, Yeshua said, Amen I say unto you, One of you which eateth with me shall betray me."
               },
               {
                 "vnumber": "19",
@@ -6758,7 +6758,7 @@ var Gospel = {
               },
               {
                 "vnumber": "25",
-                "text": "Verily I say unto you, I will drink no more of the fruit of the vine, until that day that I drink it new in the kingdom of God."
+                "text": "Amen I say unto you, I will drink no more of the fruit of the vine, until that day that I drink it new in the kingdom of God."
               },
               {
                 "vnumber": "26",
@@ -6778,7 +6778,7 @@ var Gospel = {
               },
               {
                 "vnumber": "30",
-                "text": "And Yeshua saith unto him, Verily I say unto thee, That this day, even in this night, before the cock crow twice, thou shalt deny me thrice."
+                "text": "And Yeshua saith unto him, Amen I say unto thee, That this day, even in this night, before the cock crow twice, thou shalt deny me thrice."
               },
               {
                 "vnumber": "31",
@@ -7677,7 +7677,7 @@ var Gospel = {
               },
               {
                 "vnumber": "29",
-                "text": "Lord, now lettest thou thy servant depart in peace, according to thy word:"
+                "text": "Lord, now lettest thou thy servant depart in peace, according to your word:"
               },
               {
                 "vnumber": "30",
@@ -7709,7 +7709,7 @@ var Gospel = {
               },
               {
                 "vnumber": "37",
-                "text": "And she was a widow of about fourscore and four years, which departed not from the temple, but served God with fastings and prayers night and day."
+                "text": "And she was a widow of about eighty-four years, who departed not from the temple, but served God with fastings and prayers night and day."
               },
               {
                 "vnumber": "38",
@@ -8027,7 +8027,7 @@ var Gospel = {
               },
               {
                 "vnumber": "24",
-                "text": "And he said, Verily I say unto you, No prophet is accepted in his own country."
+                "text": "And he said, Amen I say unto you, No prophet is accepted in his own country."
               },
               {
                 "vnumber": "25",
@@ -9538,7 +9538,7 @@ var Gospel = {
               },
               {
                 "vnumber": "51",
-                "text": "From the blood of Abel unto the blood of Zacharias, which perished between the altar and the temple: verily I say unto you, It shall be required of this generation."
+                "text": "From the blood of Abel unto the blood of Zacharias, which perished between the altar and the temple: truly I say unto you, It shall be required of this generation."
               },
               {
                 "vnumber": "52",
@@ -9703,7 +9703,7 @@ var Gospel = {
               },
               {
                 "vnumber": "37",
-                "text": "Blessed are those servants, whom the lord when he cometh shall find watching: verily I say unto you, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them."
+                "text": "Blessed are those servants, whom the lord when he cometh shall find watching: Amen I say unto you, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them."
               },
               {
                 "vnumber": "38",
@@ -9936,7 +9936,7 @@ var Gospel = {
               },
               {
                 "vnumber": "35",
-                "text": "Behold, your house is left unto you desolate: and verily I say unto you, you shall not see me, until the time come when ye shall say, Blessed is he that cometh in the name of the Lord."
+                "text": "Behold, your house is left unto you desolate: and Amen I say unto you, you shall not see me, until the time come when ye shall say, Blessed is he that cometh in the name of the Lord."
               }
             ]
           },
@@ -10247,7 +10247,7 @@ var Gospel = {
               },
               {
                 "vnumber": "7",
-                "text": "Then said he to another, And how much owest thou? And he said, An hundred measures of wheat. And he said unto him, Take thy bill, and write fourscore."
+                "text": "Then said he to another, And how much owest thou? And he said, An hundred measures of wheat. And he said unto him, Take thy bill, and write eighty."
               },
               {
                 "vnumber": "8",
@@ -10565,11 +10565,11 @@ var Gospel = {
               },
               {
                 "vnumber": "16",
-                "text": "But Yeshua called them unto him, and said, Suffer little children to come unto me, and forbid them not: for of such is the kingdom of God."
+                "text": "But Yeshua called them unto him, and said, Allow little children to come unto me, and forbid them not: for of such is the kingdom of God."
               },
               {
                 "vnumber": "17",
-                "text": "Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child shall in no wise enter therein."
+                "text": "Amen I say unto you, Whosoever shall not receive the kingdom of God as a little child shall in no wise enter therein."
               },
               {
                 "vnumber": "18",
@@ -10617,7 +10617,7 @@ var Gospel = {
               },
               {
                 "vnumber": "29",
-                "text": "And he said unto them, Verily I say unto you, There is no man that hath left house, or parents, or brethren, or wife, or children, for the kingdom of God's sake,"
+                "text": "And he said unto them, Amen I say unto you, There is no man that hath left house, or parents, or brethren, or wife, or children, for the kingdom of God's sake,"
               },
               {
                 "vnumber": "30",
@@ -11196,7 +11196,7 @@ var Gospel = {
               },
               {
                 "vnumber": "32",
-                "text": "Verily I say unto you, This generation shall not pass away, till all be fulfilled."
+                "text": "Amen I say unto you, This generation shall not pass away, till all be fulfilled."
               },
               {
                 "vnumber": "33",
@@ -11686,7 +11686,7 @@ var Gospel = {
               },
               {
                 "vnumber": "43",
-                "text": "And Yeshua said unto him, Verily I say unto thee, To day shalt thou be with me in paradise."
+                "text": "And Yeshua said unto him, Amen I say unto thee, To day shalt thou be with me in paradise."
               },
               {
                 "vnumber": "44",
@@ -11795,7 +11795,7 @@ var Gospel = {
               },
               {
                 "vnumber": "13",
-                "text": "And, behold, two of them went that same day to a village called Emmaus, which was from Jerusalem about threescore furlongs."
+                "text": "And, behold, two of them went that same day to a village called Emmaus, which was from Jerusalem about sixty stadia."
               },
               {
                 "vnumber": "14",
@@ -12176,7 +12176,7 @@ var Gospel = {
               },
               {
                 "vnumber": "51",
-                "text": "And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man."
+                "text": "And he saith unto him, Amen, Amen, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man."
               }
             ]
           },
@@ -12298,7 +12298,7 @@ var Gospel = {
               },
               {
                 "vnumber": "3",
-                "text": "Yeshua answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God."
+                "text": "Yeshua answered and said unto him, Amen, Amen, I say unto thee, Except a man be born again, he cannot see the kingdom of God."
               },
               {
                 "vnumber": "4",
@@ -12306,7 +12306,7 @@ var Gospel = {
               },
               {
                 "vnumber": "5",
-                "text": "Yeshua answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God."
+                "text": "Yeshua answered, Amen, Amen, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God."
               },
               {
                 "vnumber": "6",
@@ -12330,7 +12330,7 @@ var Gospel = {
               },
               {
                 "vnumber": "11",
-                "text": "Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness."
+                "text": "Amen, Amen, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness."
               },
               {
                 "vnumber": "12",
@@ -12732,7 +12732,7 @@ var Gospel = {
               },
               {
                 "vnumber": "19",
-                "text": "Then answered Yeshua and said unto them, Verily, verily, I say unto you, The Son can do nothing of himself, but what he seeth the Father do: for what things soever he doeth, these also doeth the Son likewise."
+                "text": "Then answered Yeshua and said unto them, Amen, Amen, I say unto you, The Son can do nothing of himself, but what he seeth the Father do: for what things soever he doeth, these also doeth the Son likewise."
               },
               {
                 "vnumber": "20",
@@ -12752,11 +12752,11 @@ var Gospel = {
               },
               {
                 "vnumber": "24",
-                "text": "Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life."
+                "text": "Amen, Amen, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life."
               },
               {
                 "vnumber": "25",
-                "text": "Verily, verily, I say unto you, The hour is coming, and now is, when the dead shall hear the voice of the Son of God: and they that hear shall live."
+                "text": "Amen, Amen, I say unto you, The hour is coming, and now is, when the dead shall hear the voice of the Son of God: and they that hear shall live."
               },
               {
                 "vnumber": "26",
@@ -12925,7 +12925,7 @@ var Gospel = {
               },
               {
                 "vnumber": "19",
-                "text": "So when they had rowed about five and twenty or thirty furlongs, they see Yeshua walking on the sea, and drawing nigh unto the ship: and they were afraid."
+                "text": "So when they had rowed about five and twenty or thirty stadia, they see Yeshua walking on the sea, and drawing nigh unto the ship: and they were afraid."
               },
               {
                 "vnumber": "20",
@@ -12953,7 +12953,7 @@ var Gospel = {
               },
               {
                 "vnumber": "26",
-                "text": "Yeshua answered them and said, Verily, verily, I say unto you, Ye seek me, not because ye saw the miracles, but because ye did eat of the loaves, and were filled."
+                "text": "Yeshua answered them and said, Amen, Amen, I say unto you, Ye seek me, not because ye saw the miracles, but because ye did eat of the loaves, and were filled."
               },
               {
                 "vnumber": "27",
@@ -12977,7 +12977,7 @@ var Gospel = {
               },
               {
                 "vnumber": "32",
-                "text": "Then Yeshua said unto them, Verily, verily, I say unto you, Moses gave you not that bread from heaven; but my Father giveth you the true bread from heaven."
+                "text": "Then Yeshua said unto them, Amen, Amen, I say unto you, Moses gave you not that bread from heaven; but my Father giveth you the true bread from heaven."
               },
               {
                 "vnumber": "33",
@@ -13037,7 +13037,7 @@ var Gospel = {
               },
               {
                 "vnumber": "47",
-                "text": "Verily, verily, I say unto you, He that believeth on me hath everlasting life."
+                "text": "Amen, Amen, I say unto you, He that believeth on me hath everlasting life."
               },
               {
                 "vnumber": "48",
@@ -13061,7 +13061,7 @@ var Gospel = {
               },
               {
                 "vnumber": "53",
-                "text": "Then Yeshua said unto them, Verily, verily, I say unto you, Except ye eat the flesh of the Son of man, and drink his blood, ye have no life in you."
+                "text": "Then Yeshua said unto them, Amen, Amen, I say unto you, Except ye eat the flesh of the Son of man, and drink his blood, ye have no life in you."
               },
               {
                 "vnumber": "54",
@@ -13491,7 +13491,7 @@ var Gospel = {
               },
               {
                 "vnumber": "34",
-                "text": "Yeshua answered them, Verily, verily, I say unto you, Whosoever committeth sin is the servant of sin."
+                "text": "Yeshua answered them, Amen, Amen, I say unto you, Whosoever committeth sin is the servant of sin."
               },
               {
                 "vnumber": "35",
@@ -13559,7 +13559,7 @@ var Gospel = {
               },
               {
                 "vnumber": "51",
-                "text": "Verily, verily, I say unto you, If a man keep my saying, he shall never see death."
+                "text": "Amen, Amen, I say unto you, If a man keep my saying, he shall never see death."
               },
               {
                 "vnumber": "52",
@@ -13587,7 +13587,7 @@ var Gospel = {
               },
               {
                 "vnumber": "58",
-                "text": "Yeshua said unto them, Verily, verily, I say unto you, Before Abraham was, I am."
+                "text": "Yeshua said unto them, Amen, Amen, I say unto you, Before Abraham was, I am."
               },
               {
                 "vnumber": "59",
@@ -13769,7 +13769,7 @@ var Gospel = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber."
+                "text": "Amen, Amen, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber."
               },
               {
                 "vnumber": "2",
@@ -13793,7 +13793,7 @@ var Gospel = {
               },
               {
                 "vnumber": "7",
-                "text": "Then said Yeshua unto them again, Verily, verily, I say unto you, I am the door of the sheep."
+                "text": "Then said Yeshua unto them again, Amen, Amen, I say unto you, I am the door of the sheep."
               },
               {
                 "vnumber": "8",
@@ -14010,7 +14010,7 @@ var Gospel = {
               },
               {
                 "vnumber": "18",
-                "text": "Now Bethany was nigh unto Jerusalem, about fifteen furlongs off:"
+                "text": "Now Bethany was nigh unto Jerusalem, about fifteen stadia off:"
               },
               {
                 "vnumber": "19",
@@ -14267,7 +14267,7 @@ var Gospel = {
               },
               {
                 "vnumber": "24",
-                "text": "Verily, verily, I say unto you, Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit."
+                "text": "Amen, Amen, I say unto you, Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit."
               },
               {
                 "vnumber": "25",
@@ -14440,7 +14440,7 @@ var Gospel = {
               },
               {
                 "vnumber": "16",
-                "text": "Verily, verily, I say unto you, The servant is not greater than his lord; neither he that is sent greater than he that sent him."
+                "text": "Amen, Amen, I say unto you, The servant is not greater than his lord; neither he that is sent greater than he that sent him."
               },
               {
                 "vnumber": "17",
@@ -14456,11 +14456,11 @@ var Gospel = {
               },
               {
                 "vnumber": "20",
-                "text": "Verily, verily, I say unto you, He that receiveth whomsoever I send receiveth me; and he that receiveth me receiveth him that sent me."
+                "text": "Amen, Amen, I say unto you, He that receiveth whomsoever I send receiveth me; and he that receiveth me receiveth him that sent me."
               },
               {
                 "vnumber": "21",
-                "text": "When Yeshua had thus said, he was troubled in spirit, and testified, and said, Verily, verily, I say unto you, that one of you shall betray me."
+                "text": "When Yeshua had thus said, he was troubled in spirit, and testified, and said, Amen, Amen, I say unto you, that one of you shall betray me."
               },
               {
                 "vnumber": "22",
@@ -14528,7 +14528,7 @@ var Gospel = {
               },
               {
                 "vnumber": "38",
-                "text": "Yeshua answered him, Wilt thou lay down thy life for my sake? Verily, verily, I say unto thee, The cock shall not crow, till thou hast denied me thrice."
+                "text": "Yeshua answered him, Wilt thou lay down thy life for my sake? Amen, Amen, I say unto thee, The cock shall not crow, till thou hast denied me thrice."
               }
             ]
           },
@@ -14581,7 +14581,7 @@ var Gospel = {
               },
               {
                 "vnumber": "12",
-                "text": "Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father."
+                "text": "Amen, Amen, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father."
               },
               {
                 "vnumber": "13",
@@ -14855,7 +14855,7 @@ var Gospel = {
               },
               {
                 "vnumber": "20",
-                "text": "Verily, verily, I say unto you, That ye shall weep and lament, but the world shall rejoice: and ye shall be sorrowful, but your sorrow shall be turned into joy."
+                "text": "Amen, Amen, I say unto you, That ye shall weep and lament, but the world shall rejoice: and ye shall be sorrowful, but your sorrow shall be turned into joy."
               },
               {
                 "vnumber": "21",
@@ -14867,7 +14867,7 @@ var Gospel = {
               },
               {
                 "vnumber": "23",
-                "text": "And in that day ye shall ask me nothing. Verily, verily, I say unto you, Whatsoever ye shall ask the Father in my name, he will give it you."
+                "text": "And in that day ye shall ask me nothing. Amen, Amen, I say unto you, Whatsoever ye shall ask the Father in my name, he will give it you."
               },
               {
                 "vnumber": "24",
@@ -15560,7 +15560,7 @@ var Gospel = {
               },
               {
                 "vnumber": "18",
-                "text": "Verily, verily, I say unto thee, When thou wast young, thou girdedst thyself, and walkedst whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry thee whither thou wouldest not."
+                "text": "Amen, Amen, I say unto thee, When thou wast young, thou girdedst thyself, and walkedst whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry thee whither thou wouldest not."
               },
               {
                 "vnumber": "19",

@@ -38,7 +38,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Why do the heathen rage, and the people imagine a vain thing?"
+              "text": "Why do the nations rage, and the people imagine a vain thing?"
             },
             {
               "vnumber": "2",
@@ -66,7 +66,7 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "Ask of me, and I shall give thee the heathen for thine inheritance, and the uttermost parts of the earth for thy possession."
+              "text": "Ask of me, and I shall give thee the nations for thine inheritance, and the uttermost parts of the earth for thy possession."
             },
             {
               "vnumber": "9",
@@ -419,7 +419,7 @@ var Psalms = {
             },
             {
               "vnumber": "5",
-              "text": "Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever."
+              "text": "Thou hast rebuked the nations, thou hast destroyed the wicked, thou hast put out their name for ever and ever."
             },
             {
               "vnumber": "6",
@@ -459,7 +459,7 @@ var Psalms = {
             },
             {
               "vnumber": "15",
-              "text": "The heathen are sunk down in the pit that they made: in the net which they hid is their own foot taken."
+              "text": "The nations are sunk down in the pit that they made: in the net which they hid is their own foot taken."
             },
             {
               "vnumber": "16",
@@ -475,7 +475,7 @@ var Psalms = {
             },
             {
               "vnumber": "19",
-              "text": "Arise, Oh Yahweh; let not man prevail: let the heathen be judged in thy sight."
+              "text": "Arise, Oh Yahweh; let not man prevail: let the nations be judged in thy sight."
             },
             {
               "vnumber": "20",
@@ -581,7 +581,7 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "Yahweh is in his holy temple, Yahweh'S throne is in heaven: his eyes behold, his eyelids try, the children of men."
+              "text": "Yahweh is in his holy temple, Yahweh's throne is in heaven: his eyes behold, his eyelids try, the children of men."
             },
             {
               "vnumber": "5",
@@ -1358,7 +1358,7 @@ var Psalms = {
             },
             {
               "vnumber": "28",
-              "text": "For the kingdom is Yahweh'S: and he is the governor among the nations."
+              "text": "For the kingdom is Yahweh's: and he is the governor among the nations."
             },
             {
               "vnumber": "29",
@@ -1416,7 +1416,7 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "The earth is Yahweh'S, and the fulness thereof; the world, and they that dwell therein."
+              "text": "The earth is Yahweh's, and the fulness thereof; the world, and they that dwell therein."
             },
             {
               "vnumber": "2",
@@ -6592,7 +6592,7 @@ var Psalms = {
             },
             {
               "vnumber": "10",
-              "text": "The days of our years are threescore years and ten; and if by reason of strength they be fourscore years, yet is their strength labour and sorrow; for it is soon cut off, and we fly away."
+              "text": "The days of our years are seventy years; and if by reason of strength they be eighty years, yet is their strength labour and sorrow; for it is soon cut off, and we fly away."
             },
             {
               "vnumber": "11",
@@ -8456,7 +8456,7 @@ var Psalms = {
             },
             {
               "vnumber": "3",
-              "text": "From the rising of the sun unto the going down of the same Yahweh'S name is to be praised."
+              "text": "From the rising of the sun unto the going down of the same Yahweh's name is to be praised."
             },
             {
               "vnumber": "4",
@@ -8586,7 +8586,7 @@ var Psalms = {
             },
             {
               "vnumber": "16",
-              "text": "The heaven, even the heavens, are Yahweh'S: but the earth hath he given to the children of men."
+              "text": "The heaven, even the heavens, are Yahweh's: but the earth hath he given to the children of men."
             },
             {
               "vnumber": "17",
@@ -8675,7 +8675,7 @@ var Psalms = {
             },
             {
               "vnumber": "19",
-              "text": "In the courts of Yahweh'S house, in the midst of thee, O Jerusalem. HalleluYah!"
+              "text": "In the courts of Yahweh's house, in the midst of thee, O Jerusalem. HalleluYah!"
             }
           ]
         },
@@ -8786,7 +8786,7 @@ var Psalms = {
             },
             {
               "vnumber": "23",
-              "text": "This is Yahweh'S doing; it is marvellous in our eyes."
+              "text": "This is Yahweh's doing; it is marvellous in our eyes."
             },
             {
               "vnumber": "24",
@@ -10278,7 +10278,7 @@ var Psalms = {
             },
             {
               "vnumber": "4",
-              "text": "How shall we sing Yahweh'S song in a strange land?"
+              "text": "How shall we sing Yahweh's song in a strange land?"
             },
             {
               "vnumber": "5",

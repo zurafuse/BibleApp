@@ -1,5 +1,5 @@
 var Prophets = {
-	"BOOKS": [
+    "BOOKS": [
       {
         "bnumber": "6",
         "bname": "Joshua",
@@ -10,11 +10,11 @@ var Prophets = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Now after the death of Moses the servant of Yahweh it came to pass, that Yahweh spake unto Joshua the son of Nun, Moses' minister, saying,"
+                "text": "Now after the death of Moses the servant of Yahweh it came to pass, that Yahweh spoke unto Joshua the son of Nun, Moses' servant, saying,"
               },
               {
                 "vnumber": "2",
-                "text": "Moses my servant is dead; now therefore arise, go over this Jordan, thou, and all this people, unto the land which I do give to them, even to the children of Israel."
+                "text": "Moses my servant is dead; now therefore arise, go over this Jordan, you, and all this people, unto the land which I do give to them, even to the children of Israel."
               },
               {
                 "vnumber": "3",
@@ -26,7 +26,7 @@ var Prophets = {
               },
               {
                 "vnumber": "5",
-                "text": "There shall not any man be able to stand before thee all the days of thy life: as I was with Moses, so I will be with thee: I will not fail thee, nor forsake thee."
+                "text": "There shall not any man be able to stand before thee all the days of thy life: as I was with Moses, so I will be with thee: I will not fail you nor forsake you."
               },
               {
                 "vnumber": "6",
@@ -54,7 +54,7 @@ var Prophets = {
               },
               {
                 "vnumber": "12",
-                "text": "And to the Reubenites, and to the Gadites, and to half the tribe of Manasseh, spake Joshua, saying,"
+                "text": "And to the Reubenites, and to the Gadites, and to half the tribe of Manasseh, spoke Joshua, saying,"
               },
               {
                 "vnumber": "13",
@@ -66,7 +66,7 @@ var Prophets = {
               },
               {
                 "vnumber": "15",
-                "text": "Until Yahweh have given your brethren rest, as he hath given you, and they also have possessed the land which Yahweh your God giveth them: then ye shall return unto the land of your possession, and enjoy it, which Moses Yahweh'S servant gave you on this side Jordan toward the sunrising."
+                "text": "Until Yahweh have given your brethren rest, as he hath given you, and they also have possessed the land which Yahweh your God giveth them: then ye shall return unto the land of your possession, and enjoy it, which Moses Yahweh's servant gave you on this side Jordan toward the sunrising."
               },
               {
                 "vnumber": "16",
@@ -103,7 +103,7 @@ var Prophets = {
               },
               {
                 "vnumber": "5",
-                "text": "And it came to pass about the time of shutting of the gate, when it was dark, that the men went out: whither the men went I wot not: pursue after them quickly; for ye shall overtake them."
+                "text": "And it came to pass about the time of shutting of the gate, when it was dark, that the men went out: where the men went I know not: pursue after them quickly; for you shall overtake them."
               },
               {
                 "vnumber": "6",
@@ -208,7 +208,7 @@ var Prophets = {
               },
               {
                 "vnumber": "6",
-                "text": "And Joshua spake unto the priests, saying, Take up the ark of the covenant, and pass over before the people. And they took up the ark of the covenant, and went before the people."
+                "text": "And Joshua spoke unto the priests, saying, Take up the ark of the covenant, and pass over before the people. And they took up the ark of the covenant, and went before the people."
               },
               {
                 "vnumber": "7",
@@ -261,7 +261,7 @@ var Prophets = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And it came to pass, when all the people were clean passed over Jordan, that Yahweh spake unto Joshua, saying,"
+                "text": "And it came to pass, when all the people were clean passed over Jordan, that Yahweh spoke unto Joshua, saying,"
               },
               {
                 "vnumber": "2",
@@ -289,7 +289,7 @@ var Prophets = {
               },
               {
                 "vnumber": "8",
-                "text": "And the children of Israel did so as Joshua commanded, and took up twelve stones out of the midst of Jordan, as Yahweh spake unto Joshua, according to the number of the tribes of the children of Israel, and carried them over with them unto the place where they lodged, and laid them down there."
+                "text": "And the children of Israel did so as Joshua commanded, and took up twelve stones out of the midst of Jordan, as Yahweh spoke unto Joshua, according to the number of the tribes of the children of Israel, and carried them over with them unto the place where they lodged, and laid them down there."
               },
               {
                 "vnumber": "9",
@@ -305,7 +305,7 @@ var Prophets = {
               },
               {
                 "vnumber": "12",
-                "text": "And the children of Reuben, and the children of Gad, and half the tribe of Manasseh, passed over armed before the children of Israel, as Moses spake unto them:"
+                "text": "And the children of Reuben, and the children of Gad, and half the tribe of Manasseh, passed over armed before the children of Israel, as Moses spoke unto them:"
               },
               {
                 "vnumber": "13",
@@ -317,7 +317,7 @@ var Prophets = {
               },
               {
                 "vnumber": "15",
-                "text": "And Yahweh spake unto Joshua, saying,"
+                "text": "And Yahweh spoke unto Joshua, saying,"
               },
               {
                 "vnumber": "16",
@@ -341,7 +341,7 @@ var Prophets = {
               },
               {
                 "vnumber": "21",
-                "text": "And he spake unto the children of Israel, saying, When your children shall ask their fathers in time to come, saying, What mean these stones?"
+                "text": "And he spoke unto the children of Israel, saying, When your children shall ask their fathers in time to come, saying, What mean these stones?"
               },
               {
                 "vnumber": "22",
@@ -418,7 +418,7 @@ var Prophets = {
               },
               {
                 "vnumber": "15",
-                "text": "And the captain of Yahweh'S host said unto Joshua, Loose thy shoe from off thy foot; for the place whereon thou standest is holy. And Joshua did so."
+                "text": "And the captain of Yahweh's host said unto Joshua, Loose thy shoe from off thy foot; for the place whereon thou standest is holy. And Joshua did so."
               }
             ]
           },
@@ -544,7 +544,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "And Joshua sent men from Jericho to Ai, which is beside Bethaven, on the east side of Bethel, and spake unto them, saying, Go up and view the country. And the men went up and viewed Ai."
+                "text": "And Joshua sent men from Jericho to Ai, which is beside Bethaven, on the east side of Bethel, and spoke unto them, saying, Go up and view the country. And the men went up and viewed Ai."
               },
               {
                 "vnumber": "3",
@@ -834,7 +834,7 @@ var Prophets = {
               },
               {
                 "vnumber": "11",
-                "text": "Wherefore our elders and all the inhabitants of our country spake to us, saying, Take victuals with you for the journey, and go to meet them, and say unto them, We are your servants: therefore now make ye a league with us."
+                "text": "Therefore our elders and all the inhabitants of our country spoke to us, saying, Take victuals with you for the journey, and go to meet them, and say unto them, We are your servants: therefore now make ye a league with us."
               },
               {
                 "vnumber": "12",
@@ -878,7 +878,7 @@ var Prophets = {
               },
               {
                 "vnumber": "22",
-                "text": "And Joshua called for them, and he spake unto them, saying, Wherefore have ye beguiled us, saying, We are very far from you; when ye dwell among us?"
+                "text": "And Joshua called for them, and he spoke unto them, saying, Why have you beguiled us, saying, We are very far from you; when ye dwell among us?"
               },
               {
                 "vnumber": "23",
@@ -951,7 +951,7 @@ var Prophets = {
               },
               {
                 "vnumber": "12",
-                "text": "Then spake Joshua to Yahweh in the day when Yahweh delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun, stand thou still upon Gibeon; and thou, Moon, in the valley of Ajalon."
+                "text": "Then spoke Joshua to Yahweh in the day when Yahweh delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun, stand thou still upon Gibeon; and you, Moon, in the valley of Ajalon."
               },
               {
                 "vnumber": "13",
@@ -1398,7 +1398,7 @@ var Prophets = {
               },
               {
                 "vnumber": "30",
-                "text": "And their coast was from Mahanaim, all Bashan, all the kingdom of Og king of Bashan, and all the towns of Jair, which are in Bashan, threescore cities:"
+                "text": "And their coast was from Mahanaim, all Bashan, all the kingdom of Og king of Bashan, and all the towns of Jair, which are in Bashan, sixty cities:"
               },
               {
                 "vnumber": "31",
@@ -1455,7 +1455,7 @@ var Prophets = {
               },
               {
                 "vnumber": "10",
-                "text": "And now, behold, Yahweh hath kept me alive, as he said, these forty and five years, even since Yahweh spake this word unto Moses, while the children of Israel wandered in the wilderness: and now, lo, I am this day fourscore and five years old."
+                "text": "And now, behold, Yahweh hath kept me alive, as he said, these forty and five years, even since Yahweh spoke this word unto Moses, while the children of Israel wandered in the wilderness: and now, lo, I am this day eighty-five years old."
               },
               {
                 "vnumber": "11",
@@ -1463,7 +1463,7 @@ var Prophets = {
               },
               {
                 "vnumber": "12",
-                "text": "Now therefore give me this mountain, whereof Yahweh spake in that day; for thou heardest in that day how the Anakims were there, and that the cities were great and fenced: if so be Yahweh will be with me, then I shall be able to drive them out, as Yahweh said."
+                "text": "Now therefore give me this mountain, whereof Yahweh spoke in that day; for thou heardest in that day how the Anakims were there, and that the cities were great and fenced: if so be Yahweh will be with me, then I shall be able to drive them out, as Yahweh said."
               },
               {
                 "vnumber": "13",
@@ -1838,7 +1838,7 @@ var Prophets = {
               },
               {
                 "vnumber": "14",
-                "text": "And the children of Joseph spake unto Joshua, saying, Why hast thou given me but one lot and one portion to inherit, seeing I am a great people, forasmuch as Yahweh hath blessed me hitherto?"
+                "text": "And the children of Joseph spoke unto Joshua, saying, Why hast thou given me but one lot and one portion to inherit, seeing I am a great people, forasmuch as Yahweh hath blessed me hitherto?"
               },
               {
                 "vnumber": "15",
@@ -1850,7 +1850,7 @@ var Prophets = {
               },
               {
                 "vnumber": "17",
-                "text": "And Joshua spake unto the house of Joseph, even to Ephraim and to Manasseh, saying, Thou art a great people, and hast great power: you shall not have one lot only:"
+                "text": "And Joshua spoke unto the house of Joseph, even to Ephraim and to Manasseh, saying, Thou art a great people, and hast great power: you shall not have one lot only:"
               },
               {
                 "vnumber": "18",
@@ -2189,11 +2189,11 @@ var Prophets = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Yahweh also spake unto Joshua, saying,"
+                "text": "Yahweh also spoke unto Joshua, saying,"
               },
               {
                 "vnumber": "2",
-                "text": "Speak to the children of Israel, saying, Appoint out for you cities of refuge, whereof I spake unto you by the hand of Moses:"
+                "text": "Speak to the children of Israel, saying, Appoint out for you cities of refuge, whereof I spoke unto you by the hand of Moses:"
               },
               {
                 "vnumber": "3",
@@ -2234,7 +2234,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "And they spake unto them at Shiloh in the land of Canaan, saying, Yahweh commanded by the hand of Moses to give us cities to dwell in, with the suburbs thereof for our cattle."
+                "text": "And they spoke unto them at Shiloh in the land of Canaan, saying, Yahweh commanded by the hand of Moses to give us cities to dwell in, with the suburbs thereof for our cattle."
               },
               {
                 "vnumber": "3",
@@ -2443,7 +2443,7 @@ var Prophets = {
               },
               {
                 "vnumber": "8",
-                "text": "And he spake unto them, saying, Return with much riches unto your tents, and with very much cattle, with silver, and with gold, and with brass, and with iron, and with very much raiment: divide the spoil of your enemies with your brethren."
+                "text": "And he spoke unto them, saying, Return with much riches unto your tents, and with very much cattle, with silver, and with gold, and with brass, and with iron, and with very much raiment: divide the spoil of your enemies with your brethren."
               },
               {
                 "vnumber": "9",
@@ -2471,7 +2471,7 @@ var Prophets = {
               },
               {
                 "vnumber": "15",
-                "text": "And they came unto the children of Reuben, and to the children of Gad, and to the half tribe of Manasseh, unto the land of Gilead, and they spake with them, saying,"
+                "text": "And they came unto the children of Reuben, and to the children of Gad, and to the half tribe of Manasseh, unto the land of Gilead, and they spoke with them, saying,"
               },
               {
                 "vnumber": "16",
@@ -2487,7 +2487,7 @@ var Prophets = {
               },
               {
                 "vnumber": "19",
-                "text": "Notwithstanding, if the land of your possession be unclean, then pass ye over unto the land of the possession of Yahweh, wherein Yahweh'S tabernacle dwelleth, and take possession among us: but rebel not against Yahweh, nor rebel against us, in building you an altar beside the altar of Yahweh our God."
+                "text": "Notwithstanding, if the land of your possession be unclean, then pass ye over unto the land of the possession of Yahweh, wherein Yahweh's tabernacle dwelleth, and take possession among us: but rebel not against Yahweh, nor rebel against us, in building you an altar beside the altar of Yahweh our God."
               },
               {
                 "vnumber": "20",
@@ -2608,7 +2608,7 @@ var Prophets = {
               },
               {
                 "vnumber": "14",
-                "text": "And, behold, this day I am going the way of all the earth: and ye know in all your hearts and in all your souls, that not one thing hath failed of all the good things which Yahweh your God spake concerning you; all are come to pass unto you, and not one thing hath failed thereof."
+                "text": "And, behold, this day I am going the way of all the earth: and ye know in all your hearts and in all your souls, that not one thing hath failed of all the good things which Yahweh your God spoke concerning you; all are come to pass unto you, and not one thing hath failed thereof."
               },
               {
                 "vnumber": "15",
@@ -2729,7 +2729,7 @@ var Prophets = {
               },
               {
                 "vnumber": "27",
-                "text": "And Joshua said unto all the people, Behold, this stone shall be a witness unto us; for it hath heard all the words of Yahweh which he spake unto us: it shall be therefore a witness unto you, lest ye deny your God."
+                "text": "And Joshua said unto all the people, Behold, this stone shall be a witness unto us; for it hath heard all the words of Yahweh which he spoke unto us: it shall be therefore a witness unto you, lest ye deny your God."
               },
               {
                 "vnumber": "28",
@@ -2930,7 +2930,7 @@ var Prophets = {
               },
               {
                 "vnumber": "4",
-                "text": "And it came to pass, when the angel of Yahweh spake these words unto all the children of Israel, that the people lifted up their voice, and wept."
+                "text": "And it came to pass, when the angel of Yahweh spoke these words unto all the children of Israel, that the people lifted up their voice, and wept."
               },
               {
                 "vnumber": "5",
@@ -3672,11 +3672,11 @@ var Prophets = {
               },
               {
                 "vnumber": "8",
-                "text": "And he went up thence to Penuel, and spake unto them likewise: and the men of Penuel answered him as the men of Succoth had answered him."
+                "text": "And he went up thence to Penuel, and spoke unto them likewise: and the men of Penuel answered him as the men of Succoth had answered him."
               },
               {
                 "vnumber": "9",
-                "text": "And he spake also unto the men of Penuel, saying, When I come again in peace, I will break down this tower."
+                "text": "And he spoke also unto the men of Penuel, saying, When I come again in peace, I will break down this tower."
               },
               {
                 "vnumber": "10",
@@ -3724,11 +3724,11 @@ var Prophets = {
               },
               {
                 "vnumber": "21",
-                "text": "Then Zebah and Zalmunna said, Rise thou, and fall upon us: for as the man is, so is his strength. And Gideon arose, and slew Zebah and Zalmunna, and took away the ornaments that were on their camels' necks."
+                "text": "Then Zebah and Zalmunna said, Rise you, and fall upon us: for as the man is, so is his strength. And Gideon arose, and slew Zebah and Zalmunna, and took away the ornaments that were on their camels' necks."
               },
               {
                 "vnumber": "22",
-                "text": "Then the men of Israel said unto Gideon, Rule thou over us, both thou, and thy son, and thy son's son also: for thou hast delivered us from the hand of Midian."
+                "text": "Then the men of Israel said unto Gideon, Rule thou over us, both you, and thy son, and thy son's son also: for thou hast delivered us from the hand of Midian."
               },
               {
                 "vnumber": "23",
@@ -3797,7 +3797,7 @@ var Prophets = {
               },
               {
                 "vnumber": "3",
-                "text": "And his mother's brethren spake of him in the ears of all the men of Shechem all these words: and their hearts inclined to follow Abimelech; for they said, He is our brother."
+                "text": "And his mother's brethren spoke of him in the ears of all the men of Shechem all these words: and their hearts inclined to follow Abimelech; for they said, He is our brother."
               },
               {
                 "vnumber": "4",
@@ -3825,7 +3825,7 @@ var Prophets = {
               },
               {
                 "vnumber": "10",
-                "text": "And the trees said to the fig tree, Come thou, and reign over us."
+                "text": "And the trees said to the fig tree, Come you, and reign over us."
               },
               {
                 "vnumber": "11",
@@ -3833,7 +3833,7 @@ var Prophets = {
               },
               {
                 "vnumber": "12",
-                "text": "Then said the trees unto the vine, Come thou, and reign over us."
+                "text": "Then said the trees unto the vine, Come you, and reign over us."
               },
               {
                 "vnumber": "13",
@@ -3841,7 +3841,7 @@ var Prophets = {
               },
               {
                 "vnumber": "14",
-                "text": "Then said all the trees unto the bramble, Come thou, and reign over us."
+                "text": "Then said all the trees unto the bramble, Come you, and reign over us."
               },
               {
                 "vnumber": "15",
@@ -3933,7 +3933,7 @@ var Prophets = {
               },
               {
                 "vnumber": "37",
-                "text": "And Gaal spake again and said, See there come people down by the middle of the land, and another company come along by the plain of Meonenim."
+                "text": "And Gaal spoke again and said, See there come people down by the middle of the land, and another company come along by the plain of Meonenim."
               },
               {
                 "vnumber": "38",
@@ -4219,7 +4219,7 @@ var Prophets = {
               },
               {
                 "vnumber": "31",
-                "text": "Then it shall be, that whatsoever cometh forth of the doors of my house to meet me, when I return in peace from the children of Ammon, shall surely be Yahweh'S, and I will offer it up for a burnt offering."
+                "text": "Then it shall be, that whatsoever cometh forth of the doors of my house to meet me, when I return in peace from the children of Ammon, shall surely be Yahweh's, and I will offer it up for a burnt offering."
               },
               {
                 "vnumber": "32",
@@ -4567,7 +4567,7 @@ var Prophets = {
               },
               {
                 "vnumber": "13",
-                "text": "And they spake unto him, saying, No; but we will bind thee fast, and deliver thee into their hand: but surely we will not kill thee. And they bound him with two new cords, and brought him up from the rock."
+                "text": "And they spoke unto him, saying, No; but we will bind thee fast, and deliver thee into their hand: but surely we will not kill thee. And they bound him with two new cords, and brought him up from the rock."
               },
               {
                 "vnumber": "14",
@@ -5003,7 +5003,7 @@ var Prophets = {
               },
               {
                 "vnumber": "22",
-                "text": "Now as they were making their hearts merry, behold, the men of the city, certain sons of Belial, beset the house round about, and beat at the door, and spake to the master of the house, the old man, saying, Bring forth the man that came into thine house, that we may know him."
+                "text": "Now as they were making their hearts merry, behold, the men of the city, certain sons of Belial, beset the house round about, and beat at the door, and spoke to the master of the house, the old man, saying, Bring forth the man that came into thine house, that we may know him."
               },
               {
                 "vnumber": "23",
@@ -5401,7 +5401,7 @@ var Prophets = {
               },
               {
                 "vnumber": "13",
-                "text": "Now Hannah, she spake in her heart; only her lips moved, but her voice was not heard: therefore Eli thought she had been drunken."
+                "text": "Now Hannah, she spoke in her heart; only her lips moved, but her voice was not heard: therefore Eli thought she had been drunken."
               },
               {
                 "vnumber": "14",
@@ -5498,7 +5498,7 @@ var Prophets = {
               },
               {
                 "vnumber": "8",
-                "text": "He raiseth up the poor out of the dust, and lifteth up the beggar from the dunghill, to set them among princes, and to make them inherit the throne of glory: for the pillars of the earth are Yahweh'S, and he hath set the world upon them."
+                "text": "He raiseth up the poor out of the dust, and lifteth up the beggar from the dunghill, to set them among princes, and to make them inherit the throne of glory: for the pillars of the earth are Yahweh's, and he hath set the world upon them."
               },
               {
                 "vnumber": "9",
@@ -5562,7 +5562,7 @@ var Prophets = {
               },
               {
                 "vnumber": "24",
-                "text": "Nay, my sons; for it is no good report that I hear: ye make Yahweh'S people to transgress."
+                "text": "Nay, my sons; for it is no good report that I hear: ye make Yahweh's people to transgress."
               },
               {
                 "vnumber": "25",
@@ -5951,7 +5951,7 @@ var Prophets = {
               },
               {
                 "vnumber": "3",
-                "text": "And Samuel spake unto all the house of Israel, saying, If ye do return unto Yahweh with all your hearts, then put away the strange gods and Ashtaroth from among you, and prepare your hearts unto Yahweh, and serve him only: and he will deliver you out of the hand of the Philistines."
+                "text": "And Samuel spoke unto all the house of Israel, saying, If ye do return unto Yahweh with all your hearts, then put away the strange gods and Ashtaroth from among you, and prepare your hearts unto Yahweh, and serve him only: and he will deliver you out of the hand of the Philistines."
               },
               {
                 "vnumber": "4",
@@ -6173,7 +6173,7 @@ var Prophets = {
               },
               {
                 "vnumber": "17",
-                "text": "And when Samuel saw Saul, Yahweh said unto him, Behold the man whom I spake to thee of! this same shall reign over my people."
+                "text": "And when Samuel saw Saul, Yahweh said unto him, Behold the man whom I spoke to thee of! this same shall reign over my people."
               },
               {
                 "vnumber": "18",
@@ -6610,7 +6610,7 @@ var Prophets = {
               },
               {
                 "vnumber": "3",
-                "text": "And Ahiah, the son of Ahitub, Ichabod's brother, the son of Phinehas, the son of Eli, Yahweh'S priest in Shiloh, wearing an ephod. And the people knew not that Jonathan was gone."
+                "text": "And Ahiah, the son of Ahitub, Ichabod's brother, the son of Phinehas, the son of Eli, Yahweh's priest in Shiloh, wearing an ephod. And the people knew not that Jonathan was gone."
               },
               {
                 "vnumber": "4",
@@ -6980,7 +6980,7 @@ var Prophets = {
               },
               {
                 "vnumber": "6",
-                "text": "And it came to pass, when they were come, that he looked on Eliab, and said, Surely Yahweh'S anointed is before him."
+                "text": "And it came to pass, when they were come, that he looked on Eliab, and said, Surely Yahweh's anointed is before him."
               },
               {
                 "vnumber": "7",
@@ -7145,7 +7145,7 @@ var Prophets = {
               },
               {
                 "vnumber": "23",
-                "text": "And as he talked with them, behold, there came up the champion, the Philistine of Gath, Goliath by name, out of the armies of the Philistines, and spake according to the same words: and David heard them."
+                "text": "And as he talked with them, behold, there came up the champion, the Philistine of Gath, Goliath by name, out of the armies of the Philistines, and spoke according to the same words: and David heard them."
               },
               {
                 "vnumber": "24",
@@ -7157,7 +7157,7 @@ var Prophets = {
               },
               {
                 "vnumber": "26",
-                "text": "And David spake to the men that stood by him, saying, What shall be done to the man that killeth this Philistine, and taketh away the reproach from Israel? for who is this uncircumcised Philistine, that he should defy the armies of the living God?"
+                "text": "And David spoke to the men that stood by him, saying, What shall be done to the man that killeth this Philistine, and taketh away the reproach from Israel? for who is this uncircumcised Philistine, that he should defy the armies of the living God?"
               },
               {
                 "vnumber": "27",
@@ -7165,7 +7165,7 @@ var Prophets = {
               },
               {
                 "vnumber": "28",
-                "text": "And Eliab his eldest brother heard when he spake unto the men; and Eliab's anger was kindled against David, and he said, Why camest thou down hither? and with whom hast thou left those few sheep in the wilderness? I know thy pride, and the naughtiness of thine heart; for thou art come down that thou mightest see the battle."
+                "text": "And Eliab his eldest brother heard when he spoke unto the men; and Eliab's anger was kindled against David, and he said, Why camest thou down hither? and with whom hast thou left those few sheep in the wilderness? I know thy pride, and the naughtiness of thine heart; for thou art come down that thou mightest see the battle."
               },
               {
                 "vnumber": "29",
@@ -7173,7 +7173,7 @@ var Prophets = {
               },
               {
                 "vnumber": "30",
-                "text": "And he turned from him toward another, and spake after the same manner: and the people answered him again after the former manner."
+                "text": "And he turned from him toward another, and spoke after the same manner: and the people answered him again after the former manner."
               },
               {
                 "vnumber": "31",
@@ -7241,7 +7241,7 @@ var Prophets = {
               },
               {
                 "vnumber": "47",
-                "text": "And all this assembly shall know that Yahweh saveth not with sword and spear: for the battle is Yahweh'S, and he will give you into our hands."
+                "text": "And all this assembly shall know that Yahweh saveth not with sword and spear: for the battle is Yahweh's, and he will give you into our hands."
               },
               {
                 "vnumber": "48",
@@ -7285,7 +7285,7 @@ var Prophets = {
               },
               {
                 "vnumber": "58",
-                "text": "And Saul said to him, Whose son art thou, thou young man? And David answered, I am the son of thy servant Jesse the Bethlehemite."
+                "text": "And Saul said to him, Whose son art you, thou young man? And David answered, I am the son of thy servant Jesse the Bethlehemite."
               }
             ]
           },
@@ -7358,7 +7358,7 @@ var Prophets = {
               },
               {
                 "vnumber": "17",
-                "text": "And Saul said to David, Behold my elder daughter Merab, her will I give thee to wife: only be thou valiant for me, and fight Yahweh'S battles. For Saul said, Let not mine hand be upon him, but let the hand of the Philistines be upon him."
+                "text": "And Saul said to David, Behold my elder daughter Merab, her will I give thee to wife: only be thou valiant for me, and fight Yahweh's battles. For Saul said, Let not mine hand be upon him, but let the hand of the Philistines be upon him."
               },
               {
                 "vnumber": "18",
@@ -7382,11 +7382,11 @@ var Prophets = {
               },
               {
                 "vnumber": "23",
-                "text": "And Saul's servants spake those words in the ears of David. And David said, Seemeth it to you a light thing to be a king's son in law, seeing that I am a poor man, and lightly esteemed?"
+                "text": "And Saul's servants spoke those words in the ears of David. And David said, Seemeth it to you a light thing to be a king's son in law, seeing that I am a poor man, and lightly esteemed?"
               },
               {
                 "vnumber": "24",
-                "text": "And the servants of Saul told him, saying, On this manner spake David."
+                "text": "And the servants of Saul told him, saying, On this manner spoke David."
               },
               {
                 "vnumber": "25",
@@ -7419,7 +7419,7 @@ var Prophets = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And Saul spake to Jonathan his son, and to all his servants, that they should kill David."
+                "text": "And Saul spoke to Jonathan his son, and to all his servants, that they should kill David."
               },
               {
                 "vnumber": "2",
@@ -7431,7 +7431,7 @@ var Prophets = {
               },
               {
                 "vnumber": "4",
-                "text": "And Jonathan spake good of David unto Saul his father, and said unto him, Let not the king sin against his servant, against David; because he hath not sinned against thee, and because his works have been to thee-ward very good:"
+                "text": "And Jonathan spoke good of David unto Saul his father, and said unto him, Let not the king sin against his servant, against David; because he hath not sinned against thee, and because his works have been to thee-ward very good:"
               },
               {
                 "vnumber": "5",
@@ -7620,7 +7620,7 @@ var Prophets = {
               },
               {
                 "vnumber": "26",
-                "text": "Nevertheless Saul spake not any thing that day: for he thought, Something hath befallen him, he is not clean; surely he is not clean."
+                "text": "Nevertheless Saul spoke not any thing that day: for he thought, Something hath befallen him, he is not clean; surely he is not clean."
               },
               {
                 "vnumber": "27",
@@ -7818,7 +7818,7 @@ var Prophets = {
               },
               {
                 "vnumber": "16",
-                "text": "And the king said, Thou shalt surely die, Ahimelech, thou, and all thy father's house."
+                "text": "And the king said, Thou shalt surely die, Ahimelech, you, and all thy father's house."
               },
               {
                 "vnumber": "17",
@@ -7826,7 +7826,7 @@ var Prophets = {
               },
               {
                 "vnumber": "18",
-                "text": "And the king said to Doeg, Turn thou, and fall upon the priests. And Doeg the Edomite turned, and he fell upon the priests, and slew on that day fourscore and five persons that did wear a linen ephod."
+                "text": "And the king said to Doeg, Turn you, and fall upon the priests. And Doeg the Edomite turned, and he fell upon the priests, and slew on that day fourscore and five persons that did wear a linen ephod."
               },
               {
                 "vnumber": "19",
@@ -7838,7 +7838,7 @@ var Prophets = {
               },
               {
                 "vnumber": "21",
-                "text": "And Abiathar shewed David that Saul had slain Yahweh'S priests."
+                "text": "And Abiathar shewed David that Saul had slain Yahweh's priests."
               },
               {
                 "vnumber": "22",
@@ -7996,7 +7996,7 @@ var Prophets = {
               },
               {
                 "vnumber": "6",
-                "text": "And he said unto his men, Yahweh forbid that I should do this thing unto my master, Yahweh'S anointed, to stretch forth mine hand against him, seeing he is the anointed of Yahweh."
+                "text": "And he said unto his men, Yahweh forbid that I should do this thing unto my master, Yahweh's anointed, to stretch forth mine hand against him, seeing he is the anointed of Yahweh."
               },
               {
                 "vnumber": "7",
@@ -8012,7 +8012,7 @@ var Prophets = {
               },
               {
                 "vnumber": "10",
-                "text": "Behold, this day thine eyes have seen how that Yahweh had delivered thee to day into mine hand in the cave: and some bade me kill thee: but mine eye spared thee; and I said, I will not put forth mine hand against my lord; for he is Yahweh'S anointed."
+                "text": "Behold, this day thine eyes have seen how that Yahweh had delivered thee to day into mine hand in the cave: and some bade me kill thee: but mine eye spared thee; and I said, I will not put forth mine hand against my lord; for he is Yahweh's anointed."
               },
               {
                 "vnumber": "11",
@@ -8101,7 +8101,7 @@ var Prophets = {
               },
               {
                 "vnumber": "9",
-                "text": "And when David's young men came, they spake to Nabal according to all those words in the name of David, and ceased."
+                "text": "And when David's young men came, they spoke to Nabal according to all those words in the name of David, and ceased."
               },
               {
                 "vnumber": "10",
@@ -8197,7 +8197,7 @@ var Prophets = {
               },
               {
                 "vnumber": "33",
-                "text": "And blessed be thy advice, and blessed be thou, which hast kept me this day from coming to shed blood, and from avenging myself with mine own hand."
+                "text": "And blessed be thy advice, and blessed be you, which hast kept me this day from coming to shed blood, and from avenging myself with mine own hand."
               },
               {
                 "vnumber": "34",
@@ -8225,7 +8225,7 @@ var Prophets = {
               },
               {
                 "vnumber": "40",
-                "text": "And when the servants of David were come to Abigail to Carmel, they spake unto her, saying, David sent us unto thee, to take thee to him to wife."
+                "text": "And when the servants of David were come to Abigail to Carmel, they spoke unto her, saying, David sent us unto thee, to take thee to him to wife."
               },
               {
                 "vnumber": "41",
@@ -8282,7 +8282,7 @@ var Prophets = {
               },
               {
                 "vnumber": "9",
-                "text": "And David said to Abishai, Destroy him not: for who can stretch forth his hand against Yahweh'S anointed, and be guiltless?"
+                "text": "And David said to Abishai, Destroy him not: for who can stretch forth his hand against Yahweh's anointed, and be guiltless?"
               },
               {
                 "vnumber": "10",
@@ -8290,7 +8290,7 @@ var Prophets = {
               },
               {
                 "vnumber": "11",
-                "text": "Yahweh forbid that I should stretch forth mine hand against Yahweh'S anointed: but, I pray thee, take thou now the spear that is at his bolster, and the cruse of water, and let us go."
+                "text": "Yahweh forbid that I should stretch forth mine hand against Yahweh's anointed: but, I pray thee, take thou now the spear that is at his bolster, and the cruse of water, and let us go."
               },
               {
                 "vnumber": "12",
@@ -8310,7 +8310,7 @@ var Prophets = {
               },
               {
                 "vnumber": "16",
-                "text": "This thing is not good that thou hast done. As Yahweh liveth, ye are worthy to die, because ye have not kept your master, Yahweh'S anointed. And now see where the king's spear is, and the cruse of water that was at his bolster."
+                "text": "This thing is not good that thou hast done. As Yahweh liveth, ye are worthy to die, because ye have not kept your master, Yahweh's anointed. And now see where the king's spear is, and the cruse of water that was at his bolster."
               },
               {
                 "vnumber": "17",
@@ -8338,7 +8338,7 @@ var Prophets = {
               },
               {
                 "vnumber": "23",
-                "text": "Yahweh render to every man his righteousness and his faithfulness: for Yahweh delivered thee into my hand to day, but I would not stretch forth mine hand against Yahweh'S anointed."
+                "text": "Yahweh render to every man his righteousness and his faithfulness: for Yahweh delivered thee into my hand to day, but I would not stretch forth mine hand against Yahweh's anointed."
               },
               {
                 "vnumber": "24",
@@ -8346,7 +8346,7 @@ var Prophets = {
               },
               {
                 "vnumber": "25",
-                "text": "Then Saul said to David, Blessed be thou, my son David: thou shalt both do great things, and also shalt still prevail. So David went on his way, and Saul returned to his place."
+                "text": "Then Saul said to David, Blessed be you, my son David: thou shalt both do great things, and also shalt still prevail. So David went on his way, and Saul returned to his place."
               }
             ]
           },
@@ -8452,7 +8452,7 @@ var Prophets = {
               },
               {
                 "vnumber": "12",
-                "text": "And when the woman saw Samuel, she cried with a loud voice: and the woman spake to Saul, saying, Why hast thou deceived me? for thou art Saul."
+                "text": "And when the woman saw Samuel, she cried with a loud voice: and the woman spoke to Saul, saying, Why hast thou deceived me? for thou art Saul."
               },
               {
                 "vnumber": "13",
@@ -8472,7 +8472,7 @@ var Prophets = {
               },
               {
                 "vnumber": "17",
-                "text": "And Yahweh hath done to him, as he spake by me: for Yahweh hath rent the kingdom out of thine hand, and given it to thy neighbour, even to David:"
+                "text": "And Yahweh hath done to him, as he spoke by me: for Yahweh hath rent the kingdom out of thine hand, and given it to thy neighbour, even to David:"
               },
               {
                 "vnumber": "18",
@@ -8582,7 +8582,7 @@ var Prophets = {
               },
               {
                 "vnumber": "6",
-                "text": "And David was greatly distressed; for the people spake of stoning him, because the soul of all the people was grieved, every man for his sons and for his daughters: but David encouraged himself in Yahweh his God."
+                "text": "And David was greatly distressed; for the people spoke of stoning him, because the soul of all the people was grieved, every man for his sons and for his daughters: but David encouraged himself in Yahweh his God."
               },
               {
                 "vnumber": "7",
@@ -8807,7 +8807,7 @@ var Prophets = {
               },
               {
                 "vnumber": "14",
-                "text": "And David said unto him, How wast thou not afraid to stretch forth thine hand to destroy Yahweh'S anointed?"
+                "text": "And David said unto him, How wast thou not afraid to stretch forth thine hand to destroy Yahweh's anointed?"
               },
               {
                 "vnumber": "15",
@@ -8815,7 +8815,7 @@ var Prophets = {
               },
               {
                 "vnumber": "16",
-                "text": "And David said unto him, Thy blood be upon thy head; for thy mouth hath testified against thee, saying, I have slain Yahweh'S anointed."
+                "text": "And David said unto him, Thy blood be upon thy head; for thy mouth hath testified against thee, saying, I have slain Yahweh's anointed."
               },
               {
                 "vnumber": "17",
@@ -9073,7 +9073,7 @@ var Prophets = {
               },
               {
                 "vnumber": "19",
-                "text": "And Abner also spake in the ears of Benjamin: and Abner went also to speak in the ears of David in Hebron all that seemed good to Israel, and that seemed good to the whole house of Benjamin."
+                "text": "And Abner also spoke in the ears of Benjamin: and Abner went also to speak in the ears of David in Hebron all that seemed good to Israel, and that seemed good to the whole house of Benjamin."
               },
               {
                 "vnumber": "20",
@@ -9235,7 +9235,7 @@ var Prophets = {
               },
               {
                 "vnumber": "6",
-                "text": "And the king and his men went to Jerusalem unto the Jebusites, the inhabitants of the land: which spake unto David, saying, Except thou take away the blind and the lame, you shall not come in hither: thinking, David cannot come in hither."
+                "text": "And the king and his men went to Jerusalem unto the Jebusites, the inhabitants of the land: which spoke unto David, saying, Except thou take away the blind and the lame, you shall not come in hither: thinking, David cannot come in hither."
               },
               {
                 "vnumber": "7",
@@ -9441,7 +9441,7 @@ var Prophets = {
               },
               {
                 "vnumber": "7",
-                "text": "In all the places wherein I have walked with all the children of Israel spake I a word with any of the tribes of Israel, whom I commanded to feed my people Israel, saying, Why build ye not me an house of cedar?"
+                "text": "In all the places wherein I have walked with all the children of Israel spoke I a word with any of the tribes of Israel, whom I commanded to feed my people Israel, saying, Why build ye not me an house of cedar?"
               },
               {
                 "vnumber": "8",
@@ -9493,7 +9493,7 @@ var Prophets = {
               },
               {
                 "vnumber": "20",
-                "text": "And what can David say more unto thee? for thou, Lord Yahweh, knowest thy servant."
+                "text": "And what can David say more unto thee? for you, Lord Yahweh, knowest thy servant."
               },
               {
                 "vnumber": "21",
@@ -9509,7 +9509,7 @@ var Prophets = {
               },
               {
                 "vnumber": "24",
-                "text": "For thou hast confirmed to thyself thy people Israel to be a people unto thee for ever: and thou, Yahweh, art become their God."
+                "text": "For thou hast confirmed to thyself thy people Israel to be a people unto thee for ever: and you, Yahweh, art become their God."
               },
               {
                 "vnumber": "25",
@@ -9521,7 +9521,7 @@ var Prophets = {
               },
               {
                 "vnumber": "27",
-                "text": "For thou, Oh Yahweh of Armies, God of Israel, hast revealed to thy servant, saying, I will build thee an house: therefore hath thy servant found in his heart to pray this prayer unto thee."
+                "text": "For you, Oh Yahweh of Armies, God of Israel, hast revealed to thy servant, saying, I will build thee an house: therefore hath thy servant found in his heart to pray this prayer unto thee."
               },
               {
                 "vnumber": "28",
@@ -9529,7 +9529,7 @@ var Prophets = {
               },
               {
                 "vnumber": "29",
-                "text": "Therefore now let it please thee to bless the house of thy servant, that it may continue for ever before thee: for thou, O Lord Yahweh, hast spoken it: and with thy blessing let the house of thy servant be blessed for ever."
+                "text": "Therefore now let it please thee to bless the house of thy servant, that it may continue for ever before thee: for you, O Lord Yahweh, hast spoken it: and with thy blessing let the house of thy servant be blessed for ever."
               }
             ]
           },
@@ -9833,7 +9833,7 @@ var Prophets = {
               },
               {
                 "vnumber": "21",
-                "text": "Who smote Abimelech the son of Jerubbesheth? did not a woman cast a piece of a millstone upon him from the wall, that he died in Thebez? why went ye nigh the wall? then say thou, Thy servant Uriah the Hittite is dead also."
+                "text": "Who smote Abimelech the son of Jerubbesheth? did not a woman cast a piece of a millstone upon him from the wall, that he died in Thebez? why went ye nigh the wall? then say you, Thy servant Uriah the Hittite is dead also."
               },
               {
                 "vnumber": "22",
@@ -9934,7 +9934,7 @@ var Prophets = {
               },
               {
                 "vnumber": "18",
-                "text": "And it came to pass on the seventh day, that the child died. And the servants of David feared to tell him that the child was dead: for they said, Behold, while the child was yet alive, we spake unto him, and he would not hearken unto our voice: how will he then vex himself, if we tell him that the child is dead?"
+                "text": "And it came to pass on the seventh day, that the child died. And the servants of David feared to tell him that the child was dead: for they said, Behold, while the child was yet alive, we spoke unto him, and he would not hearken unto our voice: how will he then vex himself, if we tell him that the child is dead?"
               },
               {
                 "vnumber": "19",
@@ -10007,7 +10007,7 @@ var Prophets = {
               },
               {
                 "vnumber": "4",
-                "text": "And he said unto him, Why art thou, being the king's son, lean from day to day? wilt thou not tell me? And Amnon said unto him, I love Tamar, my brother Absalom's sister."
+                "text": "And he said unto him, Why art you, being the king's son, lean from day to day? wilt thou not tell me? And Amnon said unto him, I love Tamar, my brother Absalom's sister."
               },
               {
                 "vnumber": "5",
@@ -10079,7 +10079,7 @@ var Prophets = {
               },
               {
                 "vnumber": "22",
-                "text": "And Absalom spake unto his brother Amnon neither good nor bad: for Absalom hated Amnon, because he had forced his sister Tamar."
+                "text": "And Absalom spoke unto his brother Amnon neither good nor bad: for Absalom hated Amnon, because he had forced his sister Tamar."
               },
               {
                 "vnumber": "23",
@@ -10168,7 +10168,7 @@ var Prophets = {
               },
               {
                 "vnumber": "4",
-                "text": "And when the woman of Tekoah spake to the king, she fell on her face to the ground, and did obeisance, and said, Help, O king."
+                "text": "And when the woman of Tekoah spoke to the king, she fell on her face to the ground, and did obeisance, and said, Help, O king."
               },
               {
                 "vnumber": "5",
@@ -10369,7 +10369,7 @@ var Prophets = {
               },
               {
                 "vnumber": "20",
-                "text": "Whereas thou camest but yesterday, should I this day make thee go up and down with us? seeing I go whither I may, return thou, and take back thy brethren: mercy and truth be with thee."
+                "text": "Whereas thou camest but yesterday, should I this day make thee go up and down with us? seeing I go whither I may, return you, and take back thy brethren: mercy and truth be with thee."
               },
               {
                 "vnumber": "21",
@@ -10563,7 +10563,7 @@ var Prophets = {
               },
               {
                 "vnumber": "6",
-                "text": "And when Hushai was come to Absalom, Absalom spake unto him, saying, Ahithophel hath spoken after this manner: shall we do after his saying? if not; speak thou."
+                "text": "And when Hushai was come to Absalom, Absalom spoke unto him, saying, Ahithophel hath spoken after this manner: shall we do after his saying? if not; speak thou."
               },
               {
                 "vnumber": "7",
@@ -10853,7 +10853,7 @@ var Prophets = {
               },
               {
                 "vnumber": "14",
-                "text": "And he bowed the heart of all the men of Judah, even as the heart of one man; so that they sent this word unto the king, Return thou, and all thy servants."
+                "text": "And he bowed the heart of all the men of Judah, even as the heart of one man; so that they sent this word unto the king, Return you, and all thy servants."
               },
               {
                 "vnumber": "15",
@@ -10881,7 +10881,7 @@ var Prophets = {
               },
               {
                 "vnumber": "21",
-                "text": "But Abishai the son of Zeruiah answered and said, Shall not Shimei be put to death for this, because he cursed Yahweh'S anointed?"
+                "text": "But Abishai the son of Zeruiah answered and said, Shall not Shimei be put to death for this, because he cursed Yahweh's anointed?"
               },
               {
                 "vnumber": "22",
@@ -11111,7 +11111,7 @@ var Prophets = {
               },
               {
                 "vnumber": "7",
-                "text": "But the king spared Mephibosheth, the son of Jonathan the son of Saul, because of Yahweh'S oath that was between them, between David and Jonathan the son of Saul."
+                "text": "But the king spared Mephibosheth, the son of Jonathan the son of Saul, because of Yahweh's oath that was between them, between David and Jonathan the son of Saul."
               },
               {
                 "vnumber": "8",
@@ -11180,7 +11180,7 @@ var Prophets = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And David spake unto Yahweh the words of this song in the day that Yahweh had delivered him out of the hand of all his enemies, and out of the hand of Saul:"
+                "text": "And David spoke unto Yahweh the words of this song in the day that Yahweh had delivered him out of the hand of all his enemies, and out of the hand of Saul:"
               },
               {
                 "vnumber": "2",
@@ -11393,11 +11393,11 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "The Spirit of Yahweh spake by me, and his word was in my tongue."
+                "text": "The Spirit of Yahweh spoke by me, and his word was in my tongue."
               },
               {
                 "vnumber": "3",
-                "text": "The God of Israel said, the Rock of Israel spake to me, He that ruleth over men must be just, ruling in the fear of God."
+                "text": "The God of Israel said, the Rock of Israel spoke to me, He that ruleth over men must be just, ruling in the fear of God."
               },
               {
                 "vnumber": "4",
@@ -11614,7 +11614,7 @@ var Prophets = {
               },
               {
                 "vnumber": "17",
-                "text": "And David spake unto Yahweh when he saw the angel that smote the people, and said, Lo, I have sinned, and I have done wickedly: but these sheep, what have they done? let thine hand, I pray thee, be against me, and against my father's house."
+                "text": "And David spoke unto Yahweh when he saw the angel that smote the people, and said, Lo, I have sinned, and I have done wickedly: but these sheep, what have they done? let thine hand, I pray thee, be against me, and against my father's house."
               },
               {
                 "vnumber": "18",
@@ -11702,7 +11702,7 @@ var Prophets = {
               },
               {
                 "vnumber": "11",
-                "text": "Wherefore Nathan spake unto Bathsheba the mother of Solomon, saying, Hast thou not heard that Adonijah the son of Haggith doth reign, and David our lord knoweth it not?"
+                "text": "Wherefore Nathan spoke unto Bathsheba the mother of Solomon, saying, Hast thou not heard that Adonijah the son of Haggith doth reign, and David our lord knoweth it not?"
               },
               {
                 "vnumber": "12",
@@ -11710,7 +11710,7 @@ var Prophets = {
               },
               {
                 "vnumber": "13",
-                "text": "Go and get thee in unto king David, and say unto him, Didst not thou, my lord, O king, swear unto thine handmaid, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne? why then doth Adonijah reign?"
+                "text": "Go and get thee in unto king David, and say unto him, Didst not you, my lord, O king, swear unto thine handmaid, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne? why then doth Adonijah reign?"
               },
               {
                 "vnumber": "14",
@@ -11738,7 +11738,7 @@ var Prophets = {
               },
               {
                 "vnumber": "20",
-                "text": "And thou, my lord, O king, the eyes of all Israel are upon thee, that thou shouldest tell them who shall sit on the throne of my lord the king after him."
+                "text": "And you, my lord, O king, the eyes of all Israel are upon thee, that thou shouldest tell them who shall sit on the throne of my lord the king after him."
               },
               {
                 "vnumber": "21",
@@ -11891,7 +11891,7 @@ var Prophets = {
               },
               {
                 "vnumber": "4",
-                "text": "That Yahweh may continue his word which he spake concerning me, saying, If thy children take heed to their way, to walk before me in truth with all their heart and with all their soul, there shall not fail thee (said he) a man on the throne of Israel."
+                "text": "That Yahweh may continue his word which he spoke concerning me, saying, If thy children take heed to their way, to walk before me in truth with all their heart and with all their soul, there shall not fail thee (said he) a man on the throne of Israel."
               },
               {
                 "vnumber": "5",
@@ -11983,7 +11983,7 @@ var Prophets = {
               },
               {
                 "vnumber": "27",
-                "text": "So Solomon thrust out Abiathar from being priest unto Yahweh; that he might fulfil the word of Yahweh, which he spake concerning the house of Eli in Shiloh."
+                "text": "So Solomon thrust out Abiathar from being priest unto Yahweh; that he might fulfil the word of Yahweh, which he spoke concerning the house of Eli in Shiloh."
               },
               {
                 "vnumber": "28",
@@ -12152,7 +12152,7 @@ var Prophets = {
               },
               {
                 "vnumber": "22",
-                "text": "And the other woman said, Nay; but the living is my son, and the dead is thy son. And this said, No; but the dead is thy son, and the living is my son. Thus they spake before the king."
+                "text": "And the other woman said, Nay; but the living is my son, and the dead is thy son. And this said, No; but the dead is thy son, and the living is my son. Thus they spoke before the king."
               },
               {
                 "vnumber": "23",
@@ -12168,7 +12168,7 @@ var Prophets = {
               },
               {
                 "vnumber": "26",
-                "text": "Then spake the woman whose the living child was unto the king, for her bowels yearned upon her son, and she said, O my lord, give her the living child, and in no wise slay it. But the other said, Let it be neither mine nor thine, but divide it."
+                "text": "Then spoke the woman whose the living child was unto the king, for her bowels yearned upon her son, and she said, O my lord, give her the living child, and in no wise slay it. But the other said, Let it be neither mine nor thine, but divide it."
               },
               {
                 "vnumber": "27",
@@ -12309,11 +12309,11 @@ var Prophets = {
               },
               {
                 "vnumber": "32",
-                "text": "And he spake three thousand proverbs: and his songs were a thousand and five."
+                "text": "And he spoke three thousand proverbs: and his songs were a thousand and five."
               },
               {
                 "vnumber": "33",
-                "text": "And he spake of trees, from the cedar tree that is in Lebanon even unto the hyssop that springeth out of the wall: he spake also of beasts, and of fowl, and of creeping things, and of fishes."
+                "text": "And he spoke of trees, from the cedar tree that is in Lebanon even unto the hyssop that springeth out of the wall: he spoke also of beasts, and of fowl, and of creeping things, and of fishes."
               },
               {
                 "vnumber": "34",
@@ -12342,7 +12342,7 @@ var Prophets = {
               },
               {
                 "vnumber": "5",
-                "text": "And, behold, I purpose to build an house unto the name of Yahweh my God, as Yahweh spake unto David my father, saying, Thy son, whom I will set upon thy throne in thy room, he shall build an house unto my name."
+                "text": "And, behold, I purpose to build an house unto the name of Yahweh my God, as Yahweh spoke unto David my father, saying, Thy son, whom I will set upon thy throne in thy room, he shall build an house unto my name."
               },
               {
                 "vnumber": "6",
@@ -12447,7 +12447,7 @@ var Prophets = {
               },
               {
                 "vnumber": "12",
-                "text": "Concerning this house which thou art in building, if thou wilt walk in my statutes, and execute my judgments, and keep all my commandments to walk in them; then will I perform my word with thee, which I spake unto David thy father:"
+                "text": "Concerning this house which thou art in building, if thou wilt walk in my statutes, and execute my judgments, and keep all my commandments to walk in them; then will I perform my word with thee, which I spoke unto David thy father:"
               },
               {
                 "vnumber": "13",
@@ -12813,7 +12813,7 @@ var Prophets = {
               },
               {
                 "vnumber": "12",
-                "text": "Then spake Solomon, Yahweh said that he would dwell in the thick darkness."
+                "text": "Then spoke Solomon, Yahweh said that he would dwell in the thick darkness."
               },
               {
                 "vnumber": "13",
@@ -12825,7 +12825,7 @@ var Prophets = {
               },
               {
                 "vnumber": "15",
-                "text": "And he said, Blessed be Yahweh God of Israel, which spake with his mouth unto David my father, and hath with his hand fulfilled it, saying,"
+                "text": "And he said, Blessed be Yahweh God of Israel, which spoke with his mouth unto David my father, and hath with his hand fulfilled it, saying,"
               },
               {
                 "vnumber": "16",
@@ -12921,7 +12921,7 @@ var Prophets = {
               },
               {
                 "vnumber": "39",
-                "text": "Then hear thou in heaven thy dwelling place, and forgive, and do, and give to every man according to his ways, whose heart thou knowest; (for thou, even thou only, knowest the hearts of all the children of men;)"
+                "text": "Then hear thou in heaven thy dwelling place, and forgive, and do, and give to every man according to his ways, whose heart thou knowest; (for you, even thou only, knowest the hearts of all the children of men;)"
               },
               {
                 "vnumber": "40",
@@ -13461,7 +13461,7 @@ var Prophets = {
               },
               {
                 "vnumber": "3",
-                "text": "That they sent and called him. And Jeroboam and all the congregation of Israel came, and spake unto Rehoboam, saying,"
+                "text": "That they sent and called him. And Jeroboam and all the congregation of Israel came, and spoke unto Rehoboam, saying,"
               },
               {
                 "vnumber": "4",
@@ -13477,7 +13477,7 @@ var Prophets = {
               },
               {
                 "vnumber": "7",
-                "text": "And they spake unto him, saying, If thou wilt be a servant unto this people this day, and wilt serve them, and answer them, and speak good words to them, then they will be thy servants for ever."
+                "text": "And they spoke unto him, saying, If thou wilt be a servant unto this people this day, and wilt serve them, and answer them, and speak good words to them, then they will be thy servants for ever."
               },
               {
                 "vnumber": "8",
@@ -13489,7 +13489,7 @@ var Prophets = {
               },
               {
                 "vnumber": "10",
-                "text": "And the young men that were grown up with him spake unto him, saying, Thus shalt thou speak unto this people that spake unto thee, saying, Thy father made our yoke heavy, but make thou it lighter unto us; thus shalt thou say unto them, My little finger shall be thicker than my father's loins."
+                "text": "And the young men that were grown up with him spoke unto him, saying, Thus shalt thou speak unto this people that spoke unto thee, saying, Thy father made our yoke heavy, but make thou it lighter unto us; thus shalt thou say unto them, My little finger shall be thicker than my father's loins."
               },
               {
                 "vnumber": "11",
@@ -13505,11 +13505,11 @@ var Prophets = {
               },
               {
                 "vnumber": "14",
-                "text": "And spake to them after the counsel of the young men, saying, My father made your yoke heavy, and I will add to your yoke: my father also chastised you with whips, but I will chastise you with scorpions."
+                "text": "And spoke to them after the counsel of the young men, saying, My father made your yoke heavy, and I will add to your yoke: my father also chastised you with whips, but I will chastise you with scorpions."
               },
               {
                 "vnumber": "15",
-                "text": "Wherefore the king hearkened not unto the people; for the cause was from Yahweh, that he might perform his saying, which Yahweh spake by Ahijah the Shilonite unto Jeroboam the son of Nebat."
+                "text": "Wherefore the king hearkened not unto the people; for the cause was from Yahweh, that he might perform his saying, which Yahweh spoke by Ahijah the Shilonite unto Jeroboam the son of Nebat."
               },
               {
                 "vnumber": "16",
@@ -13658,7 +13658,7 @@ var Prophets = {
               },
               {
                 "vnumber": "18",
-                "text": "He said unto him, I am a prophet also as thou art; and an angel spake unto me by the word of Yahweh, saying, Bring him back with thee into thine house, that he may eat bread and drink water. But he lied unto him."
+                "text": "He said unto him, I am a prophet also as thou art; and an angel spoke unto me by the word of Yahweh, saying, Bring him back with thee into thine house, that he may eat bread and drink water. But he lied unto him."
               },
               {
                 "vnumber": "19",
@@ -13690,11 +13690,11 @@ var Prophets = {
               },
               {
                 "vnumber": "26",
-                "text": "And when the prophet that brought him back from the way heard thereof, he said, It is the man of God, who was disobedient unto the word of Yahweh: therefore Yahweh hath delivered him unto the lion, which hath torn him, and slain him, according to the word of Yahweh, which he spake unto him."
+                "text": "And when the prophet that brought him back from the way heard thereof, he said, It is the man of God, who was disobedient unto the word of Yahweh: therefore Yahweh hath delivered him unto the lion, which hath torn him, and slain him, according to the word of Yahweh, which he spoke unto him."
               },
               {
                 "vnumber": "27",
-                "text": "And he spake to his sons, saying, Saddle me the ass. And they saddled him."
+                "text": "And he spoke to his sons, saying, Saddle me the ass. And they saddled him."
               },
               {
                 "vnumber": "28",
@@ -13710,7 +13710,7 @@ var Prophets = {
               },
               {
                 "vnumber": "31",
-                "text": "And it came to pass, after he had buried him, that he spake to his sons, saying, When I am dead, then bury me in the sepulchre wherein the man of God is buried; lay my bones beside his bones:"
+                "text": "And it came to pass, after he had buried him, that he spoke to his sons, saying, When I am dead, then bury me in the sepulchre wherein the man of God is buried; lay my bones beside his bones:"
               },
               {
                 "vnumber": "32",
@@ -13799,7 +13799,7 @@ var Prophets = {
               },
               {
                 "vnumber": "18",
-                "text": "And they buried him; and all Israel mourned for him, according to the word of Yahweh, which he spake by the hand of his servant Ahijah the prophet."
+                "text": "And they buried him; and all Israel mourned for him, according to the word of Yahweh, which he spoke by the hand of his servant Ahijah the prophet."
               },
               {
                 "vnumber": "19",
@@ -13972,7 +13972,7 @@ var Prophets = {
               },
               {
                 "vnumber": "29",
-                "text": "And it came to pass, when he reigned, that he smote all the house of Jeroboam; he left not to Jeroboam any that breathed, until he had destroyed him, according unto the saying of Yahweh, which he spake by his servant Ahijah the Shilonite:"
+                "text": "And it came to pass, when he reigned, that he smote all the house of Jeroboam; he left not to Jeroboam any that breathed, until he had destroyed him, according unto the saying of Yahweh, which he spoke by his servant Ahijah the Shilonite:"
               },
               {
                 "vnumber": "30",
@@ -14045,7 +14045,7 @@ var Prophets = {
               },
               {
                 "vnumber": "12",
-                "text": "Thus did Zimri destroy all the house of Baasha, according to the word of Yahweh, which he spake against Baasha by Jehu the prophet,"
+                "text": "Thus did Zimri destroy all the house of Baasha, according to the word of Yahweh, which he spoke against Baasha by Jehu the prophet,"
               },
               {
                 "vnumber": "13",
@@ -14133,7 +14133,7 @@ var Prophets = {
               },
               {
                 "vnumber": "34",
-                "text": "In his days did Hiel the Bethelite build Jericho: he laid the foundation thereof in Abiram his firstborn, and set up the gates thereof in his youngest son Segub, according to the word of Yahweh, which he spake by Joshua the son of Nun."
+                "text": "In his days did Hiel the Bethelite build Jericho: he laid the foundation thereof in Abiram his firstborn, and set up the gates thereof in his youngest son Segub, according to the word of Yahweh, which he spoke by Joshua the son of Nun."
               }
             ]
           },
@@ -14202,7 +14202,7 @@ var Prophets = {
               },
               {
                 "vnumber": "16",
-                "text": "And the barrel of meal wasted not, neither did the cruse of oil fail, according to the word of Yahweh, which he spake by Elijah."
+                "text": "And the barrel of meal wasted not, neither did the cruse of oil fail, according to the word of Yahweh, which he spoke by Elijah."
               },
               {
                 "vnumber": "17",
@@ -14291,7 +14291,7 @@ var Prophets = {
               },
               {
                 "vnumber": "13",
-                "text": "Was it not told my lord what I did when Jezebel slew the prophets of Yahweh, how I hid an hundred men of Yahweh'S prophets by fifty in a cave, and fed them with bread and water?"
+                "text": "Was it not told my lord what I did when Jezebel slew the prophets of Yahweh, how I hid an hundred men of Yahweh's prophets by fifty in a cave, and fed them with bread and water?"
               },
               {
                 "vnumber": "14",
@@ -14311,7 +14311,7 @@ var Prophets = {
               },
               {
                 "vnumber": "18",
-                "text": "And he answered, I have not troubled Israel; but thou, and thy father's house, in that ye have forsaken the commandments of Yahweh, and thou hast followed Baalim."
+                "text": "And he answered, I have not troubled Israel; but you, and thy father's house, in that ye have forsaken the commandments of Yahweh, and thou hast followed Baalim."
               },
               {
                 "vnumber": "19",
@@ -14629,7 +14629,7 @@ var Prophets = {
               },
               {
                 "vnumber": "28",
-                "text": "And there came a man of God, and spake unto the king of Israel, and said, Thus saith Yahweh, Because the Syrians have said, Yahweh is God of the hills, but he is not God of the valleys, therefore will I deliver all this great multitude into thine hand, and ye shall know that I am Yahweh."
+                "text": "And there came a man of God, and spoke unto the king of Israel, and said, Thus saith Yahweh, Because the Syrians have said, Yahweh is God of the hills, but he is not God of the valleys, therefore will I deliver all this great multitude into thine hand, and ye shall know that I am Yahweh."
               },
               {
                 "vnumber": "29",
@@ -14702,7 +14702,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "And Ahab spake unto Naboth, saying, Give me thy vineyard, that I may have it for a garden of herbs, because it is near unto my house: and I will give thee for it a better vineyard than it; or, if it seem good to thee, I will give thee the worth of it in money."
+                "text": "And Ahab spoke unto Naboth, saying, Give me thy vineyard, that I may have it for a garden of herbs, because it is near unto my house: and I will give thee for it a better vineyard than it; or, if it seem good to thee, I will give thee the worth of it in money."
               },
               {
                 "vnumber": "3",
@@ -14718,7 +14718,7 @@ var Prophets = {
               },
               {
                 "vnumber": "6",
-                "text": "And he said unto her, Because I spake unto Naboth the Jezreelite, and said unto him, Give me thy vineyard for money; or else, if it please thee, I will give thee another vineyard for it: and he answered, I will not give thee my vineyard."
+                "text": "And he said unto her, Because I spoke unto Naboth the Jezreelite, and said unto him, Give me thy vineyard for money; or else, if it please thee, I will give thee another vineyard for it: and he answered, I will not give thee my vineyard."
               },
               {
                 "vnumber": "7",
@@ -14786,7 +14786,7 @@ var Prophets = {
               },
               {
                 "vnumber": "23",
-                "text": "And of Jezebel also spake Yahweh, saying, The dogs shall eat Jezebel by the wall of Jezreel."
+                "text": "And of Jezebel also spoke Yahweh, saying, The dogs shall eat Jezebel by the wall of Jezreel."
               },
               {
                 "vnumber": "24",
@@ -14867,7 +14867,7 @@ var Prophets = {
               },
               {
                 "vnumber": "13",
-                "text": "And the messenger that was gone to call Micaiah spake unto him, saying, Behold now, the words of the prophets declare good unto the king with one mouth: let thy word, I pray thee, be like the word of one of them, and speak that which is good."
+                "text": "And the messenger that was gone to call Micaiah spoke unto him, saying, Behold now, the words of the prophets declare good unto the king with one mouth: let thy word, I pray thee, be like the word of one of them, and speak that which is good."
               },
               {
                 "vnumber": "14",
@@ -15075,7 +15075,7 @@ var Prophets = {
               },
               {
                 "vnumber": "9",
-                "text": "Then the king sent unto him a captain of fifty with his fifty. And he went up to him: and, behold, he sat on the top of an hill. And he spake unto him, Thou man of God, the king hath said, Come down."
+                "text": "Then the king sent unto him a captain of fifty with his fifty. And he went up to him: and, behold, he sat on the top of an hill. And he spoke unto him, Thou man of God, the king hath said, Come down."
               },
               {
                 "vnumber": "10",
@@ -15567,7 +15567,7 @@ var Prophets = {
               },
               {
                 "vnumber": "13",
-                "text": "And his servants came near, and spake unto him, and said, My father, if the prophet had bid thee do some great thing, wouldest thou not have done it? how much rather then, when he saith to thee, Wash, and be clean?"
+                "text": "And his servants came near, and spoke unto him, and said, My father, if the prophet had bid thee do some great thing, wouldest thou not have done it? how much rather then, when he saith to thee, Wash, and be clean?"
               },
               {
                 "vnumber": "14",
@@ -15615,7 +15615,7 @@ var Prophets = {
               },
               {
                 "vnumber": "25",
-                "text": "But he went in, and stood before his master. And Elisha said unto him, Whence comest thou, Gehazi? And he said, Thy servant went no whither."
+                "text": "But he went in, and stood before his master. And Elisha said unto him, Whence comest you, Gehazi? And he said, Thy servant went no whither."
               },
               {
                 "vnumber": "26",
@@ -15833,7 +15833,7 @@ var Prophets = {
               },
               {
                 "vnumber": "17",
-                "text": "And the king appointed the lord on whose hand he leaned to have the charge of the gate: and the people trode upon him in the gate, and he died, as the man of God had said, who spake when the king came down to him."
+                "text": "And the king appointed the lord on whose hand he leaned to have the charge of the gate: and the people trode upon him in the gate, and he died, as the man of God had said, who spoke when the king came down to him."
               },
               {
                 "vnumber": "18",
@@ -15854,7 +15854,7 @@ var Prophets = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Then spake Elisha unto the woman, whose son he had restored to life, saying, Arise, and go thou and thine household, and sojourn wheresoever thou canst sojourn: for Yahweh hath called for a famine; and it shall also come upon the land seven years."
+                "text": "Then spoke Elisha unto the woman, whose son he had restored to life, saying, Arise, and go thou and thine household, and sojourn wheresoever thou canst sojourn: for Yahweh hath called for a famine; and it shall also come upon the land seven years."
               },
               {
                 "vnumber": "2",
@@ -16019,7 +16019,7 @@ var Prophets = {
               },
               {
                 "vnumber": "12",
-                "text": "And they said, It is false; tell us now. And he said, Thus and thus spake he to me, saying, Thus saith Yahweh, I have anointed thee king over Israel."
+                "text": "And they said, It is false; tell us now. And he said, Thus and thus spoke he to me, saying, Thus saith Yahweh, I have anointed thee king over Israel."
               },
               {
                 "vnumber": "13",
@@ -16115,7 +16115,7 @@ var Prophets = {
               },
               {
                 "vnumber": "36",
-                "text": "Wherefore they came again, and told him. And he said, This is the word of Yahweh, which he spake by his servant Elijah the Tishbite, saying, In the portion of Jezreel shall dogs eat the flesh of Jezebel:"
+                "text": "Wherefore they came again, and told him. And he said, This is the word of Yahweh, which he spoke by his servant Elijah the Tishbite, saying, In the portion of Jezreel shall dogs eat the flesh of Jezebel:"
               },
               {
                 "vnumber": "37",
@@ -16164,7 +16164,7 @@ var Prophets = {
               },
               {
                 "vnumber": "10",
-                "text": "Know now that there shall fall unto the earth nothing of the word of Yahweh, which Yahweh spake concerning the house of Ahab: for Yahweh hath done that which he spake by his servant Elijah."
+                "text": "Know now that there shall fall unto the earth nothing of the word of Yahweh, which Yahweh spoke concerning the house of Ahab: for Yahweh hath done that which he spoke by his servant Elijah."
               },
               {
                 "vnumber": "11",
@@ -16192,7 +16192,7 @@ var Prophets = {
               },
               {
                 "vnumber": "17",
-                "text": "And when he came to Samaria, he slew all that remained unto Ahab in Samaria, till he had destroyed him, according to the saying of Yahweh, which he spake to Elijah."
+                "text": "And when he came to Samaria, he slew all that remained unto Ahab in Samaria, till he had destroyed him, according to the saying of Yahweh, which he spoke to Elijah."
               },
               {
                 "vnumber": "18",
@@ -16341,7 +16341,7 @@ var Prophets = {
               },
               {
                 "vnumber": "17",
-                "text": "And Jehoiada made a covenant between Yahweh and the king and the people, that they should be Yahweh'S people; between the king also and the people."
+                "text": "And Jehoiada made a covenant between Yahweh and the king and the people, that they should be Yahweh's people; between the king also and the people."
               },
               {
                 "vnumber": "18",
@@ -16519,7 +16519,7 @@ var Prophets = {
               },
               {
                 "vnumber": "17",
-                "text": "And he said, Open the window eastward. And he opened it. Then Elisha said, Shoot. And he shot. And he said, The arrow of Yahweh'S deliverance, and the arrow of deliverance from Syria: for thou shalt smite the Syrians in Aphek, till thou have consumed them."
+                "text": "And he said, Open the window eastward. And he opened it. Then Elisha said, Shoot. And he shot. And he said, The arrow of Yahweh's deliverance, and the arrow of deliverance from Syria: for thou shalt smite the Syrians in Aphek, till thou have consumed them."
               },
               {
                 "vnumber": "18",
@@ -16596,7 +16596,7 @@ var Prophets = {
               },
               {
                 "vnumber": "10",
-                "text": "Thou hast indeed smitten Edom, and thine heart hath lifted thee up: glory of this, and tarry at home: for why shouldest thou meddle to thy hurt, that thou shouldest fall, even thou, and Judah with thee?"
+                "text": "Thou hast indeed smitten Edom, and thine heart hath lifted thee up: glory of this, and tarry at home: for why shouldest thou meddle to thy hurt, that thou shouldest fall, even you, and Judah with thee?"
               },
               {
                 "vnumber": "11",
@@ -16656,7 +16656,7 @@ var Prophets = {
               },
               {
                 "vnumber": "25",
-                "text": "He restored the coast of Israel from the entering of Hamath unto the sea of the plain, according to the word of Yahweh God of Israel, which he spake by the hand of his servant Jonah, the son of Amittai, the prophet, which was of Gathhepher."
+                "text": "He restored the coast of Israel from the entering of Hamath unto the sea of the plain, according to the word of Yahweh God of Israel, which he spoke by the hand of his servant Jonah, the son of Amittai, the prophet, which was of Gathhepher."
               },
               {
                 "vnumber": "26",
@@ -16725,7 +16725,7 @@ var Prophets = {
               },
               {
                 "vnumber": "12",
-                "text": "This was the word of Yahweh which he spake unto Jehu, saying, Thy sons shall sit on the throne of Israel unto the fourth generation. And so it came to pass."
+                "text": "This was the word of Yahweh which he spoke unto Jehu, saying, Thy sons shall sit on the throne of Israel unto the fourth generation. And so it came to pass."
               },
               {
                 "vnumber": "13",
@@ -17023,7 +17023,7 @@ var Prophets = {
               },
               {
                 "vnumber": "26",
-                "text": "Wherefore they spake to the king of Assyria, saying, The nations which thou hast removed, and placed in the cities of Samaria, know not the manner of the God of the land: therefore he hath sent lions among them, and, behold, they slay them, because they know not the manner of the God of the land."
+                "text": "Wherefore they spoke to the king of Assyria, saying, The nations which thou hast removed, and placed in the cities of Samaria, know not the manner of the God of the land: therefore he hath sent lions among them, and, behold, they slay them, because they know not the manner of the God of the land."
               },
               {
                 "vnumber": "27",
@@ -17523,7 +17523,7 @@ var Prophets = {
               },
               {
                 "vnumber": "10",
-                "text": "And Yahweh spake by his servants the prophets, saying,"
+                "text": "And Yahweh spoke by his servants the prophets, saying,"
               },
               {
                 "vnumber": "11",
@@ -17668,7 +17668,7 @@ var Prophets = {
               },
               {
                 "vnumber": "19",
-                "text": "Because thine heart was tender, and thou hast humbled thyself before Yahweh, when thou heardest what I spake against this place, and against the inhabitants thereof, that they should become a desolation and a curse, and hast rent thy clothes, and wept before me; I also have heard thee, saith Yahweh."
+                "text": "Because thine heart was tender, and thou hast humbled thyself before Yahweh, when thou heardest what I spoke against this place, and against the inhabitants thereof, that they should become a desolation and a curse, and hast rent thy clothes, and wept before me; I also have heard thee, saith Yahweh."
               },
               {
                 "vnumber": "20",
@@ -17838,7 +17838,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "And Yahweh sent against him bands of the Chaldees, and bands of the Syrians, and bands of the Moabites, and bands of the children of Ammon, and sent them against Judah to destroy it, according to the word of Yahweh, which he spake by his servants the prophets."
+                "text": "And Yahweh sent against him bands of the Chaldees, and bands of the Syrians, and bands of the Moabites, and bands of the children of Ammon, and sent them against Judah to destroy it, according to the word of Yahweh, which he spoke by his servants the prophets."
               },
               {
                 "vnumber": "3",
@@ -18027,7 +18027,7 @@ var Prophets = {
               },
               {
                 "vnumber": "28",
-                "text": "And he spake kindly to him, and set his throne above the throne of the kings that were with him in Babylon;"
+                "text": "And he spoke kindly to him, and set his throne above the throne of the kings that were with him in Babylon;"
               },
               {
                 "vnumber": "29",
@@ -18184,7 +18184,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "And it shall come to pass in the last days, that the mountain of Yahweh'S house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it."
+                "text": "And it shall come to pass in the last days, that the mountain of Yahweh's house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it."
               },
               {
                 "vnumber": "3",
@@ -18601,7 +18601,7 @@ var Prophets = {
               },
               {
                 "vnumber": "3",
-                "text": "Then said Yahweh unto Isaiah, Go forth now to meet Ahaz, thou, and Shearjashub thy son, at the end of the conduit of the upper pool in the highway of the fuller's field;"
+                "text": "Then said Yahweh unto Isaiah, Go forth now to meet Ahaz, you, and Shearjashub thy son, at the end of the conduit of the upper pool in the highway of the fuller's field;"
               },
               {
                 "vnumber": "4",
@@ -18629,7 +18629,7 @@ var Prophets = {
               },
               {
                 "vnumber": "10",
-                "text": "Moreover Yahweh spake again unto Ahaz, saying,"
+                "text": "Moreover Yahweh spoke again unto Ahaz, saying,"
               },
               {
                 "vnumber": "11",
@@ -18714,7 +18714,7 @@ var Prophets = {
               },
               {
                 "vnumber": "5",
-                "text": "Yahweh spake also unto me again, saying,"
+                "text": "Yahweh spoke also unto me again, saying,"
               },
               {
                 "vnumber": "6",
@@ -18738,7 +18738,7 @@ var Prophets = {
               },
               {
                 "vnumber": "11",
-                "text": "For Yahweh spake thus to me with a strong hand, and instructed me that I should not walk in the way of this people, saying,"
+                "text": "For Yahweh spoke thus to me with a strong hand, and instructed me that I should not walk in the way of this people, saying,"
               },
               {
                 "vnumber": "12",
@@ -19325,7 +19325,7 @@ var Prophets = {
               },
               {
                 "vnumber": "29",
-                "text": "Rejoice not thou, whole Palestina, because the rod of him that smote thee is broken: for out of the serpent's root shall come forth a cockatrice, and his fruit shall be a fiery flying serpent."
+                "text": "Rejoice not you, whole Palestina, because the rod of him that smote thee is broken: for out of the serpent's root shall come forth a cockatrice, and his fruit shall be a fiery flying serpent."
               },
               {
                 "vnumber": "30",
@@ -19333,7 +19333,7 @@ var Prophets = {
               },
               {
                 "vnumber": "31",
-                "text": "Howl, O gate; cry, O city; thou, whole Palestina, art dissolved: for there shall come from the north a smoke, and none shall be alone in his appointed times."
+                "text": "Howl, O gate; cry, O city; you, whole Palestina, art dissolved: for there shall come from the north a smoke, and none shall be alone in his appointed times."
               },
               {
                 "vnumber": "32",
@@ -19651,7 +19651,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "At the same time spake Yahweh by Isaiah the son of Amoz, saying, Go and loose the sackcloth from off thy loins, and put off thy shoe from thy foot. And he did so, walking naked and barefoot."
+                "text": "At the same time spoke Yahweh by Isaiah the son of Amoz, saying, Go and loose the sackcloth from off thy loins, and put off thy shoe from thy foot. And he did so, walking naked and barefoot."
               },
               {
                 "vnumber": "3",
@@ -20107,7 +20107,7 @@ var Prophets = {
               },
               {
                 "vnumber": "7",
-                "text": "The way of the just is uprightness: thou, most upright, dost weigh the path of the just."
+                "text": "The way of the just is uprightness: you, most upright, dost weigh the path of the just."
               },
               {
                 "vnumber": "8",
@@ -20845,7 +20845,7 @@ var Prophets = {
               },
               {
                 "vnumber": "8",
-                "text": "For it is the day of Yahweh'S vengeance, and the year of recompences for the controversy of Zion."
+                "text": "For it is the day of Yahweh's vengeance, and the year of recompences for the controversy of Zion."
               },
               {
                 "vnumber": "9",
@@ -20951,7 +20951,7 @@ var Prophets = {
               },
               {
                 "vnumber": "5",
-                "text": "I say, sayest thou, (but they are but vain words) I have counsel and strength for war: now on whom dost thou trust, that thou rebellest against me?"
+                "text": "I say, sayest you, (but they are but vain words) I have counsel and strength for war: now on whom dost thou trust, that thou rebellest against me?"
               },
               {
                 "vnumber": "6",
@@ -21319,7 +21319,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Speak ye comfortably to Jerusalem, and cry unto her, that her warfare is accomplished, that her iniquity is pardoned: for she hath received of Yahweh'S hand double for all her sins."
+                "text": "Speak ye comfortably to Jerusalem, and cry unto her, that her warfare is accomplished, that her iniquity is pardoned: for she hath received of Yahweh's hand double for all her sins."
               },
               {
                 "vnumber": "3",
@@ -21419,7 +21419,7 @@ var Prophets = {
               },
               {
                 "vnumber": "27",
-                "text": "Why sayest thou, O Jacob, and speakest, O Israel, My way is hid from Yahweh, and my judgment is passed over from my God?"
+                "text": "Why sayest you, O Jacob, and speakest, O Israel, My way is hid from Yahweh, and my judgment is passed over from my God?"
               },
               {
                 "vnumber": "28",
@@ -21472,7 +21472,7 @@ var Prophets = {
               },
               {
                 "vnumber": "8",
-                "text": "But thou, Israel, art my servant, Jacob whom I have chosen, the seed of Abraham my friend."
+                "text": "But you, Israel, art my servant, Jacob whom I have chosen, the seed of Abraham my friend."
               },
               {
                 "vnumber": "9",
@@ -21637,7 +21637,7 @@ var Prophets = {
               },
               {
                 "vnumber": "19",
-                "text": "Who is blind, but my servant? or deaf, as my messenger that I sent? who is blind as he that is perfect, and blind as Yahweh'S servant?"
+                "text": "Who is blind, but my servant? or deaf, as my messenger that I sent? who is blind as he that is perfect, and blind as Yahweh's servant?"
               },
               {
                 "vnumber": "20",
@@ -21770,7 +21770,7 @@ var Prophets = {
               },
               {
                 "vnumber": "26",
-                "text": "Put me in remembrance: let us plead together: declare thou, that you may be justified."
+                "text": "Put me in remembrance: let us plead together: declare you, that you may be justified."
               },
               {
                 "vnumber": "27",
@@ -21791,7 +21791,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Thus saith Yahweh that made thee, and formed thee from the womb, which will help thee; Fear not, O Jacob, my servant; and thou, Jesurun, whom I have chosen."
+                "text": "Thus saith Yahweh that made thee, and formed thee from the womb, which will help thee; Fear not, O Jacob, my servant; and you, Jesurun, whom I have chosen."
               },
               {
                 "vnumber": "3",
@@ -21803,7 +21803,7 @@ var Prophets = {
               },
               {
                 "vnumber": "5",
-                "text": "One shall say, I am Yahweh'S; and another shall call himself by the name of Jacob; and another shall subscribe with his hand unto Yahweh, and surname himself by the name of Israel."
+                "text": "One shall say, I am Yahweh's; and another shall call himself by the name of Jacob; and another shall subscribe with his hand unto Yahweh, and surname himself by the name of Israel."
               },
               {
                 "vnumber": "6",
@@ -22426,7 +22426,7 @@ var Prophets = {
               },
               {
                 "vnumber": "12",
-                "text": "I, even I, am he that comforteth you: who art thou, that thou shouldest be afraid of a man that shall die, and of the son of man which shall be made as grass;"
+                "text": "I, even I, am he that comforteth you: who art you, that thou shouldest be afraid of a man that shall die, and of the son of man which shall be made as grass;"
               },
               {
                 "vnumber": "13",
@@ -22930,7 +22930,7 @@ var Prophets = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Behold, Yahweh'S hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:"
+                "text": "Behold, Yahweh's hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:"
               },
               {
                 "vnumber": "2",
@@ -23276,7 +23276,7 @@ var Prophets = {
               },
               {
                 "vnumber": "16",
-                "text": "Doubtless thou art our father, though Abraham be ignorant of us, and Israel acknowledge us not: thou, Oh Yahweh, art our father, our redeemer; thy name is from everlasting."
+                "text": "Doubtless thou art our father, though Abraham be ignorant of us, and Israel acknowledge us not: you, Oh Yahweh, art our father, our redeemer; thy name is from everlasting."
               },
               {
                 "vnumber": "17",
@@ -24067,7 +24067,7 @@ var Prophets = {
               },
               {
                 "vnumber": "10",
-                "text": "Go ye up upon her walls, and destroy; but make not a full end: take away her battlements; for they are not Yahweh'S."
+                "text": "Go ye up upon her walls, and destroy; but make not a full end: take away her battlements; for they are not Yahweh's."
               },
               {
                 "vnumber": "11",
@@ -24289,7 +24289,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Stand in the gate of Yahweh'S house, and proclaim there this word, and say, Hear the word of Yahweh, all ye of Judah, that enter in at these gates to worship Yahweh."
+                "text": "Stand in the gate of Yahweh's house, and proclaim there this word, and say, Hear the word of Yahweh, all ye of Judah, that enter in at these gates to worship Yahweh."
               },
               {
                 "vnumber": "3",
@@ -24333,7 +24333,7 @@ var Prophets = {
               },
               {
                 "vnumber": "13",
-                "text": "And now, because ye have done all these works, saith Yahweh, and I spake unto you, rising up early and speaking, but ye heard not; and I called you, but ye answered not;"
+                "text": "And now, because ye have done all these works, saith Yahweh, and I spoke unto you, rising up early and speaking, but ye heard not; and I called you, but ye answered not;"
               },
               {
                 "vnumber": "14",
@@ -24369,7 +24369,7 @@ var Prophets = {
               },
               {
                 "vnumber": "22",
-                "text": "For I spake not unto your fathers, nor commanded them in the day that I brought them out of the land of Egypt, concerning burnt offerings or sacrifices:"
+                "text": "For I spoke not unto your fathers, nor commanded them in the day that I brought them out of the land of Egypt, concerning burnt offerings or sacrifices:"
               },
               {
                 "vnumber": "23",
@@ -24446,7 +24446,7 @@ var Prophets = {
               },
               {
                 "vnumber": "6",
-                "text": "I hearkened and heard, but they spake not aright: no man repented him of his wickedness, saying, What have I done? every one turned to his course, as the horse rusheth into the battle."
+                "text": "I hearkened and heard, but they spoke not aright: no man repented him of his wickedness, saying, What have I done? every one turned to his course, as the horse rusheth into the battle."
               },
               {
                 "vnumber": "7",
@@ -24830,7 +24830,7 @@ var Prophets = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Righteous art thou, Oh Yahweh, when I plead with thee: yet let me talk with thee of thy judgments: Wherefore doth the way of the wicked prosper? wherefore are all they happy that deal very treacherously?"
+                "text": "Righteous art you, Oh Yahweh, when I plead with thee: yet let me talk with thee of thy judgments: Wherefore doth the way of the wicked prosper? wherefore are all they happy that deal very treacherously?"
               },
               {
                 "vnumber": "2",
@@ -24838,7 +24838,7 @@ var Prophets = {
               },
               {
                 "vnumber": "3",
-                "text": "But thou, Oh Yahweh, knowest me: thou hast seen me, and tried mine heart toward thee: pull them out like sheep for the slaughter, and prepare them for the day of slaughter."
+                "text": "But you, Oh Yahweh, knowest me: thou hast seen me, and tried mine heart toward thee: pull them out like sheep for the slaughter, and prepare them for the day of slaughter."
               },
               {
                 "vnumber": "4",
@@ -24967,7 +24967,7 @@ var Prophets = {
               },
               {
                 "vnumber": "17",
-                "text": "But if ye will not hear it, my soul shall weep in secret places for your pride; and mine eye shall weep sore, and run down with tears, because Yahweh'S flock is carried away captive."
+                "text": "But if ye will not hear it, my soul shall weep in secret places for your pride; and mine eye shall weep sore, and run down with tears, because Yahweh's flock is carried away captive."
               },
               {
                 "vnumber": "18",
@@ -25048,7 +25048,7 @@ var Prophets = {
               },
               {
                 "vnumber": "9",
-                "text": "Why shouldest thou be as a man astonied, as a mighty man that cannot save? yet thou, Oh Yahweh, art in the midst of us, and we are called by thy name; leave us not."
+                "text": "Why shouldest thou be as a man astonied, as a mighty man that cannot save? yet you, Oh Yahweh, art in the midst of us, and we are called by thy name; leave us not."
               },
               {
                 "vnumber": "10",
@@ -25068,7 +25068,7 @@ var Prophets = {
               },
               {
                 "vnumber": "14",
-                "text": "Then Yahweh said unto me, The prophets prophesy lies in my name: I sent them not, neither have I commanded them, neither spake unto them: they prophesy unto you a false vision and divination, and a thing of nought, and the deceit of their heart."
+                "text": "Then Yahweh said unto me, The prophets prophesy lies in my name: I sent them not, neither have I commanded them, neither spoke unto them: they prophesy unto you a false vision and divination, and a thing of nought, and the deceit of their heart."
               },
               {
                 "vnumber": "15",
@@ -25299,7 +25299,7 @@ var Prophets = {
               },
               {
                 "vnumber": "4",
-                "text": "And thou, even thyself, shalt discontinue from thine heritage that I gave thee; and I will cause thee to serve thine enemies in the land which thou knowest not: for ye have kindled a fire in mine anger, which shall burn for ever."
+                "text": "And you, even thyself, shalt discontinue from thine heritage that I gave thee; and I will cause thee to serve thine enemies in the land which thou knowest not: for ye have kindled a fire in mine anger, which shall burn for ever."
               },
               {
                 "vnumber": "5",
@@ -25513,7 +25513,7 @@ var Prophets = {
               },
               {
                 "vnumber": "5",
-                "text": "They have built also the high places of Baal, to burn their sons with fire for burnt offerings unto Baal, which I commanded not, nor spake it, neither came it into my mind:"
+                "text": "They have built also the high places of Baal, to burn their sons with fire for burnt offerings unto Baal, which I commanded not, nor spoke it, neither came it into my mind:"
               },
               {
                 "vnumber": "6",
@@ -25549,7 +25549,7 @@ var Prophets = {
               },
               {
                 "vnumber": "14",
-                "text": "Then came Jeremiah from Tophet, whither Yahweh had sent him to prophesy; and he stood in the court of Yahweh'S house; and said to all the people,"
+                "text": "Then came Jeremiah from Tophet, whither Yahweh had sent him to prophesy; and he stood in the court of Yahweh's house; and said to all the people,"
               },
               {
                 "vnumber": "15",
@@ -25582,7 +25582,7 @@ var Prophets = {
               },
               {
                 "vnumber": "6",
-                "text": "And thou, Pashur, and all that dwell in thine house shall go into captivity: and thou shalt come to Babylon, and there thou shalt die, and shalt be buried there, thou, and all thy friends, to whom thou hast prophesied lies."
+                "text": "And you, Pashur, and all that dwell in thine house shall go into captivity: and thou shalt come to Babylon, and there thou shalt die, and shalt be buried there, you, and all thy friends, to whom thou hast prophesied lies."
               },
               {
                 "vnumber": "7",
@@ -25704,7 +25704,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "And say, Hear the word of Yahweh, O king of Judah, that sittest upon the throne of David, thou, and thy servants, and thy people that enter in by these gates:"
+                "text": "And say, Hear the word of Yahweh, O king of Judah, that sittest upon the throne of David, you, and thy servants, and thy people that enter in by these gates:"
               },
               {
                 "vnumber": "3",
@@ -25780,7 +25780,7 @@ var Prophets = {
               },
               {
                 "vnumber": "21",
-                "text": "I spake unto thee in thy prosperity; but thou saidst, I will not hear. This hath been thy manner from thy youth, that thou obeyedst not my voice."
+                "text": "I spoke unto thee in thy prosperity; but thou saidst, I will not hear. This hath been thy manner from thy youth, that thou obeyedst not my voice."
               },
               {
                 "vnumber": "22",
@@ -25998,7 +25998,7 @@ var Prophets = {
               },
               {
                 "vnumber": "3",
-                "text": "Then said Yahweh unto me, What seest thou, Jeremiah? And I said, Figs; the good figs, very good; and the evil, very evil, that cannot be eaten, they are so evil."
+                "text": "Then said Yahweh unto me, What seest you, Jeremiah? And I said, Figs; the good figs, very good; and the evil, very evil, that cannot be eaten, they are so evil."
               },
               {
                 "vnumber": "4",
@@ -26039,7 +26039,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "The which Jeremiah the prophet spake unto all the people of Judah, and to all the inhabitants of Jerusalem, saying,"
+                "text": "The which Jeremiah the prophet spoke unto all the people of Judah, and to all the inhabitants of Jerusalem, saying,"
               },
               {
                 "vnumber": "3",
@@ -26099,7 +26099,7 @@ var Prophets = {
               },
               {
                 "vnumber": "17",
-                "text": "Then took I the cup at Yahweh'S hand, and made all the nations to drink, unto whom Yahweh had sent me:"
+                "text": "Then took I the cup at Yahweh's hand, and made all the nations to drink, unto whom Yahweh had sent me:"
               },
               {
                 "vnumber": "18",
@@ -26196,7 +26196,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Thus saith Yahweh; Stand in the court of Yahweh'S house, and speak unto all the cities of Judah, which come to worship in Yahweh'S house, all the words that I command thee to speak unto them; diminish not a word:"
+                "text": "Thus saith Yahweh; Stand in the court of Yahweh's house, and speak unto all the cities of Judah, which come to worship in Yahweh's house, all the words that I command thee to speak unto them; diminish not a word:"
               },
               {
                 "vnumber": "3",
@@ -26228,15 +26228,15 @@ var Prophets = {
               },
               {
                 "vnumber": "10",
-                "text": "When the princes of Judah heard these things, then they came up from the king's house unto the house of Yahweh, and sat down in the entry of the new gate of Yahweh'S house."
+                "text": "When the princes of Judah heard these things, then they came up from the king's house unto the house of Yahweh, and sat down in the entry of the new gate of Yahweh's house."
               },
               {
                 "vnumber": "11",
-                "text": "Then spake the priests and the prophets unto the princes and to all the people, saying, This man is worthy to die; for he hath prophesied against this city, as ye have heard with your ears."
+                "text": "Then spoke the priests and the prophets unto the princes and to all the people, saying, This man is worthy to die; for he hath prophesied against this city, as ye have heard with your ears."
               },
               {
                 "vnumber": "12",
-                "text": "Then spake Jeremiah unto all the princes and to all the people, saying, Yahweh sent me to prophesy against this house and against this city all the words that ye have heard."
+                "text": "Then spoke Jeremiah unto all the princes and to all the people, saying, Yahweh sent me to prophesy against this house and against this city all the words that ye have heard."
               },
               {
                 "vnumber": "13",
@@ -26256,11 +26256,11 @@ var Prophets = {
               },
               {
                 "vnumber": "17",
-                "text": "Then rose up certain of the elders of the land, and spake to all the assembly of the people, saying,"
+                "text": "Then rose up certain of the elders of the land, and spoke to all the assembly of the people, saying,"
               },
               {
                 "vnumber": "18",
-                "text": "Micah the Morasthite prophesied in the days of Hezekiah king of Judah, and spake to all the people of Judah, saying, Thus saith Yahweh of Armies; Zion shall be plowed like a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of a forest."
+                "text": "Micah the Morasthite prophesied in the days of Hezekiah king of Judah, and spoke to all the people of Judah, saying, Thus saith Yahweh of Armies; Zion shall be plowed like a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of a forest."
               },
               {
                 "vnumber": "19",
@@ -26337,7 +26337,7 @@ var Prophets = {
               },
               {
                 "vnumber": "12",
-                "text": "I spake also to Zedekiah king of Judah according to all these words, saying, Bring your necks under the yoke of the king of Babylon, and serve him and his people, and live."
+                "text": "I spoke also to Zedekiah king of Judah according to all these words, saying, Bring your necks under the yoke of the king of Babylon, and serve him and his people, and live."
               },
               {
                 "vnumber": "13",
@@ -26353,7 +26353,7 @@ var Prophets = {
               },
               {
                 "vnumber": "16",
-                "text": "Also I spake to the priests and to all this people, saying, Thus saith Yahweh; Hearken not to the words of your prophets that prophesy unto you, saying, Behold, the vessels of Yahweh'S house shall now shortly be brought again from Babylon: for they prophesy a lie unto you."
+                "text": "Also I spoke to the priests and to all this people, saying, Thus saith Yahweh; Hearken not to the words of your prophets that prophesy unto you, saying, Behold, the vessels of Yahweh's house shall now shortly be brought again from Babylon: for they prophesy a lie unto you."
               },
               {
                 "vnumber": "17",
@@ -26386,7 +26386,7 @@ var Prophets = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And it came to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, and in the fifth month, that Hananiah the son of Azur the prophet, which was of Gibeon, spake unto me in the house of Yahweh, in the presence of the priests and of all the people, saying,"
+                "text": "And it came to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, and in the fifth month, that Hananiah the son of Azur the prophet, which was of Gibeon, spoke unto me in the house of Yahweh, in the presence of the priests and of all the people, saying,"
               },
               {
                 "vnumber": "2",
@@ -26394,7 +26394,7 @@ var Prophets = {
               },
               {
                 "vnumber": "3",
-                "text": "Within two full years will I bring again into this place all the vessels of Yahweh'S house, that Nebuchadnezzar king of Babylon took away from this place, and carried them to Babylon:"
+                "text": "Within two full years will I bring again into this place all the vessels of Yahweh's house, that Nebuchadnezzar king of Babylon took away from this place, and carried them to Babylon:"
               },
               {
                 "vnumber": "4",
@@ -26406,7 +26406,7 @@ var Prophets = {
               },
               {
                 "vnumber": "6",
-                "text": "Even the prophet Jeremiah said, Amen: Yahweh do so: Yahweh perform thy words which thou hast prophesied, to bring again the vessels of Yahweh'S house, and all that is carried away captive, from Babylon into this place."
+                "text": "Even the prophet Jeremiah said, Amen: Yahweh do so: Yahweh perform thy words which thou hast prophesied, to bring again the vessels of Yahweh's house, and all that is carried away captive, from Babylon into this place."
               },
               {
                 "vnumber": "7",
@@ -26426,7 +26426,7 @@ var Prophets = {
               },
               {
                 "vnumber": "11",
-                "text": "And Hananiah spake in the presence of all the people, saying, Thus saith Yahweh; Even so will I break the yoke of Nebuchadnezzar king of Babylon from the neck of all nations within the space of two full years. And the prophet Jeremiah went his way."
+                "text": "And Hananiah spoke in the presence of all the people, saying, Thus saith Yahweh; Even so will I break the yoke of Nebuchadnezzar king of Babylon from the neck of all nations within the space of two full years. And the prophet Jeremiah went his way."
               },
               {
                 "vnumber": "12",
@@ -26604,7 +26604,7 @@ var Prophets = {
               },
               {
                 "vnumber": "4",
-                "text": "And these are the words that Yahweh spake concerning Israel and concerning Judah."
+                "text": "And these are the words that Yahweh spoke concerning Israel and concerning Judah."
               },
               {
                 "vnumber": "5",
@@ -26769,7 +26769,7 @@ var Prophets = {
               },
               {
                 "vnumber": "20",
-                "text": "Is Ephraim my dear son? is he a pleasant child? for since I spake against him, I do earnestly remember him still: therefore my bowels are troubled for him; I will surely have mercy upon him, saith Yahweh."
+                "text": "Is Ephraim my dear son? is he a pleasant child? for since I spoke against him, I do earnestly remember him still: therefore my bowels are troubled for him; I will surely have mercy upon him, saith Yahweh."
               },
               {
                 "vnumber": "21",
@@ -27168,7 +27168,7 @@ var Prophets = {
               },
               {
                 "vnumber": "6",
-                "text": "Then Jeremiah the prophet spake all these words unto Zedekiah king of Judah in Jerusalem,"
+                "text": "Then Jeremiah the prophet spoke all these words unto Zedekiah king of Judah in Jerusalem,"
               },
               {
                 "vnumber": "7",
@@ -27326,7 +27326,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Take thee a roll of a book, and write therein all the words that I have spoken unto thee against Israel, and against Judah, and against all the nations, from the day I spake unto thee, from the days of Josiah, even unto this day."
+                "text": "Take thee a roll of a book, and write therein all the words that I have spoken unto thee against Israel, and against Judah, and against all the nations, from the day I spoke unto thee, from the days of Josiah, even unto this day."
               },
               {
                 "vnumber": "3",
@@ -27342,7 +27342,7 @@ var Prophets = {
               },
               {
                 "vnumber": "6",
-                "text": "Therefore go thou, and read in the roll, which thou hast written from my mouth, the words of Yahweh in the ears of the people in Yahweh'S house upon the fasting day: and also thou shalt read them in the ears of all Judah that come out of their cities."
+                "text": "Therefore go you, and read in the roll, which thou hast written from my mouth, the words of Yahweh in the ears of the people in Yahweh's house upon the fasting day: and also thou shalt read them in the ears of all Judah that come out of their cities."
               },
               {
                 "vnumber": "7",
@@ -27350,7 +27350,7 @@ var Prophets = {
               },
               {
                 "vnumber": "8",
-                "text": "And Baruch the son of Neriah did according to all that Jeremiah the prophet commanded him, reading in the book the words of Yahweh in Yahweh'S house."
+                "text": "And Baruch the son of Neriah did according to all that Jeremiah the prophet commanded him, reading in the book the words of Yahweh in Yahweh's house."
               },
               {
                 "vnumber": "9",
@@ -27358,7 +27358,7 @@ var Prophets = {
               },
               {
                 "vnumber": "10",
-                "text": "Then read Baruch in the book the words of Jeremiah in the house of Yahweh, in the chamber of Gemariah the son of Shaphan the scribe, in the higher court, at the entry of the new gate of Yahweh'S house, in the ears of all the people."
+                "text": "Then read Baruch in the book the words of Jeremiah in the house of Yahweh, in the chamber of Gemariah the son of Shaphan the scribe, in the higher court, at the entry of the new gate of Yahweh's house, in the ears of all the people."
               },
               {
                 "vnumber": "11",
@@ -27459,7 +27459,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "But neither he, nor his servants, nor the people of the land, did hearken unto the words of Yahweh, which he spake by the prophet Jeremiah."
+                "text": "But neither he, nor his servants, nor the people of the land, did hearken unto the words of Yahweh, which he spoke by the prophet Jeremiah."
               },
               {
                 "vnumber": "3",
@@ -27572,7 +27572,7 @@ var Prophets = {
               },
               {
                 "vnumber": "8",
-                "text": "Ebedmelech went forth out of the king's house, and spake to the king, saying,"
+                "text": "Ebedmelech went forth out of the king's house, and spoke to the king, saying,"
               },
               {
                 "vnumber": "9",
@@ -27794,7 +27794,7 @@ var Prophets = {
               },
               {
                 "vnumber": "15",
-                "text": "Then Johanan the son of Kareah spake to Gedaliah in Mizpah secretly, saying, Let me go, I pray thee, and I will slay Ishmael the son of Nethaniah, and no man shall know it: wherefore should he slay thee, that all the Jews which are gathered unto thee should be scattered, and the remnant in Judah perish?"
+                "text": "Then Johanan the son of Kareah spoke to Gedaliah in Mizpah secretly, saying, Let me go, I pray thee, and I will slay Ishmael the son of Nethaniah, and no man shall know it: wherefore should he slay thee, that all the Jews which are gathered unto thee should be scattered, and the remnant in Judah perish?"
               },
               {
                 "vnumber": "16",
@@ -27981,7 +27981,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Then spake Azariah the son of Hoshaiah, and Johanan the son of Kareah, and all the proud men, saying unto Jeremiah, Thou speakest falsely: Yahweh our God hath not sent thee to say, Go not into Egypt to sojourn there:"
+                "text": "Then spoke Azariah the son of Hoshaiah, and Johanan the son of Kareah, and all the proud men, saying unto Jeremiah, Thou speakest falsely: Yahweh our God hath not sent thee to say, Go not into Egypt to sojourn there:"
               },
               {
                 "vnumber": "3",
@@ -28159,7 +28159,7 @@ var Prophets = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,"
+                "text": "The word that Jeremiah the prophet spoke unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,"
               },
               {
                 "vnumber": "2",
@@ -28232,7 +28232,7 @@ var Prophets = {
               },
               {
                 "vnumber": "13",
-                "text": "The word that Yahweh spake to Jeremiah the prophet, how Nebuchadrezzar king of Babylon should come and smite the land of Egypt."
+                "text": "The word that Yahweh spoke to Jeremiah the prophet, how Nebuchadrezzar king of Babylon should come and smite the land of Egypt."
               },
               {
                 "vnumber": "14",
@@ -28288,7 +28288,7 @@ var Prophets = {
               },
               {
                 "vnumber": "27",
-                "text": "But fear not thou, O my servant Jacob, and be not dismayed, O Israel: for, behold, I will save thee from afar off, and thy seed from the land of their captivity; and Jacob shall return, and be in rest and at ease, and none shall make him afraid."
+                "text": "But fear not you, O my servant Jacob, and be not dismayed, O Israel: for, behold, I will save thee from afar off, and thy seed from the land of their captivity; and Jacob shall return, and be in rest and at ease, and none shall make him afraid."
               },
               {
                 "vnumber": "28",
@@ -28688,7 +28688,7 @@ var Prophets = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "The word that Yahweh spake against Babylon and against the land of the Chaldeans by Jeremiah the prophet."
+                "text": "The word that Yahweh spoke against Babylon and against the land of the Chaldeans by Jeremiah the prophet."
               },
               {
                 "vnumber": "2",
@@ -28897,11 +28897,11 @@ var Prophets = {
               },
               {
                 "vnumber": "6",
-                "text": "Flee out of the midst of Babylon, and deliver every man his soul: be not cut off in her iniquity; for this is the time of Yahweh'S vengeance; he will render unto her a recompence."
+                "text": "Flee out of the midst of Babylon, and deliver every man his soul: be not cut off in her iniquity; for this is the time of Yahweh's vengeance; he will render unto her a recompence."
               },
               {
                 "vnumber": "7",
-                "text": "Babylon hath been a golden cup in Yahweh'S hand, that made all the earth drunken: the nations have drunken of her wine; therefore the nations are mad."
+                "text": "Babylon hath been a golden cup in Yahweh's hand, that made all the earth drunken: the nations have drunken of her wine; therefore the nations are mad."
               },
               {
                 "vnumber": "8",
@@ -28921,7 +28921,7 @@ var Prophets = {
               },
               {
                 "vnumber": "12",
-                "text": "Set up the standard upon the walls of Babylon, make the watch strong, set up the watchmen, prepare the ambushes: for Yahweh hath both devised and done that which he spake against the inhabitants of Babylon."
+                "text": "Set up the standard upon the walls of Babylon, make the watch strong, set up the watchmen, prepare the ambushes: for Yahweh hath both devised and done that which he spoke against the inhabitants of Babylon."
               },
               {
                 "vnumber": "13",
@@ -29077,7 +29077,7 @@ var Prophets = {
               },
               {
                 "vnumber": "51",
-                "text": "We are confounded, because we have heard reproach: shame hath covered our faces: for strangers are come into the sanctuaries of Yahweh'S house."
+                "text": "We are confounded, because we have heard reproach: shame hath covered our faces: for strangers are come into the sanctuaries of Yahweh's house."
               },
               {
                 "vnumber": "52",
@@ -29262,7 +29262,7 @@ var Prophets = {
               },
               {
                 "vnumber": "32",
-                "text": "And spake kindly unto him, and set his throne above the throne of the kings that were with him in Babylon,"
+                "text": "And spoke kindly unto him, and set his throne above the throne of the kings that were with him in Babylon,"
               },
               {
                 "vnumber": "33",
@@ -29302,7 +29302,7 @@ var Prophets = {
               },
               {
                 "vnumber": "5",
-                "text": "Also out of the midst thereof came the likeness of four living creatures. And this was their appearance; they had the likeness of a man."
+                "text": "Also out of the midst thereof came the likeness of four living creatures. And this is what they looked like: they had a human likeness."
               },
               {
                 "vnumber": "6",
@@ -29403,15 +29403,15 @@ var Prophets = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee."
+                "text": "And he said unto me, Son of Adam, stand upon thy feet, and I will speak unto thee."
               },
               {
                 "vnumber": "2",
-                "text": "And the spirit entered into me when he spake unto me, and set me upon my feet, that I heard him that spake unto me."
+                "text": "And the spirit entered into me when he spoke unto me, and set me upon my feet, that I heard him that spoke unto me."
               },
               {
                 "vnumber": "3",
-                "text": "And he said unto me, Son of man, I send thee to the children of Israel, to a rebellious nation that hath rebelled against me: they and their fathers have transgressed against me, even unto this very day."
+                "text": "And he said unto me, Son of Adam, I send thee to the children of Israel, to a rebellious nation that hath rebelled against me: they and their fathers have transgressed against me, even unto this very day."
               },
               {
                 "vnumber": "4",
@@ -29423,7 +29423,7 @@ var Prophets = {
               },
               {
                 "vnumber": "6",
-                "text": "And thou, son of man, be not afraid of them, neither be afraid of their words, though briers and thorns be with thee, and thou dost dwell among scorpions: be not afraid of their words, nor be dismayed at their looks, though they be a rebellious house."
+                "text": "And you, son of Adam, be not afraid of them, neither be afraid of their words, though briers and thorns be with thee, and thou dost dwell among scorpions: be not afraid of their words, nor be dismayed at their looks, though they be a rebellious house."
               },
               {
                 "vnumber": "7",
@@ -29431,7 +29431,7 @@ var Prophets = {
               },
               {
                 "vnumber": "8",
-                "text": "But thou, son of man, hear what I say unto thee; Be not thou rebellious like that rebellious house: open thy mouth, and eat that I give thee."
+                "text": "But you, son of Adam, hear what I say unto thee; Be not thou rebellious like that rebellious house: open thy mouth, and eat that I give thee."
               },
               {
                 "vnumber": "9",
@@ -29448,7 +29448,7 @@ var Prophets = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Moreover he said unto me, Son of man, eat that thou findest; eat this roll, and go speak unto the house of Israel."
+                "text": "Moreover he said unto me, Son of Adam, eat that thou findest; eat this roll, and go speak unto the house of Israel."
               },
               {
                 "vnumber": "2",
@@ -29456,11 +29456,11 @@ var Prophets = {
               },
               {
                 "vnumber": "3",
-                "text": "And he said unto me, Son of man, cause thy belly to eat, and fill thy bowels with this roll that I give thee. Then did I eat it; and it was in my mouth as honey for sweetness."
+                "text": "And he said unto me, Son of Adam, cause thy belly to eat, and fill thy bowels with this roll that I give thee. Then did I eat it; and it was in my mouth as honey for sweetness."
               },
               {
                 "vnumber": "4",
-                "text": "And he said unto me, Son of man, go, get thee unto the house of Israel, and speak with my words unto them."
+                "text": "And he said unto me, Son of Adam, go, get thee unto the house of Israel, and speak with my words unto them."
               },
               {
                 "vnumber": "5",
@@ -29484,7 +29484,7 @@ var Prophets = {
               },
               {
                 "vnumber": "10",
-                "text": "Moreover he said unto me, Son of man, all my words that I shall speak unto thee receive in thine heart, and hear with thine ears."
+                "text": "Moreover he said unto me, Son of Adam, all my words that I shall speak unto thee receive in thine heart, and hear with thine ears."
               },
               {
                 "vnumber": "11",
@@ -29512,7 +29512,7 @@ var Prophets = {
               },
               {
                 "vnumber": "17",
-                "text": "Son of man, I have made thee a watchman unto the house of Israel: therefore hear the word at my mouth, and give them warning from me."
+                "text": "Son of Adam, I have made thee a watchman unto the house of Israel: therefore hear the word at my mouth, and give them warning from me."
               },
               {
                 "vnumber": "18",
@@ -29540,11 +29540,11 @@ var Prophets = {
               },
               {
                 "vnumber": "24",
-                "text": "Then the spirit entered into me, and set me upon my feet, and spake with me, and said unto me, Go, shut thyself within thine house."
+                "text": "Then the spirit entered into me, and set me upon my feet, and spoke with me, and said unto me, Go, shut thyself within thine house."
               },
               {
                 "vnumber": "25",
-                "text": "But thou, O son of man, behold, they shall put bands upon thee, and shall bind thee with them, and you shall not go out among them:"
+                "text": "But you, O son of Adam, behold, they shall put bands upon thee, and shall bind thee with them, and you shall not go out among them:"
               },
               {
                 "vnumber": "26",
@@ -29561,7 +29561,7 @@ var Prophets = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Thou also, son of man, take thee a tile, and lay it before thee, and pourtray upon it the city, even Jerusalem:"
+                "text": "Thou also, son of Adam, take thee a tile, and lay it before thee, and pourtray upon it the city, even Jerusalem:"
               },
               {
                 "vnumber": "2",
@@ -29621,7 +29621,7 @@ var Prophets = {
               },
               {
                 "vnumber": "16",
-                "text": "Moreover he said unto me, Son of man, behold, I will break the staff of bread in Jerusalem: and they shall eat bread by weight, and with care; and they shall drink water by measure, and with astonishment:"
+                "text": "Moreover he said unto me, Son of Adam, behold, I will break the staff of bread in Jerusalem: and they shall eat bread by weight, and with care; and they shall drink water by measure, and with astonishment:"
               },
               {
                 "vnumber": "17",
@@ -29634,7 +29634,7 @@ var Prophets = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And thou, son of man, take thee a sharp knife, take thee a barber's razor, and cause it to pass upon thine head and upon thy beard: then take thee balances to weigh, and divide the hair."
+                "text": "And you, son of Adam, take thee a sharp knife, take thee a barber's razor, and cause it to pass upon thine head and upon thy beard: then take thee balances to weigh, and divide the hair."
               },
               {
                 "vnumber": "2",
@@ -29711,7 +29711,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Son of man, set thy face toward the mountains of Israel, and prophesy against them,"
+                "text": "Son of Adam, set thy face toward the mountains of Israel, and prophesy against them,"
               },
               {
                 "vnumber": "3",
@@ -29772,7 +29772,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Also, thou son of man, thus says Lord Yahweh unto the land of Israel; An end, the end is come upon the four corners of the land."
+                "text": "Also, thou son of Adam, thus says Lord Yahweh unto the land of Israel; An end, the end is come upon the four corners of the land."
               },
               {
                 "vnumber": "3",
@@ -29897,11 +29897,11 @@ var Prophets = {
               },
               {
                 "vnumber": "5",
-                "text": "Then said he unto me, Son of man, lift up thine eyes now the way toward the north. So I lifted up mine eyes the way toward the north, and behold northward at the gate of the altar this image of jealousy in the entry."
+                "text": "Then said he unto me, Son of Adam, lift up thine eyes now the way toward the north. So I lifted up mine eyes the way toward the north, and behold northward at the gate of the altar this image of jealousy in the entry."
               },
               {
                 "vnumber": "6",
-                "text": "He said furthermore unto me, Son of man, seest thou what they do? even the great abominations that the house of Israel committeth here, that I should go far off from my sanctuary? but turn thee yet again, and thou shalt see greater abominations."
+                "text": "He said furthermore unto me, Son of Adam, seest thou what they do? even the great abominations that the house of Israel committeth here, that I should go far off from my sanctuary? but turn thee yet again, and thou shalt see greater abominations."
               },
               {
                 "vnumber": "7",
@@ -29909,7 +29909,7 @@ var Prophets = {
               },
               {
                 "vnumber": "8",
-                "text": "Then said he unto me, Son of man, dig now in the wall: and when I had digged in the wall, behold a door."
+                "text": "Then said he unto me, Son of Adam, dig now in the wall: and when I had digged in the wall, behold a door."
               },
               {
                 "vnumber": "9",
@@ -29925,7 +29925,7 @@ var Prophets = {
               },
               {
                 "vnumber": "12",
-                "text": "Then said he unto me, Son of man, hast thou seen what the ancients of the house of Israel do in the dark, every man in the chambers of his imagery? for they say, Yahweh seeth us not; Yahweh hath forsaken the earth."
+                "text": "Then said he unto me, Son of Adam, hast thou seen what the ancients of the house of Israel do in the dark, every man in the chambers of his imagery? for they say, Yahweh seeth us not; Yahweh hath forsaken the earth."
               },
               {
                 "vnumber": "13",
@@ -29933,19 +29933,19 @@ var Prophets = {
               },
               {
                 "vnumber": "14",
-                "text": "Then he brought me to the door of the gate of Yahweh'S house which was toward the north; and, behold, there sat women weeping for Tammuz."
+                "text": "Then he brought me to the door of the gate of Yahweh's house which was toward the north; and, behold, there sat women weeping for Tammuz."
               },
               {
                 "vnumber": "15",
-                "text": "Then said he unto me, Hast thou seen this, O son of man? turn thee yet again, and thou shalt see greater abominations than these."
+                "text": "Then said he unto me, Hast thou seen this, Oh son of Adam? turn thee yet again, and thou shalt see greater abominations than these."
               },
               {
                 "vnumber": "16",
-                "text": "And he brought me into the inner court of Yahweh'S house, and, behold, at the door of the temple of Yahweh, between the porch and the altar, were about five and twenty men, with their backs toward the temple of Yahweh, and their faces toward the east; and they worshipped the sun toward the east."
+                "text": "And he brought me into the inner court of Yahweh's house, and, behold, at the door of the temple of Yahweh, between the porch and the altar, were about five and twenty men, with their backs toward the temple of Yahweh, and their faces toward the east; and they worshipped the sun toward the east."
               },
               {
                 "vnumber": "17",
-                "text": "Then he said unto me, Hast thou seen this, O son of man? Is it a light thing to the house of Judah that they commit the abominations which they commit here? for they have filled the land with violence, and have returned to provoke me to anger: and, lo, they put the branch to their nose."
+                "text": "Then he said unto me, Have thou seen this, Oh son of Adam? Is it a light thing to the house of Judah that they commit the abominations which they commit here? for they have filled the land with violence, and have returned to provoke me to anger: and, lo, they put the branch to their nose."
               },
               {
                 "vnumber": "18",
@@ -30011,7 +30011,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "And he spake unto the man clothed with linen, and said, Go in between the wheels, even under the cherub, and fill thine hand with coals of fire from between the cherubims, and scatter them over the city. And he went in in my sight."
+                "text": "And he spoke unto the man clothed with linen, and said, Go in between the wheels, even under the cherub, and fill thine hand with coals of fire from between the cherubims, and scatter them over the city. And he went in in my sight."
               },
               {
                 "vnumber": "3",
@@ -30019,7 +30019,7 @@ var Prophets = {
               },
               {
                 "vnumber": "4",
-                "text": "Then the glory of Yahweh went up from the cherub, and stood over the threshold of the house; and the house was filled with the cloud, and the court was full of the brightness of Yahweh'S glory."
+                "text": "Then the glory of Yahweh went up from the cherub, and stood over the threshold of the house; and the house was filled with the cloud, and the court was full of the brightness of Yahweh's glory."
               },
               {
                 "vnumber": "5",
@@ -30035,7 +30035,7 @@ var Prophets = {
               },
               {
                 "vnumber": "8",
-                "text": "And there appeared in the cherubims the form of a man's hand under their wings."
+                "text": "And there appeared in the cherubims the form of a human hand under their wings."
               },
               {
                 "vnumber": "9",
@@ -30059,7 +30059,7 @@ var Prophets = {
               },
               {
                 "vnumber": "14",
-                "text": "And every one had four faces: the first face was the face of a cherub, and the second face was the face of a man, and the third the face of a lion, and the fourth the face of an eagle."
+                "text": "And every one had four faces: the first face was the face of a cherub, and the second face was a human face, and the third the face of a lion, and the fourth the face of an eagle."
               },
               {
                 "vnumber": "15",
@@ -30079,7 +30079,7 @@ var Prophets = {
               },
               {
                 "vnumber": "19",
-                "text": "And the cherubims lifted up their wings, and mounted up from the earth in my sight: when they went out, the wheels also were beside them, and every one stood at the door of the east gate of Yahweh'S house; and the glory of the God of Israel was over them above."
+                "text": "And the cherubims lifted up their wings, and mounted up from the earth in my sight: when they went out, the wheels also were beside them, and every one stood at the door of the east gate of Yahweh's house; and the glory of the God of Israel was over them above."
               },
               {
                 "vnumber": "20",
@@ -30100,11 +30100,11 @@ var Prophets = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Moreover the spirit lifted me up, and brought me unto the east gate of Yahweh'S house, which looketh eastward: and behold at the door of the gate five and twenty men; among whom I saw Jaazaniah the son of Azur, and Pelatiah the son of Benaiah, princes of the people."
+                "text": "Moreover the spirit lifted me up, and brought me unto the east gate of Yahweh's house, which looketh eastward: and behold at the door of the gate five and twenty men; among whom I saw Jaazaniah the son of Azur, and Pelatiah the son of Benaiah, princes of the people."
               },
               {
                 "vnumber": "2",
-                "text": "Then said he unto me, Son of man, these are the men that devise mischief, and give wicked counsel in this city:"
+                "text": "Then said he unto me, Son of Adam, these are the men that devise mischief, and give wicked counsel in this city:"
               },
               {
                 "vnumber": "3",
@@ -30112,7 +30112,7 @@ var Prophets = {
               },
               {
                 "vnumber": "4",
-                "text": "Therefore prophesy against them, prophesy, O son of man."
+                "text": "Therefore prophesy against them, prophesy, O son of Adam."
               },
               {
                 "vnumber": "5",
@@ -30156,7 +30156,7 @@ var Prophets = {
               },
               {
                 "vnumber": "15",
-                "text": "Son of man, thy brethren, even thy brethren, the men of thy kindred, and all the house of Israel wholly, are they unto whom the inhabitants of Jerusalem have said, Get you far from Yahweh: unto us is this land given in possession."
+                "text": "Son of Adam, thy brethren, even thy brethren, the men of thy kindred, and all the house of Israel wholly, are they unto whom the inhabitants of Jerusalem have said, Get you far from Yahweh: unto us is this land given in possession."
               },
               {
                 "vnumber": "16",
@@ -30196,7 +30196,7 @@ var Prophets = {
               },
               {
                 "vnumber": "25",
-                "text": "Then I spake unto them of the captivity all the things that Yahweh had shewed me."
+                "text": "Then I spoke unto them of the captivity all the things that Yahweh had shewed me."
               }
             ]
           },
@@ -30209,11 +30209,11 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Son of man, thou dwellest in the midst of a rebellious house, which have eyes to see, and see not; they have ears to hear, and hear not: for they are a rebellious house."
+                "text": "Son of Adam, thou dwellest in the midst of a rebellious house, which have eyes to see, and see not; they have ears to hear, and hear not: for they are a rebellious house."
               },
               {
                 "vnumber": "3",
-                "text": "Therefore, thou son of man, prepare thee stuff for removing, and remove by day in their sight; and thou shalt remove from thy place to another place in their sight: it may be they will consider, though they be a rebellious house."
+                "text": "Therefore, thou son of Adam, prepare thee stuff for removing, and remove by day in their sight; and thou shalt remove from thy place to another place in their sight: it may be they will consider, though they be a rebellious house."
               },
               {
                 "vnumber": "4",
@@ -30237,7 +30237,7 @@ var Prophets = {
               },
               {
                 "vnumber": "9",
-                "text": "Son of man, hath not the house of Israel, the rebellious house, said unto thee, What doest thou?"
+                "text": "Son of Adam, hath not the house of Israel, the rebellious house, said unto thee, What doest thou?"
               },
               {
                 "vnumber": "10",
@@ -30273,7 +30273,7 @@ var Prophets = {
               },
               {
                 "vnumber": "18",
-                "text": "Son of man, eat thy bread with quaking, and drink thy water with trembling and with carefulness;"
+                "text": "Son of Adam, eat thy bread with quaking, and drink thy water with trembling and with carefulness;"
               },
               {
                 "vnumber": "19",
@@ -30289,7 +30289,7 @@ var Prophets = {
               },
               {
                 "vnumber": "22",
-                "text": "Son of man, what is that proverb that ye have in the land of Israel, saying, The days are prolonged, and every vision faileth?"
+                "text": "Son of Adam, what is that proverb that ye have in the land of Israel, saying, The days are prolonged, and every vision faileth?"
               },
               {
                 "vnumber": "23",
@@ -30309,7 +30309,7 @@ var Prophets = {
               },
               {
                 "vnumber": "27",
-                "text": "Son of man, behold, they of the house of Israel say, The vision that he seeth is for many days to come, and he prophesieth of the times that are far off."
+                "text": "Son of Adam, behold, they of the house of Israel say, The vision that he seeth is for many days to come, and he prophesieth of the times that are far off."
               },
               {
                 "vnumber": "28",
@@ -30326,7 +30326,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Son of man, prophesy against the prophets of Israel that prophesy, and say thou unto them that prophesy out of their own hearts, Hear ye the word of Yahweh;"
+                "text": "Son of Adam, prophesy against the prophets of Israel that prophesy, and say thou unto them that prophesy out of their own hearts, Hear ye the word of Yahweh;"
               },
               {
                 "vnumber": "3",
@@ -30386,7 +30386,7 @@ var Prophets = {
               },
               {
                 "vnumber": "17",
-                "text": "Likewise, thou son of man, set thy face against the daughters of thy people, which prophesy out of their own heart; and prophesy thou against them,"
+                "text": "Likewise, thou son of Adam, set thy face against the daughters of thy people, which prophesy out of their own heart; and prophesy thou against them,"
               },
               {
                 "vnumber": "18",
@@ -30427,7 +30427,7 @@ var Prophets = {
               },
               {
                 "vnumber": "3",
-                "text": "Son of man, these men have set up their idols in their heart, and put the stumblingblock of their iniquity before their face: should I be enquired of at all by them?"
+                "text": "Son of Adam, these men have set up their idols in their heart, and put the stumblingblock of their iniquity before their face: should I be enquired of at all by them?"
               },
               {
                 "vnumber": "4",
@@ -30467,7 +30467,7 @@ var Prophets = {
               },
               {
                 "vnumber": "13",
-                "text": "Son of man, when the land sinneth against me by trespassing grievously, then will I stretch out mine hand upon it, and will break the staff of the bread thereof, and will send famine upon it, and will cut off man and beast from it:"
+                "text": "Son of Adam, when the land sinneth against me by trespassing grievously, then will I stretch out mine hand upon it, and will break the staff of the bread thereof, and will send famine upon it, and will cut off man and beast from it:"
               },
               {
                 "vnumber": "14",
@@ -30520,7 +30520,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Son of man, What is the vine tree more than any tree, or than a branch which is among the trees of the forest?"
+                "text": "Son of Adam, What is the vine tree more than any tree, or than a branch which is among the trees of the forest?"
               },
               {
                 "vnumber": "3",
@@ -30557,7 +30557,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Son of man, cause Jerusalem to know her abominations,"
+                "text": "Son of Adam, cause Jerusalem to know her abominations,"
               },
               {
                 "vnumber": "3",
@@ -30814,7 +30814,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Son of man, put forth a riddle, and speak a parable unto the house of Israel;"
+                "text": "Son of Adam, put forth a riddle, and speak a parable unto the house of Israel;"
               },
               {
                 "vnumber": "3",
@@ -30842,7 +30842,7 @@ var Prophets = {
               },
               {
                 "vnumber": "9",
-                "text": "Say thou, Thus says Lord Yahweh; Shall it prosper? shall he not pull up the roots thereof, and cut off the fruit thereof, that it wither? it shall wither in all the leaves of her spring, even without great power or many people to pluck it up by the roots thereof."
+                "text": "Say you, Thus says Lord Yahweh; Shall it prosper? shall he not pull up the roots thereof, and cut off the fruit thereof, that it wither? it shall wither in all the leaves of her spring, even without great power or many people to pluck it up by the roots thereof."
               },
               {
                 "vnumber": "10",
@@ -30915,7 +30915,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "What mean ye, that ye use this proverb concerning the land of Israel, saying, The fathers have eaten sour grapes, and the children's teeth are set on edge?"
+                "text": "What do you mean, that you use this proverb concerning the land of Israel, saying, The fathers have eaten sour grapes, and the children's teeth are set on edge?"
               },
               {
                 "vnumber": "3",
@@ -31113,7 +31113,7 @@ var Prophets = {
               },
               {
                 "vnumber": "3",
-                "text": "Son of man, speak unto the elders of Israel, and say unto them, Thus says Lord Yahweh; Are ye come to enquire of me? As I live, says Lord Yahweh, I will not be enquired of by you."
+                "text": "Son of Adam, speak unto the elders of Israel, and say unto them, Thus says Lord Yahweh; Are ye come to enquire of me? As I live, says Lord Yahweh, I will not be enquired of by you."
               },
               {
                 "vnumber": "4",
@@ -31285,7 +31285,7 @@ var Prophets = {
               },
               {
                 "vnumber": "46",
-                "text": "Son of man, set thy face toward the south, and drop thy word toward the south, and prophesy against the forest of the south field;"
+                "text": "Son of Adam, set thy face toward the south, and drop thy word toward the south, and prophesy against the forest of the south field;"
               },
               {
                 "vnumber": "47",
@@ -31310,7 +31310,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Son of man, set thy face toward Jerusalem, and drop thy word toward the holy places, and prophesy against the land of Israel,"
+                "text": "Son of Adam, set thy face toward Jerusalem, and drop thy word toward the holy places, and prophesy against the land of Israel,"
               },
               {
                 "vnumber": "3",
@@ -31326,7 +31326,7 @@ var Prophets = {
               },
               {
                 "vnumber": "6",
-                "text": "Sigh therefore, thou son of man, with the breaking of thy loins; and with bitterness sigh before their eyes."
+                "text": "Sigh therefore, thou son of Adam, with the breaking of thy loins; and with bitterness sigh before their eyes."
               },
               {
                 "vnumber": "7",
@@ -31402,7 +31402,7 @@ var Prophets = {
               },
               {
                 "vnumber": "25",
-                "text": "And thou, profane wicked prince of Israel, whose day is come, when iniquity shall have an end,"
+                "text": "And you, profane wicked prince of Israel, whose day is come, when iniquity shall have an end,"
               },
               {
                 "vnumber": "26",
@@ -31414,7 +31414,7 @@ var Prophets = {
               },
               {
                 "vnumber": "28",
-                "text": "And thou, son of man, prophesy and say, Thus says Lord Yahweh concerning the Ammonites, and concerning their reproach; even say thou, The sword, the sword is drawn: for the slaughter it is furbished, to consume because of the glittering:"
+                "text": "And you, son of man, prophesy and say, Thus says Lord Yahweh concerning the Ammonites, and concerning their reproach; even say you, The sword, the sword is drawn: for the slaughter it is furbished, to consume because of the glittering:"
               },
               {
                 "vnumber": "29",
@@ -31443,11 +31443,11 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Now, thou son of man, wilt thou judge, wilt thou judge the bloody city? yea, thou shalt shew her all her abominations."
+                "text": "Now, thou son of Adam, wilt thou judge, wilt thou judge the bloody city? yea, thou shalt shew her all her abominations."
               },
               {
                 "vnumber": "3",
-                "text": "Then say thou, Thus says Lord Yahweh, The city sheddeth blood in the midst of it, that her time may come, and maketh idols against herself to defile herself."
+                "text": "Then say you, Thus says Lord Yahweh, The city sheddeth blood in the midst of it, that her time may come, and maketh idols against herself to defile herself."
               },
               {
                 "vnumber": "4",
@@ -31708,7 +31708,7 @@ var Prophets = {
               },
               {
                 "vnumber": "36",
-                "text": "Yahweh said moreover unto me; Son of man, wilt thou judge Aholah and Aholibah? yea, declare unto them their abominations;"
+                "text": "Yahweh said moreover unto me; Son of Adam, wilt thou judge Aholah and Aholibah? yea, declare unto them their abominations;"
               },
               {
                 "vnumber": "37",
@@ -31773,7 +31773,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Son of man, write thee the name of the day, even of this same day: the king of Babylon set himself against Jerusalem this same day."
+                "text": "Son of Adam, write thee the name of the day, even of this same day: the king of Babylon set himself against Jerusalem this same day."
               },
               {
                 "vnumber": "3",
@@ -31837,7 +31837,7 @@ var Prophets = {
               },
               {
                 "vnumber": "18",
-                "text": "So I spake unto the people in the morning: and at even my wife died; and I did in the morning as I was commanded."
+                "text": "So I spoke unto the people in the morning: and at even my wife died; and I did in the morning as I was commanded."
               },
               {
                 "vnumber": "19",
@@ -31886,7 +31886,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Son of man, set thy face against the Ammonites, and prophesy against them;"
+                "text": "Son of Adam, set thy face against the Ammonites, and prophesy against them;"
               },
               {
                 "vnumber": "3",
@@ -32048,11 +32048,11 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Now, thou son of man, take up a lamentation for Tyrus;"
+                "text": "Now, you son of Adam, take up a lamentation for Tyrus;"
               },
               {
                 "vnumber": "3",
-                "text": "And say unto Tyrus, O thou that art situate at the entry of the sea, which art a merchant of the people for many isles, Thus says Lord Yahweh; O Tyrus, thou hast said, I am of perfect beauty."
+                "text": "And say unto Tyrus, oh you who are situated at the entry of the sea, which art a merchant of the people for many isles, Thus says Lord Yahweh; O Tyrus, thou hast said, I am of perfect beauty."
               },
               {
                 "vnumber": "4",
@@ -32197,7 +32197,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Son of man, say unto the prince of Tyrus, Thus says Lord Yahweh; Because thine heart is lifted up, and thou hast said, I am a God, I sit in the seat of God, in the midst of the seas; yet thou art a man, and not God, though thou set thine heart as the heart of God:"
+                "text": "Son of Adam, say unto the prince of Tyrus, Thus says Lord Yahweh; Because thine heart is lifted up, and thou hast said, I am a God, I sit in the seat of God, in the midst of the seas; yet thou art a man, and not God, though thou set thine heart as the heart of God:"
               },
               {
                 "vnumber": "3",
@@ -32237,7 +32237,7 @@ var Prophets = {
               },
               {
                 "vnumber": "12",
-                "text": "Son of man, take up a lamentation upon the king of Tyrus, and say unto him, Thus says Lord Yahweh; Thou sealest up the sum, full of wisdom, and perfect in beauty."
+                "text": "Son of Adam, take up a lamentation upon the king of Tyrus, and say unto him, Thus says Lord Yahweh; Thou sealest up the sum, full of wisdom, and perfect in beauty."
               },
               {
                 "vnumber": "13",
@@ -32370,7 +32370,7 @@ var Prophets = {
               },
               {
                 "vnumber": "18",
-                "text": "Son of man, Nebuchadrezzar king of Babylon caused his army to serve a great service against Tyrus: every head was made bald, and every shoulder was peeled: yet had he no wages, nor his army, for Tyrus, for the service that he had served against it:"
+                "text": "Son of Adam, Nebuchadrezzar king of Babylon caused his army to serve a great service against Tyrus: every head was made bald, and every shoulder was peeled: yet had he no wages, nor his army, for Tyrus, for the service that he had served against it:"
               },
               {
                 "vnumber": "19",
@@ -32395,7 +32395,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Son of man, prophesy and say, Thus says Lord Yahweh; Howl ye, Woe worth the day!"
+                "text": "Son of Adam, prophesy and say, Thus says Lord Yahweh; Howl ye, Woe worth the day!"
               },
               {
                 "vnumber": "3",
@@ -32471,7 +32471,7 @@ var Prophets = {
               },
               {
                 "vnumber": "21",
-                "text": "Son of man, I have broken the arm of Pharaoh king of Egypt; and, lo, it shall not be bound up to be healed, to put a roller to bind it, to make it strong to hold the sword."
+                "text": "Son of Adam, I have broken the arm of Pharaoh king of Egypt; and, lo, it shall not be bound up to be healed, to put a roller to bind it, to make it strong to hold the sword."
               },
               {
                 "vnumber": "22",
@@ -32504,7 +32504,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Son of man, speak unto Pharaoh king of Egypt, and to his multitude; Whom art thou like in thy greatness?"
+                "text": "Son of Adam, speak unto Pharaoh king of Egypt, and to his multitude; Whom art thou like in thy greatness?"
               },
               {
                 "vnumber": "3",
@@ -32552,7 +32552,7 @@ var Prophets = {
               },
               {
                 "vnumber": "14",
-                "text": "To the end that none of all the trees by the waters exalt themselves for their height, neither shoot up their top among the thick boughs, neither their trees stand up in their height, all that drink water: for they are all delivered unto death, to the nether parts of the earth, in the midst of the children of men, with them that go down to the pit."
+                "text": "To the end that none of all the trees by the waters exalt themselves for their height, neither shoot up their top among the thick boughs, neither their trees stand up in their height, all that drink water: for they are all delivered unto death, to the nether parts of the earth, in the midst of the children of Adam, with them that go down to the pit."
               },
               {
                 "vnumber": "15",
@@ -32581,7 +32581,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Son of man, take up a lamentation for Pharaoh king of Egypt, and say unto him, Thou art like a young lion of the nations, and thou art as a whale in the seas: and thou camest forth with thy rivers, and troubledst the waters with thy feet, and fouledst their rivers."
+                "text": "Son of Adam, take up a lamentation for Pharaoh king of Egypt, and say unto him, Thou art like a young lion of the nations, and thou art as a whale in the seas: and thou camest forth with thy rivers, and troubledst the waters with thy feet, and fouledst their rivers."
               },
               {
                 "vnumber": "3",
@@ -32645,7 +32645,7 @@ var Prophets = {
               },
               {
                 "vnumber": "18",
-                "text": "Son of man, wail for the multitude of Egypt, and cast them down, even her, and the daughters of the famous nations, unto the nether parts of the earth, with them that go down into the pit."
+                "text": "Son of Adam, wail for the multitude of Egypt, and cast them down, even her, and the daughters of the famous nations, unto the nether parts of the earth, with them that go down into the pit."
               },
               {
                 "vnumber": "19",
@@ -32734,7 +32734,7 @@ var Prophets = {
               },
               {
                 "vnumber": "7",
-                "text": "So thou, O son of man, I have set thee a watchman unto the house of Israel; therefore thou shalt hear the word at my mouth, and warn them from me."
+                "text": "So you, O son of man, I have set thee a watchman unto the house of Israel; therefore thou shalt hear the word at my mouth, and warn them from me."
               },
               {
                 "vnumber": "8",
@@ -32980,7 +32980,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Son of man, set thy face against mount Seir, and prophesy against it,"
+                "text": "Son of Adam, set thy face against mount Seir, and prophesy against it,"
               },
               {
                 "vnumber": "3",
@@ -33041,7 +33041,7 @@ var Prophets = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Also, thou son of man, prophesy unto the mountains of Israel, and say, Ye mountains of Israel, hear the word of Yahweh:"
+                "text": "Also, thou son of Adam, prophesy unto the mountains of Israel, and say, Ye mountains of Israel, hear the word of Yahweh:"
               },
               {
                 "vnumber": "2",
@@ -33105,7 +33105,7 @@ var Prophets = {
               },
               {
                 "vnumber": "17",
-                "text": "Son of man, when the house of Israel dwelt in their own land, they defiled it by their own way and by their doings: their way was before me as the uncleanness of a removed woman."
+                "text": "Son of Adam, when the house of Israel dwelt in their own land, they defiled it by their own way and by their doings: their way was before me as the uncleanness of a removed woman."
               },
               {
                 "vnumber": "18",
@@ -33231,7 +33231,7 @@ var Prophets = {
               },
               {
                 "vnumber": "9",
-                "text": "Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus says Lord Yahweh; Come from the four winds, O breath, and breathe upon these slain, that they may live."
+                "text": "Then said he unto me, Prophesy unto the wind, prophesy, son of Adam, and say to the wind, Thus says Lord Yahweh; Come from the four winds, O breath, and breathe upon these slain, that they may live."
               },
               {
                 "vnumber": "10",
@@ -33239,7 +33239,7 @@ var Prophets = {
               },
               {
                 "vnumber": "11",
-                "text": "Then he said unto me, Son of man, these bones are the whole house of Israel: behold, they say, Our bones are dried, and our hope is lost: we are cut off for our parts."
+                "text": "Then he said unto me, Son of Adam, these bones are the whole house of Israel: behold, they say, Our bones are dried, and our hope is lost: we are cut off for our parts."
               },
               {
                 "vnumber": "12",
@@ -33259,7 +33259,7 @@ var Prophets = {
               },
               {
                 "vnumber": "16",
-                "text": "Moreover, thou son of man, take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim, and for all the house of Israel his companions:"
+                "text": "Moreover, thou son of Adam, take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim, and for all the house of Israel his companions:"
               },
               {
                 "vnumber": "17",
@@ -33320,7 +33320,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Son of man, set thy face against Gog, the land of Magog, the chief prince of Meshech and Tubal, and prophesy against him,"
+                "text": "Son of Adam, set thy face against Gog, the land of Magog, the chief prince of Meshech and Tubal, and prophesy against him,"
               },
               {
                 "vnumber": "3",
@@ -33340,7 +33340,7 @@ var Prophets = {
               },
               {
                 "vnumber": "7",
-                "text": "Be thou prepared, and prepare for thyself, thou, and all thy company that are assembled unto thee, and be thou a guard unto them."
+                "text": "Be thou prepared, and prepare for thyself, you, and all thy company that are assembled unto thee, and be thou a guard unto them."
               },
               {
                 "vnumber": "8",
@@ -33348,7 +33348,7 @@ var Prophets = {
               },
               {
                 "vnumber": "9",
-                "text": "Thou shalt ascend and come like a storm, thou shalt be like a cloud to cover the land, thou, and all thy bands, and many people with thee."
+                "text": "Thou shalt ascend and come like a storm, thou shalt be like a cloud to cover the land, you, and all thy bands, and many people with thee."
               },
               {
                 "vnumber": "10",
@@ -33368,11 +33368,11 @@ var Prophets = {
               },
               {
                 "vnumber": "14",
-                "text": "Therefore, son of man, prophesy and say unto Gog, Thus says Lord Yahweh; In that day when my people of Israel dwelleth safely, shalt thou not know it?"
+                "text": "Therefore, son of Adam, prophesy and say unto Gog, Thus says Lord Yahweh; In that day when my people of Israel dwelleth safely, shalt thou not know it?"
               },
               {
                 "vnumber": "15",
-                "text": "And thou shalt come from thy place out of the north parts, thou, and many people with thee, all of them riding upon horses, a great company, and a mighty army:"
+                "text": "And thou shalt come from thy place out of the north parts, you, and many people with thee, all of them riding upon horses, a great company, and a mighty army:"
               },
               {
                 "vnumber": "16",
@@ -33413,7 +33413,7 @@ var Prophets = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Therefore, thou son of man, prophesy against Gog, and say, Thus says Lord Yahweh; Behold, I am against thee, O Gog, the chief prince of Meshech and Tubal:"
+                "text": "Therefore, thou son of Adam, prophesy against Gog, and say, Thus says Lord Yahweh; Behold, I am against thee, O Gog, the chief prince of Meshech and Tubal:"
               },
               {
                 "vnumber": "2",
@@ -33425,7 +33425,7 @@ var Prophets = {
               },
               {
                 "vnumber": "4",
-                "text": "Thou shalt fall upon the mountains of Israel, thou, and all thy bands, and the people that is with thee: I will give thee unto the ravenous birds of every sort, and to the beasts of the field to be devoured."
+                "text": "Thou shalt fall upon the mountains of Israel, you, and all thy bands, and the people that is with thee: I will give thee unto the ravenous birds of every sort, and to the beasts of the field to be devoured."
               },
               {
                 "vnumber": "5",
@@ -33477,7 +33477,7 @@ var Prophets = {
               },
               {
                 "vnumber": "17",
-                "text": "And, thou son of man, thus says Lord Yahweh; Speak unto every feathered fowl, and to every beast of the field, Assemble yourselves, and come; gather yourselves on every side to my sacrifice that I do sacrifice for you, even a great sacrifice upon the mountains of Israel, that ye may eat flesh, and drink blood."
+                "text": "And, thou son of Adam, thus says Lord Yahweh; Speak unto every feathered fowl, and to every beast of the field, Assemble yourselves, and come; gather yourselves on every side to my sacrifice that I do sacrifice for you, even a great sacrifice upon the mountains of Israel, that ye may eat flesh, and drink blood."
               },
               {
                 "vnumber": "18",
@@ -33546,7 +33546,7 @@ var Prophets = {
               },
               {
                 "vnumber": "4",
-                "text": "And the man said unto me, Son of man, behold with thine eyes, and hear with thine ears, and set thine heart upon all that I shall shew thee; for to the intent that I might shew them unto thee art thou brought hither: declare all that thou seest to the house of Israel."
+                "text": "And the man said unto me, Son of Adam, behold with thine eyes, and hear with thine ears, and set thine heart upon all that I shall shew thee; for to the intent that I might shew them unto thee art thou brought hither: declare all that thou seest to the house of Israel."
               },
               {
                 "vnumber": "5",
@@ -33739,7 +33739,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "And the breadth of the door was ten cubits; and the sides of the door were five cubits on the one side, and five cubits on the other side: and he measured the length thereof, forty cubits: and the breadth, twenty cubits."
+                "text": "And the breadth of the door was ten cubits; and the sides of the door were five cubits on the one side, and five cubits on the other side: and he measured the length thereof, forty cubits: and the width, twenty cubits."
               },
               {
                 "vnumber": "3",
@@ -33953,7 +33953,7 @@ var Prophets = {
               },
               {
                 "vnumber": "7",
-                "text": "And he said unto me, Son of man, the place of my throne, and the place of the soles of my feet, where I will dwell in the midst of the children of Israel for ever, and my holy name, shall the house of Israel no more defile, neither they, nor their kings, by their whoredom, nor by the carcases of their kings in their high places."
+                "text": "And he said unto me, Son of Adam, the place of my throne, and the place of the soles of my feet, where I will dwell in the midst of the children of Israel for ever, and my holy name, shall the house of Israel no more defile, neither they, nor their kings, by their whoredom, nor by the carcases of their kings in their high places."
               },
               {
                 "vnumber": "8",
@@ -33997,7 +33997,7 @@ var Prophets = {
               },
               {
                 "vnumber": "18",
-                "text": "And he said unto me, Son of man, thus says Lord Yahweh; These are the ordinances of the altar in the day when they shall make it, to offer burnt offerings thereon, and to sprinkle blood thereon."
+                "text": "And he said unto me, Son of Adam, thus says Lord Yahweh; These are the ordinances of the altar in the day when they shall make it, to offer burnt offerings thereon, and to sprinkle blood thereon."
               },
               {
                 "vnumber": "19",
@@ -34397,7 +34397,7 @@ var Prophets = {
               },
               {
                 "vnumber": "6",
-                "text": "And he said unto me, Son of man, hast thou seen this? Then he brought me, and caused me to return to the brink of the river."
+                "text": "And he said unto me, Son of Adam, hast thou seen this? Then he brought me, and caused me to return to the brink of the river."
               },
               {
                 "vnumber": "7",
@@ -34853,7 +34853,7 @@ var Prophets = {
               },
               {
                 "vnumber": "15",
-                "text": "Though thou, Israel, play the harlot, yet let not Judah offend; and come not ye unto Gilgal, neither go ye up to Bethaven, nor swear, Yahweh liveth."
+                "text": "Though you, Israel, play the harlot, yet let not Judah offend; and come not ye unto Gilgal, neither go ye up to Bethaven, nor swear, Yahweh liveth."
               },
               {
                 "vnumber": "16",
@@ -35130,7 +35130,7 @@ var Prophets = {
               },
               {
                 "vnumber": "3",
-                "text": "They shall not dwell in Yahweh'S land; but Ephraim shall return to Egypt, and they shall eat unclean things in Assyria."
+                "text": "They shall not dwell in Yahweh's land; but Ephraim shall return to Egypt, and they shall eat unclean things in Assyria."
               },
               {
                 "vnumber": "4",
@@ -35326,7 +35326,7 @@ var Prophets = {
               },
               {
                 "vnumber": "4",
-                "text": "Yea, he had power over the angel, and prevailed: he wept, and made supplication unto him: he found him in Bethel, and there he spake with us;"
+                "text": "Yea, he had power over the angel, and prevailed: he wept, and made supplication unto him: he found him in Bethel, and there he spoke with us;"
               },
               {
                 "vnumber": "5",
@@ -35375,7 +35375,7 @@ var Prophets = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "When Ephraim spake trembling, he exalted himself in Israel; but when he offended in Baal, he died."
+                "text": "When Ephraim spoke trembling, he exalted himself in Israel; but when he offended in Baal, he died."
               },
               {
                 "vnumber": "2",
@@ -35525,7 +35525,7 @@ var Prophets = {
               },
               {
                 "vnumber": "9",
-                "text": "The meat offering and the drink offering is cut off from the house of Yahweh; the priests, Yahweh'S ministers, mourn."
+                "text": "The meat offering and the drink offering is cut off from the house of Yahweh; the priests, Yahweh's ministers, mourn."
               },
               {
                 "vnumber": "10",
@@ -36522,7 +36522,7 @@ var Prophets = {
             },
             {
               "vnumber": "21",
-              "text": "And saviours shall come up on mount Zion to judge the mount of Esau; and the kingdom shall be Yahweh'S."
+              "text": "And saviours shall come up on mount Zion to judge the mount of Esau; and the kingdom shall be Yahweh's."
             }
           ]
         }
@@ -36557,7 +36557,7 @@ var Prophets = {
               },
               {
                 "vnumber": "6",
-                "text": "So the shipmaster came to him, and said unto him, What meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not."
+                "text": "So the shipmaster came to him, and said unto him, What meanest you, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not."
               },
               {
                 "vnumber": "7",
@@ -36589,7 +36589,7 @@ var Prophets = {
               },
               {
                 "vnumber": "14",
-                "text": "Wherefore they cried unto Yahweh, and said, We beseech thee, Oh Yahweh, we beseech thee, let us not perish for this man's life, and lay not upon us innocent blood: for thou, Oh Yahweh, hast done as it pleased thee."
+                "text": "Wherefore they cried unto Yahweh, and said, We beseech thee, Oh Yahweh, we beseech thee, let us not perish for this man's life, and lay not upon us innocent blood: for you, Oh Yahweh, hast done as it pleased thee."
               },
               {
                 "vnumber": "15",
@@ -36646,7 +36646,7 @@ var Prophets = {
               },
               {
                 "vnumber": "10",
-                "text": "And Yahweh spake unto the fish, and it vomited out Jonah upon the dry land."
+                "text": "And Yahweh spoke unto the fish, and it vomited out Jonah upon the dry land."
               }
             ]
           },
@@ -36963,7 +36963,7 @@ var Prophets = {
               },
               {
                 "vnumber": "8",
-                "text": "And thou, O tower of the flock, the strong hold of the daughter of Zion, unto thee shall it come, even the first dominion; the kingdom shall come to the daughter of Jerusalem."
+                "text": "And you, O tower of the flock, the strong hold of the daughter of Zion, unto thee shall it come, even the first dominion; the kingdom shall come to the daughter of Jerusalem."
               },
               {
                 "vnumber": "9",
@@ -36996,7 +36996,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "But thou, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting."
+                "text": "But you, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting."
               },
               {
                 "vnumber": "3",
@@ -37061,7 +37061,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Hear ye, O mountains, Yahweh'S controversy, and ye strong foundations of the earth: for Yahweh hath a controversy with his people, and he will plead with Israel."
+                "text": "Hear ye, O mountains, Yahweh's controversy, and ye strong foundations of the earth: for Yahweh hath a controversy with his people, and he will plead with Israel."
               },
               {
                 "vnumber": "3",
@@ -37089,7 +37089,7 @@ var Prophets = {
               },
               {
                 "vnumber": "9",
-                "text": "Yahweh'S voice crieth unto the city, and the man of wisdom shall see thy name: hear ye the rod, and who hath appointed it."
+                "text": "Yahweh's voice crieth unto the city, and the man of wisdom shall see thy name: hear ye the rod, and who hath appointed it."
               },
               {
                 "vnumber": "10",
@@ -37561,7 +37561,7 @@ var Prophets = {
               },
               {
                 "vnumber": "16",
-                "text": "Thou art filled with shame for glory: drink thou also, and let thy foreskin be uncovered: the cup of Yahweh'S right hand shall be turned unto thee, and shameful spewing shall be on thy glory."
+                "text": "Thou art filled with shame for glory: drink thou also, and let thy foreskin be uncovered: the cup of Yahweh's right hand shall be turned unto thee, and shameful spewing shall be on thy glory."
               },
               {
                 "vnumber": "17",
@@ -37702,7 +37702,7 @@ var Prophets = {
               },
               {
                 "vnumber": "8",
-                "text": "And it shall come to pass in the day of Yahweh'S sacrifice, that I will punish the princes, and the king's children, and all such as are clothed with strange apparel."
+                "text": "And it shall come to pass in the day of Yahweh's sacrifice, that I will punish the princes, and the king's children, and all such as are clothed with strange apparel."
               },
               {
                 "vnumber": "9",
@@ -37742,7 +37742,7 @@ var Prophets = {
               },
               {
                 "vnumber": "18",
-                "text": "Neither their silver nor their gold shall be able to deliver them in the day of Yahweh'S wrath; but the whole land shall be devoured by the fire of his jealousy: for he shall make even a speedy riddance of all them that dwell in the land."
+                "text": "Neither their silver nor their gold shall be able to deliver them in the day of Yahweh's wrath; but the whole land shall be devoured by the fire of his jealousy: for he shall make even a speedy riddance of all them that dwell in the land."
               }
             ]
           },
@@ -37755,11 +37755,11 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Before the decree bring forth, before the day pass as the chaff, before the fierce anger of Yahweh come upon you, before the day of Yahweh'S anger come upon you."
+                "text": "Before the decree bring forth, before the day pass as the chaff, before the fierce anger of Yahweh come upon you, before the day of Yahweh's anger come upon you."
               },
               {
                 "vnumber": "3",
-                "text": "Seek ye Yahweh, all ye meek of the earth, which have wrought his judgment; seek righteousness, seek meekness: it may be ye shall be hid in the day of Yahweh'S anger."
+                "text": "Seek ye Yahweh, all ye meek of the earth, which have wrought his judgment; seek righteousness, seek meekness: it may be ye shall be hid in the day of Yahweh's anger."
               },
               {
                 "vnumber": "4",
@@ -37912,7 +37912,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "text": "Thus speaketh Yahweh of Armies, saying, This people say, The time is not come, the time that Yahweh'S house should be built."
+                "text": "Thus speaketh Yahweh of Armies, saying, This people say, The time is not come, the time that Yahweh's house should be built."
               },
               {
                 "vnumber": "3",
@@ -37956,7 +37956,7 @@ var Prophets = {
               },
               {
                 "vnumber": "13",
-                "text": "Then spake Haggai Yahweh'S messenger in Yahweh'S message unto the people, saying, I am with you, saith Yahweh."
+                "text": "Then spoke Haggai Yahweh's messenger in Yahweh's message unto the people, saying, I am with you, saith Yahweh."
               },
               {
                 "vnumber": "14",
@@ -38041,7 +38041,7 @@ var Prophets = {
               },
               {
                 "vnumber": "18",
-                "text": "Consider now from this day and upward, from the four and twentieth day of the ninth month, even from the day that the foundation of Yahweh'S temple was laid, consider it."
+                "text": "Consider now from this day and upward, from the four and twentieth day of the ninth month, even from the day that the foundation of Yahweh's temple was laid, consider it."
               },
               {
                 "vnumber": "19",
@@ -38129,7 +38129,7 @@ var Prophets = {
               },
               {
                 "vnumber": "14",
-                "text": "So the angel that communed with me said unto me, Cry thou, saying, Thus saith Yahweh of Armies; I am jealous for Jerusalem and for Zion with a great jealousy."
+                "text": "So the angel that communed with me said unto me, Cry you, saying, Thus saith Yahweh of Armies; I am jealous for Jerusalem and for Zion with a great jealousy."
               },
               {
                 "vnumber": "15",
@@ -38235,7 +38235,7 @@ var Prophets = {
               },
               {
                 "vnumber": "4",
-                "text": "And he answered and spake unto those that stood before him, saying, Take away the filthy garments from him. And unto him he said, Behold, I have caused thine iniquity to pass from thee, and I will clothe thee with change of raiment."
+                "text": "And he answered and spoke unto those that stood before him, saying, Take away the filthy garments from him. And unto him he said, Behold, I have caused thine iniquity to pass from thee, and I will clothe thee with change of raiment."
               },
               {
                 "vnumber": "5",
@@ -38251,7 +38251,7 @@ var Prophets = {
               },
               {
                 "vnumber": "8",
-                "text": "Hear now, O Joshua the high priest, thou, and thy fellows that sit before thee: for they are men wondered at: for, behold, I will bring forth my servant the BRANCH."
+                "text": "Hear now, O Joshua the high priest, you, and thy fellows that sit before thee: for they are men wondered at: for, behold, I will bring forth my servant the BRANCH."
               },
               {
                 "vnumber": "9",
@@ -38280,7 +38280,7 @@ var Prophets = {
               },
               {
                 "vnumber": "4",
-                "text": "So I answered and spake to the angel that talked with me, saying, What are these, my lord?"
+                "text": "So I answered and spoke to the angel that talked with me, saying, What are these, my lord?"
               },
               {
                 "vnumber": "5",
@@ -38288,11 +38288,11 @@ var Prophets = {
               },
               {
                 "vnumber": "6",
-                "text": "Then he answered and spake unto me, saying, This is the word of Yahweh unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith Yahweh of Armies."
+                "text": "Then he answered and spoke unto me, saying, This is the word of Yahweh unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith Yahweh of Armies."
               },
               {
                 "vnumber": "7",
-                "text": "Who art thou, O great mountain? before Zerubbabel thou shalt become a plain: and he shall bring forth the headstone thereof with shoutings, crying, Grace, grace unto it."
+                "text": "Who art you, O great mountain? before Zerubbabel thou shalt become a plain: and he shall bring forth the headstone thereof with shoutings, crying, Grace, grace unto it."
               },
               {
                 "vnumber": "8",
@@ -38406,7 +38406,7 @@ var Prophets = {
               },
               {
                 "vnumber": "8",
-                "text": "Then cried he upon me, and spake unto me, saying, Behold, these that go toward the north country have quieted my spirit in the north country."
+                "text": "Then cried he upon me, and spoke unto me, saying, Behold, these that go toward the north country have quieted my spirit in the north country."
               },
               {
                 "vnumber": "9",
@@ -38978,7 +38978,7 @@ var Prophets = {
               },
               {
                 "vnumber": "20",
-                "text": "In that day shall there be upon the bells of the horses, KODESH LA'YAHWEH (Holiness unto the LORD); and the pots in Yahweh'S house shall be like the bowls before the altar."
+                "text": "In that day shall there be upon the bells of the horses, KODESH LA'YAHWEH (Holiness unto the LORD); and the pots in Yahweh's house shall be like the bowls before the altar."
               },
               {
                 "vnumber": "21",
@@ -39194,7 +39194,7 @@ var Prophets = {
               },
               {
                 "vnumber": "16",
-                "text": "Then they that feared Yahweh spake often one to another: and Yahweh hearkened, and heard it, and a book of remembrance was written before him for them that feared Yahweh, and that thought upon his name."
+                "text": "Then they that feared Yahweh spoke often one to another: and Yahweh hearkened, and heard it, and a book of remembrance was written before him for them that feared Yahweh, and that thought upon his name."
               },
               {
                 "vnumber": "17",

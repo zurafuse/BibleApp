@@ -38,7 +38,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "8",
-                "text": "My son, hear the instruction of thy father, and forsake not the law of thy mother:"
+                "text": "My son, hear the instruction of your father, and forsake not the law of thy mother:"
               },
               {
                 "vnumber": "9",
@@ -671,7 +671,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "20",
-                "text": "My son, keep thy father's commandment, and forsake not the law of thy mother:"
+                "text": "My son, keep your father's commandment, and forsake not the law of thy mother:"
               },
               {
                 "vnumber": "21",
@@ -1002,15 +1002,15 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Wisdom hath builded her house, she hath hewn out her seven pillars:"
+                "text": "Wisdom has built her house, she has hewn out her seven pillars:"
               },
               {
                 "vnumber": "2",
-                "text": "She hath killed her beasts; she hath mingled her wine; she hath also furnished her table."
+                "text": "She has killed her beasts; she has mingled her wine; she has also furnished her table."
               },
               {
                 "vnumber": "3",
-                "text": "She hath sent forth her maidens: she crieth upon the highest places of the city,"
+                "text": "She has sent forth her maidens: she cries upon the highest places of the city,"
               },
               {
                 "vnumber": "4",
@@ -1886,7 +1886,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "11",
-                "text": "A just weight and balance are Yahweh'S: all the weights of the bag are his work."
+                "text": "A just weight and balance are Yahweh's: all the weights of the bag are his work."
               },
               {
                 "vnumber": "12",
@@ -2684,7 +2684,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "28",
-                "text": "Remove not the ancient landmark, which thy fathers have set."
+                "text": "Remove not the ancient landmark, which your fathers have set."
               },
               {
                 "vnumber": "29",
@@ -2781,7 +2781,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "22",
-                "text": "Hearken unto thy father that begat thee, and despise not thy mother when she is old."
+                "text": "Hearken unto your father that begat thee, and despise not thy mother when she is old."
               },
               {
                 "vnumber": "23",
@@ -3253,7 +3253,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "10",
-                "text": "Thine own friend, and thy father's friend, forsake not; neither go into thy brother's house in the day of thy calamity: for better is a neighbour that is near than a brother far off."
+                "text": "Thine own friend, and your father's friend, forsake not; neither go into thy brother's house in the day of thy calamity: for better is a neighbour that is near than a brother far off."
               },
               {
                 "vnumber": "11",
@@ -5275,7 +5275,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "10",
-                "text": "With us are both the grayheaded and very aged men, much elder than thy father."
+                "text": "With us are both the grayheaded and very aged men, much elder than your father."
               },
               {
                 "vnumber": "11",
@@ -8500,7 +8500,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "7",
-                "text": "Behold his bed, which is Solomon's; threescore valiant men are about it, of the valiant of Israel."
+                "text": "Behold his bed, which is Solomon's; sixty valiant men are about it, of the valiant of Israel."
               },
               {
                 "vnumber": "8",
@@ -8691,7 +8691,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "8",
-                "text": "There are threescore queens, and fourscore concubines, and virgins without number."
+                "text": "There are sixty queens, and eighty concubines, and virgins without number."
               },
               {
                 "vnumber": "9",
@@ -8978,7 +8978,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "11",
-                "text": "And Boaz answered and said unto her, It hath fully been shewed me, all that thou hast done unto thy mother in law since the death of thine husband: and how thou hast left thy father and thy mother, and the land of thy nativity, and art come unto a people which thou knewest not heretofore."
+                "text": "And Boaz answered and said unto her, It hath fully been shewed me, all that thou hast done unto thy mother in law since the death of thine husband: and how thou hast left your father and thy mother, and the land of thy nativity, and art come unto a people which thou knewest not heretofore."
               },
               {
                 "vnumber": "12",
@@ -9389,7 +9389,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "22",
-                "text": "Thou hast called as in a solemn day my terrors round about, so that in the day of Yahweh'S anger none escaped nor remained: those that I have swaddled and brought up hath mine enemy consumed."
+                "text": "Thou hast called as in a solemn day my terrors round about, so that in the day of Yahweh's anger none escaped nor remained: those that I have swaddled and brought up hath mine enemy consumed."
               }
             ]
           },
@@ -9482,7 +9482,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "22",
-                "text": "It is of Yahweh'S mercies that we are not consumed, because his compassions fail not."
+                "text": "It is of Yahweh's mercies that we are not consumed, because his compassions fail not."
               },
               {
                 "vnumber": "23",
@@ -10828,7 +10828,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "4",
-                "text": "When he shewed the riches of his glorious kingdom and the honour of his excellent majesty many days, even an hundred and fourscore days."
+                "text": "When he shewed the riches of his glorious kingdom and the honour of his excellent majesty many days, even one hundred and eighty days."
               },
               {
                 "vnumber": "5",
@@ -11123,7 +11123,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "14",
-                "text": "For if thou altogether holdest thy peace at this time, then shall there enlargement and deliverance arise to the Jews from another place; but thou and thy father's house shall be destroyed: and who knoweth whether thou art come to the kingdom for such a time as this?"
+                "text": "For if thou altogether holdest thy peace at this time, then shall there enlargement and deliverance arise to the Jews from another place; but thou and your father's house shall be destroyed: and who knoweth whether thou art come to the kingdom for such a time as this?"
               },
               {
                 "vnumber": "15",
@@ -11831,7 +11831,7 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Nebuchadnezzar the king made an image of gold, whose height was threescore cubits, and the breadth thereof six cubits: he set it up in the plain of Dura, in the province of Babylon."
+                "text": "Nebuchadnezzar the king made an image of gold, whose height was sixty cubits, and the width thereof six cubits: he set it up in the plain of Dura, in the province of Babylon."
               },
               {
                 "vnumber": "2",
@@ -12149,7 +12149,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "11",
-                "text": "There is a man in thy kingdom, in whom is the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar thy father, the king, I say, thy father, made master of the magicians, astrologers, Chaldeans, and soothsayers;"
+                "text": "There is a man in thy kingdom, in whom is the spirit of the holy gods; and in the days of your father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar your father, the king, I say, your father, made master of the magicians, astrologers, Chaldeans, and soothsayers;"
               },
               {
                 "vnumber": "12",
@@ -12177,7 +12177,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "18",
-                "text": "O thou king, the most high God gave Nebuchadnezzar thy father a kingdom, and majesty, and glory, and honour:"
+                "text": "O thou king, the most high God gave Nebuchadnezzar your father a kingdom, and majesty, and glory, and honour:"
               },
               {
                 "vnumber": "19",
@@ -12229,7 +12229,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "31",
-                "text": "And Darius the Median took the kingdom, being about threescore and two years old."
+                "text": "And Darius the Median took the kingdom, being about sixty-two years old."
               }
             ]
           },
@@ -12536,7 +12536,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "17",
-                "text": "So he came near where I stood: and when he came, I was afraid, and fell upon my face: but he said unto me, Understand, O son of man: for at the time of the end shall be the vision."
+                "text": "So he came near where I stood: and when he came, I was afraid, and fell upon my face: but he said unto me, Understand, O son of Adam: for at the time of the end shall be the vision."
               },
               {
                 "vnumber": "18",
@@ -12677,15 +12677,15 @@ var Ketuvim = {
               },
               {
                 "vnumber": "24",
-                "text": "Seventy weeks are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy."
+                "text": "Seventy sevens are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy."
               },
               {
                 "vnumber": "25",
-                "text": "Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times."
+                "text": "Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven sevens, and sixty-two sevens: the street shall be built again, and the wall, even in troublous times."
               },
               {
                 "vnumber": "26",
-                "text": "And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof shall be with a flood, and unto the end of the war desolations are determined."
+                "text": "And after sixty-two sevens shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof shall be with a flood, and unto the end of the war desolations are determined."
               },
               {
                 "vnumber": "27",
@@ -13117,7 +13117,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "9",
-                "text": "The children of Zaccai, seven hundred and threescore."
+                "text": "The children of Zaccai, seven hundred and sixty."
               },
               {
                 "vnumber": "10",
@@ -13337,7 +13337,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "64",
-                "text": "The whole congregation together was forty and two thousand three hundred and threescore,"
+                "text": "The whole congregation together was forty and two thousand three hundred and sixty,"
               },
               {
                 "vnumber": "65",
@@ -13357,7 +13357,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "69",
-                "text": "They gave after their ability unto the treasure of the work threescore and one thousand drams of gold, and five thousand pound of silver, and one hundred priests' garments."
+                "text": "They gave after their ability unto the treasure of the work sixty-one thousand drams of gold, and five thousand pound of silver, and one hundred priests' garments."
               },
               {
                 "vnumber": "70",
@@ -13483,7 +13483,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "15",
-                "text": "That search may be made in the book of the records of thy fathers: so shalt thou find in the book of the records, and know that this city is a rebellious city, and hurtful unto kings and provinces, and that they have moved sedition within the same of old time: for which cause was this city destroyed."
+                "text": "That search may be made in the book of the records of your fathers: so shalt thou find in the book of the records, and know that this city is a rebellious city, and hurtful unto kings and provinces, and that they have moved sedition within the same of old time: for which cause was this city destroyed."
               },
               {
                 "vnumber": "16",
@@ -13609,7 +13609,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "3",
-                "text": "In the first year of Cyrus the king the same Cyrus the king made a decree concerning the house of God at Jerusalem, Let the house be builded, the place where they offered sacrifices, and let the foundations thereof be strongly laid; the height thereof threescore cubits, and the breadth thereof threescore cubits;"
+                "text": "In the first year of Cyrus the king the same Cyrus the king made a decree concerning the house of God at Jerusalem, Let the house be builded, the place where they offered sacrifices, and let the foundations thereof be strongly laid; the height thereof sixty cubits, and the width thereof sixty cubits;"
               },
               {
                 "vnumber": "4",
@@ -13839,7 +13839,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "8",
-                "text": "And of the sons of Shephatiah; Zebadiah the son of Michael, and with him fourscore males."
+                "text": "And of the sons of Shephatiah; Zebadiah the son of Michael, and with him eighty males."
               },
               {
                 "vnumber": "9",
@@ -13847,7 +13847,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "10",
-                "text": "And of the sons of Shelomith; the son of Josiphiah, and with him an hundred and threescore males."
+                "text": "And of the sons of Shelomith; the son of Josiphiah, and with him one hundred and eighty males."
               },
               {
                 "vnumber": "11",
@@ -13859,7 +13859,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "13",
-                "text": "And of the last sons of Adonikam, whose names are these, Eliphelet, Jeiel, and Shemaiah, and with them threescore males."
+                "text": "And of the last sons of Adonikam, whose names are these, Eliphelet, Jeiel, and Shemaiah, and with them sixty males."
               },
               {
                 "vnumber": "14",
@@ -14791,7 +14791,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "14",
-                "text": "The children of Zaccai, seven hundred and threescore."
+                "text": "The children of Zaccai, seven hundred and sixty."
               },
               {
                 "vnumber": "15",
@@ -14807,11 +14807,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "18",
-                "text": "The children of Adonikam, six hundred threescore and seven."
+                "text": "The children of Adonikam, six hundred sixty-seven."
               },
               {
                 "vnumber": "19",
-                "text": "The children of Bigvai, two thousand threescore and seven."
+                "text": "The children of Bigvai, two thousand sixty-seven."
               },
               {
                 "vnumber": "20",
@@ -14839,7 +14839,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "26",
-                "text": "The men of Bethlehem and Netophah, an hundred fourscore and eight."
+                "text": "The men of Bethlehem and Netophah, one hundred and eighty-eight."
               },
               {
                 "vnumber": "27",
@@ -14999,7 +14999,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "66",
-                "text": "The whole congregation together was forty and two thousand three hundred and threescore,"
+                "text": "The whole congregation together was forty and two thousand three hundred and sixty,"
               },
               {
                 "vnumber": "67",
@@ -15023,7 +15023,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "72",
-                "text": "And that which the rest of the people gave was twenty thousand drams of gold, and two thousand pound of silver, and threescore and seven priests' garments."
+                "text": "And that which the rest of the people gave was twenty thousand drams of gold, and two thousand pound of silver, and sixty-seven priests' garments."
               },
               {
                 "vnumber": "73",
@@ -15451,7 +15451,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "6",
-                "text": "All the sons of Perez that dwelt at Jerusalem were four hundred threescore and eight valiant men."
+                "text": "All the sons of Perez that dwelt at Jerusalem were four hundred sixty-eight valiant men."
               },
               {
                 "vnumber": "7",
@@ -15499,7 +15499,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "18",
-                "text": "All the Levites in the holy city were two hundred fourscore and four."
+                "text": "All the Levites in the holy city were two hundred eighty-four."
               },
               {
                 "vnumber": "19",
@@ -16210,7 +16210,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "21",
-                "text": "And afterward Hezron went in to the daughter of Machir the father of Gilead, whom he married when he was threescore years old; and she bare him Segub."
+                "text": "And afterward Hezron went in to the daughter of Machir the father of Gilead, whom he married when he was sixty years old; and she bare him Segub."
               },
               {
                 "vnumber": "22",
@@ -16218,7 +16218,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "23",
-                "text": "And he took Geshur, and Aram, with the towns of Jair, from them, with Kenath, and the towns thereof, even threescore cities. All these belonged to the sons of Machir the father of Gilead."
+                "text": "And he took Geshur, and Aram, with the towns of Jair, from them, with Kenath, and the towns thereof, even sixty cities. All these belonged to the sons of Machir the father of Gilead."
               },
               {
                 "vnumber": "24",
@@ -16701,7 +16701,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "18",
-                "text": "The sons of Reuben, and the Gadites, and half the tribe of Manasseh, of valiant men, men able to bear buckler and sword, and to shoot with bow, and skilful in war, were four and forty thousand seven hundred and threescore, that went out to the war."
+                "text": "The sons of Reuben, and the Gadites, and half the tribe of Manasseh, of valiant men, men able to bear buckler and sword, and to shoot with bow, and skilful in war, were four and forty thousand seven hundred and sixty, that went out to the war."
               },
               {
                 "vnumber": "19",
@@ -17087,7 +17087,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "5",
-                "text": "And their brethren among all the families of Issachar were valiant men of might, reckoned in all by their genealogies fourscore and seven thousand."
+                "text": "And their brethren among all the families of Issachar were valiant men of might, reckoned in all by their genealogies eighty-seven thousand."
               },
               {
                 "vnumber": "6",
@@ -17449,7 +17449,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "13",
-                "text": "And their brethren, heads of the house of their fathers, a thousand and seven hundred and threescore; very able men for the work of the service of the house of God."
+                "text": "And their brethren, heads of the house of their fathers, one thousand, seven hundred and sixty; very able men for the work of the service of the house of God."
               },
               {
                 "vnumber": "14",
@@ -18167,7 +18167,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "9",
-                "text": "Of the sons of Hebron; Eliel the chief, and his brethren fourscore:"
+                "text": "Of the sons of Hebron; Eliel the chief, and his brethren eighty:"
               },
               {
                 "vnumber": "10",
@@ -18404,7 +18404,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "38",
-                "text": "And Obededom with their brethren, threescore and eight; Obededom also the son of Jeduthun and Hosah to be porters:"
+                "text": "And Obededom with their brethren, sixty-eight; Obededom also the son of Jeduthun and Hosah to be porters:"
               },
               {
                 "vnumber": "39",
@@ -18473,7 +18473,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "11",
-                "text": "And it shall come to pass, when thy days be expired that thou must go to be with thy fathers, that I will raise up thy seed after thee, which shall be of thy sons; and I will establish his kingdom."
+                "text": "And it shall come to pass, when thy days be expired that thou must go to be with your fathers, that I will raise up thy seed after thee, which shall be of thy sons; and I will establish his kingdom."
               },
               {
                 "vnumber": "12",
@@ -18627,7 +18627,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "3",
-                "text": "But the princes of the children of Ammon said to Hanun, Thinkest thou that David doth honour thy father, that he hath sent comforters unto thee? are not his servants come unto thee for to search, and to overthrow, and to spy out the land?"
+                "text": "But the princes of the children of Ammon said to Hanun, Thinkest thou that David doth honour your father, that he hath sent comforters unto thee? are not his servants come unto thee for to search, and to overthrow, and to spy out the land?"
               },
               {
                 "vnumber": "4",
@@ -18753,7 +18753,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "5",
-                "text": "And Joab gave the sum of the number of the people unto David. And all they of Israel were a thousand thousand and an hundred thousand men that drew sword: and Judah was four hundred threescore and ten thousand men that drew sword."
+                "text": "And Joab gave the sum of the number of the people unto David. And all they of Israel were a thousand thousand and an hundred thousand men that drew sword: and Judah was four hundred seventy thousand men that drew sword."
               },
               {
                 "vnumber": "6",
@@ -19229,7 +19229,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "7",
-                "text": "So the number of them, with their brethren that were instructed in the songs of Yahweh, even all that were cunning, was two hundred fourscore and eight."
+                "text": "So the number of them, with their brethren that were instructed in the songs of Yahweh, even all that were cunning, was two hundred and eighty-eight."
               },
               {
                 "vnumber": "8",
@@ -19362,7 +19362,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "8",
-                "text": "All these of the sons of Obededom: they and their sons and their brethren, able men for strength for the service, were threescore and two of Obededom."
+                "text": "All these of the sons of Obededom: they and their sons and their brethren, able men for strength for the service, were sixty-two of Obededom."
               },
               {
                 "vnumber": "9",
@@ -19640,7 +19640,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "9",
-                "text": "And thou, Solomon my son, know thou the God of thy father, and serve him with a perfect heart and with a willing mind: for Yahweh searcheth all hearts, and understandeth all the imaginations of the thoughts: if thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever."
+                "text": "And thou, Solomon my son, know thou the God of your father, and serve him with a perfect heart and with a willing mind: for Yahweh searcheth all hearts, and understandeth all the imaginations of the thoughts: if thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever."
               },
               {
                 "vnumber": "10",
@@ -19906,7 +19906,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "2",
-                "text": "And Solomon told out threescore and ten thousand men to bear burdens, and fourscore thousand to hew in the mountain, and three thousand and six hundred to oversee them."
+                "text": "And Solomon told out seventy thousand men to bear burdens, and eighty thousand to hew in the mountain, and three thousand and six hundred to oversee them."
               },
               {
                 "vnumber": "3",
@@ -19954,7 +19954,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "14",
-                "text": "The son of a woman of the daughters of Dan, and his father was a man of Tyre, skilful to work in gold, and in silver, in brass, in iron, in stone, and in timber, in purple, in blue, and in fine linen, and in crimson; also to grave any manner of graving, and to find out every device which shall be put to him, with thy cunning men, and with the cunning men of my lord David thy father."
+                "text": "The son of a woman of the daughters of Dan, and his father was a man of Tyre, skilful to work in gold, and in silver, in brass, in iron, in stone, and in timber, in purple, in blue, and in fine linen, and in crimson; also to grave any manner of graving, and to find out every device which shall be put to him, with thy cunning men, and with the cunning men of my lord David your father."
               },
               {
                 "vnumber": "15",
@@ -19970,7 +19970,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "18",
-                "text": "And he set threescore and ten thousand of them to be bearers of burdens, and fourscore thousand to be hewers in the mountain, and three thousand and six hundred overseers to set the people a work."
+                "text": "And he set seventy thousand of them to be bearers of burdens, and eighty thousand to be hewers in the mountain, and three thousand and six hundred overseers to set the people a work."
               }
             ]
           },
@@ -19987,7 +19987,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "3",
-                "text": "Now these are the things wherein Solomon was instructed for the building of the house of God. The length by cubits after the first measure was threescore cubits, and the breadth twenty cubits."
+                "text": "Now these are the things wherein Solomon was instructed for the building of the house of God. The length by cubits after the first measure was sixty cubits, and the width twenty cubits."
               },
               {
                 "vnumber": "4",
@@ -20383,7 +20383,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "2",
-                "text": "And the priests could not enter into the house of Yahweh, because the glory of Yahweh had filled Yahweh'S house."
+                "text": "And the priests could not enter into the house of Yahweh, because the glory of Yahweh had filled Yahweh's house."
               },
               {
                 "vnumber": "3",
@@ -20443,11 +20443,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "17",
-                "text": "And as for thee, if thou wilt walk before me, as David thy father walked, and do according to all that I have commanded thee, and shalt observe my statutes and my judgments;"
+                "text": "And as for thee, if thou wilt walk before me, as David your father walked, and do according to all that I have commanded thee, and shalt observe my statutes and my judgments;"
               },
               {
                 "vnumber": "18",
-                "text": "Then will I stablish the throne of thy kingdom, according as I have covenanted with David thy father, saying, There shall not fail thee a man to be ruler in Israel."
+                "text": "Then will I stablish the throne of thy kingdom, according as I have covenanted with David your father, saying, There shall not fail thee a man to be ruler in Israel."
               },
               {
                 "vnumber": "19",
@@ -20597,7 +20597,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "13",
-                "text": "Now the weight of gold that came to Solomon in one year was six hundred and threescore and six talents of gold;"
+                "text": "Now the weight of gold that came to Solomon in one year was six hundred and sixty-six talents of gold;"
               },
               {
                 "vnumber": "14",
@@ -20690,7 +20690,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "4",
-                "text": "Thy father made our yoke grievous: now therefore ease thou somewhat the grievous servitude of thy father, and his heavy yoke that he put upon us, and we will serve thee."
+                "text": "Thy father made our yoke grievous: now therefore ease thou somewhat the grievous servitude of your father, and his heavy yoke that he put upon us, and we will serve thee."
               },
               {
                 "vnumber": "5",
@@ -20710,7 +20710,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "9",
-                "text": "And he said unto them, What advice give ye that we may return answer to this people, which have spoken to me, saying, Ease somewhat the yoke that thy father did put upon us?"
+                "text": "And he said unto them, What advice give ye that we may return answer to this people, which have spoken to me, saying, Ease somewhat the yoke that your father did put upon us?"
               },
               {
                 "vnumber": "10",
@@ -20759,7 +20759,7 @@ var Ketuvim = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And when Rehoboam was come to Jerusalem, he gathered of the house of Judah and Benjamin an hundred and fourscore thousand chosen men, which were warriors, to fight against Israel, that he might bring the kingdom again to Rehoboam."
+                "text": "And when Rehoboam was come to Jerusalem, he gathered of the house of Judah and Benjamin a hundred and eighty thousand chosen men, which were warriors, to fight against Israel, that he might bring the kingdom again to Rehoboam."
               },
               {
                 "vnumber": "2",
@@ -20839,7 +20839,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "21",
-                "text": "And Rehoboam loved Maachah the daughter of Absalom above all his wives and his concubines: (for he took eighteen wives, and threescore concubines; and begat twenty and eight sons, and threescore daughters.)"
+                "text": "And Rehoboam loved Maachah the daughter of Absalom above all his wives and his concubines: (for he took eighteen wives, and sixty concubines; and begat twenty and eight sons, and sixty daughters.)"
               },
               {
                 "vnumber": "22",
@@ -20864,7 +20864,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "3",
-                "text": "With twelve hundred chariots, and threescore thousand horsemen: and the people were without number that came with him out of Egypt; the Lubims, the Sukkiims, and the Ethiopians."
+                "text": "With twelve hundred chariots, and sixty thousand horsemen: and the people were without number that came with him out of Egypt; the Lubims, the Sukkiims, and the Ethiopians."
               },
               {
                 "vnumber": "4",
@@ -21046,7 +21046,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "8",
-                "text": "And Asa had an army of men that bare targets and spears, out of Judah three hundred thousand; and out of Benjamin, that bare shields and drew bows, two hundred and fourscore thousand: all these were mighty men of valour."
+                "text": "And Asa had an army of men that bare targets and spears, out of Judah three hundred thousand; and out of Benjamin, that bare shields and drew bows, two hundred and eighty thousand: all these were mighty men of valour."
               },
               {
                 "vnumber": "9",
@@ -21172,7 +21172,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "3",
-                "text": "There is a league between me and thee, as there was between my father and thy father: behold, I have sent thee silver and gold; go, break thy league with Baasha king of Israel, that he may depart from me."
+                "text": "There is a league between me and thee, as there was between my father and your father: behold, I have sent thee silver and gold; go, break thy league with Baasha king of Israel, that he may depart from me."
               },
               {
                 "vnumber": "4",
@@ -21281,7 +21281,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "15",
-                "text": "And next to him was Jehohanan the captain, and with him two hundred and fourscore thousand."
+                "text": "And next to him was Jehohanan the captain, and with him two hundred and eighty thousand."
               },
               {
                 "vnumber": "16",
@@ -21293,7 +21293,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "18",
-                "text": "And next him was Jehozabad, and with him an hundred and fourscore thousand ready prepared for the war."
+                "text": "And next him was Jehozabad, and with him an hundred and eighty thousand ready prepared for the war."
               },
               {
                 "vnumber": "19",
@@ -21693,11 +21693,11 @@ var Ketuvim = {
               },
               {
                 "vnumber": "12",
-                "text": "And there came a writing to him from Elijah the prophet, saying, Thus saith Yahweh God of David thy father, Because thou hast not walked in the ways of Jehoshaphat thy father, nor in the ways of Asa king of Judah,"
+                "text": "And there came a writing to him from Elijah the prophet, saying, Thus saith Yahweh God of David your father, Because thou hast not walked in the ways of Jehoshaphat your father, nor in the ways of Asa king of Judah,"
               },
               {
                 "vnumber": "13",
-                "text": "But hast walked in the way of the kings of Israel, and hast made Judah and the inhabitants of Jerusalem to go a whoring, like to the whoredoms of the house of Ahab, and also hast slain thy brethren of thy father's house, which were better than thyself:"
+                "text": "But hast walked in the way of the kings of Israel, and hast made Judah and the inhabitants of Jerusalem to go a whoring, like to the whoredoms of the house of Ahab, and also hast slain thy brethren of your father's house, which were better than thyself:"
               },
               {
                 "vnumber": "14",
@@ -21847,7 +21847,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "16",
-                "text": "And Jehoiada made a covenant between him, and between all the people, and between the king, that they should be Yahweh'S people."
+                "text": "And Jehoiada made a covenant between him, and between all the people, and between the king, that they should be Yahweh's people."
               },
               {
                 "vnumber": "17",
@@ -22170,7 +22170,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "17",
-                "text": "And Azariah the priest went in after him, and with him fourscore priests of Yahweh, that were valiant men:"
+                "text": "And Azariah the priest went in after him, and with him eighty priests of Yahweh, that were valiant men:"
               },
               {
                 "vnumber": "18",
@@ -22481,7 +22481,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "32",
-                "text": "And the number of the burnt offerings, which the congregation brought, was threescore and ten bullocks, an hundred rams, and two hundred lambs: all these were for a burnt offering to Yahweh."
+                "text": "And the number of the burnt offerings, which the congregation brought, was seventy bullocks, an hundred rams, and two hundred lambs: all these were for a burnt offering to Yahweh."
               },
               {
                 "vnumber": "33",
@@ -23058,7 +23058,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "28",
-                "text": "Behold, I will gather thee to thy fathers, and thou shalt be gathered to thy grave in peace, neither shall thine eyes see all the evil that I will bring upon this place, and upon the inhabitants of the same. So they brought the king word again."
+                "text": "Behold, I will gather thee to your fathers, and thou shalt be gathered to thy grave in peace, neither shall thine eyes see all the evil that I will bring upon this place, and upon the inhabitants of the same. So they brought the king word again."
               },
               {
                 "vnumber": "29",
@@ -23280,7 +23280,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "21",
-                "text": "To fulfil the word of Yahweh by the mouth of Jeremiah, until the land had enjoyed her sabbaths: for as long as she lay desolate she kept sabbath, to fulfil threescore and ten years."
+                "text": "To fulfil the word of Yahweh by the mouth of Jeremiah, until the land had enjoyed her sabbaths: for as long as she lay desolate she kept sabbath, to fulfil seventy years."
               },
               {
                 "vnumber": "22",

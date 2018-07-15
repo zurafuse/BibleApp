@@ -864,7 +864,7 @@ var NewTestament = {
               },
               {
                 "vnumber": "14",
-                "text": "Then sent Joseph, and called his father Jacob to him, and all his kindred, threescore and fifteen souls."
+                "text": "Then sent Joseph, and called his father Jacob to him, and all his kindred, seventy-five souls."
               },
               {
                 "vnumber": "15",
@@ -3452,7 +3452,7 @@ var NewTestament = {
               },
               {
                 "vnumber": "23",
-                "text": "And he called unto him two centurions, saying, Make ready two hundred soldiers to go to Caesarea, and horsemen threescore and ten, and spearmen two hundred, at the third hour of the night;"
+                "text": "And he called unto him two centurions, saying, Make ready two hundred soldiers to go to Caesarea, and seventy horsemen, and two hundred spearmen, at the third hour of the night;"
               },
               {
                 "vnumber": "24",
@@ -4012,7 +4012,7 @@ var NewTestament = {
               },
               {
                 "vnumber": "37",
-                "text": "And we were in all in the ship two hundred threescore and sixteen souls."
+                "text": "And we were in all in the ship two hundred seventy-six souls."
               },
               {
                 "vnumber": "38",
@@ -12041,7 +12041,7 @@ var NewTestament = {
               },
               {
                 "vnumber": "9",
-                "text": "Let not a widow be taken into the number under threescore years old, having been the wife of one man,"
+                "text": "Let not a widow be taken into the number under sixty years old, having been the wife of one man,"
               },
               {
                 "vnumber": "10",
@@ -16816,7 +16816,7 @@ var NewTestament = {
               },
               {
                 "vnumber": "3",
-                "text": "And I will give power unto my two witnesses, and they shall prophesy a thousand two hundred and threescore days, clothed in sackcloth."
+                "text": "And I will give power unto my two witnesses, and they shall prophesy a thousand two hundred and sixty days, clothed in sackcloth."
               },
               {
                 "vnumber": "4",
@@ -16909,7 +16909,7 @@ var NewTestament = {
               },
               {
                 "vnumber": "6",
-                "text": "And the woman fled into the wilderness, where she hath a place prepared of God, that they should feed her there a thousand two hundred and threescore days."
+                "text": "And the woman fled into the wilderness, where she hath a place prepared of God, that they should feed her there a thousand two hundred and sixty days."
               },
               {
                 "vnumber": "7",
@@ -17030,7 +17030,7 @@ var NewTestament = {
               },
               {
                 "vnumber": "18",
-                "text": "Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number is Six hundred threescore and six."
+                "text": "Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number is Six hundred and sixty-six."
               }
             ]
           },
@@ -17115,7 +17115,7 @@ var NewTestament = {
               },
               {
                 "vnumber": "20",
-                "text": "And the winepress was trodden without the city, and blood came out of the winepress, even unto the horse bridles, by the space of a thousand and six hundred furlongs."
+                "text": "And the winepress was trodden without the city, and blood came out of the winepress, even unto the horse bridles, by the space of a thousand and six hundred stadia."
               }
             ]
           },
@@ -17642,7 +17642,7 @@ var NewTestament = {
               },
               {
                 "vnumber": "16",
-                "text": "And the city lieth foursquare, and the length is as large as the breadth: and he measured the city with the reed, twelve thousand furlongs. The length and the breadth and the height of it are equal."
+                "text": "And the city lieth foursquare, and the length is as large as the breadth: and he measured the city with the reed, twelve thousand stadia. The length and the width and the height of it are equal."
               },
               {
                 "vnumber": "17",
