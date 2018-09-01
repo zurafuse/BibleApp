@@ -384,15 +384,15 @@ var NewTestament = {
               },
               {
                 "vnumber": "19",
-                "text": "Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord;"
+                "text": "Therefore repent and be restored, that your sins may be blotted out when the times of refreshing shall come from the presence of the Lord."
               },
               {
                 "vnumber": "20",
-                "text": "And he shall send Yeshua the Messiah, which before was preached unto you:"
+                "text": "And he shall send Yeshua the Messiah, who was preached to you beforehand,"
               },
               {
                 "vnumber": "21",
-                "text": "Whom the heaven must receive until the times of restitution of all things, which God hath spoken by the mouth of all his holy prophets since the world began."
+                "text": "Whom the heavens must receive until the time when everything is restored, which God has spoken by the mouth of all his holy prophets since the world began."
               },
               {
                 "vnumber": "22",
