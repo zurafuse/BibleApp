@@ -4601,7 +4601,7 @@ var Gospel = {
               },
               {
                 "vnumber": "41",
-                "text": "And Yeshua, moved with compassion, put forth his hand, and touched him, and saith unto him, I will; be thou clean."
+                "text": "And Yeshua, moved with emotion, put forth his hand, and touched him, and saith unto him, I will; be thou clean."
               },
               {
                 "vnumber": "42",
