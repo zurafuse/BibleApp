@@ -14,7 +14,7 @@ if (pageparam == "all" || pageparam == null || pageparam == undefined || pagepar
 		$(".book-list").append("<li class='books-class'>" + Prophets.BOOKS[i].bname + "</li>");
 	}
 	
-	$(".book-list").append("<li>Psalms</li>");
+	$(".book-list").append("<li class='books-class'>Psalms</li>");
 	
 	for (i = 0; i < Ketuvim.BOOKS.length; i++)
 	{
