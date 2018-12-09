@@ -548,7 +548,7 @@ var Psalms = {
             },
             {
               "vnumber": "16",
-              "text": "Yahweh is King for ever and ever: the heathen are perished out of his land."
+              "text": "Yahweh is King for ever and ever: the nations are perished out of his land."
             },
             {
               "vnumber": "17",
@@ -1038,7 +1038,7 @@ var Psalms = {
             },
             {
               "vnumber": "43",
-              "text": "Thou hast delivered me from the strivings of the people; and thou hast made me the head of the heathen: a people whom I have not known shall serve me."
+              "text": "Thou hast delivered me from the strivings of the people; and thou hast made me the head of the nations: a people whom I have not known shall serve me."
             },
             {
               "vnumber": "44",
@@ -1062,7 +1062,7 @@ var Psalms = {
             },
             {
               "vnumber": "49",
-              "text": "Therefore will I give thanks unto thee, Oh Yahweh, among the heathen, and sing praises unto thy name."
+              "text": "Therefore will I give thanks unto thee, Oh Yahweh, among the nations, and sing praises unto thy name."
             },
             {
               "vnumber": "50",
@@ -2029,7 +2029,7 @@ var Psalms = {
             },
             {
               "vnumber": "10",
-              "text": "Yahweh bringeth the counsel of the heathen to nought: he maketh the devices of the people of none effect."
+              "text": "Yahweh bringeth the counsel of the nations to nothing: he maketh the devices of the people of none effect."
             },
             {
               "vnumber": "11",
@@ -2912,7 +2912,7 @@ var Psalms = {
             },
             {
               "vnumber": "2",
-              "text": "How thou didst drive out the heathen with thy hand, and plantedst them; how thou didst afflict the people, and cast them out."
+              "text": "How thou didst drive out the nations with thy hand, and plantedst them; how thou didst afflict the people, and cast them out."
             },
             {
               "vnumber": "3",
@@ -2948,7 +2948,7 @@ var Psalms = {
             },
             {
               "vnumber": "11",
-              "text": "Thou hast given us like sheep appointed for meat; and hast scattered us among the heathen."
+              "text": "Thou hast given us like sheep appointed for meat; and hast scattered us among the nations."
             },
             {
               "vnumber": "12",
@@ -2960,7 +2960,7 @@ var Psalms = {
             },
             {
               "vnumber": "14",
-              "text": "Thou makest us a byword among the heathen, a shaking of the head among the people."
+              "text": "Thou makest us a byword among the nations, a shaking of the head among the people."
             },
             {
               "vnumber": "15",
@@ -3118,7 +3118,7 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted."
+              "text": "The nations raged, the kingdoms were moved: he uttered his voice, the earth melted."
             },
             {
               "vnumber": "7",
@@ -3134,7 +3134,7 @@ var Psalms = {
             },
             {
               "vnumber": "10",
-              "text": "Be still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth."
+              "text": "Be still, and know that I am God: I will be exalted among the nations, I will be exalted in the earth."
             },
             {
               "vnumber": "11",
@@ -3180,7 +3180,7 @@ var Psalms = {
             },
             {
               "vnumber": "8",
-              "text": "God reigneth over the heathen: God sitteth upon the throne of his holiness."
+              "text": "God reigneth over the nations: God sitteth upon the throne of his holiness."
             },
             {
               "vnumber": "9",
@@ -8325,19 +8325,20 @@ var Psalms = {
           "VERS": [
             {
               "vnumber": "1",
-              "text": "Yahweh said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool."
+              "trans": "true",
+              "text": "Yahweh says to my Lord, Sit at my right hand, until I make your enemies your footstool."
             },
             {
               "vnumber": "2",
-              "text": "Yahweh shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies."
+              "text": "Yahweh shall send the rod of your strength out of Zion: rule thou in the midst of thine enemies."
             },
             {
               "vnumber": "3",
-              "text": "Thy people shall be willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth."
+              "text": "Your people shall be ready in the day of your battle, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth."
             },
             {
               "vnumber": "4",
-              "text": "Yahweh hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek."
+              "text": "Yahweh has sworn, and will not change his mind, Thou art a priest for ever after the order of Melchizedek."
             },
             {
               "vnumber": "5",
@@ -8345,7 +8346,7 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "He shall judge among the heathen, he shall fill the places with the dead bodies; he shall wound the heads over many countries."
+              "text": "He shall judge among the nations, he shall fill the places with the dead bodies; he shall wound the heads over many countries."
             },
             {
               "vnumber": "7",
@@ -8378,7 +8379,7 @@ var Psalms = {
             },
             {
               "vnumber": "6",
-              "text": "He hath shewed his people the power of his works, that he may give them the heritage of the heathen."
+              "text": "He hath shewed his people the power of his works, that he may give them the heritage of the nations."
             },
             {
               "vnumber": "7",
@@ -11077,4 +11078,4 @@ var Psalms = {
         }
       ]
     }
-  };
+  }

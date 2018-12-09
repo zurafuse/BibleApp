@@ -95,11 +95,11 @@ var Torah = {
               },
               {
                 "vnumber": "21",
-                "text": "And God created giant sea creatures, and every living creature that moves, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good."
+                "text": "And God created giant sea creatures, and every living creature that moves, which the waters brought forth abundantly, after their kind, and every winged bird after his kind: and God saw that it was good."
               },
               {
                 "vnumber": "22",
-                "text": "And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth."
+                "text": "And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let birds multiply in the earth."
               },
               {
                 "vnumber": "23",
@@ -115,7 +115,7 @@ var Torah = {
               },
               {
                 "vnumber": "26",
-                "text": "And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth."
+                "text": "And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the birds of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth."
               },
               {
                 "vnumber": "27",
@@ -123,7 +123,7 @@ var Torah = {
               },
               {
                 "vnumber": "28",
-                "text": "And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth."
+                "text": "And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the birds of the air, and over every living thing that moveth upon the earth."
               },
               {
                 "vnumber": "29",
@@ -131,7 +131,7 @@ var Torah = {
               },
               {
                 "vnumber": "30",
-                "text": "And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein there is life, I have given every green herb for meat: and it was so."
+                "text": "And to every beast of the earth, and to every bird of the air, and to every thing that creepeth upon the earth, wherein there is life, I have given every green herb for meat: and it was so."
               },
               {
                 "vnumber": "31",
@@ -216,11 +216,11 @@ var Torah = {
               },
               {
                 "vnumber": "19",
-                "text": "And out of the ground Yahweh God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof."
+                "text": "And out of the ground Yahweh God formed every beast of the field, and every bird of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof."
               },
               {
                 "vnumber": "20",
-                "text": "And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him."
+                "text": "And Adam gave names to all cattle, and to the birds of the air, and to every beast of the field; but for Adam there was not found an help meet for him."
               },
               {
                 "vnumber": "21",
@@ -616,7 +616,7 @@ var Torah = {
               },
               {
                 "vnumber": "7",
-                "text": "And Yahweh said, I will destroy humanity whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them."
+                "text": "And Yahweh said, I will destroy humanity whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the birds of the air; for I am remorseful that I have made them."
               },
               {
                 "vnumber": "8",
@@ -668,7 +668,7 @@ var Torah = {
               },
               {
                 "vnumber": "20",
-                "text": "Of fowls after their kind, and of cattle after their kind, of every creeping thing of the earth after his kind, two of every sort shall come unto thee, to keep them alive."
+                "text": "Of birds after their kind, and of cattle after their kind, of every creeping thing of the earth after his kind, two of every sort shall come unto thee, to keep them alive."
               },
               {
                 "vnumber": "21",
@@ -693,7 +693,7 @@ var Torah = {
               },
               {
                 "vnumber": "3",
-                "text": "Of fowls also of the air by sevens, the male and the female; to keep seed alive upon the face of all the earth."
+                "text": "Of birds also of the air by sevens, the male and the female; to keep seed alive upon the face of all the earth."
               },
               {
                 "vnumber": "4",
@@ -713,7 +713,7 @@ var Torah = {
               },
               {
                 "vnumber": "8",
-                "text": "Of clean beasts, and of beasts that are not clean, and of fowls, and of every thing that creepeth upon the earth,"
+                "text": "Of clean beasts, and of beasts that are not clean, and of birds, and of every thing that creepeth upon the earth,"
               },
               {
                 "vnumber": "9",
@@ -737,7 +737,7 @@ var Torah = {
               },
               {
                 "vnumber": "14",
-                "text": "They, and every beast after his kind, and all the cattle after their kind, and every creeping thing that creepeth upon the earth after his kind, and every fowl after his kind, every bird of every sort."
+                "text": "They, and every beast after his kind, and all the cattle after their kind, and every creeping thing that creepeth upon the earth after his kind, and every bird after his kind, every bird of every sort."
               },
               {
                 "vnumber": "15",
@@ -765,7 +765,7 @@ var Torah = {
               },
               {
                 "vnumber": "21",
-                "text": "And all flesh died that moved upon the earth, both of fowl, and of cattle, and of beast, and of every creeping thing that creepeth upon the earth, and every man:"
+                "text": "And all flesh died that moved upon the earth, both of bird, and of cattle, and of beast, and of every creeping thing that creepeth upon the earth, and every man:"
               },
               {
                 "vnumber": "22",
@@ -773,7 +773,7 @@ var Torah = {
               },
               {
                 "vnumber": "23",
-                "text": "And every living substance was destroyed which was upon the face of the ground, both man, and cattle, and the creeping things, and the fowl of the heaven; and they were destroyed from the earth: and Noah only remained alive, and they that were with him in the ark."
+                "text": "And every living substance was destroyed which was upon the face of the ground, both man, and cattle, and the creeping things, and the birds of the heaven; and they were destroyed from the earth: and Noah only remained alive, and they that were with him in the ark."
               },
               {
                 "vnumber": "24",
@@ -846,11 +846,11 @@ var Torah = {
               },
               {
                 "vnumber": "16",
-                "text": "Go forth of the ark, thou, and thy wife, and thy sons, and thy sons' wives with thee."
+                "text": "Go forth of the ark, thou, and thy wife, and thy sons, and thy sons' wives with you."
               },
               {
                 "vnumber": "17",
-                "text": "Bring forth with thee every living thing that is with thee, of all flesh, both of fowl, and of cattle, and of every creeping thing that creepeth upon the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth."
+                "text": "Bring forth with you every living thing that is with you, of all flesh, both of birds, and of cattle, and of every creeping thing that creepeth upon the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth."
               },
               {
                 "vnumber": "18",
@@ -858,11 +858,11 @@ var Torah = {
               },
               {
                 "vnumber": "19",
-                "text": "Every beast, every creeping thing, and every fowl, and whatsoever creepeth upon the earth, after their kinds, went forth out of the ark."
+                "text": "Every beast, every creeping thing, and every bird, and whatsoever creepeth upon the earth, after their kinds, went forth out of the ark."
               },
               {
                 "vnumber": "20",
-                "text": "And Noah builded an altar unto Yahweh; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar."
+                "text": "And Noah builded an altar unto Yahweh; and took of every clean beast, and of every clean bird, and offered burnt offerings on the altar."
               },
               {
                 "vnumber": "21",
@@ -883,7 +883,7 @@ var Torah = {
               },
               {
                 "vnumber": "2",
-                "text": "And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth upon the earth, and upon all the fishes of the sea; into your hand are they delivered."
+                "text": "And the fear of you and the dread of you shall be upon every beast of the earth, and upon every bird of the air, upon all that moveth upon the earth, and upon all the fishes of the sea; into your hand are they delivered."
               },
               {
                 "vnumber": "3",
@@ -915,7 +915,7 @@ var Torah = {
               },
               {
                 "vnumber": "10",
-                "text": "And with every living creature that is with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth."
+                "text": "And with every living creature that is with you, of the birds, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth."
               },
               {
                 "vnumber": "11",
@@ -1157,7 +1157,8 @@ var Torah = {
               },
               {
                 "vnumber": "7",
-                "text": "Go to, let us go down, and there confound their language, that they may not understand one another's speech."
+                "trans": "true",
+                "text": "Come now, let us go down and confound their language there, that each man may not hear his neighbor's language."
               },
               {
                 "vnumber": "8",
@@ -1569,7 +1570,7 @@ var Torah = {
               },
               {
                 "vnumber": "11",
-                "text": "And when the fowls came down upon the carcases, Abram drove them away."
+                "text": "And when the birds came down upon the carcases, Abram drove them away."
               },
               {
                 "vnumber": "12",
@@ -11517,7 +11518,7 @@ var Torah = {
               },
               {
                 "vnumber": "14",
-                "text": "And if the burnt sacrifice for his offering to Yahweh be of fowls, then he shall bring his offering of turtledoves, or of young pigeons."
+                "text": "And if the burnt sacrifice for his offering to Yahweh be of birds, then he shall bring his offering of turtledoves, or of young pigeons."
               },
               {
                 "vnumber": "15",
@@ -12131,7 +12132,7 @@ var Torah = {
               },
               {
                 "vnumber": "26",
-                "text": "Moreover ye shall eat no manner of blood, whether it be of fowl or of beast, in any of your dwellings."
+                "text": "Moreover ye shall eat no manner of blood, whether it be of bird or of beast, in any of your dwellings."
               },
               {
                 "vnumber": "27",
@@ -12571,7 +12572,7 @@ var Torah = {
               },
               {
                 "vnumber": "13",
-                "text": "And these are they which ye shall have in abomination among the fowls; they shall not be eaten, they are an abomination: the eagle, and the ossifrage, and the ospray,"
+                "text": "And these are they which ye shall have in abomination among the birds; they shall not be eaten, they are an abomination: the eagle, and the ossifrage, and the ospray,"
               },
               {
                 "vnumber": "14",
@@ -12599,7 +12600,7 @@ var Torah = {
               },
               {
                 "vnumber": "20",
-                "text": "All fowls that creep, going upon all four, shall be an abomination unto you."
+                "text": "All birds that creep, going upon all four, shall be an abomination unto you."
               },
               {
                 "vnumber": "21",
@@ -12703,7 +12704,7 @@ var Torah = {
               },
               {
                 "vnumber": "46",
-                "text": "This is the law of the beasts, and of the fowl, and of every living creature that moveth in the waters, and of every creature that creepeth upon the earth:"
+                "text": "This is the law of the beasts, and of the birds, and of every living creature that moveth in the waters, and of every creature that creepeth upon the earth:"
               },
               {
                 "vnumber": "47",
@@ -13553,7 +13554,7 @@ var Torah = {
               },
               {
                 "vnumber": "13",
-                "text": "And whatsoever man there be of the children of Israel, or of the strangers that sojourn among you, which hunteth and catcheth any beast or fowl that may be eaten; he shall even pour out the blood thereof, and cover it with dust."
+                "text": "And whatsoever man there be of the children of Israel, or of the strangers that sojourn among you, which hunteth and catcheth any beast or bird that may be eaten; he shall even pour out the blood thereof, and cover it with dust."
               },
               {
                 "vnumber": "14",
@@ -13948,7 +13949,7 @@ var Torah = {
               },
               {
                 "vnumber": "25",
-                "text": "Ye shall therefore put difference between clean beasts and unclean, and between unclean fowls and clean: and you shall not make your souls abominable by beast, or by fowl, or by any manner of living thing that creepeth on the ground, which I have separated from you as unclean."
+                "text": "Ye shall therefore put difference between clean beasts and unclean, and between unclean birds and clean: and you shall not make your souls abominable by beast, or by bird, or by any manner of living thing that creepeth on the ground, which I have separated from you as unclean."
               },
               {
                 "vnumber": "26",
@@ -20912,7 +20913,7 @@ var Torah = {
               },
               {
                 "vnumber": "17",
-                "text": "The likeness of any beast that is on the earth, the likeness of any winged fowl that flieth in the air,"
+                "text": "The likeness of any beast that is on the earth, the likeness of any winged bird that flieth in the air,"
               },
               {
                 "vnumber": "18",
@@ -22119,7 +22120,7 @@ var Torah = {
               },
               {
                 "vnumber": "20",
-                "text": "But of all clean fowls ye may eat."
+                "text": "But of all clean birds you may eat."
               },
               {
                 "vnumber": "21",
@@ -23497,7 +23498,7 @@ var Torah = {
               },
               {
                 "vnumber": "26",
-                "text": "And thy carcase shall be meat unto all fowls of the air, and unto the beasts of the earth, and no man shall fray them away."
+                "text": "And thy carcase shall be meat unto all birds of the air, and unto the beasts of the earth, and no man shall fray them away."
               },
               {
                 "vnumber": "27",
@@ -24390,4 +24391,4 @@ var Torah = {
         ]
       }
     ]
-  };
+  }

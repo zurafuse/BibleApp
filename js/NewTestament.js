@@ -376,11 +376,11 @@ var NewTestament = {
               },
               {
                 "vnumber": "17",
-                "text": "And now, brethren, I wot that through ignorance ye did it, as did also your rulers."
+                "text": "And now, brethren, I know that through ignorance ye did it, as did also your rulers."
               },
               {
                 "vnumber": "18",
-                "text": "But those things, which God before had shewed by the mouth of all his prophets, that Messiah should suffer, he hath so fulfilled."
+                "text": "But those things, which God before had showed by the mouth of all his prophets, that Messiah should suffer, He has so fulfilled."
               },
               {
                 "vnumber": "19",
@@ -392,7 +392,7 @@ var NewTestament = {
               },
               {
                 "vnumber": "21",
-                "text": "Whom the heavens must receive until the time when everything is restored, which God has spoken by the mouth of all his holy prophets since the world began."
+                "text": "Whom the heavens must receive until the time when everything will be restored, which God has spoken by the mouth of all his holy prophets since the world began."
               },
               {
                 "vnumber": "22",
@@ -6648,7 +6648,7 @@ var NewTestament = {
               },
               {
                 "vnumber": "28",
-                "text": "But and if thou marry, thou hast not sinned; and if a virgin marry, she hath not sinned. Nevertheless such shall have trouble in the flesh: but I spare you."
+                "text": "But, and if you marry, you have not sinned; and if a virgin marry, she has not sinned. Nevertheless, they shall have tribulation in the flesh, and I want to spare you."
               },
               {
                 "vnumber": "29",
@@ -6753,7 +6753,7 @@ var NewTestament = {
               },
               {
                 "vnumber": "13",
-                "trans": "true",
+                "-trans": "true",
                 "text": "Because of this, if food makes my brother stumble, I will not eat meat again, lest I make my brother stumble."
               }
             ]
@@ -10912,7 +10912,7 @@ var NewTestament = {
               },
               {
                 "vnumber": "23",
-                "trans": "true",
+                "-trans": "true",
                 "text": "These things have indeed an \"expression\" of wisdom in self-invented religion, humility, and severe discipline of the body; but they have no value in regard to dealing with the indulgence of the flesh."
               }
             ]
@@ -15113,7 +15113,7 @@ var NewTestament = {
               },
               {
                 "vnumber": "4",
-                "trans": "true",
+                "-trans": "true",
                 "text": "Through these things, very great and precious promises are given to us, that through these you may share God's nature, escaping the corruption that is in the world through lust."
               },
               {

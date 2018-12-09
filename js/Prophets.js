@@ -3176,7 +3176,7 @@ var Prophets = {
               },
               {
                 "vnumber": "9",
-                "text": "And she said, I will surely go with thee: notwithstanding the journey that thou takest shall not be for thine honour; for Yahweh shall sell Sisera into the hand of a woman. And Deborah arose, and went with Barak to Kedesh."
+                "text": "And she said, I will surely go with thee: notwithstanding the journey that thou takest shall not be for thine honor; for Yahweh shall sell Sisera into the hand of a woman. And Deborah arose, and went with Barak to Kedesh."
               },
               {
                 "vnumber": "10",
@@ -3821,7 +3821,7 @@ var Prophets = {
               },
               {
                 "vnumber": "9",
-                "text": "But the olive tree said unto them, Should I leave my fatness, wherewith by me they honour God and man, and go to be promoted over the trees?"
+                "text": "But the olive tree said unto them, Should I leave my fatness, wherewith by me they honor God and man, and go to be promoted over the trees?"
               },
               {
                 "vnumber": "10",
@@ -4393,7 +4393,7 @@ var Prophets = {
               },
               {
                 "vnumber": "17",
-                "text": "And Manoah said unto the angel of Yahweh, What is thy name, that when thy sayings come to pass we may do thee honour?"
+                "text": "And Manoah said unto the angel of Yahweh, What is thy name, that when thy sayings come to pass we may do thee honor?"
               },
               {
                 "vnumber": "18",
@@ -5582,11 +5582,11 @@ var Prophets = {
               },
               {
                 "vnumber": "29",
-                "text": "Wherefore kick ye at my sacrifice and at mine offering, which I have commanded in my habitation; and honourest thy sons above me, to make yourselves fat with the chiefest of all the offerings of Israel my people?"
+                "text": "Wherefore kick ye at my sacrifice and at mine offering, which I have commanded in my habitation; and honorest thy sons above me, to make yourselves fat with the chiefest of all the offerings of Israel my people?"
               },
               {
                 "vnumber": "30",
-                "text": "Wherefore Yahweh God of Israel saith, I said indeed that thy house, and the house of thy father, should walk before me for ever: but now Yahweh saith, Be it far from me; for them that honour me I will honour, and they that despise me shall be lightly esteemed."
+                "text": "Wherefore Yahweh God of Israel saith, I said indeed that thy house, and the house of thy father, should walk before me for ever: but now Yahweh saith, Be it far from me; for them that honor me I will honor, and they that despise me shall be lightly esteemed."
               },
               {
                 "vnumber": "31",
@@ -6129,7 +6129,7 @@ var Prophets = {
               },
               {
                 "vnumber": "6",
-                "text": "And he said unto him, Behold now, there is in this city a man of God, and he is an honourable man; all that he saith cometh surely to pass: now let us go thither; peradventure he can shew us our way that we should go."
+                "text": "And he said unto him, Behold now, there is in this city a man of God, and he is an honorable man; all that he saith cometh surely to pass: now let us go thither; peradventure he can shew us our way that we should go."
               },
               {
                 "vnumber": "7",
@@ -6931,7 +6931,7 @@ var Prophets = {
               },
               {
                 "vnumber": "30",
-                "text": "Then he said, I have sinned: yet honour me now, I pray thee, before the elders of my people, and before Israel, and turn again with me, that I may worship Yahweh your God."
+                "text": "Then he said, I have sinned: yet honor me now, I pray thee, before the elders of my people, and before Israel, and turn again with me, that I may worship Yahweh your God."
               },
               {
                 "vnumber": "31",
@@ -7229,7 +7229,7 @@ var Prophets = {
               },
               {
                 "vnumber": "44",
-                "text": "And the Philistine said to David, Come to me, and I will give thy flesh unto the fowls of the air, and to the beasts of the field."
+                "text": "And the Philistine said to David, Come to me, and I will give thy flesh unto the birds of the air, and to the beasts of the field."
               },
               {
                 "vnumber": "45",
@@ -7810,7 +7810,7 @@ var Prophets = {
               },
               {
                 "vnumber": "14",
-                "text": "Then Ahimelech answered the king, and said, And who is so faithful among all thy servants as David, which is the king's son in law, and goeth at thy bidding, and is honourable in thine house?"
+                "text": "Then Ahimelech answered the king, and said, And who is so faithful among all thy servants as David, which is the king's son in law, and goeth at thy bidding, and is honorable in thine house?"
               },
               {
                 "vnumber": "15",
@@ -9404,7 +9404,7 @@ var Prophets = {
               },
               {
                 "vnumber": "22",
-                "text": "And I will yet be more vile than thus, and will be base in mine own sight: and of the maidservants which thou hast spoken of, of them shall I be had in honour."
+                "text": "And I will yet be more vile than thus, and will be base in mine own sight: and of the maidservants which thou hast spoken of, of them shall I be had in honor."
               },
               {
                 "vnumber": "23",
@@ -9680,7 +9680,7 @@ var Prophets = {
               },
               {
                 "vnumber": "3",
-                "text": "And the princes of the children of Ammon said unto Hanun their lord, Thinkest thou that David doth honour thy father, that he hath sent comforters unto thee? hath not David rather sent his servants unto thee, to search the city, and to spy it out, and to overthrow it?"
+                "text": "And the princes of the children of Ammon said unto Hanun their lord, Thinkest thou that David doth honor thy father, that he hath sent comforters unto thee? hath not David rather sent his servants unto thee, to search the city, and to spy it out, and to overthrow it?"
               },
               {
                 "vnumber": "4",
@@ -11461,7 +11461,7 @@ var Prophets = {
               },
               {
                 "vnumber": "19",
-                "text": "Was he not most honourable of three? therefore he was their captain: howbeit he attained not unto the first three."
+                "text": "Was he not most honorable of three? therefore he was their captain: howbeit he attained not unto the first three."
               },
               {
                 "vnumber": "20",
@@ -11477,7 +11477,7 @@ var Prophets = {
               },
               {
                 "vnumber": "23",
-                "text": "He was more honourable than the thirty, but he attained not to the first three. And David set him over his guard."
+                "text": "He was more honorable than the thirty, but he attained not to the first three. And David set him over his guard."
               },
               {
                 "vnumber": "24",
@@ -12116,7 +12116,7 @@ var Prophets = {
               },
               {
                 "vnumber": "13",
-                "text": "And I have also given thee that which thou hast not asked, both riches, and honour: so that there shall not be any among the kings like unto thee all thy days."
+                "text": "And I have also given thee that which thou hast not asked, both riches, and honor: so that there shall not be any among the kings like unto thee all thy days."
               },
               {
                 "vnumber": "14",
@@ -12273,7 +12273,7 @@ var Prophets = {
               },
               {
                 "vnumber": "23",
-                "text": "Ten fat oxen, and twenty oxen out of the pastures, and an hundred sheep, beside harts, and roebucks, and fallowdeer, and fatted fowl."
+                "text": "Ten fat oxen, and twenty oxen out of the pastures, and an hundred sheep, beside harts, and roebucks, and fallowdeer, and fatted birds."
               },
               {
                 "vnumber": "24",
@@ -12313,7 +12313,7 @@ var Prophets = {
               },
               {
                 "vnumber": "33",
-                "text": "And he spoke of trees, from the cedar tree that is in Lebanon even unto the hyssop that springeth out of the wall: he spoke also of beasts, and of fowl, and of creeping things, and of fishes."
+                "text": "And he spoke of trees, from the cedar tree that is in Lebanon even unto the hyssop that springeth out of the wall: he spoke also of beasts, and of birds, and of creeping things, and of fishes."
               },
               {
                 "vnumber": "34",
@@ -13771,7 +13771,7 @@ var Prophets = {
               },
               {
                 "vnumber": "11",
-                "text": "Him that dieth of Jeroboam in the city shall the dogs eat; and him that dieth in the field shall the fowls of the air eat: for Yahweh hath spoken it."
+                "text": "Him that dieth of Jeroboam in the city shall the dogs eat; and him that dieth in the field shall the birds of the air eat: for Yahweh hath spoken it."
               },
               {
                 "vnumber": "12",
@@ -14013,7 +14013,7 @@ var Prophets = {
               },
               {
                 "vnumber": "4",
-                "text": "Him that dieth of Baasha in the city shall the dogs eat; and him that dieth of his in the fields shall the fowls of the air eat."
+                "text": "Him that dieth of Baasha in the city shall the dogs eat; and him that dieth of his in the fields shall the birds of the air eat."
               },
               {
                 "vnumber": "5",
@@ -15519,7 +15519,7 @@ var Prophets = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him Yahweh had given deliverance unto Syria: he was also a mighty man in valour, but he was a leper."
+                "text": "Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honorable, because by him Yahweh had given deliverance unto Syria: he was also a mighty man in valour, but he was a leper."
               },
               {
                 "vnumber": "2",
@@ -18281,7 +18281,7 @@ var Prophets = {
               },
               {
                 "vnumber": "3",
-                "text": "The captain of fifty, and the honourable man, and the counsellor, and the cunning artificer, and the eloquent orator."
+                "text": "The captain of fifty, and the honorable man, and the counsellor, and the cunning artificer, and the eloquent orator."
               },
               {
                 "vnumber": "4",
@@ -18289,7 +18289,7 @@ var Prophets = {
               },
               {
                 "vnumber": "5",
-                "text": "And the people shall be oppressed, every one by another, and every one by his neighbour: the child shall behave himself proudly against the ancient, and the base against the honourable."
+                "text": "And the people shall be oppressed, every one by another, and every one by his neighbour: the child shall behave himself proudly against the ancient, and the base against the honorable."
               },
               {
                 "vnumber": "6",
@@ -18459,7 +18459,7 @@ var Prophets = {
               },
               {
                 "vnumber": "13",
-                "text": "Therefore my people are gone into captivity, because they have no knowledge: and their honourable men are famished, and their multitude dried up with thirst."
+                "text": "Therefore my people are gone into captivity, because they have no knowledge: and their honorable men are famished, and their multitude dried up with thirst."
               },
               {
                 "vnumber": "14",
@@ -18847,7 +18847,7 @@ var Prophets = {
               },
               {
                 "vnumber": "15",
-                "text": "The ancient and honourable, he is the head; and the prophet that teacheth lies, he is the tail."
+                "text": "The ancient and honorable, he is the head; and the prophet that teacheth lies, he is the tail."
               },
               {
                 "vnumber": "16",
@@ -19094,7 +19094,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "trans": "true",
+                "-trans": "true",
                 "text": "Behold, God is my salvation. I will trust, and not be afraid; for Yah Yahweh is my strength and song, and He has become my salvation."
               },
               {
@@ -19882,11 +19882,11 @@ var Prophets = {
               },
               {
                 "vnumber": "8",
-                "text": "Who hath taken this counsel against Tyre, the crowning city, whose merchants are princes, whose traffickers are the honourable of the earth?"
+                "text": "Who hath taken this counsel against Tyre, the crowning city, whose merchants are princes, whose traffickers are the honorable of the earth?"
               },
               {
                 "vnumber": "9",
-                "text": "Yahweh of Armies hath purposed it, to stain the pride of all glory, and to bring into contempt all the honourable of the earth."
+                "text": "Yahweh of Armies hath purposed it, to stain the pride of all glory, and to bring into contempt all the honorable of the earth."
               },
               {
                 "vnumber": "10",
@@ -20089,12 +20089,12 @@ var Prophets = {
               },
               {
                 "vnumber": "3",
-                "trans": "true",
+                "-trans": "true",
                 "text": "The mind that rests upon you shall be preserved in perfect peace, because he trusts in you."
               },
               {
                 "vnumber": "4",
-                "trans": "true",
+                "-trans": "true",
                 "text": "Trust in Yahweh for ever: for in Yah Yahweh is the everlasting Rock."
               },
               {
@@ -20111,12 +20111,12 @@ var Prophets = {
               },
               {
                 "vnumber": "8",
-                "trans": "true",
+                "-trans": "true",
                 "text": "Surely in the way of your justice, Oh Yahweh, we have waited for you. Our soul longs for your name and to remember you."
               },
               {
                 "vnumber": "9",
-                "trans": "true",
+                "-trans": "true",
                 "text": "My soul longs for you in the night, also my spirit in the midst of me seeks you earnestly. For as your justice is in the earth, righteousness shall be taught to the inhabitants of the world."
               },
               {
@@ -20400,7 +20400,7 @@ var Prophets = {
               },
               {
                 "vnumber": "13",
-                "text": "Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:"
+                "text": "Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honor me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:"
               },
               {
                 "vnumber": "14",
@@ -21645,7 +21645,7 @@ var Prophets = {
               },
               {
                 "vnumber": "21",
-                "text": "Yahweh is well pleased for his righteousness' sake; he will magnify the law, and make it honourable."
+                "text": "Yahweh is well pleased for his righteousness' sake; he will magnify the law, and make it honorable."
               },
               {
                 "vnumber": "22",
@@ -21682,7 +21682,7 @@ var Prophets = {
               },
               {
                 "vnumber": "4",
-                "text": "Since thou wast precious in my sight, thou hast been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life."
+                "text": "Since thou wast precious in my sight, thou hast been honorable, and I have loved thee: therefore will I give men for thee, and people for thy life."
               },
               {
                 "vnumber": "5",
@@ -21746,7 +21746,7 @@ var Prophets = {
               },
               {
                 "vnumber": "20",
-                "text": "The beast of the field shall honour me, the dragons and the owls: because I give waters in the wilderness, and rivers in the desert, to give drink to my people, my chosen."
+                "text": "The beast of the field shall honor me, the dragons and the owls: because I give waters in the wilderness, and rivers in the desert, to give drink to my people, my chosen."
               },
               {
                 "vnumber": "21",
@@ -21758,7 +21758,7 @@ var Prophets = {
               },
               {
                 "vnumber": "23",
-                "text": "Thou hast not brought me the small cattle of thy burnt offerings; neither hast thou honoured me with thy sacrifices. I have not caused thee to serve with an offering, nor wearied thee with incense."
+                "text": "Thou hast not brought me the small cattle of thy burnt offerings; neither hast thou honored me with thy sacrifices. I have not caused thee to serve with an offering, nor wearied thee with incense."
               },
               {
                 "vnumber": "24",
@@ -22917,7 +22917,7 @@ var Prophets = {
               },
               {
                 "vnumber": "13",
-                "text": "If thou turn away thy foot from the sabbath, from doing thy pleasure on my holy day; and call the sabbath a delight, the holy of Yahweh, honourable; and shalt honour him, not doing thine own ways, nor finding thine own pleasure, nor speaking thine own words:"
+                "text": "If thou turn away thy foot from the sabbath, from doing thy pleasure on my holy day; and call the sabbath a delight, the holy of Yahweh, honorable; and shalt honor him, not doing thine own ways, nor finding thine own pleasure, nor speaking thine own words:"
               },
               {
                 "vnumber": "14",
@@ -23112,12 +23112,12 @@ var Prophets = {
             "VERS": [
               {
                 "vnumber": "1",
-                "trans": "true",
+                "-trans": "true",
                 "text": "The Spirit of Lord Yahweh is upon me, because Yahweh has anointed me to announce glad tidings to the poor. He has sent me to bind up the broken-hearted, to proclaim freedom to the captives, and the opening of eyes to those who are in prison."
               },
               {
                 "vnumber": "2",
-                "trans": "true",
+                "-trans": "true",
                 "text": "To declare the year of Yahweh's favor, and the day of our God's vengeance; to comfort all who mourn."
               },
               {
@@ -26499,7 +26499,7 @@ var Prophets = {
               },
               {
                 "vnumber": "11",
-                "text": "For I know the thoughts that I think toward you, saith Yahweh, thoughts of peace, and not of evil, to give you an expected end."
+                "text": "For I know the thoughts that I think toward you, saith Yahweh, thoughts of peace, and not of evil, to give you hope and a future."
               },
               {
                 "vnumber": "12",
@@ -26757,7 +26757,8 @@ var Prophets = {
               },
               {
                 "vnumber": "17",
-                "text": "And there is hope in thine end, saith Yahweh, that thy children shall come again to their own border."
+                "-trans": "true",
+                "text": "And there is hope in your future, says Yahweh, and your children will be restored to their own territory."
               },
               {
                 "vnumber": "18",
@@ -27063,7 +27064,8 @@ var Prophets = {
               },
               {
                 "vnumber": "7",
-                "text": "And I will cause the captivity of Judah and the captivity of Israel to return, and will build them, as at the first."
+                "-trans": "true",
+                "text": "And I will restore Judah and Israel from captivity, and I will bring their captives back home and will build them like they were in the beginning."
               },
               {
                 "vnumber": "8",
@@ -27071,7 +27073,7 @@ var Prophets = {
               },
               {
                 "vnumber": "9",
-                "text": "And it shall be to me a name of joy, a praise and an honour before all the nations of the earth, which shall hear all the good that I do unto them: and they shall fear and tremble for all the goodness and for all the prosperity that I procure unto it."
+                "text": "And it shall be to me a name of joy, a praise and an honor before all the nations of the earth, which shall hear all the good that I do unto them: and they shall fear and tremble for all the goodness and for all the prosperity that I procure unto it."
               },
               {
                 "vnumber": "10",
@@ -29492,15 +29494,15 @@ var Prophets = {
               },
               {
                 "vnumber": "12",
-                "text": "Then the spirit took me up, and I heard behind me a voice of a great rushing, saying, Blessed be the glory of Yahweh from his place."
+                "text": "Then the Spirit took me up, and I heard behind me a voice of a great rushing, saying, Blessed be the glory of Yahweh from his place."
               },
               {
                 "vnumber": "13",
-                "text": "I heard also the noise of the wings of the living creatures that touched one another, and the noise of the wheels over against them, and a noise of a great rushing."
+                "text": "And the voice of the wings of the living creatures touching each other, and the sound of the wheels parallel with them, and the sound of a loud vibration."
               },
               {
                 "vnumber": "14",
-                "text": "So the spirit lifted me up, and took me away, and I went in bitterness, in the heat of my spirit; but the hand of Yahweh was strong upon me."
+                "text": "So the Spirit lifted me up, and took me away, and I went in bitterness, in the heat of my spirit; but the hand of Yahweh was strong upon me."
               },
               {
                 "vnumber": "15",
@@ -33206,7 +33208,7 @@ var Prophets = {
               },
               {
                 "vnumber": "3",
-                "trans": "true",
+                "-trans": "true",
                 "text": "And he said to me, Son of Adam, can these bones live? And I answered, Oh Lord Yahweh, you know."
               },
               {
@@ -35239,7 +35241,7 @@ var Prophets = {
               },
               {
                 "vnumber": "12",
-                "trans": "true",
+                "-trans": "true",
                 "text": "Plant for yourselves righteousness, harvest in the mouth of grace. Break up unto yourselves the untilled ground, for it is time to seek Yahweh, until He comes and pours righteousness upon you."
               },
               {
@@ -35427,7 +35429,7 @@ var Prophets = {
               },
               {
                 "vnumber": "14",
-                "trans": "true",
+                "-trans": "true",
                 "text": "I will ransom them from the hand of Sheol. I will redeem them from death. Oh death, where is your sting? Oh Sheol, where is your destruction? Regret shall be hid from my eyes."
               },
               {
@@ -37146,7 +37148,7 @@ var Prophets = {
               },
               {
                 "vnumber": "6",
-                "text": "For the son dishonoureth the father, the daughter riseth up against her mother, the daughter in law against her mother in law; a man's enemies are the men of his own house."
+                "text": "For the son dishonoreth the father, the daughter riseth up against her mother, the daughter in law against her mother in law; a man's enemies are the men of his own house."
               },
               {
                 "vnumber": "7",
@@ -37376,7 +37378,7 @@ var Prophets = {
               },
               {
                 "vnumber": "10",
-                "text": "Yet was she carried away, she went into captivity: her young children also were dashed in pieces at the top of all the streets: and they cast lots for her honourable men, and all her great men were bound in chains."
+                "text": "Yet was she carried away, she went into captivity: her young children also were dashed in pieces at the top of all the streets: and they cast lots for her honorable men, and all her great men were bound in chains."
               },
               {
                 "vnumber": "11",
@@ -38223,11 +38225,12 @@ var Prophets = {
             "VERS": [
               {
                 "vnumber": "1",
-                "text": "And he shewed me Joshua the high priest standing before the angel of Yahweh, and Satan standing at his right hand to resist him."
+                "text": "And he shewed me Joshua the high priest standing before the angel of Yahweh, and Satan standing at his right hand to accuse him."
               },
               {
                 "vnumber": "2",
-                "text": "And Yahweh said unto Satan, Yahweh rebuke thee, O Satan; even Yahweh that hath chosen Jerusalem rebuke thee: is not this a brand plucked out of the fire?"
+                "-trans": "true",
+                "text": "And Yahweh said to Satan, Yahweh rebuke you, Satan! And may Yahweh who has chosen Jerusalem rebuke you. Is this not a burning stick rescued from the fire?"
               },
               {
                 "vnumber": "3",
@@ -38235,11 +38238,11 @@ var Prophets = {
               },
               {
                 "vnumber": "4",
-                "text": "And he answered and spoke unto those that stood before him, saying, Take away the filthy garments from him. And unto him he said, Behold, I have caused thine iniquity to pass from thee, and I will clothe thee with change of raiment."
+                "text": "And he answered and spoke unto those that stood before him, saying, Take away the filthy garments from him. And unto him he said, Behold, I have caused your iniquity to pass from thee, and I will clothe you with splendid garments"
               },
               {
                 "vnumber": "5",
-                "text": "And I said, Let them set a fair mitre upon his head. So they set a fair mitre upon his head, and clothed him with garments. And the angel of Yahweh stood by."
+                "text": "And I said, Let them place a pure turban upon his head. So they set a pure turban upon his head, and clothed him with garments. And the angel of Yahweh stood by."
               },
               {
                 "vnumber": "6",
@@ -39018,7 +39021,7 @@ var Prophets = {
               },
               {
                 "vnumber": "6",
-                "text": "A son honoureth his father, and a servant his master: if then I be a father, where is mine honour? and if I be a master, where is my fear? saith Yahweh of Armies unto you, O priests, that despise my name. And ye say, Wherein have we despised thy name?"
+                "text": "A son honoreth his father, and a servant his master: if then I be a father, where is mine honor? and if I be a master, where is my fear? saith Yahweh of Armies unto you, O priests, that despise my name. And ye say, Wherein have we despised thy name?"
               },
               {
                 "vnumber": "7",
@@ -39115,12 +39118,12 @@ var Prophets = {
               },
               {
                 "vnumber": "15",
-                "trans": "true",
+                "-trans": "true",
                 "text": "And did he not make them one, and the remnant of the spirit to him? And why one? Because He seeks godly seed. So be guarded in your spirits, and do not be unfaithful to the wife of your youth."
               },
               {
                 "vnumber": "16",
-                "trans": "true",
+                "-trans": "true",
                 "text": "For he hates the one he sends away, says Yahweh God of Israel. And he covers violence with his garment, says Yahweh of armies. So be guarded in your spirits, and do not be unfaithful."
               },
               {
@@ -39238,4 +39241,4 @@ var Prophets = {
         ]
       }
     ]
-  };
+  }

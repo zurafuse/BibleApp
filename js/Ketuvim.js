@@ -1276,7 +1276,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "17",
-                "trans": "true",
+                "-trans": "true",
                 "text": "A kind man rewards his own soul, but the cruel trouble their own flesh."
               },
               {
@@ -9546,7 +9546,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "38",
-                "trans": "true",
+                "-trans": "true",
                 "text": "Does not good and bad come out of the mouth of Elyon?"
               },
               {
@@ -10285,7 +10285,8 @@ var Ketuvim = {
               },
               {
                 "vnumber": "20",
-                "text": "For he shall not much remember the days of his life; because God answereth him in the joy of his heart."
+                "-trans": "true",
+                "text": "For he does not remember much of the days of his life because God occupies him with the gladness of his heart."
               }
             ]
           },
@@ -12677,15 +12678,15 @@ var Ketuvim = {
               },
               {
                 "vnumber": "24",
-                "text": "Seventy sevens are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy."
+                "text": "Seventy sevens are determined upon thy people and upon thy holy city, to be done with the transgression, and to make an end of sins, and to make atonement for iniquity, and to bring in everlasting righteousness, and to seal the vision and prophecy, and to anoint the Holy of holies."
               },
               {
                 "vnumber": "25",
-                "text": "Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven sevens, and sixty-two sevens: the street shall be built again, and the wall, even in troublous times."
+                "text": "And know and understand that from the going forth of the commandment to restore and to build Jerusalem until Messiah the Prince shall be seven sevens, and sixty-two sevens: the street shall be built again, and the wall, even in troublous times."
               },
               {
                 "vnumber": "26",
-                "text": "And after sixty-two sevens shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof shall be with a flood, and unto the end of the war desolations are determined."
+                "text": "And after the sixty-two sevens the Messiah will be killed and have nothing for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof shall be with a flood, and unto the end of the war desolations are determined."
               },
               {
                 "vnumber": "27",
@@ -13020,7 +13021,8 @@ var Ketuvim = {
               },
               {
                 "vnumber": "13",
-                "text": "But go thou thy way till the end be: for thou shalt rest, and stand in thy lot at the end of the days."
+                "-trans": "true",
+                "text": "And you, continue your walk until the end. For you shall rest, and will stand in your inheritance at the end of days."
               }
             ]
           }
@@ -23295,4 +23297,4 @@ var Ketuvim = {
         ]
       }
     ]
-  };
+  }
