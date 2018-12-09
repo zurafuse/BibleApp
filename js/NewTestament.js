@@ -6753,7 +6753,7 @@ var NewTestament = {
               },
               {
                 "vnumber": "13",
-                "-trans": "true",
+                "trans": "true",
                 "text": "Because of this, if food makes my brother stumble, I will not eat meat again, lest I make my brother stumble."
               }
             ]
@@ -10912,7 +10912,7 @@ var NewTestament = {
               },
               {
                 "vnumber": "23",
-                "-trans": "true",
+                "trans": "true",
                 "text": "These things have indeed an \"expression\" of wisdom in self-invented religion, humility, and severe discipline of the body; but they have no value in regard to dealing with the indulgence of the flesh."
               }
             ]
@@ -15113,7 +15113,7 @@ var NewTestament = {
               },
               {
                 "vnumber": "4",
-                "-trans": "true",
+                "trans": "true",
                 "text": "Through these things, very great and precious promises are given to us, that through these you may share God's nature, escaping the corruption that is in the world through lust."
               },
               {

@@ -19094,7 +19094,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "-trans": "true",
+                "trans": "true",
                 "text": "Behold, God is my salvation. I will trust, and not be afraid; for Yah Yahweh is my strength and song, and He has become my salvation."
               },
               {
@@ -20089,12 +20089,12 @@ var Prophets = {
               },
               {
                 "vnumber": "3",
-                "-trans": "true",
+                "trans": "true",
                 "text": "The mind that rests upon you shall be preserved in perfect peace, because he trusts in you."
               },
               {
                 "vnumber": "4",
-                "-trans": "true",
+                "trans": "true",
                 "text": "Trust in Yahweh for ever: for in Yah Yahweh is the everlasting Rock."
               },
               {
@@ -20111,12 +20111,12 @@ var Prophets = {
               },
               {
                 "vnumber": "8",
-                "-trans": "true",
+                "trans": "true",
                 "text": "Surely in the way of your justice, Oh Yahweh, we have waited for you. Our soul longs for your name and to remember you."
               },
               {
                 "vnumber": "9",
-                "-trans": "true",
+                "trans": "true",
                 "text": "My soul longs for you in the night, also my spirit in the midst of me seeks you earnestly. For as your justice is in the earth, righteousness shall be taught to the inhabitants of the world."
               },
               {
@@ -23112,12 +23112,12 @@ var Prophets = {
             "VERS": [
               {
                 "vnumber": "1",
-                "-trans": "true",
+                "trans": "true",
                 "text": "The Spirit of Lord Yahweh is upon me, because Yahweh has anointed me to announce glad tidings to the poor. He has sent me to bind up the broken-hearted, to proclaim freedom to the captives, and the opening of eyes to those who are in prison."
               },
               {
                 "vnumber": "2",
-                "-trans": "true",
+                "trans": "true",
                 "text": "To declare the year of Yahweh's favor, and the day of our God's vengeance; to comfort all who mourn."
               },
               {
@@ -26757,7 +26757,7 @@ var Prophets = {
               },
               {
                 "vnumber": "17",
-                "-trans": "true",
+                "trans": "true",
                 "text": "And there is hope in your future, says Yahweh, and your children will be restored to their own territory."
               },
               {
@@ -27064,7 +27064,7 @@ var Prophets = {
               },
               {
                 "vnumber": "7",
-                "-trans": "true",
+                "trans": "true",
                 "text": "And I will restore Judah and Israel from captivity, and I will bring their captives back home and will build them like they were in the beginning."
               },
               {
@@ -33208,7 +33208,7 @@ var Prophets = {
               },
               {
                 "vnumber": "3",
-                "-trans": "true",
+                "trans": "true",
                 "text": "And he said to me, Son of Adam, can these bones live? And I answered, Oh Lord Yahweh, you know."
               },
               {
@@ -35241,7 +35241,7 @@ var Prophets = {
               },
               {
                 "vnumber": "12",
-                "-trans": "true",
+                "trans": "true",
                 "text": "Plant for yourselves righteousness, harvest in the mouth of grace. Break up unto yourselves the untilled ground, for it is time to seek Yahweh, until He comes and pours righteousness upon you."
               },
               {
@@ -35429,7 +35429,7 @@ var Prophets = {
               },
               {
                 "vnumber": "14",
-                "-trans": "true",
+                "trans": "true",
                 "text": "I will ransom them from the hand of Sheol. I will redeem them from death. Oh death, where is your sting? Oh Sheol, where is your destruction? Regret shall be hid from my eyes."
               },
               {
@@ -38229,7 +38229,7 @@ var Prophets = {
               },
               {
                 "vnumber": "2",
-                "-trans": "true",
+                "trans": "true",
                 "text": "And Yahweh said to Satan, Yahweh rebuke you, Satan! And may Yahweh who has chosen Jerusalem rebuke you. Is this not a burning stick rescued from the fire?"
               },
               {
@@ -39118,12 +39118,12 @@ var Prophets = {
               },
               {
                 "vnumber": "15",
-                "-trans": "true",
+                "trans": "true",
                 "text": "And did he not make them one, and the remnant of the spirit to him? And why one? Because He seeks godly seed. So be guarded in your spirits, and do not be unfaithful to the wife of your youth."
               },
               {
                 "vnumber": "16",
-                "-trans": "true",
+                "trans": "true",
                 "text": "For he hates the one he sends away, says Yahweh God of Israel. And he covers violence with his garment, says Yahweh of armies. So be guarded in your spirits, and do not be unfaithful."
               },
               {

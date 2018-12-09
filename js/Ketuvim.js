@@ -1276,7 +1276,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "17",
-                "-trans": "true",
+                "trans": "true",
                 "text": "A kind man rewards his own soul, but the cruel trouble their own flesh."
               },
               {
@@ -9546,7 +9546,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "38",
-                "-trans": "true",
+                "trans": "true",
                 "text": "Does not good and bad come out of the mouth of Elyon?"
               },
               {
@@ -10285,7 +10285,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "20",
-                "-trans": "true",
+                "trans": "true",
                 "text": "For he does not remember much of the days of his life because God occupies him with the gladness of his heart."
               }
             ]
@@ -13021,7 +13021,7 @@ var Ketuvim = {
               },
               {
                 "vnumber": "13",
-                "-trans": "true",
+                "trans": "true",
                 "text": "And you, continue your walk until the end. For you shall rest, and will stand in your inheritance at the end of days."
               }
             ]

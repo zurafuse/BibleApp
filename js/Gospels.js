@@ -11970,27 +11970,27 @@ var Gospel = {"BOOKS": [
             "VERS": [
               {
                 "vnumber": "1",
-                "-trans": "true",
+                "trans": "true",
                 "text": "In the beginning was the Word. And the Word was with God, and the Word was God."
               },
               {
                 "vnumber": "2",
-                "-trans": "true",
+                "trans": "true",
                 "text": "This One was with God in the beginning."
               },
               {
                 "vnumber": "3",
-                "-trans": "true",
+                "trans": "true",
                 "text": "Everything was made by him. And nothing that came into existence was made without him."
               },
               {
                 "vnumber": "4",
-                "-trans": "true",
+                "trans": "true",
                 "text": "In him was Life; and the Life was the Light of mankind."
               },
               {
                 "vnumber": "5",
-                "-trans": "true",
+                "trans": "true",
                 "text": "And the Light shines in the darkness, and the darkness did not grasp it."
               },
               {
