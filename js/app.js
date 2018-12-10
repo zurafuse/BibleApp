@@ -259,7 +259,7 @@ else if (pageparam == "prophets")
 	$(".book-list").append("<h3 class='lightGrey'>THE BOOKS OF THE PROPHETS</h3>");
 	for (i = 0; i < Bible.Prophets.BOOKS.length; i++)
 	{
-		$(".book-list").append("<li class='books-class'>" + Prophets.BOOKS[i].bname + "</li>");
+		$(".book-list").append("<li class='books-class'>" + Bible.Prophets.BOOKS[i].bname + "</li>");
 	}	
 }
 
