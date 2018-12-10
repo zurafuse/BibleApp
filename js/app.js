@@ -3,31 +3,31 @@ var bookChapter;
 var currentChapter = 0;
 
 //Populate Bible menu with books.
-for (i = 0; i < Torah.BOOKS.length; i++)
+for (i = 0; i < Bible.Torah.BOOKS.length; i++)
 {
-	$(".bible-menu").append("<option>" + Torah.BOOKS[i].bname + "</option>");
+	$(".bible-menu").append("<option>" + Bible.Torah.BOOKS[i].bname + "</option>");
 }
 
-for (i = 0; i < Prophets.BOOKS.length; i++)
+for (i = 0; i < Bible.Prophets.BOOKS.length; i++)
 {
-	$(".bible-menu").append("<option>" + Prophets.BOOKS[i].bname + "</option>");
+	$(".bible-menu").append("<option>" + Bible.Prophets.BOOKS[i].bname + "</option>");
 }
 
 $(".bible-menu").append("<option>Psalms</option>");
 
-for (i = 0; i < Ketuvim.BOOKS.length; i++)
+for (i = 0; i < Bible.Ketuvim.BOOKS.length; i++)
 {
-	$(".bible-menu").append("<option>" + Ketuvim.BOOKS[i].bname + "</option>");
+	$(".bible-menu").append("<option>" + Bible.Ketuvim.BOOKS[i].bname + "</option>");
 }
 
-for (i = 0; i < Gospel.BOOKS.length; i++)
+for (i = 0; i < Bible.Gospel.BOOKS.length; i++)
 {
-	$(".bible-menu").append("<option>" + Gospel.BOOKS[i].bname + "</option>");
+	$(".bible-menu").append("<option>" + Bible.Gospel.BOOKS[i].bname + "</option>");
 }
 
-for (i = 0; i < NewTestament.BOOKS.length; i++)
+for (i = 0; i < Bible.NewTestament.BOOKS.length; i++)
 {
-	$(".bible-menu").append("<option>" + NewTestament.BOOKS[i].bname + "</option>");
+	$(".bible-menu").append("<option>" + Bible.NewTestament.BOOKS[i].bname + "</option>");
 }
 
 //pass book to bible page when selected.
@@ -209,3 +209,195 @@ setTimeout(function(){
   	displayVerses(bookChapter.CHAPTER[chaptVal]);
 	});
 }, 1300);
+
+//get query parameter
+var pageparam = window.location.search.substring(1).replace("%20", " ");
+console.log(pageparam);
+
+//Populate Bible menu with books, depending on what input parameter was passed to the page.
+if (pageparam == "all" || pageparam == null || pageparam == undefined || pageparam == "")
+{
+	for (i = 0; i < Bible.Torah.BOOKS.length; i++)
+	{
+		$(".book-list").append("<li class='books-class'>" + Bible.Torah.BOOKS[i].bname + "</li>");
+	}
+	
+	for (i = 0; i < Bible.Prophets.BOOKS.length; i++)
+	{
+		$(".book-list").append("<li class='books-class'>" + Bible.Prophets.BOOKS[i].bname + "</li>");
+	}
+	
+	$(".book-list").append("<li class='books-class'>Psalms</li>");
+	
+	for (i = 0; i < Bible.Ketuvim.BOOKS.length; i++)
+	{
+		$(".book-list").append("<li class='books-class'>" + Bible.Ketuvim.BOOKS[i].bname + "</li>");
+	}
+	
+	for (i = 0; i < Bible.Gospel.BOOKS.length; i++)
+	{
+		$(".book-list").append("<li class='books-class'>" + Bible.Gospel.BOOKS[i].bname + "</li>");
+	}
+	
+	for (i = 0; i < Bible.NewTestament.BOOKS.length; i++)
+	{
+		$(".book-list").append("<li class='books-class'>" + Bible.NewTestament.BOOKS[i].bname + "</li>");
+	}	
+}
+
+else if (pageparam == "torah")
+{
+	$(".book-list").append("<h3 class='lightGrey'>THE TORAH, THE BOOKS OF MOSES</h3>");
+	for (i = 0; i < Bible.Torah.BOOKS.length; i++)
+	{
+		$(".book-list").append("<li class='books-class'>" + Bible.Torah.BOOKS[i].bname + "</li>");
+	}	
+}
+
+else if (pageparam == "prophets")
+{
+	$(".book-list").append("<h3 class='lightGrey'>THE BOOKS OF THE PROPHETS</h3>");
+	for (i = 0; i < Bible.Prophets.BOOKS.length; i++)
+	{
+		$(".book-list").append("<li class='books-class'>" + Prophets.BOOKS[i].bname + "</li>");
+	}	
+}
+
+else if (pageparam == "psalms" || pageparam == "Pslams")
+{
+	bookChapter = Bible.Psalms.BOOKS;
+	displayChapters(Bible.Psalms.BOOKS);	
+}
+
+else if (pageparam == "ketuvim")
+{
+	$(".book-list").append("<h3 class='lightGrey'>THE KETUVIM, THE HOLY WRITINGS</h3>");
+	for (i = 0; i < Bible.Ketuvim.BOOKS.length; i++)
+	{
+		$(".book-list").append("<li class='books-class'>" + Bible.Ketuvim.BOOKS[i].bname + "</li>");
+	}	
+}
+
+else if (pageparam == "gospels")
+{
+	$(".book-list").append("<h3 class='lightGrey'>THE BOOKS OF THE GOSPEL, THE GLAD TIDINGS OF JESUS THE MESSIAH</h3>");
+	for (i = 0; i < Bible.Gospel.BOOKS.length; i++)
+	{
+		$(".book-list").append("<li class='books-class'>" + Bible.Gospel.BOOKS[i].bname + "</li>");
+	}	
+}
+
+else if (pageparam == "nt")
+{
+	$(".book-list").append("<h3 class='lightGrey'>THE NEW TESTAMENT EPISTLES AND THE REVELATION</h3>");
+	for (i = 0; i < Bible.NewTestament.BOOKS.length; i++)
+	{
+		$(".book-list").append("<li class='books-class'>" + Bible.NewTestament.BOOKS[i].bname + "</li>");
+	}		
+}
+
+else if (pageparam == "Psalms" || pageparam == "psalms")
+{
+	bookChapter = Bible.Psalms.BOOKS;
+	displayChapters(Bible.Psalms.BOOKS);
+}
+
+else if (pageparam == "Jude" || pageparam == "Obadiah" || 
+	pageparam == "2 John" || pageparam == "3 John" || pageparam == "Philemon")
+	{
+		book = pageparam;
+		if (pageparam != "Obadiah")
+		{
+			for (i = 0; i < Bible.NewTestament.BOOKS.length; i++)
+			{	
+				if (Bible.NewTestament.BOOKS[i].bname == pageparam)
+				{
+					bookChapter = Bible.NewTestament.BOOKS[i];
+					displayVerses(Bible.NewTestament.BOOKS[i].CHAPTER);
+				}
+			}
+		}
+		if (pageparam == "Obadiah")
+		{
+			for (i = 0; i < Bible.Prophets.BOOKS.length; i++)
+			{	
+				if (Bible.Prophets.BOOKS[i].bname == pageparam)
+				{
+					bookChapter = Bible.Prophets.BOOKS[i];
+					displayVerses(Bible.Prophets.BOOKS[i].CHAPTER);
+				}
+			}
+		}	
+	}
+
+else
+{
+	book = pageparam;
+	var trigger = false;
+	//find defined book
+	if (trigger == false)
+	{
+		for (i = 0; i < Bible.Torah.BOOKS.length; i++)
+		{
+			if (Bible.Torah.BOOKS[i].bname == book)
+			{
+				bookChapter = Bible.Torah.BOOKS[i];
+				displayChapters(Bible.Torah.BOOKS[i]);
+				trigger = true;
+			}
+		}	
+	}
+	
+	if (trigger == false)
+	{
+		for (i = 0; i < Bible.Prophets.BOOKS.length; i++)
+		{
+			if (Bible.Prophets.BOOKS[i].bname == book)
+			{
+				bookChapter = Bible.Prophets.BOOKS[i];
+				displayChapters(Bible.Prophets.BOOKS[i]);
+				trigger = true;
+			}
+		}	
+	}
+	
+	if (trigger == false)
+	{
+		for (i = 0; i < Bible.Ketuvim.BOOKS.length; i++)
+		{
+			if (Bible.Ketuvim.BOOKS[i].bname == book)
+			{
+				bookChapter = Bible.Ketuvim.BOOKS[i];
+				displayChapters(Bible.Ketuvim.BOOKS[i]);
+				trigger = true;
+			}
+		}	
+	}
+	
+	if (trigger == false)
+	{
+		for (i = 0; i < Bible.Gospel.BOOKS.length; i++)
+		{
+			if (Bible.Gospel.BOOKS[i].bname == book)
+			{
+				bookChapter = Bible.Gospel.BOOKS[i];
+				displayChapters(Bible.Gospel.BOOKS[i]);
+				trigger = true;
+			}
+		}	
+	}
+	
+	if (trigger == false)
+	{
+		for (i = 0; i < Bible.NewTestament.BOOKS.length; i++)
+		{
+			if (Bible.NewTestament.BOOKS[i].bname == book)
+			{
+				bookChapter = Bible.NewTestament.BOOKS[i];
+				displayChapters(Bible.NewTestament.BOOKS[i]);
+				trigger = true;
+			}
+		}	
+	}
+	
+}
