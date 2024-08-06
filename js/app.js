@@ -263,7 +263,7 @@ else if (pageparam == "prophets")
 	}	
 }
 
-else if (pageparam == "psalms" || pageparam == "Pslams")
+else if (pageparam == "psalms" || pageparam == "Pslams" || pageparam == "Pslams")
 {
 	bookChapter = Bible.Psalms.BOOKS;
 	displayChapters(Bible.Psalms.BOOKS);	
